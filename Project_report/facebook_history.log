@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  1 OCT 2013 12:08
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  1 OCT 2013 14:02
 entering extended mode
 **facebook_history.tex
-(C:\Users\Esther\Project\Project_report\facebook_history.tex
+("C:\Users\Ida Malene\Project\Project_report\facebook_history.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -3057,6 +3057,15 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no g in font nullfont!
 Missing character: There is no . in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
 
 Overfull \hbox (279.40802pt too wide) in paragraph at lines 20--38
  [] 
@@ -3071,7 +3080,7 @@ Overfull \hbox (279.40802pt too wide) in paragraph at lines 20--38
  
 Here is how much of TeX's memory you used:
  17 strings out of 493921
- 344 string characters out of 3144873
+ 356 string characters out of 3147267
  52031 words of memory out of 3000000
  3409 multiletter control sequences out of 15000+200000
  3948 words of font info for 15 fonts, out of 3000000 for 9000

@@ -5,7 +5,8 @@
 \contentsline {chapter}{List of Figures}{ix}{section*.1}
 \contentsline {chapter}{List of Tables}{xi}{section*.2}
 \contentsline {chapter}{\chapternumberline {1}The History of Facebook}{5}{chapter.1}
-\contentsline {section}{\numberline {1.1}}{5}{section.1.1}
+\contentsline {section}{\numberline {1.1}Online Social Networks}{5}{section.1.1}
 \contentsline {paragraph}{}{5}{section*.3}
 \contentsline {paragraph}{}{5}{section*.4}
+\contentsline {section}{\numberline {1.2}Default Privacy Settings}{6}{section.1.2}
 \contentsline {chapter}{References}{11}{section*.6}
