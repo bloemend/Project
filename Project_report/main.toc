@@ -1,0 +1,11 @@
+\select@language {norsk}
+\select@language {english}
+\select@language {english}
+\select@language {english}
+\contentsline {chapter}{List of Figures}{ix}{section*.1}
+\contentsline {chapter}{List of Tables}{xi}{section*.2}
+\contentsline {chapter}{\chapternumberline {1}The History of Facebook}{5}{chapter.1}
+\contentsline {section}{\numberline {1.1}}{5}{section.1.1}
+\contentsline {paragraph}{}{5}{section*.3}
+\contentsline {paragraph}{}{5}{section*.4}
+\contentsline {chapter}{References}{13}{section*.6}

@@ -1,0 +1,104 @@
+\documentclass{MScthesisITEM}
+
+\usepackage{graphicx}
+\usepackage{times}
+\usepackage[utf8]{inputenc}
+\usepackage{mathtools}
+\usepackage{algorithm}
+\usepackage{natbib}
+\usepackage{datatool}
+\usepackage{glossaries}   
+
+
+
+\title{Privacy on Facebook and Interdependency} % The title of your assignement; NB use \newlinetitle to start a newline
+\author{Esther Bloemendaal \\ Ida Malene Hassel Øveråsen}
+\professor{Jan Audestad, ITEM} % Affiliation = ITEM for instance
+\supervisor{Gergely Biczók, ITEM}
+
+%% Uncomment the following in case you want subfigures; note that there will be a warning for the caption package
+% \let\subcaption\undefined
+% \let\subfloat\undefined
+% \usepackage[bf]{caption}
+% \usepackage{subcaption}
+
+\DeclareGraphicsExtensions{.pdf,.jpg}
+\graphicspath{{./figs/}}
+
+\loadglsentries{glossary}
+\makeglossaries
+
+\begin{document}
+\selectlanguage{english}
+\pagenumbering{roman}
+\pagestyle{plain}
+
+%% Only for the project
+\titleITEM
+
+
+\selectlanguage{english}
+\include{summary}
+\cleardoublepage
+
+
+\selectlanguage{english}
+
+\include{acknowledgement}
+\cleardoublepage
+
+\tableofcontents*
+\cleardoublepage
+
+%% include if relevant
+\listoffigures
+\cleardoublepage
+
+%% include if relevant
+\listoftables
+\cleardoublepage
+
+
+%% include if relevant
+\printglossary[title=List of Symbols, style=long]
+\cleardoublepage
+\glsaddall[]
+
+%% include if relevant
+\printglossary[title=List of Acronyms,type=\acronymtype] % prints just the list of acronyms
+\cleardoublepage
+\pagenumbering{arabic}
+
+\include{introduction}
+\cleardoublepage
+
+\include{related_work}
+\cleardoublepage
+
+\pagestyle{ruled}
+
+\include{facebook_history}
+\cleardoublepage
+
+\include{discussion}
+\cleardoublepage
+
+\include{conclusion}
+\cleardoublepage
+
+\renewcommand*{\bibname}{References}
+\bibliographystyle{plain}
+\bibliography{referanser}
+
+%% Uncomment the following if you have any appendix
+% \appendix
+% \addtocontents{toc}{%
+%  \protect\vspace{1em}% 
+%  \protect\noindent \bfseries \appendixtocname\protect\par
+%  \protect\vspace{-.5em}%
+% }
+% \renewcommand{\chaptername}{\appendixname}
+%% include below possible appendices (chapters)
+
+
+\end{document} 
