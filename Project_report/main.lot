@@ -3,4 +3,5 @@
 \select@language {english}
 \select@language {english}
 \addvspace {10pt}
-\contentsline {table}{\numberline {1.1}{\ignorespaces Changes in the default privacy settings on Facebook from 2005 until today.}}{6}{table.1.1}
+\addvspace {10pt}
+\contentsline {table}{\numberline {2.1}{\ignorespaces Changes in the default privacy settings on Facebook from 2005 until today. \cite {EvoPriv,PrivTimeline}}}{6}{table.2.1}

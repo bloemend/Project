@@ -7,15 +7,8 @@ A level-1 auxiliary file: facebook_history.aux
 A level-1 auxiliary file: discussion.aux
 A level-1 auxiliary file: conclusion.aux
 The style file: plain.bst
-Database file #1: referanser.bib
-I was expecting a `,' or a `}'---line 9 of file referanser.bib
- : 
- : @book{ DPBook ,
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 26 of file referanser.bib
- : 
- : @article{ xx,
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-(There were 2 error messages)
+Database file #1: references.bib
+Warning--empty journal in EvoPriv2
+Warning--empty journal in EvoPriv
+Warning--empty journal in PrivTimeline
+(There were 3 warnings)

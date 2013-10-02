@@ -3,17 +3,29 @@
 \bibitem{DPBook}
 Alessandro Acquisti, Stefanos Gritzalis, Costas Lambrinoudakis, and Sabrina
   De~Capitani di~Vimercati, editors.
-\newblock {\em Digital Privacy: Theory, Technologies, and Practices}.
-\newblock Auerbach, 2008.
+\newblock {\em Digital Privacy: Theory, Technologies, and Practices}, chapter
+  Privacy Perceptions among Members of Online Communities, pages 253--266.
+\newblock Auerbach Publications, 2008.
 
 \bibitem{EvoPriv2}
 Michael C.
-\newblock The evolution of privacy on facebook, 2011.
-\newblock Last visited: 30.09.2013.
+\newblock The evolution of privacy on facebook.
+\newblock 2011.
+\newblock
+  \url{http://www.yalelawtech.org/control-privacy-technology/evolution-of-facebook-privacy},
+  accessed 30.09.2013.
 
 \bibitem{EvoPriv}
 Matt McKeon.
-\newblock The evolution of privacy on facebook, 2010.
-\newblock Last visited: 26.09.2013.
+\newblock The evolution of privacy on facebook.
+\newblock 2010.
+\newblock \url{http://www.mattmckeon.com/facebook-privacy}, accessed 26.09.201.
+
+\bibitem{PrivTimeline}
+Kurt Opsahl.
+\newblock Facebook's eroding privacy policy: A timeline.
+\newblock 2010.
+\newblock \url{https://www.eff.org/deeplinks/2010/04/facebook-timeline},
+  accessed 02.10.201.
 
 \end{thebibliography}

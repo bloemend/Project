@@ -4,9 +4,13 @@
 \select@language {english}
 \contentsline {chapter}{List of Figures}{ix}{section*.1}
 \contentsline {chapter}{List of Tables}{xi}{section*.2}
-\contentsline {chapter}{\chapternumberline {1}The History of Facebook}{5}{chapter.1}
-\contentsline {section}{\numberline {1.1}Online Social Networks}{5}{section.1.1}
-\contentsline {paragraph}{}{5}{section*.3}
+\contentsline {chapter}{\chapternumberline {1}Related Work}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}Online Social Networks}{3}{section.1.1}
+\contentsline {paragraph}{}{3}{section*.3}
+\contentsline {section}{\numberline {1.2}Interdependent Privacy}{3}{section.1.2}
+\contentsline {section}{\numberline {1.3}The History of Facebook}{3}{section.1.3}
+\contentsline {section}{\numberline {1.4}Amazon Mechanical Turk}{3}{section.1.4}
+\contentsline {chapter}{\chapternumberline {2}Default Privacy Settings}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Default Privacy Settings}{5}{section.2.1}
 \contentsline {paragraph}{}{5}{section*.4}
-\contentsline {section}{\numberline {1.2}Default Privacy Settings}{6}{section.1.2}
 \contentsline {chapter}{References}{11}{section*.6}
