@@ -3,12 +3,14 @@ A level-1 auxiliary file: summary.aux
 A level-1 auxiliary file: acknowledgement.aux
 A level-1 auxiliary file: introduction.aux
 A level-1 auxiliary file: related_work.aux
-A level-1 auxiliary file: facebook_history.aux
+A level-1 auxiliary file: default_privacy_settings.aux
 A level-1 auxiliary file: discussion.aux
 A level-1 auxiliary file: conclusion.aux
 The style file: plain.bst
 Database file #1: references.bib
+Warning--entry type for "FacebookHistory" isn't style-file defined
+--line 34 of file references.bib
 Warning--empty journal in EvoPriv2
 Warning--empty journal in EvoPriv
 Warning--empty journal in PrivTimeline
-(There were 3 warnings)
+(There were 4 warnings)
