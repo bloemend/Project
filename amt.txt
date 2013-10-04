@@ -1,0 +1,67 @@
+<h3>A 15-20 minute survey about your use of Facebook</h3>
+
+<p>1. What is your gender?</p>
+
+<table border="0" cellpadding="0" cellspacing="4">
+	<tbody>
+		<tr>
+			<td valign="center"><input name="Q1Gender" type="radio" value="Male" /></td>
+			<td><span class="answertext">Male</span></td>
+			<td valign="center"><input name="Q1Gender" type="radio" value="Female" /></td>
+			<td><span class="answertext">Female</span></td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;2. What is your age?</p>
+
+<p><input id="Q2age" name="Q2age" size="10" type="text" /></p>
+
+<p>&nbsp;3. Country of nationality:</p>
+
+<p><input id="Q3country" name="Q2country" size="30" type="text" /></p>
+
+<p>&nbsp;4. What is your marital status?</p>
+
+<p><select name="Q4status"><option>Single, never married</option><option>Married or domestic partnership</option><option>Widowed</option><option>Divorced</option><option>Separated</option></select></p>
+
+<p>&nbsp;5. Which of the following best describes your highest achieved education level?</p>
+
+<p><select name="Q5eductation"><option>Some High School</option><option>High School Graduate</option><option>Some college, no degree</option><option>Associates degree</option><option>Bachelors degree</option><option>Graduate degree (Masters, Doctorate, etc.)</option> </select></p>
+
+<p>&nbsp;6. What is your employment status?</p>
+
+<p><select name="Q6employment"><option>Employed for wages</option><option>Self-employed</option><option>Out of work and looking for work</option><option>Out of work but not currently looking for work</option><option>A homemaker</option><option>A student</option><option>Military</option><option>Retired</option><option>Unable to work</option> </select></p>
+
+<p>&nbsp;7. What is the total income of your household?</p>
+
+<p><select name="Q7income" size="4"><option>Less than $12,500</option><option>$12,500 - $24,999</option><option>$25,000 - $37,499</option><option>$37,500 - $49,999</option><option>$50,000 - $62,499</option><option>$62,500 - $74,999</option><option>$75,000 - $87,499</option><option>$87,500 - $99,999</option><option>$100,000 or More</option> </select></p>
+
+<p>&nbsp;8. Which year did you get Facebook?</p>
+
+<p><select name="Q8Face"><option>2005</option><option>2006</option><option>2007</option><option>2008</option><option>2009</option><option>2010</option><option>2011</option><option>2012</option><option>2013</option></select></p>
+
+<p>&nbsp;9. How often do you check your Facebook?</p>
+
+<p><select name="Q9often" size="4"><option>Less than once a week</option><option>Once a week</option><option>2-6 times a week</option><option>Once every day</option><option>Several times a day</option><option>I am (almost) always logged on</option></select></p>
+
+<p>&nbsp;10. How many friends do you have on Facebook?</p>
+
+<p><input id="Q10friends" name="Q10friends" size="10" type="text" /></p>
+
+<p>11. Have you ever experienced that your use of Facebook has affected your future job prospects?</p>
+
+<table border="0" cellpadding="0" cellspacing="4">
+	<tbody>
+		<tr>
+			<td valign="center"><input name="Q11Job" type="radio" value="Yes" /></td>
+			<td><span class="answertext">Yes</span></td>
+			<td valign="center"><input name="Q11Job" type="radio" value="No" /></td>
+			<td><span class="answertext">No</span></td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;12. Do you know what interdependent privacy means? If so please try to describe it below. Please to not use google or any other search engines to find the answer. If you don&#39;t know the answer, just leave it blank.</p>
+
+<p><input id="Q12interdependency" name="Q12interdependency" size="100" type="text" /></p>
