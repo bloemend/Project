@@ -9,8 +9,10 @@
 \contentsline {paragraph}{}{3}{section*.3}
 \contentsline {section}{\numberline {1.2}Interdependent Privacy}{3}{section.1.2}
 \contentsline {section}{\numberline {1.3}The History of Facebook}{3}{section.1.3}
+\contentsline {paragraph}{}{4}{section*.4}
+\contentsline {paragraph}{}{4}{section*.5}
 \contentsline {section}{\numberline {1.4}Amazon Mechanical Turk}{4}{section.1.4}
 \contentsline {chapter}{\chapternumberline {2}Default Privacy Settings}{5}{chapter.2}
 \contentsline {section}{\numberline {2.1}Default Privacy Settings}{5}{section.2.1}
-\contentsline {paragraph}{}{5}{section*.4}
-\contentsline {chapter}{References}{11}{section*.6}
+\contentsline {paragraph}{}{5}{section*.6}
+\contentsline {chapter}{References}{11}{section*.8}
