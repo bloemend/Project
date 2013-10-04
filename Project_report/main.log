@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  3 OCT 2013 11:11
+=======
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  4 OCT 2013 11:59
+>>>>>>> 7cfb6bc3327a766d334e87cdb38d2c0292bf49ee
 entering extended mode
 **main.tex
 ("C:\Users\Ida Malene\Project\Project_report\main.tex"
@@ -1771,7 +1775,7 @@ File: ./figs/facebook-icon.png Graphic file (type png)
 <use ./figs/facebook-icon.png>
 Package pdftex.def Info: ./figs/facebook-icon.png used on input line 12.
 (pdftex.def)             Requested size: 72.79889pt x 72.79619pt.
-) [3
+ [3
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1.1}) 
@@ -1779,10 +1783,16 @@ has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
+<<<<<<< HEAD
 l.75 \include{related_work}
                             <C:/Users/Ida Malene/Project/Project_report/figs/fa
 cebook-icon.png>] [4]
 ("C:\Users\Ida Malene\Project\Project_report\default_privacy_settings.tex")
+=======
+l.23 \paragraph
+               {} <C:/Users/Esther/Project/Project_report/figs/facebook-icon.pn
+g>]) [4] (C:\Users\Esther\Project\Project_report\default_privacy_settings.tex)
+>>>>>>> 7cfb6bc3327a766d334e87cdb38d2c0292bf49ee
 [5
 
 
@@ -1830,10 +1840,11 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 104.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 104.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 104.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 6162BE924BBC1AD22EC1D7D63A844C85;607.
+(rerunfilecheck)             Checksum: 38DD8DFAE21C551DAFEA0C38E91A97CA;607.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 104.
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  21306 strings out of 493921
  309645 string characters out of 3147267
  556083 words of memory out of 3000000
@@ -1847,8 +1858,24 @@ onts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw
 /times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb
 ><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
 Output written on main.pdf (27 pages, 140450 bytes).
+=======
+ 21348 strings out of 493921
+ 311619 string characters out of 3144873
+ 556098 words of memory out of 3000000
+ 23996 multiletter control sequences out of 15000+200000
+ 78733 words of font info for 143 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 58i,12n,44p,1606b,405s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files 
+(x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files (x86)/Mi
+KTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
+nts/type1/urw/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/u
+rw/times/utmri8a.pfb>
+Output written on main.pdf (27 pages, 144435 bytes).
+>>>>>>> 7cfb6bc3327a766d334e87cdb38d2c0292bf49ee
 PDF statistics:
- 242 PDF objects out of 1000 (max. 8388607)
- 48 named destinations out of 1000 (max. 500000)
+ 249 PDF objects out of 1000 (max. 8388607)
+ 51 named destinations out of 1000 (max. 500000)
  21083 words of extra memory for PDF output out of 24883 (max. 10000000)
 
