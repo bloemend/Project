@@ -11,8 +11,11 @@
 \contentsline {section}{\numberline {1.3}The History of Facebook}{4}{section.1.3}
 \contentsline {paragraph}{}{4}{section*.4}
 \contentsline {paragraph}{}{4}{section*.5}
+\contentsline {paragraph}{}{5}{section*.6}
+\contentsline {paragraph}{}{5}{section*.7}
+\contentsline {paragraph}{}{5}{section*.8}
 \contentsline {section}{\numberline {1.4}Amazon Mechanical Turk}{5}{section.1.4}
 \contentsline {chapter}{\chapternumberline {2}Default Privacy Settings}{7}{chapter.2}
 \contentsline {section}{\numberline {2.1}Default Privacy Settings}{7}{section.2.1}
-\contentsline {paragraph}{}{7}{section*.6}
-\contentsline {chapter}{References}{13}{section*.8}
+\contentsline {paragraph}{}{7}{section*.9}
+\contentsline {chapter}{References}{13}{section*.11}
