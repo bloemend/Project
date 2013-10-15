@@ -17,24 +17,46 @@ Michael C.
 
 \bibitem{MeMedia}
 John Cassidy.
-\newblock The onlilne life; me media.
+\newblock The online life; me media.
 \newblock May 2006.
 \newblock
   \url{http://www.newyorker.com/archive/2006/05/15/060515fa_fact_cassidy},
-  accessed 04.10.201.
+  accessed 04.10.2013.
+
+\bibitem{OSN}
+Michalis Faloutsos, Thomas Karagiannis, and Sue Moon.
+\newblock Online social networks.
+\newblock
+  \url{http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5578911&tag=1},
+  accessed 15.10.2013.
+
+\bibitem{SNS}
+GSMArena.com.
+\newblock Social network service.
+\newblock \url{http://www.gsmarena.com/glossary.php3?term=sns}, accessed
+  15.10.2013.
 
 \bibitem{EvoPriv}
 Matt McKeon.
 \newblock The evolution of privacy on facebook.
 \newblock 2010.
-\newblock \url{http://www.mattmckeon.com/facebook-privacy}, accessed 26.09.201.
+\newblock \url{http://www.mattmckeon.com/facebook-privacy}, accessed
+  26.09.2013.
+
+\bibitem{OSNpaper}
+Alan Mislove, Massimilano Marcon, Krishna~P. Gummadi, Peter Druschel, and Bobby
+  Bhattacharjee.
+\newblock Measurement and analysis of online social networks.
+\newblock 2007.
+\newblock Published in Proceeding IMC '07 Proceedings of the 7th ACM SIGCOMM
+  conference on Internet measurement. Pages 29-42.
 
 \bibitem{PrivTimeline}
 Kurt Opsahl.
 \newblock Facebook's eroding privacy policy: A timeline.
 \newblock 2010.
 \newblock \url{https://www.eff.org/deeplinks/2010/04/facebook-timeline},
-  accessed 02.10.201.
+  accessed 02.10.2013.
 
 \bibitem{FacebookHistory}
 Wikipedia.
