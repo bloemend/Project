@@ -1,4 +1,6 @@
-<h3>A 15-20 minute survey about your use of Facebook</h3>
+<h2>A 15-20 minute survey about your use of Facebook</h2>
+
+<h3><b>Personal Information</b></h3>
 
 <p>1. What is your gender?</p>
 
@@ -37,6 +39,8 @@
 
 <p><select name="Q7income" size="4"><option>Less than $12,500</option><option>$12,500 - $24,999</option><option>$25,000 - $37,499</option><option>$37,500 - $49,999</option><option>$50,000 - $62,499</option><option>$62,500 - $74,999</option><option>$75,000 - $87,499</option><option>$87,500 - $99,999</option><option>$100,000 or More</option> </select></p>
 
+<h3><b>General Facebook Questions</b></h3>
+
 <p>&nbsp;8. Which year did you get Facebook?</p>
 
 <p><select name="Q8Face"><option>2005</option><option>2006</option><option>2007</option><option>2008</option><option>2009</option><option>2010</option><option>2011</option><option>2012</option><option>2013</option></select></p>
@@ -49,19 +53,325 @@
 
 <p><input id="Q10friends" name="Q10friends" size="10" type="text" /></p>
 
-<p>11. Have you ever experienced that your use of Facebook has affected your future job prospects?</p>
+<h3><b>Security Questions</b></h3>
+
+<p>11. Are you using secure browsing (https://) when using facebook?</p>
 
 <table border="0" cellpadding="0" cellspacing="4">
 	<tbody>
 		<tr>
-			<td valign="center"><input name="Q11Job" type="radio" value="Yes" /></td>
+			<td valign="center"><input name="Q11secure" type="radio" value="Yes" /></td>
 			<td><span class="answertext">Yes</span></td>
-			<td valign="center"><input name="Q11Job" type="radio" value="No" /></td>
+			<td valign="center"><input name="Q11secure" type="radio" value="No" /></td>
 			<td><span class="answertext">No</span></td>
 		</tr>
 	</tbody>
 </table>
 
-<p>&nbsp;12. Do you know what interdependent privacy means? If so please try to describe it below. Please to not use google or any other search engines to find the answer. If you don&#39;t know the answer, just leave it blank.</p>
+<p>12. Are you using login notification (receiving an email or text message when you log on with a new browser or device)?</p>
 
-<p><input id="Q12interdependency" name="Q12interdependency" size="100" type="text" /></p>
+<table border="0" cellpadding="0" cellspacing="4">
+	<tbody>
+		<tr>
+			<td valign="center"><input name="Q12loginnotification" type="radio" value="Yes" /></td>
+			<td><span class="answertext">Yes</span></td>
+			<td valign="center"><input name="Q12loginnotification" type="radio" value="No" /></td>
+			<td><span class="answertext">No</span></td>
+		</tr>
+	</tbody>
+</table>
+
+<p>13. Are you afraid that someone will hack into your profile?</p>
+
+<table border="0" cellpadding="0" cellspacing="4">
+	<tbody>
+		<tr>
+			<td valign="center"><input name="Q13hack" type="radio" value="Yes" /></td>
+			<td><span class="answertext">Yes</span></td>
+			<td valign="center"><input name="Q13hack" type="radio" value="No" /></td>
+			<td><span class="answertext">No</span></td>
+		</tr>
+	</tbody>
+</table>
+
+<h3><b>Privacy Questions</b></h3>
+
+<h3><i>For the questions 14-24 you need to be logged in on Facebook and see what values you have chosen in the privacy settings.</i></h3>
+
+<h4>What kind of restrictions do you have under &ldquo;who can see my stuff&rdquo;?</h4>
+
+<p>14. Who can see your future posts?</p>
+
+<table border="0" cellpadding="0" cellspacing="4">
+	<tbody>
+		<tr>
+			<td valign="center"><input name="Q14futureposts" type="radio" value="Public" /></td>
+			<td><span class="answertext">Public</span></td>
+			<td valign="center"><input name="Q14futureposts" type="radio" value="Friends" /></td>
+			<td><span class="answertext">Friends</span></td>
+			<td valign="center"><input name="Q14futureposts" type="radio" value="Only me" /></td>
+			<td><span class="answertext">Only me</span></td>
+			<td valign="center"><input name="Q14futureposts" type="radio" value="Custom" /></td>
+			<td><span class="answertext">Custom</span></td>
+		</tr>
+	</tbody>
+</table>
+
+<h4>What kind of restrictions do you have under &ldquo;who can contact me&rdquo;?</h4>
+
+<p>15. Who can send you friend requests?</p>
+
+<table border="0" cellpadding="0" cellspacing="4">
+	<tbody>
+		<tr>
+			<td valign="center"><input name="Q15requests" type="radio" value="Everyone" /></td>
+			<td><span class="answertext">Everyone</span></td>
+			<td valign="center"><input name="Q15requests" type="radio" value="Friends of friends" /></td>
+			<td><span class="answertext">Friends of friends</span></td>
+		</tr>
+	</tbody>
+</table>
+
+<p>16. Whose messages do I want filtered in my inbox?</p>
+
+<table border="0" cellpadding="0" cellspacing="4">
+	<tbody>
+		<tr>
+			<td valign="center"><input name="Q16filtering" type="radio" value="Basic filtering" /></td>
+			<td><span class="answertext">Basic filtering</span></td>
+			<td valign="center"><input name="Q16filtering" type="radio" value="Strict filtering" /></td>
+			<td><span class="answertext">Strict filtering</span></td>
+		</tr>
+	</tbody>
+</table>
+
+<h4>What kind of restrictions do you have under &ldquo;Who can look me up&quot;?</h4>
+
+<p>17. Who can look you up using the email address or phone number you provided?</p>
+
+<table border="0" cellpadding="0" cellspacing="4">
+	<tbody>
+		<tr>
+			<td valign="center"><input name="Q17lookup" type="radio" value="Everyone" /></td>
+			<td><span class="answertext">Everyone</span></td>
+			<td valign="center"><input name="Q17lookup" type="radio" value="Friends of friends" /></td>
+			<td><span class="answertext">Friends of friends</span></td>
+			<td valign="center"><input name="Q17lookup" type="radio" value="Friends" /></td>
+			<td><span class="answertext">Friends</span></td>
+		</tr>
+	</tbody>
+</table>
+
+<p>18. Do you want other search engines to link to your timeline?</p>
+
+<table border="0" cellpadding="0" cellspacing="4">
+	<tbody>
+		<tr>
+			<td valign="center"><input name="Q18engines" type="radio" value="On" /></td>
+			<td><span class="answertext">On</span></td>
+			<td valign="center"><input name="Q18engines" type="radio" value="Off" /></td>
+			<td><span class="answertext">Off</span></td>
+		</tr>
+	</tbody>
+</table>
+
+<h4>Who can add things to my timeline?</h4>
+
+<p>19. Who can post on your timeline?</p>
+
+<table border="0" cellpadding="0" cellspacing="4">
+	<tbody>
+		<tr>
+			<td valign="center"><input name="Q19timeline" type="radio" value="Friends" /></td>
+			<td><span class="answertext">Friends</span></td>
+			<td valign="center"><input name="Q19timeline" type="radio" value="Only me" /></td>
+			<td><span class="answertext">Only me</span></td>
+		</tr>
+	</tbody>
+</table>
+
+<p>20. Review posts friends tag you in before they appear on your timeline?</p>
+
+<table border="0" cellpadding="0" cellspacing="4">
+	<tbody>
+		<tr>
+			<td valign="center"><input name="Q20review" type="radio" value="Enabled (On)" /></td>
+			<td><span class="answertext">Enabled (On)</span></td>
+			<td valign="center"><input name="Q20review" type="radio" value="Disabled (Off)" /></td>
+			<td><span class="answertext">Disabled (Off)</span></td>
+		</tr>
+	</tbody>
+</table>
+
+<h4>Who can see things to my timeline?</h4>
+
+<p>21. Who can see posts you&rsquo;ve been tagged in on your timeline?</p>
+
+<table border="0" cellpadding="0" cellspacing="4">
+	<tbody>
+		<tr>
+			<td valign="center"><input name="Q21seeposts" type="radio" value="Everyone" /></td>
+			<td><span class="answertext">Everyone</span></td>
+			<td valign="center"><input name="Q21seeposts" type="radio" value="Friends of friends" /></td>
+			<td><span class="answertext">Friends of friends</span></td>
+			<td valign="center"><input name="Q21seeposts" type="radio" value="Friends" /></td>
+			<td><span class="answertext">Friends</span></td>
+			<td valign="center"><input name="Q21seeposts" type="radio" value="Friends except acquaintances" /></td>
+			<td><span class="answertext">Friends except acquaintances</span></td>
+			<td valign="center"><input name="Q21seeposts" type="radio" value="Only me" /></td>
+			<td><span class="answertext">Only me</span></td>
+			<td valign="center"><input name="Q21seeposts" type="radio" value="Custom" /></td>
+			<td><span class="answertext">Custom</span></td>
+		</tr>
+	</tbody>
+</table>
+
+<p>22. Who can see what others post on your timeline?</p>
+
+<table border="0" cellpadding="0" cellspacing="4">
+	<tbody>
+		<tr>
+			<td valign="center"><input name="Q22seeothersposts" type="radio" value="Everyone" /></td>
+			<td><span class="answertext">Everyone</span></td>
+			<td valign="center"><input name="Q22seeothersposts" type="radio" value="Friends of friends" /></td>
+			<td><span class="answertext">Friends of friends</span></td>
+			<td valign="center"><input name="Q22seeothersposts" type="radio" value="Friends" /></td>
+			<td><span class="answertext">Friends</span></td>
+			<td valign="center"><input name="Q22seeothersposts" type="radio" value="Friends except acquaintances" /></td>
+			<td><span class="answertext">Friends except acquaintances</span></td>
+			<td valign="center"><input name="Q22seeothersposts" type="radio" value="Only me" /></td>
+			<td><span class="answertext">Only me</span></td>
+			<td valign="center"><input name="Q22seeothersposts" type="radio" value="Custom" /></td>
+			<td><span class="answertext">Custom</span></td>
+		</tr>
+	</tbody>
+</table>
+
+<h4>How can I manage tags people add and tagging suggestions?</h4>
+
+<p>23. Review tags people add to your own posts before the tags appear on facebook.</p>
+
+<table border="0" cellpadding="0" cellspacing="4">
+	<tbody>
+		<tr>
+			<td valign="center"><input name="Q23reviewtags" type="radio" value="Enabled (On)" /></td>
+			<td><span class="answertext">Enabled (On)</span></td>
+			<td valign="center"><input name="Q23reviewtags" type="radio" value="Disabled (Off)" /></td>
+			<td><span class="answertext">Disabled (On)</span></td>
+		</tr>
+	</tbody>
+</table>
+
+<p>24. When you&rsquo;re tagged in a post, who do you want to add to the audience if they aren&rsquo;t already in it?</p>
+
+<table border="0" cellpadding="0" cellspacing="4">
+	<tbody>
+		<tr>
+			<td valign="center"><input name="Q24audience" type="radio" value="Friends" /></td>
+			<td><span class="answertext">Friends</span></td>
+			<td valign="center"><input name="Q24audience" type="radio" value="Only me" /></td>
+			<td><span class="answertext">Only me</span></td>
+			<td valign="center"><input name="Q24audience" type="radio" value="Custom" /></td>
+			<td><span class="answertext">Custom</span></td>
+		</tr>
+	</tbody>
+</table>
+
+<p>25. Have you ever experienced that your use of Facebook has affected your professional life (future job prospects etc.)?</p>
+
+<table border="0" cellpadding="0" cellspacing="4">
+	<tbody>
+		<tr>
+			<td valign="center"><input name="Q25futurejobs" type="radio" value="Yes" /></td>
+			<td><span class="answertext">Yes</span></td>
+			<td valign="center"><input name="Q25futurejobs" type="radio" value="No" /></td>
+			<td><span class="answertext">No</span></td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;26.If you answered Yes on the previous question, please describe the situation that occurred.</p>
+
+<p><input id="Q26explanation" name="Q26explanation" size="100" type="text" /></p>
+
+<p>27.Have your use of Facebook lead to any uncomfortable situations?</p>
+
+<table border="0" cellpadding="0" cellspacing="4">
+	<tbody>
+		<tr>
+			<td valign="center"><input name="Q27situations" type="radio" value="Yes" /></td>
+			<td><span class="answertext">Yes</span></td>
+			<td valign="center"><input name="Q27situations" type="radio" value="No" /></td>
+			<td><span class="answertext">No</span></td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;28.If you answered Yes on the previous question, please describe the situation that occurred.</p>
+
+<p><input id="Q28explanation2" name="Q28explanation2" size="100" type="text" /></p>
+
+<p>29.Are you using &ldquo;timeline review&rdquo;? (Review posts that others tagged of you before they appear on your timeline)</p>
+
+<table border="0" cellpadding="0" cellspacing="4">
+	<tbody>
+		<tr>
+			<td valign="center"><input name="Q29timelinereview" type="radio" value="Yes" /></td>
+			<td><span class="answertext">Yes</span></td>
+			<td valign="center"><input name="Q29timelinereview" type="radio" value="No" /></td>
+			<td><span class="answertext">No</span></td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;30. How often do you check your facebook privacy settings?</p>
+
+<p><select name="Q30oftenprivacysettings" size="4"><option>Once a week or more</option><option>Once a month</option><option>3-6 times a year</option><option>Whenever Facebook launches new features</option><option>I have never checked</option></select></p>
+
+<p>&nbsp;31. Have you blocked any persons because you felt uncomfortable/harassed?</p>
+
+<p><select name="Q31blocked" size="4"><option>No, never</option><option>Yes, one time</option><option>2-5 times</option><option>5 or more</option></select></p>
+
+<p>&nbsp;32.To what degree do you care about what is published about yourself (pictures, comments etc.)? Please explain.</p>
+
+<p><input id="Q32degree" name="Q32degree" size="100" type="text" /></p>
+
+<p>&nbsp;33.To what degree are you selective about what you post about others (pictures, comments etc.)? Please explain</p>
+
+<p><input id="Q33degree2" name="Q33degree2" size="100" type="text" /></p>
+
+<p>&nbsp;34.Is it important to you that the content of your profile is only visible to your facebook friends? Please explain</p>
+
+<p><input id="Q34visibiliy" name="Q34visibiliy" size="100" type="text" /></p>
+
+<h3><b>Interdependent Privacy Questions</b></h3>
+
+<p>&nbsp;35. Do you know what interdependent privacy means? If so please try to describe it below. Please to not use google or any other search engines to find the answer. If you don&#39;t know the answer, just leave it blank.</p>
+
+<p><input id="Q35interdependecy" name="Q35interdependency" size="100" type="text" /></p>
+
+<p>36.Are you aware of the fact that 1.92 % of the applications on Facebook request friends&#39; personal information?</p>
+
+<table border="0" cellpadding="0" cellspacing="4">
+	<tbody>
+		<tr>
+			<td valign="center"><input name="Q36applications" type="radio" value="Yes" /></td>
+			<td><span class="answertext">Yes</span></td>
+			<td valign="center"><input name="Q36applications" type="radio" value="No" /></td>
+			<td><span class="answertext">No</span></td>
+		</tr>
+	</tbody>
+</table>
+
+<p>37.Are you aware of the fact that 17.15 % of the applications on Facebook request the user&#39;s own personal information?</p>
+
+<table border="0" cellpadding="0" cellspacing="4">
+	<tbody>
+		<tr>
+			<td valign="center"><input name="Q37applications2" type="radio" value="Yes" /></td>
+			<td><span class="answertext">Yes</span></td>
+			<td valign="center"><input name="Q37applications2" type="radio" value="No" /></td>
+			<td><span class="answertext">No</span></td>
+		</tr>
+	</tbody>
+</table>
