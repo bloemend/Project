@@ -14,8 +14,9 @@
 \contentsline {paragraph}{}{5}{section*.6}
 \contentsline {paragraph}{}{5}{section*.7}
 \contentsline {paragraph}{}{5}{section*.8}
+\contentsline {paragraph}{Facebook}{5}{section*.9}
 \contentsline {section}{\numberline {1.4}Amazon Mechanical Turk}{5}{section.1.4}
 \contentsline {chapter}{\chapternumberline {2}Default Privacy Settings}{7}{chapter.2}
 \contentsline {section}{\numberline {2.1}Default Privacy Settings}{7}{section.2.1}
-\contentsline {paragraph}{}{7}{section*.9}
-\contentsline {chapter}{References}{13}{section*.11}
+\contentsline {paragraph}{}{7}{section*.10}
+\contentsline {chapter}{References}{13}{section*.12}
