@@ -1,4 +1,16 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  15 OCT 2013 14:06
+=======
+<<<<<<< HEAD
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  15 OCT 2013 14:59
+=======
+<<<<<<< HEAD
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  15 OCT 2013 11:42
+=======
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  15 OCT 2013 11:36
+>>>>>>> 08f09497b451eafb9562137eb3979c0c37ce5e44
+>>>>>>> 568b48f6693fb56232116e2b650c4d7debd22add
+>>>>>>> 9d6ac310020e62b619c52f3281d24b25e383b37a
 entering extended mode
 **main.tex
 ("C:\Users\Ida Malene\Project\Project_report\main.tex"
@@ -1780,10 +1792,25 @@ Package pdftex.def Info: ./figs/facebook-icon.png used on input line 24.
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.33 
+<<<<<<< HEAD
       <C:/Users/Ida Malene/Project/Project_report/figs/facebook-icon.png>]
 [5]) [6]
 ("C:\Users\Ida Malene\Project\Project_report\default_privacy_settings.tex")
 [7
+=======
+      <C:/Users/Ida Malene/Project/Project_report/figs/facebook-icon.png>])
+=======
+l.39 
+<<<<<<< HEAD
+      <C:/Users/Esther/Project/Project_report/figs/facebook-icon.png>] [4]
+[5]) [6] (C:\Users\Esther\Project\Project_report\default_privacy_settings.tex)
+[7
+=======
+      <C:/Users/Esther/Project/Project_report/figs/facebook-icon.png>] [4])
+>>>>>>> 08f09497b451eafb9562137eb3979c0c37ce5e44
+[5] [6
+>>>>>>> 568b48f6693fb56232116e2b650c4d7debd22add
+>>>>>>> 9d6ac310020e62b619c52f3281d24b25e383b37a
 
 
 
@@ -1846,9 +1873,41 @@ s/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw
 /times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb
 ><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+<<<<<<< HEAD
 Output written on main.pdf (29 pages, 154779 bytes).
 PDF statistics:
  279 PDF objects out of 1000 (max. 8388607)
  63 named destinations out of 1000 (max. 500000)
+=======
+Output written on main.pdf (29 pages, 152576 bytes).
+PDF statistics:
+ 274 PDF objects out of 1000 (max. 8388607)
+ 61 named destinations out of 1000 (max. 500000)
+=======
+(rerunfilecheck)             Checksum: 4FF97AC8DBEE3D2E3D6AB3B48DD08FCF;608.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 104.
+ ) 
+Here is how much of TeX's memory you used:
+ 21361 strings out of 493921
+ 311732 string characters out of 3144873
+ 556099 words of memory out of 3000000
+ 23997 multiletter control sequences out of 15000+200000
+ 78993 words of font info for 147 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 58i,12n,44p,2159b,405s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}{C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}<C:/Program Files (x8
+6)/MiKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb><C:/Program Files (x86)/MiKTeX 2
+.9/fonts/type1/public/lm/lmmi7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/typ
+e1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/h
+elvetic/uhvr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utm
+b8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:
+/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (29 pages, 161633 bytes).
+PDF statistics:
+ 275 PDF objects out of 1000 (max. 8388607)
+ 57 named destinations out of 1000 (max. 500000)
+>>>>>>> 08f09497b451eafb9562137eb3979c0c37ce5e44
+>>>>>>> 9d6ac310020e62b619c52f3281d24b25e383b37a
  21083 words of extra memory for PDF output out of 24883 (max. 10000000)
 
