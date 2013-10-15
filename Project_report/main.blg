@@ -10,8 +10,13 @@ The style file: plain.bst
 Database file #1: references.bib
 Warning--entry type for "FacebookHistory" isn't style-file defined
 --line 33 of file references.bib
+Warning--entry type for "SNS" isn't style-file defined
+--line 47 of file references.bib
+Warning--entry type for "OSN" isn't style-file defined
+--line 53 of file references.bib
 Warning--empty journal in EvoPriv2
 Warning--empty journal in MeMedia
 Warning--empty journal in EvoPriv
+Warning--empty journal in OSNpaper
 Warning--empty journal in PrivTimeline
-(There were 5 warnings)
+(There were 8 warnings)
