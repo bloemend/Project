@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  22 OCT 2013 12:33
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  22 OCT 2013 14:15
 entering extended mode
 **related_work.tex
-("C:\Users\Ida Malene\Project\Project_report\related_work.tex"
+(C:\Users\Esther\Project\Project_report\related_work.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -7257,7 +7257,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.48 U
+l.49 U
       ser control became a hot topic i 2006. There had been reported that se...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -7690,7 +7690,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.48 ...er "needs to be eliminated" \cite{MeMedia}
+l.49 ...er "needs to be eliminated" \cite{MeMedia}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7699,7 +7699,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Citation `MeMedia' on page  undefined on input line 48.
+LaTeX Warning: Citation `MeMedia' on page  undefined on input line 49.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no . in font nullfont!
@@ -7835,12 +7835,12 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 48--50
+Overfull \hbox (20.0pt too wide) in paragraph at lines 49--51
 []
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 48--50
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 49--51
 []
  []
 
@@ -7851,7 +7851,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.53 \cite{FacebookHistory}
+l.54 \cite{FacebookHistory}
                            . \cite{MeMedia}.
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -7861,7 +7861,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.53 \cite{FacebookHistory}
+l.54 \cite{FacebookHistory}
                            . \cite{MeMedia}.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7870,7 +7870,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Citation `FacebookHistory' on page  undefined on input line 53.
+LaTeX Warning: Citation `FacebookHistory' on page  undefined on input line 54.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no . in font nullfont!
@@ -7879,7 +7879,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.53 \cite{FacebookHistory}. \cite{MeMedia}
+l.54 \cite{FacebookHistory}. \cite{MeMedia}
                                            .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7888,22 +7888,22 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Citation `MeMedia' on page  undefined on input line 53.
+LaTeX Warning: Citation `MeMedia' on page  undefined on input line 54.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (25.43053pt too wide) in paragraph at lines 53--54
+Overfull \hbox (25.43053pt too wide) in paragraph at lines 54--55
 [][]
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 53--54
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 54--55
 [] 
  []
 
 ! Undefined control sequence.
-l.56 \section
+l.57 \section
              {Amazon Mechanical Turk}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7918,7 +7918,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.56 \section{A
+l.57 \section{A
                mazon Mechanical Turk}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -7944,7 +7944,7 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no k in font nullfont!
 ! Undefined control sequence.
-l.57 \paragraph
+l.58 \paragraph
                {}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7953,7 +7953,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 56--58
+Overfull \hbox (20.0pt too wide) in paragraph at lines 57--59
 []
  []
 
@@ -7966,7 +7966,7 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 56--58
  
 Here is how much of TeX's memory you used:
  18 strings out of 493921
- 335 string characters out of 3147267
+ 323 string characters out of 3144873
  51031 words of memory out of 3000000
  3410 multiletter control sequences out of 15000+200000
  3948 words of font info for 15 fonts, out of 3000000 for 9000
