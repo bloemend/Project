@@ -15,29 +15,11 @@
 \contentsline {paragraph}{}{4}{section*.7}
 \contentsline {paragraph}{}{5}{section*.8}
 \contentsline {paragraph}{}{5}{section*.9}
-\contentsline {section}{\numberline {1.4}Amazon Mechanical Turk}{6}{section.1.4}
-=======
-<<<<<<< HEAD
-\contentsline {paragraph}{}{5}{section*.9}
 \contentsline {paragraph}{}{5}{section*.10}
 \contentsline {paragraph}{}{5}{section*.11}
 \contentsline {section}{\numberline {1.4}Amazon Mechanical Turk}{6}{section.1.4}
 \contentsline {paragraph}{}{6}{section*.12}
 \contentsline {chapter}{\chapternumberline {2}Default Privacy Settings}{7}{chapter.2}
 \contentsline {section}{\numberline {2.1}Default Privacy Settings}{7}{section.2.1}
-<<<<<<< HEAD
 \contentsline {paragraph}{}{7}{section*.13}
 \contentsline {chapter}{References}{13}{section*.15}
-=======
-\contentsline {paragraph}{}{7}{section*.11}
-\contentsline {chapter}{References}{13}{section*.13}
-=======
-\contentsline {paragraph}{Facebook}{5}{section*.9}
-\contentsline {section}{\numberline {1.4}Amazon Mechanical Turk}{5}{section.1.4}
->>>>>>> 568b48f6693fb56232116e2b650c4d7debd22add
-\contentsline {chapter}{\chapternumberline {2}Default Privacy Settings}{7}{chapter.2}
-\contentsline {section}{\numberline {2.1}Default Privacy Settings}{7}{section.2.1}
-\contentsline {paragraph}{}{7}{section*.10}
-\contentsline {chapter}{References}{13}{section*.12}
->>>>>>> 08f09497b451eafb9562137eb3979c0c37ce5e44
->>>>>>> 9d6ac310020e62b619c52f3281d24b25e383b37a
