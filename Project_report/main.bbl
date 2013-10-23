@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{DPBook}
 Alessandro Acquisti, Stefanos Gritzalis, Costas Lambrinoudakis, and Sabrina
@@ -6,6 +6,11 @@ Alessandro Acquisti, Stefanos Gritzalis, Costas Lambrinoudakis, and Sabrina
 \newblock {\em Digital Privacy: Theory, Technologies, and Practices}, chapter
   Privacy Perceptions among Members of Online Communities, pages 253--266.
 \newblock Auerbach Publications, 2008.
+
+\bibitem{amazonweb}
+Amazon.
+\newblock Amazon mechanical turk.
+\newblock \url{http://aws.amazon.com/mturk/}, accessed 23.10.2013.
 
 \bibitem{EvoPriv2}
 Michael C.
@@ -36,6 +41,11 @@ GSMArena.com.
 \newblock \url{http://www.gsmarena.com/glossary.php3?term=sns}, accessed
   15.10.2013.
 
+\bibitem{AMT}
+Winter Mason and Siddharth Suri.
+\newblock Conducting behavioral research on amazon's mechanical turk.
+\newblock 2011.
+
 \bibitem{EvoPriv}
 Matt McKeon.
 \newblock The evolution of privacy on facebook.
@@ -58,9 +68,14 @@ Kurt Opsahl.
 \newblock \url{https://www.eff.org/deeplinks/2010/04/facebook-timeline},
   accessed 02.10.2013.
 
+\bibitem{theturk}
+Wikipedia.
+\newblock The turk, Last edited: October 2013.
+\newblock \url{http://en.wikipedia.org/wiki/The_Turk}, accessed 23.10.2013.
+
 \bibitem{FacebookHistory}
 Wikipedia.
-\newblock History of facebook, Sept 2013.
+\newblock History of facebook, Last edited: September 2013.
 \newblock \url{http://en.wikipedia.org/wiki/History_of_Facebook}, accessed
   02.10.201.
 
