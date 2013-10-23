@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{DPBook}
 Alessandro Acquisti, Stefanos Gritzalis, Costas Lambrinoudakis, and Sabrina
@@ -50,6 +50,11 @@ Alan Mislove, Massimilano Marcon, Krishna~P. Gummadi, Peter Druschel, and Bobby
 \newblock 2007.
 \newblock Published in Proceeding IMC '07 Proceedings of the 7th ACM SIGCOMM
   conference on Internet measurement. Pages 29-42.
+
+\bibitem{droppLawsuit}
+Steven Musli.
+\newblock Winklevoss twins drop facebook lawsuit.
+\newblock \url{Winklevoss twins drop Facebook lawsuit}, accessed 23.10.2013.
 
 \bibitem{PrivTimeline}
 Kurt Opsahl.
