@@ -14,11 +14,23 @@ Warning--entry type for "SNS" isn't style-file defined
 --line 47 of file references.bib
 Warning--entry type for "OSN" isn't style-file defined
 --line 53 of file references.bib
+<<<<<<< HEAD
 Warning--entry type for "droppLawsuit" isn't style-file defined
 --line 68 of file references.bib
+=======
+Warning--entry type for "amazonweb" isn't style-file defined
+--line 73 of file references.bib
+Warning--entry type for "theturk" isn't style-file defined
+--line 80 of file references.bib
+>>>>>>> 14e2352b16417f26c16213f04462841cbe9773d8
 Warning--empty journal in EvoPriv2
 Warning--empty journal in MeMedia
+Warning--empty journal in AMT
 Warning--empty journal in EvoPriv
 Warning--empty journal in OSNpaper
 Warning--empty journal in PrivTimeline
+<<<<<<< HEAD
 (There were 9 warnings)
+=======
+(There were 11 warnings)
+>>>>>>> 14e2352b16417f26c16213f04462841cbe9773d8

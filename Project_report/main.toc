@@ -18,6 +18,7 @@
 \contentsline {paragraph}{}{6}{section*.10}
 \contentsline {paragraph}{}{6}{section*.11}
 \contentsline {paragraph}{}{6}{section*.12}
+<<<<<<< HEAD
 \contentsline {section}{\numberline {1.4}Amazon Mechanical Turk}{6}{section.1.4}
 \contentsline {paragraph}{}{6}{section*.13}
 \contentsline {chapter}{\chapternumberline {2}Default Privacy Settings}{9}{chapter.2}
@@ -26,3 +27,12 @@
 \contentsline {section}{\numberline {2.2}Facebook features history}{9}{section.2.2}
 \contentsline {paragraph}{\IeC {\textbullet }}{9}{section*.15}
 \contentsline {chapter}{References}{15}{section*.17}
+=======
+\contentsline {paragraph}{}{6}{section*.13}
+\contentsline {paragraph}{}{6}{section*.14}
+\contentsline {paragraph}{}{7}{section*.15}
+\contentsline {chapter}{\chapternumberline {2}Default Privacy Settings}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}Default Privacy Settings}{9}{section.2.1}
+\contentsline {paragraph}{}{9}{section*.16}
+\contentsline {chapter}{References}{15}{section*.18}
+>>>>>>> 14e2352b16417f26c16213f04462841cbe9773d8
