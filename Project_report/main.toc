@@ -19,12 +19,26 @@
 \contentsline {section}{\numberline {1.4}Amazon Mechanical Turk}{6}{section.1.4}
 \contentsline {paragraph}{}{6}{section*.11}
 \contentsline {paragraph}{}{6}{section*.12}
+<<<<<<< HEAD
 \contentsline {paragraph}{The Turk}{6}{section*.13}
 \contentsline {paragraph}{Advantages with Amazon Mechanical Turk}{7}{section*.14}
+=======
+\contentsline {paragraph}{}{6}{section*.13}
+\contentsline {paragraph}{}{7}{section*.14}
+>>>>>>> b2f7662604bfee50369bc3fe93495f0eb48df609
 \contentsline {chapter}{\chapternumberline {2}Default Privacy Settings}{9}{chapter.2}
 \contentsline {section}{\numberline {2.1}Default Privacy Settings}{9}{section.2.1}
 \contentsline {paragraph}{}{9}{section*.15}
 \contentsline {section}{\numberline {2.2}Facebook privacy}{9}{section.2.2}
 \contentsline {paragraph}{}{9}{section*.16}
 \contentsline {paragraph}{}{9}{section*.17}
+<<<<<<< HEAD
 \contentsline {chapter}{References}{15}{section*.19}
+=======
+\contentsline {paragraph}{}{11}{section*.18}
+\contentsline {section}{\numberline {2.3}Facebook Features}{11}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Beacon}{11}{subsection.2.3.1}
+\contentsline {paragraph}{}{11}{section*.19}
+\contentsline {paragraph}{}{11}{section*.20}
+\contentsline {chapter}{References}{17}{section*.22}
+>>>>>>> b2f7662604bfee50369bc3fe93495f0eb48df609
