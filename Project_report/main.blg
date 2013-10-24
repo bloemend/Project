@@ -14,23 +14,25 @@ Warning--entry type for "SNS" isn't style-file defined
 --line 47 of file references.bib
 Warning--entry type for "OSN" isn't style-file defined
 --line 53 of file references.bib
-<<<<<<< HEAD
-Warning--entry type for "droppLawsuit" isn't style-file defined
---line 68 of file references.bib
-=======
 Warning--entry type for "amazonweb" isn't style-file defined
 --line 73 of file references.bib
 Warning--entry type for "theturk" isn't style-file defined
 --line 80 of file references.bib
->>>>>>> 14e2352b16417f26c16213f04462841cbe9773d8
+Warning--entry type for "droppLawsuit" isn't style-file defined
+--line 87 of file references.bib
+I was expecting a `,' or a `}'---line 98 of file references.bib
+ : url = {http://www.theverge.com/2012/5/18/3028478/facebook-story-best-writing-from-inception-to-ipo} 
+ :                                                                                                     accessed 24.10.2013,
+I'm skipping whatever remains of this entry
+Warning--entry type for "BeaconWebsites" isn't style-file defined
+--line 101 of file references.bib
+Warning--entry type for "Beacon" isn't style-file defined
+--line 107 of file references.bib
 Warning--empty journal in EvoPriv2
 Warning--empty journal in MeMedia
+Warning--empty journal in FacebookStoryInceptionToIsp
 Warning--empty journal in AMT
 Warning--empty journal in EvoPriv
 Warning--empty journal in OSNpaper
 Warning--empty journal in PrivTimeline
-<<<<<<< HEAD
-(There were 9 warnings)
-=======
-(There were 11 warnings)
->>>>>>> 14e2352b16417f26c16213f04462841cbe9773d8
+(There was 1 error message)

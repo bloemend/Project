@@ -28,6 +28,13 @@ John Cassidy.
   \url{http://www.newyorker.com/archive/2006/05/15/060515fa_fact_cassidy},
   accessed 04.10.2013.
 
+\bibitem{BeaconWebsites}
+Facebook.
+\newblock Leading websites offer facebook beacon for social distribution.
+\newblock
+  \url{https://newsroom.fb.com/News/234/Leading-Websites-Offer-Facebook-Beacon-for-Social-Distribution},
+  accessed 24.10.2013.
+
 \bibitem{OSN}
 Michalis Faloutsos, Thomas Karagiannis, and Sue Moon.
 \newblock Online social networks.
@@ -40,6 +47,12 @@ GSMArena.com.
 \newblock Social network service.
 \newblock \url{http://www.gsmarena.com/glossary.php3?term=sns}, accessed
   15.10.2013.
+
+\bibitem{FacebookStoryInceptionToIsp}
+Thomas Houston.
+\newblock The facebook story: from inception to ipo.
+\newblock 2012.
+\newblock Published in the Verge.
 
 \bibitem{AMT}
 Winter Mason and Siddharth Suri.
@@ -64,7 +77,9 @@ Alan Mislove, Massimilano Marcon, Krishna~P. Gummadi, Peter Druschel, and Bobby
 \bibitem{droppLawsuit}
 Steven Musli.
 \newblock Winklevoss twins drop facebook lawsuit.
-\newblock \url{Winklevoss twins drop Facebook lawsuit}, accessed 23.10.2013.
+\newblock
+  \url{http://www.ivygateblog.com/2011/06/winklevoss-twins-finally-end-facebook-lawsuit-%E2%80%A6-psyche/},
+  accessed 23.10.2013.
 
 \bibitem{PrivTimeline}
 Kurt Opsahl.
@@ -83,5 +98,12 @@ Wikipedia.
 \newblock History of facebook, Last edited: September 2013.
 \newblock \url{http://en.wikipedia.org/wiki/History_of_Facebook}, accessed
   02.10.201.
+
+\bibitem{Beacon}
+Mark Zuckerberg.
+\newblock Thoughts on beacon.
+\newblock
+  \url{https://www.facebook.com/notes/facebook/thoughts-on-beacon/7584397130},
+  accessed 24.10.2013.
 
 \end{thebibliography}
