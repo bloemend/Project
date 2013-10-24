@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  23 OCT 2013 14:31
-=======
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  23 OCT 2013 13:57
->>>>>>> 14e2352b16417f26c16213f04462841cbe9773d8
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  24 OCT 2013 14:13
 entering extended mode
 **main.tex
 ("C:\Users\Ida Malene\Project\Project_report\main.tex"
@@ -1772,11 +1768,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20> not available
 
 
 ]
-<<<<<<< HEAD
-<./figs/facebook-icon.png, id=168, 481.8pt x 481.8pt>
-=======
-<./figs/facebook-icon.png, id=169, 481.8pt x 481.8pt>
->>>>>>> 14e2352b16417f26c16213f04462841cbe9773d8
+<./figs/facebook-icon.png, id=174, 481.8pt x 481.8pt>
 File: ./figs/facebook-icon.png Graphic file (type png)
 
 <use ./figs/facebook-icon.png>
@@ -1788,62 +1780,35 @@ Package pdftex.def Info: ./figs/facebook-icon.png used on input line 24.
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.33 
-<<<<<<< HEAD
-      <C:/Users/Esther/Project/Project_report/figs/facebook-icon.png>] [5]
-[6]) [7] [8
-=======
       <C:/Users/Ida Malene/Project/Project_report/figs/facebook-icon.png>]
-[5] <./figs/Turk-open.jpg, id=196, 602.25pt x 524.96124pt>
+[5] [6] <./figs/Turk-open.jpg, id=211, 602.25pt x 524.96124pt>
 File: ./figs/Turk-open.jpg Graphic file (type jpg)
->>>>>>> 14e2352b16417f26c16213f04462841cbe9773d8
 
 <use ./figs/Turk-open.jpg>
-Package pdftex.def Info: ./figs/Turk-open.jpg used on input line 71.
+Package pdftex.def Info: ./figs/Turk-open.jpg used on input line 63.
 (pdftex.def)             Requested size: 254.79889pt x 222.10028pt.
-
-]
-(C:\Users\Esther\Project\Project_report\default_privacy_settings.tex)
-LaTeX Font Info:    Try loading font information for TS1+ptm on input line 80.
-
-<<<<<<< HEAD
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ts1ptm.fd"
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-LaTeX Font Info:    Font shape `TS1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `TS1/ptm/b/n' tried instead on input line 80.
- [9
-
-=======
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[6]) [7pdfTeX warning (ext4): destination with the same identifier (name{figure
-.1.2}) has been already used, duplicate ignored
+) [7pdfTeX warning (ext4): destination with the same identifier (name{figure.1.
+2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.75 \include{related_work}
                             <C:/Users/Ida Malene/Project/Project_report/figs/Tu
-rk-open.jpg>] [8
-
-
-]
-("C:\Users\Ida Malene\Project\Project_report\default_privacy_settings.tex")
+rk-open.jpg>] [8]
+("C:\Users\Ida Malene\Project\Project_report\default_privacy_settings.tex"
 [9
 
->>>>>>> 14e2352b16417f26c16213f04462841cbe9773d8
 
-] [10pdfTeX warning (ext4): destination with the same identifier (name{table.2.
-1}) has been already used, duplicate ignored
+
+
+]) [10pdfTeX warning (ext4): destination with the same identifier (name{table.2
+.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.80 \include{default_privacy_settings}
                                        ]
-<<<<<<< HEAD
-(C:\Users\Esther\Project\Project_report\discussion.tex) [11
-=======
 ("C:\Users\Ida Malene\Project\Project_report\discussion.tex") [11
->>>>>>> 14e2352b16417f26c16213f04462841cbe9773d8
 
 
 
@@ -1851,11 +1816,7 @@ l.80 \include{default_privacy_settings}
 
 
 ]
-<<<<<<< HEAD
-(C:\Users\Esther\Project\Project_report\conclusion.tex) [13
-=======
 ("C:\Users\Ida Malene\Project\Project_report\conclusion.tex") [13
->>>>>>> 14e2352b16417f26c16213f04462841cbe9773d8
 
 ] [14
 
@@ -1863,18 +1824,15 @@ l.80 \include{default_privacy_settings}
 ]
 ("C:\Users\Ida Malene\Project\Project_report\main.bbl"
 bibitemlist
-<<<<<<< HEAD
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--58
+Underfull \hbox (badness 10000) in paragraph at lines 70--73
 []\T1/ptm/m/n/10 (+20) Steven Musli.  Win-klevoss twins drop face-book law-suit
 .
  []
 
-=======
->>>>>>> 14e2352b16417f26c16213f04462841cbe9773d8
-) [15
+[15
 
-]
+]) [16]
 \tf@toc=\write9
 \tf@lof=\write10
 \tf@lot=\write11
@@ -1891,51 +1849,27 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 104.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 104.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 104.
 Package rerunfilecheck Info: File `main.out' has not changed.
-<<<<<<< HEAD
-(rerunfilecheck)             Checksum: 11AF9148F52C634889C8D42B2518A86D;682.
+(rerunfilecheck)             Checksum: 832E19A0684E457143F820C4356E2D31;673.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 104.
  ) 
 Here is how much of TeX's memory you used:
- 21430 strings out of 493921
- 312615 string characters out of 3144873
- 557247 words of memory out of 3000000
- 24035 multiletter control sequences out of 15000+200000
- 79954 words of font info for 158 fonts, out of 3000000 for 9000
+ 21435 strings out of 493921
+ 311023 string characters out of 3147267
+ 558293 words of memory out of 3000000
+ 24027 multiletter control sequences out of 15000+200000
+ 80114 words of font info for 162 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 58i,12n,44p,2805b,411s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}{C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}<C:/Program Files (x86)/M
-iKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
-nts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
-1/urw/helvetic/uhvr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/ti
-mes/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.
-pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (31 pages, 182873 bytes).
+ 58i,12n,44p,2805b,590s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}{C:/Program File
+s/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}<C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/u
+hvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/urw/times/utmri8a.pfb>
+Output written on main.pdf (32 pages, 348897 bytes).
 PDF statistics:
- 304 PDF objects out of 1000 (max. 8388607)
- 69 named destinations out of 1000 (max. 500000)
- 21603 words of extra memory for PDF output out of 24883 (max. 10000000)
-=======
-(rerunfilecheck)             Checksum: 8F6C69C29D547C9F3BAE1594C8D91799;609.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 104.
- ) 
-Here is how much of TeX's memory you used:
- 21415 strings out of 493921
- 310785 string characters out of 3147267
- 557194 words of memory out of 3000000
- 24018 multiletter control sequences out of 15000+200000
- 79854 words of font info for 158 fonts, out of 3000000 for 9000
- 841 hyphenation exceptions out of 8191
- 58i,12n,44p,2159b,419s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
-s/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw
-/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb
-><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (31 pages, 320696 bytes).
-PDF statistics:
- 309 PDF objects out of 1000 (max. 8388607)
- 72 named destinations out of 1000 (max. 500000)
- 21088 words of extra memory for PDF output out of 24883 (max. 10000000)
->>>>>>> 14e2352b16417f26c16213f04462841cbe9773d8
+ 332 PDF objects out of 1000 (max. 8388607)
+ 77 named destinations out of 1000 (max. 500000)
+ 21096 words of extra memory for PDF output out of 24883 (max. 10000000)
 
