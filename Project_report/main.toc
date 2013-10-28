@@ -18,6 +18,7 @@
 \contentsline {paragraph}{}{6}{section*.10}
 \contentsline {paragraph}{}{6}{section*.11}
 \contentsline {paragraph}{}{6}{section*.12}
+<<<<<<< HEAD
 \contentsline {paragraph}{}{6}{section*.13}
 \contentsline {paragraph}{}{6}{section*.14}
 \contentsline {section}{\numberline {1.4}Amazon Mechanical Turk}{7}{section.1.4}
@@ -33,6 +34,24 @@
 \contentsline {paragraph}{}{9}{section*.21}
 \contentsline {paragraph}{}{11}{section*.22}
 \contentsline {paragraph}{}{11}{section*.23}
+=======
+\contentsline {section}{\numberline {1.4}Amazon Mechanical Turk}{6}{section.1.4}
+\contentsline {paragraph}{}{6}{section*.13}
+\contentsline {paragraph}{}{7}{section*.14}
+\contentsline {paragraph}{The Turk}{7}{section*.15}
+\contentsline {paragraph}{Advantages with Amazon Mechanical Turk}{7}{section*.16}
+\contentsline {paragraph}{Financial Incentives}{8}{section*.17}
+\contentsline {subparagraph}{}{8}{section*.18}
+\contentsline {subparagraph}{}{8}{section*.19}
+\contentsline {section}{\numberline {1.5}SurveyMonkey}{8}{section.1.5}
+\contentsline {chapter}{\chapternumberline {2}Default Privacy Settings}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}Default Privacy Settings}{9}{section.2.1}
+\contentsline {paragraph}{}{9}{section*.20}
+\contentsline {section}{\numberline {2.2}Facebook privacy}{9}{section.2.2}
+\contentsline {paragraph}{}{9}{section*.21}
+\contentsline {paragraph}{}{9}{section*.22}
+\contentsline {paragraph}{}{10}{section*.23}
+>>>>>>> f2b9445a6707d9f1bb309c1b92e5bc3019bfecb1
 \contentsline {section}{\numberline {2.3}Facebook Features}{11}{section.2.3}
 \contentsline {subsection}{\numberline {2.3.1}Beacon}{11}{subsection.2.3.1}
 \contentsline {paragraph}{}{11}{section*.24}
