@@ -48,23 +48,35 @@ GSMArena.com.
 \newblock \url{http://www.gsmarena.com/glossary.php3?term=sns}, accessed
   15.10.2013.
 
-<<<<<<< HEAD
 \bibitem{amtpay}
 John~J. Horton and Lydia~B. Chilton.
 \newblock The labor economics of paid crowdsourcing.
 \newblock 2010.
-=======
+
 \bibitem{FacebookStoryInceptionToIsp}
 Thomas Houston.
 \newblock The facebook story: from inception to ipo.
 \newblock 2012.
 \newblock Published in the Verge.
->>>>>>> b2f7662604bfee50369bc3fe93495f0eb48df609
+
+\bibitem{TheSocialNetwork}
+IMDB.
+\newblock The social network.
+\newblock \url{http://www.imdb.com/title/tt1285016/}, accessed 24.10.2013.
+
+\bibitem{averagepay}
+Panagiotis~G. Ipeirotis.
+\newblock Analyzing the amazon mechanical turk marketplace.
+\newblock 2010.
 
 \bibitem{AMT}
 Winter Mason and Siddharth Suri.
 \newblock Conducting behavioral research on amazon's mechanical turk.
 \newblock 2011.
+
+\bibitem{incentivesAmt}
+Winter Mason and Duncan~J. Watts.
+\newblock Financial incentives and the "performance of crowds".
 
 \bibitem{EvoPriv}
 Matt McKeon.
@@ -94,6 +106,12 @@ Kurt Opsahl.
 \newblock 2010.
 \newblock \url{https://www.eff.org/deeplinks/2010/04/facebook-timeline},
   accessed 02.10.2013.
+
+\bibitem{anchoring}
+Wikipedia.
+\newblock Anchoring, Last edited: October 2013.
+\newblock \url{http://en.wikipedia.org/wiki/Anchoring_effect}, accessed
+  28.10.2013.
 
 \bibitem{theturk}
 Wikipedia.
