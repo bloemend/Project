@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  24 OCT 2013 14:13
-=======
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  24 OCT 2013 12:56
->>>>>>> b2f7662604bfee50369bc3fe93495f0eb48df609
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  28 OCT 2013 13:41
 entering extended mode
 **main.tex
 (C:\Users\Esther\Project\Project_report\main.tex
@@ -1774,11 +1770,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20> not available
 
 
 ]
-<<<<<<< HEAD
-<./figs/facebook-icon.png, id=174, 481.8pt x 481.8pt>
-=======
 <./figs/facebook-icon.png, id=185, 481.8pt x 481.8pt>
->>>>>>> b2f7662604bfee50369bc3fe93495f0eb48df609
 File: ./figs/facebook-icon.png Graphic file (type png)
 
 <use ./figs/facebook-icon.png>
@@ -1790,48 +1782,28 @@ Package pdftex.def Info: ./figs/facebook-icon.png used on input line 24.
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.33 
-<<<<<<< HEAD
-      <C:/Users/Ida Malene/Project/Project_report/figs/facebook-icon.png>]
-[5] [6] <./figs/Turk-open.jpg, id=211, 602.25pt x 524.96124pt>
-=======
       <C:/Users/Esther/Project/Project_report/figs/facebook-icon.png>] [5]
-[6] <./figs/Turk-open.jpg, id=222, 602.25pt x 524.96124pt>
->>>>>>> b2f7662604bfee50369bc3fe93495f0eb48df609
+[6] <./figs/Turk-open.jpg, id=228, 602.25pt x 524.96124pt>
 File: ./figs/Turk-open.jpg Graphic file (type jpg)
 
 <use ./figs/Turk-open.jpg>
-Package pdftex.def Info: ./figs/Turk-open.jpg used on input line 63.
+Package pdftex.def Info: ./figs/Turk-open.jpg used on input line 76.
 (pdftex.def)             Requested size: 254.79889pt x 222.10028pt.
-) [7pdfTeX warning (ext4): destination with the same identifier (name{figure.1.
-2}) has been already used, duplicate ignored
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [7] [8pdfTeX warning (ext4): destination with the same identifier (name{figur
+e.1.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.75 \include{related_work}
-<<<<<<< HEAD
-                            <C:/Users/Ida Malene/Project/Project_report/figs/Tu
-rk-open.jpg>] [8]
-("C:\Users\Ida Malene\Project\Project_report\default_privacy_settings.tex"
+                            <C:/Users/Esther/Project/Project_report/figs/Turk-o
+pen.jpg>] (C:\Users\Esther\Project\Project_report\default_privacy_settings.tex
 [9
 
 
-
-
-]) [10pdfTeX warning (ext4): destination with the same identifier (name{table.2
-.1}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.80 \include{default_privacy_settings}
-                                       ]
-("C:\Users\Ida Malene\Project\Project_report\discussion.tex") [11
-=======
-                            <C:/Users/Esther/Project/Project_report/figs/Turk-o
-pen.jpg>] [8
-
-
-]
-(C:\Users\Esther\Project\Project_report\default_privacy_settings.tex [9
 
 
 ]
@@ -1845,9 +1817,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 l.59 
      ]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 63.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 77.
 ) [11] [12
->>>>>>> b2f7662604bfee50369bc3fe93495f0eb48df609
 
 
 ] (C:\Users\Esther\Project\Project_report\discussion.tex)
@@ -1856,12 +1827,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
 ] [14
 
 
-<<<<<<< HEAD
-]
-("C:\Users\Ida Malene\Project\Project_report\conclusion.tex") [13
-=======
 ] (C:\Users\Esther\Project\Project_report\conclusion.tex) [15
->>>>>>> b2f7662604bfee50369bc3fe93495f0eb48df609
 
 ] [16
 
@@ -1870,16 +1836,6 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
 (C:\Users\Esther\Project\Project_report\main.bbl
 bibitemlist
 
-<<<<<<< HEAD
-Underfull \hbox (badness 10000) in paragraph at lines 70--73
-[]\T1/ptm/m/n/10 (+20) Steven Musli.  Win-klevoss twins drop face-book law-suit
-.
- []
-
-[15
-
-]) [16]
-=======
 Underfull \hbox (badness 10000) in paragraph at lines 32--37
 []\T1/ptm/m/n/10 (+20) Facebook.  Lead-ing web-sites of-fer face-book bea-con
  []
@@ -1898,8 +1854,25 @@ ial-[]Distribution$[][], ac-cessed
 
 [17
 
-]) [18]
->>>>>>> b2f7662604bfee50369bc3fe93495f0eb48df609
+]
+Underfull \hbox (badness 10000) in paragraph at lines 116--121
+[]\T1/ptm/m/n/10 (+20) Joshua Topol-sky.  Mark zucker-berg's let-ter to in-vest
+ors on face-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--121
+\T1/ptm/m/n/10 (+20) book's 'so-cial mis-sion'.  [][]$http : / / www . theverge
+ . com / 2012 / 2 / 1 / 2764840 /$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--121
+$\T1/ptm/m/n/10 (+20) mark-[]zuckerbergs-[]letter-[]to-[]investors-[]on-[]faceb
+ooks-[]social-[]mission / in / 2528910$[][],
+ []
+
+) [18]
 \tf@toc=\write9
 \tf@lof=\write10
 \tf@lot=\write11
@@ -1916,42 +1889,17 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 104.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 104.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 104.
 Package rerunfilecheck Info: File `main.out' has not changed.
-<<<<<<< HEAD
-(rerunfilecheck)             Checksum: 832E19A0684E457143F820C4356E2D31;673.
+(rerunfilecheck)             Checksum: F8466DC4BB2715E682346F6DE3D89902;799.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 104.
  ) 
 Here is how much of TeX's memory you used:
- 21435 strings out of 493921
- 311023 string characters out of 3147267
- 558293 words of memory out of 3000000
- 24027 multiletter control sequences out of 15000+200000
- 80114 words of font info for 162 fonts, out of 3000000 for 9000
+ 21509 strings out of 493921
+ 313798 string characters out of 3144873
+ 558472 words of memory out of 3000000
+ 24056 multiletter control sequences out of 15000+200000
+ 85979 words of font info for 181 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 58i,12n,44p,2805b,590s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}{C:/Program File
-s/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}<C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/u
-hvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiK
-TeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
-e1/urw/times/utmri8a.pfb>
-Output written on main.pdf (32 pages, 348897 bytes).
-PDF statistics:
- 332 PDF objects out of 1000 (max. 8388607)
- 77 named destinations out of 1000 (max. 500000)
- 21096 words of extra memory for PDF output out of 24883 (max. 10000000)
-=======
-(rerunfilecheck)             Checksum: 26B4C9B43F83ECE8954A2859E28FC945;799.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 104.
- ) 
-Here is how much of TeX's memory you used:
- 21464 strings out of 493921
- 313118 string characters out of 3144873
- 558392 words of memory out of 3000000
- 24042 multiletter control sequences out of 15000+200000
- 84689 words of font info for 167 fonts, out of 3000000 for 9000
- 841 hyphenation exceptions out of 8191
- 58i,12n,44p,2805b,584s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 58i,12n,44p,2805b,592s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}{C:/Progra
 m Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}<C:/Program Files (x86)/M
 iKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
@@ -1959,10 +1907,9 @@ nts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
 1/urw/helvetic/uhvr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/ti
 mes/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.
 pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (34 pages, 355043 bytes).
+Output written on main.pdf (34 pages, 365933 bytes).
 PDF statistics:
- 364 PDF objects out of 1000 (max. 8388607)
- 86 named destinations out of 1000 (max. 500000)
+ 389 PDF objects out of 1000 (max. 8388607)
+ 96 named destinations out of 1000 (max. 500000)
  23672 words of extra memory for PDF output out of 24883 (max. 10000000)
->>>>>>> b2f7662604bfee50369bc3fe93495f0eb48df609
 

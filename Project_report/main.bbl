@@ -48,18 +48,28 @@ GSMArena.com.
 \newblock \url{http://www.gsmarena.com/glossary.php3?term=sns}, accessed
   15.10.2013.
 
-<<<<<<< HEAD
 \bibitem{amtpay}
 John~J. Horton and Lydia~B. Chilton.
 \newblock The labor economics of paid crowdsourcing.
 \newblock 2010.
-=======
+
+\bibitem{FacebookInstragram}
+Thomas Houston.
+\newblock Facebook to buy instagram for $ 1 $ billion.
+\newblock
+  \url{http://www.theverge.com/2012/4/9/2936375/facebook-buys-instagram},
+  accessed 28.10.2013.
+
 \bibitem{FacebookStoryInceptionToIsp}
 Thomas Houston.
 \newblock The facebook story: from inception to ipo.
 \newblock 2012.
 \newblock Published in the Verge.
->>>>>>> b2f7662604bfee50369bc3fe93495f0eb48df609
+
+\bibitem{TheSocialNetwork}
+IMDB.
+\newblock The social network.
+\newblock \url{http://www.imdb.com/title/tt1285016/}, accessed 24.10.2013.
 
 \bibitem{AMT}
 Winter Mason and Siddharth Suri.
@@ -94,6 +104,20 @@ Kurt Opsahl.
 \newblock 2010.
 \newblock \url{https://www.eff.org/deeplinks/2010/04/facebook-timeline},
   accessed 02.10.2013.
+
+\bibitem{EvolutionOfFacebook}
+Business Day~Technology The New York~Times.
+\newblock The evolution of facebook.
+\newblock
+  \url{http://www.nytimes.com/interactive/technology/facebook-timeline.html?_r=0#/#time189_6062},
+  Last edited 24.07.2013, accessed 28.10.2013.
+
+\bibitem{LetterToInvestors}
+Joshua Topolsky.
+\newblock Mark zuckerberg's letter to investors on facebook's 'social mission'.
+\newblock
+  \url{http://www.theverge.com/2012/2/1/2764840/mark-zuckerbergs-letter-to-investors-on-facebooks-social-mission/in/2528910},
+  accessed 28.10.2013.
 
 \bibitem{theturk}
 Wikipedia.
