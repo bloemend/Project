@@ -3,7 +3,9 @@ A level-1 auxiliary file: summary.aux
 A level-1 auxiliary file: acknowledgement.aux
 A level-1 auxiliary file: introduction.aux
 A level-1 auxiliary file: related_work.aux
+A level-1 auxiliary file: methodology.aux
 A level-1 auxiliary file: default_privacy_settings.aux
+A level-1 auxiliary file: mechanicalturk.aux
 A level-1 auxiliary file: discussion.aux
 A level-1 auxiliary file: conclusion.aux
 The style file: plain.bst
@@ -30,25 +32,20 @@ Warning--entry type for "Beacon" isn't style-file defined
 --line 114 of file references.bib
 Warning--entry type for "TheSocialNetwork" isn't style-file defined
 --line 120 of file references.bib
-<<<<<<< HEAD
 Warning--entry type for "FacebookInstragram" isn't style-file defined
---line 127 of file references.bib
+--line 126 of file references.bib
 Warning--entry type for "LetterToInvestors" isn't style-file defined
---line 134 of file references.bib
+--line 133 of file references.bib
 Warning--entry type for "EvolutionOfFacebook" isn't style-file defined
---line 140 of file references.bib
-=======
+--line 139 of file references.bib
 Warning--entry type for "anchoring" isn't style-file defined
---line 132 of file references.bib
->>>>>>> f2b9445a6707d9f1bb309c1b92e5bc3019bfecb1
+--line 151 of file references.bib
 Warning--empty journal in EvoPriv2
 Warning--empty journal in MeMedia
+Warning--empty journal in whocares
 Warning--empty journal in amtpay
 Warning--empty journal in FacebookStoryInceptionToIsp
-<<<<<<< HEAD
-=======
 Warning--empty journal in averagepay
->>>>>>> f2b9445a6707d9f1bb309c1b92e5bc3019bfecb1
 Warning--empty journal in AMT
 Warning--empty journal in incentivesAmt
 Warning--empty year in incentivesAmt

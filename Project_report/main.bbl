@@ -28,6 +28,11 @@ John Cassidy.
   \url{http://www.newyorker.com/archive/2006/05/15/060515fa_fact_cassidy},
   accessed 04.10.2013.
 
+\bibitem{whocares}
+danah boyd and Eszter Hargittai.
+\newblock Facebook privacy settings; who cares?
+\newblock 2010.
+
 \bibitem{BeaconWebsites}
 Facebook.
 \newblock Leading websites offer facebook beacon for social distribution.
@@ -53,7 +58,6 @@ John~J. Horton and Lydia~B. Chilton.
 \newblock The labor economics of paid crowdsourcing.
 \newblock 2010.
 
-<<<<<<< HEAD
 \bibitem{FacebookInstragram}
 Thomas Houston.
 \newblock Facebook to buy instagram for $ 1 $ billion.
@@ -61,8 +65,6 @@ Thomas Houston.
   \url{http://www.theverge.com/2012/4/9/2936375/facebook-buys-instagram},
   accessed 28.10.2013.
 
-=======
->>>>>>> f2b9445a6707d9f1bb309c1b92e5bc3019bfecb1
 \bibitem{FacebookStoryInceptionToIsp}
 Thomas Houston.
 \newblock The facebook story: from inception to ipo.
@@ -73,14 +75,11 @@ Thomas Houston.
 IMDB.
 \newblock The social network.
 \newblock \url{http://www.imdb.com/title/tt1285016/}, accessed 24.10.2013.
-<<<<<<< HEAD
-=======
 
 \bibitem{averagepay}
 Panagiotis~G. Ipeirotis.
 \newblock Analyzing the amazon mechanical turk marketplace.
 \newblock 2010.
->>>>>>> f2b9445a6707d9f1bb309c1b92e5bc3019bfecb1
 
 \bibitem{AMT}
 Winter Mason and Siddharth Suri.
@@ -120,7 +119,6 @@ Kurt Opsahl.
 \newblock \url{https://www.eff.org/deeplinks/2010/04/facebook-timeline},
   accessed 02.10.2013.
 
-<<<<<<< HEAD
 \bibitem{EvolutionOfFacebook}
 Business Day~Technology The New York~Times.
 \newblock The evolution of facebook.
@@ -134,13 +132,12 @@ Joshua Topolsky.
 \newblock
   \url{http://www.theverge.com/2012/2/1/2764840/mark-zuckerbergs-letter-to-investors-on-facebooks-social-mission/in/2528910},
   accessed 28.10.2013.
-=======
+
 \bibitem{anchoring}
 Wikipedia.
 \newblock Anchoring, Last edited: October 2013.
 \newblock \url{http://en.wikipedia.org/wiki/Anchoring_effect}, accessed
   28.10.2013.
->>>>>>> f2b9445a6707d9f1bb309c1b92e5bc3019bfecb1
 
 \bibitem{theturk}
 Wikipedia.
