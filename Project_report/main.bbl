@@ -12,6 +12,11 @@ Amazon.
 \newblock Amazon mechanical turk.
 \newblock \url{http://aws.amazon.com/mturk/}, accessed 23.10.2013.
 
+\bibitem{InterdependetPriv}
+Gergely Biczók and Pern~Hui Chia.
+\newblock Interdependet privaqcy: Let me share your data.
+\newblock 2013.
+
 \bibitem{EvoPriv2}
 Michael C.
 \newblock The evolution of privacy on facebook.
@@ -27,6 +32,13 @@ John Cassidy.
 \newblock
   \url{http://www.newyorker.com/archive/2006/05/15/060515fa_fact_cassidy},
   accessed 04.10.2013.
+
+\bibitem{privacy}
+Roger Clarke.
+\newblock Introduction to dataveillance and information privacy, and
+  definitions of terms, Last edited: October 2013.
+\newblock \url{http://www.rogerclarke.com/DV/Intro.html#Priv}, accessed
+  30.10.2013.
 
 \bibitem{whocares}
 danah boyd and Eszter Hargittai.
@@ -113,7 +125,7 @@ Steven Musli.
   accessed 23.10.2013.
 
 \bibitem{thirdPartyApps}
-Jens~Grossklags Na~Wang, Heng~Xu.
+Heng~Xu Na~Wang and Jens Grossklags.
 \newblock Third-party apps on facebook: Privacy and the illusion of control.
 \newblock December 2011.
 
@@ -137,6 +149,13 @@ Joshua Topolsky.
 \newblock
   \url{http://www.theverge.com/2012/2/1/2764840/mark-zuckerbergs-letter-to-investors-on-facebooks-social-mission/in/2528910},
   accessed 28.10.2013.
+
+\bibitem{searchSetting}
+Gregory Wallace.
+\newblock Facebook kills search privacy setting, Octover 11 2013.
+\newblock
+  \url{http://money.cnn.com/2013/10/11/technology/social/facebook-search-privacy/index.html?iid=EL},
+  accessed 30.10.2013.
 
 \bibitem{anchoring}
 Wikipedia.
