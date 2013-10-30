@@ -8,7 +8,7 @@ A level-1 auxiliary file: default_privacy_settings.aux
 A level-1 auxiliary file: mechanicalturk.aux
 A level-1 auxiliary file: discussion.aux
 A level-1 auxiliary file: conclusion.aux
-The style file: plain.bst
+The style file: ieeetr.bst
 Database file #1: references.bib
 Warning--entry type for "FacebookHistory" isn't style-file defined
 --line 33 of file references.bib
@@ -40,17 +40,24 @@ Warning--entry type for "EvolutionOfFacebook" isn't style-file defined
 --line 139 of file references.bib
 Warning--entry type for "anchoring" isn't style-file defined
 --line 151 of file references.bib
-Warning--empty journal in EvoPriv2
+Warning--entry type for "surveymonkeyaboutus" isn't style-file defined
+--line 179 of file references.bib
+Warning--entry type for "surveymonkeyfeatures" isn't style-file defined
+--line 186 of file references.bib
+Warning--entry type for "surveymonkeywiki" isn't style-file defined
+--line 193 of file references.bib
+Warning--empty journal in EvoPriv
+Warning--empty journal in PrivTimeline
+Warning--empty journal in OSNpaper
+Warning--empty journal in thirdPartyApps
 Warning--empty journal in MeMedia
-Warning--empty journal in whocares
-Warning--empty journal in amtpay
 Warning--empty journal in FacebookStoryInceptionToIsp
-Warning--empty journal in averagepay
+Warning--empty journal in whocares
+Warning--empty journal in expectations
 Warning--empty journal in AMT
 Warning--empty journal in incentivesAmt
 Warning--empty year in incentivesAmt
-Warning--empty journal in EvoPriv
-Warning--empty journal in OSNpaper
-Warning--empty journal in thirdPartyApps
-Warning--empty journal in PrivTimeline
+Warning--empty journal in amtpay
+Warning--empty journal in averagepay
+Warning--empty journal in EvoPriv2
 (There was 1 error message)

@@ -1,163 +1,148 @@
 \begin{thebibliography}{10}
 
-\bibitem{DPBook}
-Alessandro Acquisti, Stefanos Gritzalis, Costas Lambrinoudakis, and Sabrina
-  De~Capitani di~Vimercati, editors.
-\newblock {\em Digital Privacy: Theory, Technologies, and Practices}, chapter
-  Privacy Perceptions among Members of Online Communities, pages 253--266.
-\newblock Auerbach Publications, 2008.
+\bibitem{theturk}
+Wikipedia, ``The turk,'' Last edited: October 2013.
+\newblock \url{http://en.wikipedia.org/wiki/The_Turk}, accessed 23.10.2013.
 
-\bibitem{amazonweb}
-Amazon.
-\newblock Amazon mechanical turk.
-\newblock \url{http://aws.amazon.com/mturk/}, accessed 23.10.2013.
+\bibitem{EvoPriv}
+M.~McKeon, ``The evolution of privacy on facebook,'' 2010.
+\newblock \url{http://www.mattmckeon.com/facebook-privacy}, accessed
+  26.09.2013.
 
-\bibitem{EvoPriv2}
-Michael C.
-\newblock The evolution of privacy on facebook.
-\newblock 2011.
-\newblock
-  \url{http://www.yalelawtech.org/control-privacy-technology/evolution-of-facebook-privacy},
-  accessed 30.09.2013.
+\bibitem{PrivTimeline}
+K.~Opsahl, ``Facebook's eroding privacy policy: A timeline,'' 2010.
+\newblock \url{https://www.eff.org/deeplinks/2010/04/facebook-timeline},
+  accessed 02.10.2013.
 
-\bibitem{MeMedia}
-John Cassidy.
-\newblock The online life; me media.
-\newblock May 2006.
-\newblock
-  \url{http://www.newyorker.com/archive/2006/05/15/060515fa_fact_cassidy},
-  accessed 04.10.2013.
-
-\bibitem{whocares}
-danah boyd and Eszter Hargittai.
-\newblock Facebook privacy settings; who cares?
-\newblock 2010.
-
-\bibitem{BeaconWebsites}
-Facebook.
-\newblock Leading websites offer facebook beacon for social distribution.
-\newblock
-  \url{https://newsroom.fb.com/News/234/Leading-Websites-Offer-Facebook-Beacon-for-Social-Distribution},
-  accessed 24.10.2013.
+\bibitem{SNS}
+GSMArena.com, ``Social network service.''
+\newblock \url{http://www.gsmarena.com/glossary.php3?term=sns}, accessed
+  15.10.2013.
 
 \bibitem{OSN}
-Michalis Faloutsos, Thomas Karagiannis, and Sue Moon.
-\newblock Online social networks.
+M.~Faloutsos, T.~Karagiannis, and S.~Moon, ``Online social networks.''
 \newblock
   \url{http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5578911&tag=1},
   accessed 15.10.2013.
 
-\bibitem{SNS}
-GSMArena.com.
-\newblock Social network service.
-\newblock \url{http://www.gsmarena.com/glossary.php3?term=sns}, accessed
-  15.10.2013.
-
-\bibitem{amtpay}
-John~J. Horton and Lydia~B. Chilton.
-\newblock The labor economics of paid crowdsourcing.
-\newblock 2010.
-
-\bibitem{FacebookInstragram}
-Thomas Houston.
-\newblock Facebook to buy instagram for $ 1 $ billion.
-\newblock
-  \url{http://www.theverge.com/2012/4/9/2936375/facebook-buys-instagram},
-  accessed 28.10.2013.
-
-\bibitem{FacebookStoryInceptionToIsp}
-Thomas Houston.
-\newblock The facebook story: from inception to ipo.
-\newblock 2012.
-\newblock Published in the Verge.
-
-\bibitem{TheSocialNetwork}
-IMDB.
-\newblock The social network.
-\newblock \url{http://www.imdb.com/title/tt1285016/}, accessed 24.10.2013.
-
-\bibitem{averagepay}
-Panagiotis~G. Ipeirotis.
-\newblock Analyzing the amazon mechanical turk marketplace.
-\newblock 2010.
-
-\bibitem{AMT}
-Winter Mason and Siddharth Suri.
-\newblock Conducting behavioral research on amazon's mechanical turk.
-\newblock 2011.
-
-\bibitem{incentivesAmt}
-Winter Mason and Duncan~J. Watts.
-\newblock Financial incentives and the "performance of crowds".
-
-\bibitem{EvoPriv}
-Matt McKeon.
-\newblock The evolution of privacy on facebook.
-\newblock 2010.
-\newblock \url{http://www.mattmckeon.com/facebook-privacy}, accessed
-  26.09.2013.
+\bibitem{DPBook}
+A.~Acquisti, S.~Gritzalis, C.~Lambrinoudakis, and S.~D.~C. di~Vimercati, eds.,
+  {\em Digital Privacy: Theory, Technologies, and Practices}, ch.~Privacy
+  Perceptions among Members of Online Communities, pp.~253--266.
+\newblock Auerbach Publications, 2008.
 
 \bibitem{OSNpaper}
-Alan Mislove, Massimilano Marcon, Krishna~P. Gummadi, Peter Druschel, and Bobby
-  Bhattacharjee.
-\newblock Measurement and analysis of online social networks.
-\newblock 2007.
+A.~Mislove, M.~Marcon, K.~P. Gummadi, P.~Druschel, and B.~Bhattacharjee,
+  ``Measurement and analysis of online social networks,'' 2007.
 \newblock Published in Proceeding IMC '07 Proceedings of the 7th ACM SIGCOMM
   conference on Internet measurement. Pages 29-42.
 
+\bibitem{thirdPartyApps}
+J.~G. Na~Wang, Heng~Xu, ``Third-party apps on facebook: Privacy and the
+  illusion of control,'' December 2011.
+
+\bibitem{MeMedia}
+J.~Cassidy, ``The online life; me media,'' May 2006.
+\newblock
+  \url{http://www.newyorker.com/archive/2006/05/15/060515fa_fact_cassidy},
+  accessed 04.10.2013.
+
 \bibitem{droppLawsuit}
-Steven Musli.
-\newblock Winklevoss twins drop facebook lawsuit.
+S.~Musli, ``Winklevoss twins drop facebook lawsuit.''
 \newblock
   \url{http://www.ivygateblog.com/2011/06/winklevoss-twins-finally-end-facebook-lawsuit-%E2%80%A6-psyche/},
   accessed 23.10.2013.
 
-\bibitem{thirdPartyApps}
-Jens~Grossklags Na~Wang, Heng~Xu.
-\newblock Third-party apps on facebook: Privacy and the illusion of control.
-\newblock December 2011.
+\bibitem{FacebookHistory}
+Wikipedia, ``History of facebook,'' Last edited: September 2013.
+\newblock \url{http://en.wikipedia.org/wiki/History_of_Facebook}, accessed
+  02.10.201.
 
-\bibitem{PrivTimeline}
-Kurt Opsahl.
-\newblock Facebook's eroding privacy policy: A timeline.
-\newblock 2010.
-\newblock \url{https://www.eff.org/deeplinks/2010/04/facebook-timeline},
-  accessed 02.10.2013.
+\bibitem{FacebookStoryInceptionToIsp}
+T.~Houston, ``The facebook story: from inception to ipo,'' 2012.
+\newblock Published in the Verge.
+
+\bibitem{TheSocialNetwork}
+IMDB, ``The social network.''
+\newblock \url{http://www.imdb.com/title/tt1285016/}, accessed 24.10.2013.
 
 \bibitem{EvolutionOfFacebook}
-Business Day~Technology The New York~Times.
-\newblock The evolution of facebook.
+B.~D.~T. The New York~Times, ``The evolution of facebook.''
 \newblock
   \url{http://www.nytimes.com/interactive/technology/facebook-timeline.html?_r=0#/#time189_6062},
   Last edited 24.07.2013, accessed 28.10.2013.
 
+\bibitem{FacebookInstragram}
+T.~Houston, ``Facebook to buy instagram for $ 1 $ billion.''
+\newblock
+  \url{http://www.theverge.com/2012/4/9/2936375/facebook-buys-instagram},
+  accessed 28.10.2013.
+
+\bibitem{whocares}
+danah boyd and E.~Hargittai, ``Facebook privacy settings; who cares?,'' 2010.
+
+\bibitem{expectations}
+Y.~Liu, K.~P. Gummadi, B.~Krishnamurthy, and A.~Mislove, ``Analyzing facebook
+  privacy settings: User expectations vs. reality,'' 2011.
+
+\bibitem{AMT}
+W.~Mason and S.~Suri, ``Conducting behavioral research on amazon's mechanical
+  turk,'' 2011.
+
+\bibitem{amazonweb}
+Amazon, ``Amazon mechanical turk.''
+\newblock \url{http://aws.amazon.com/mturk/}, accessed 23.10.2013.
+
+\bibitem{incentivesAmt}
+W.~Mason and D.~J. Watts, ``Financial incentives and the "performance of
+  crowds",''
+
+\bibitem{amtpay}
+J.~J. Horton and L.~B. Chilton, ``The labor economics of paid crowdsourcing,''
+  2010.
+
+\bibitem{averagepay}
+P.~G. Ipeirotis, ``Analyzing the amazon mechanical turk marketplace,'' 2010.
+
+\bibitem{anchoring}
+Wikipedia, ``Anchoring,'' Last edited: October 2013.
+\newblock \url{http://en.wikipedia.org/wiki/Anchoring_effect}, accessed
+  28.10.2013.
+
+\bibitem{surveymonkeyaboutus}
+SurveyMonkey, ``Surveymonkey - about us,'' 2013.
+\newblock \url{https://www.surveymonkey.com/mp/aboutus/}, accessed 30.10.2013.
+
+\bibitem{surveymonkeywiki}
+Wikipedia, ``Surveymonkey,'' Last edited: October 2013.
+\newblock \url{http://en.wikipedia.org/wiki/SurveyMonkey}, accessed 30.10.2013.
+
+\bibitem{surveymonkeyfeatures}
+SurveyMonkey, ``Surveymonkey - how it works,'' 2013.
+\newblock \url{https://www.surveymonkey.com/mp/take-a-tour/}, accessed
+  30.10.2013.
+
+\bibitem{EvoPriv2}
+M.~C., ``The evolution of privacy on facebook,'' 2011.
+\newblock
+  \url{http://www.yalelawtech.org/control-privacy-technology/evolution-of-facebook-privacy},
+  accessed 30.09.2013.
+
 \bibitem{LetterToInvestors}
-Joshua Topolsky.
-\newblock Mark zuckerberg's letter to investors on facebook's 'social mission'.
+J.~Topolsky, ``Mark zuckerberg's letter to investors on facebook's 'social
+  mission'.''
 \newblock
   \url{http://www.theverge.com/2012/2/1/2764840/mark-zuckerbergs-letter-to-investors-on-facebooks-social-mission/in/2528910},
   accessed 28.10.2013.
 
-\bibitem{anchoring}
-Wikipedia.
-\newblock Anchoring, Last edited: October 2013.
-\newblock \url{http://en.wikipedia.org/wiki/Anchoring_effect}, accessed
-  28.10.2013.
-
-\bibitem{theturk}
-Wikipedia.
-\newblock The turk, Last edited: October 2013.
-\newblock \url{http://en.wikipedia.org/wiki/The_Turk}, accessed 23.10.2013.
-
-\bibitem{FacebookHistory}
-Wikipedia.
-\newblock History of facebook, Last edited: September 2013.
-\newblock \url{http://en.wikipedia.org/wiki/History_of_Facebook}, accessed
-  02.10.201.
+\bibitem{BeaconWebsites}
+Facebook, ``Leading websites offer facebook beacon for social distribution.''
+\newblock
+  \url{https://newsroom.fb.com/News/234/Leading-Websites-Offer-Facebook-Beacon-for-Social-Distribution},
+  accessed 24.10.2013.
 
 \bibitem{Beacon}
-Mark Zuckerberg.
-\newblock Thoughts on beacon.
+M.~Zuckerberg, ``Thoughts on beacon.''
 \newblock
   \url{https://www.facebook.com/notes/facebook/thoughts-on-beacon/7584397130},
   accessed 24.10.2013.
