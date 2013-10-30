@@ -20,6 +20,7 @@
 \contentsline {paragraph}{}{6}{section*.12}
 \contentsline {paragraph}{}{7}{section*.13}
 \contentsline {paragraph}{}{7}{section*.14}
+<<<<<<< HEAD
 \contentsline {paragraph}{}{7}{section*.15}
 \contentsline {paragraph}{}{7}{section*.16}
 \contentsline {paragraph}{}{7}{section*.17}
@@ -32,10 +33,23 @@
 \contentsline {paragraph}{Financial Incentives}{9}{section*.22}
 \contentsline {subparagraph}{}{10}{section*.23}
 \contentsline {subparagraph}{}{10}{section*.24}
+=======
+\contentsline {section}{\numberline {1.4}Facebook Privacy}{7}{section.1.4}
+\contentsline {paragraph}{}{7}{section*.15}
+\contentsline {section}{\numberline {1.5}Amazon Mechanical Turk}{8}{section.1.5}
+\contentsline {paragraph}{}{8}{section*.16}
+\contentsline {paragraph}{}{8}{section*.17}
+\contentsline {paragraph}{The Turk}{8}{section*.18}
+\contentsline {paragraph}{Advantages with Amazon Mechanical Turk}{9}{section*.19}
+\contentsline {paragraph}{Financial Incentives}{9}{section*.20}
+\contentsline {subparagraph}{}{10}{section*.21}
+\contentsline {subparagraph}{}{10}{section*.22}
+>>>>>>> 3aac16d27b1046a867f7c7b2dc140801375d31e4
 \contentsline {section}{\numberline {1.6}SurveyMonkey}{10}{section.1.6}
 \contentsline {chapter}{\chapternumberline {2}Methodology}{11}{chapter.2}
 \contentsline {chapter}{\chapternumberline {3}Default Privacy Settings}{13}{chapter.3}
 \contentsline {section}{\numberline {3.1}Default Privacy Settings}{13}{section.3.1}
+<<<<<<< HEAD
 \contentsline {paragraph}{}{13}{section*.25}
 \contentsline {section}{\numberline {3.2}Facebook privacy}{13}{section.3.2}
 \contentsline {paragraph}{}{13}{section*.26}
@@ -48,3 +62,17 @@
 \contentsline {paragraph}{}{15}{section*.31}
 \contentsline {chapter}{\chapternumberline {4}Amazon Mechanical Turk Survey}{17}{chapter.4}
 \contentsline {chapter}{References}{23}{section*.33}
+=======
+\contentsline {paragraph}{}{13}{section*.23}
+\contentsline {section}{\numberline {3.2}Facebook privacy}{13}{section.3.2}
+\contentsline {paragraph}{}{13}{section*.24}
+\contentsline {paragraph}{}{13}{section*.25}
+\contentsline {paragraph}{}{15}{section*.26}
+\contentsline {paragraph}{}{15}{section*.27}
+\contentsline {section}{\numberline {3.3}Facebook Features}{15}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Beacon}{15}{subsection.3.3.1}
+\contentsline {paragraph}{}{15}{section*.28}
+\contentsline {paragraph}{}{15}{section*.29}
+\contentsline {chapter}{\chapternumberline {4}Amazon Mechanical Turk Survey}{17}{chapter.4}
+\contentsline {chapter}{References}{23}{section*.31}
+>>>>>>> 3aac16d27b1046a867f7c7b2dc140801375d31e4
