@@ -37,6 +37,13 @@ A.~Mislove, M.~Marcon, K.~P. Gummadi, P.~Druschel, and B.~Bhattacharjee,
 \newblock Published in Proceeding IMC '07 Proceedings of the 7th ACM SIGCOMM
   conference on Internet measurement. Pages 29-42.
 
+<<<<<<< HEAD
+=======
+\bibitem{expectations}
+Y.~Liu, K.~P. Gummadi, B.~Krishnamurthy, and A.~Mislove, ``Analyzing facebook
+  privacy settings: User expectations vs. reality,'' 2011.
+
+>>>>>>> 76d15bcab812fdcbc6691816e6627ad4c7d09deb
 \bibitem{InterdependetPriv}
 G.~Biczók and P.~H. Chia, ``Interdependet privaqcy: Let me share your data,''
   2013.
@@ -52,10 +59,13 @@ O.~Dictionaries, ``Definition of privacy.''
 \newblock \url{http://www.oxforddictionaries.com/definition/english/privacy},
   accessed 30.10.2013.
 
+<<<<<<< HEAD
 \bibitem{externalityDef}
 F.~Gottheil, ``Principles of economics.'' Power Point, 2013.
 \newblock Chapter 14: Externalities, Market, Failure and Public Choise.
 
+=======
+>>>>>>> 76d15bcab812fdcbc6691816e6627ad4c7d09deb
 \bibitem{thirdPartyApps}
 H.~X. Na~Wang and J.~Grossklags, ``Third-party apps on facebook: Privacy and
   the illusion of control,'' December 2011.
@@ -99,10 +109,6 @@ T.~Houston, ``Facebook to buy instagram for $ 1 $ billion.''
 
 \bibitem{whocares}
 danah boyd and E.~Hargittai, ``Facebook privacy settings; who cares?,'' 2010.
-
-\bibitem{expectations}
-Y.~Liu, K.~P. Gummadi, B.~Krishnamurthy, and A.~Mislove, ``Analyzing facebook
-  privacy settings: User expectations vs. reality,'' 2011.
 
 \bibitem{AMT}
 W.~Mason and S.~Suri, ``Conducting behavioral research on amazon's mechanical
