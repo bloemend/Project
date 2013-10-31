@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  30 OCT 2013 14:45
-=======
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  30 OCT 2013 14:25
->>>>>>> d8c691bd063ae0b90e35fecec3936260ec4b034b
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  31 OCT 2013 13:54
 entering extended mode
 **main.tex
 ("C:\Users\Ida Malene\Project\Project_report\main.tex"
@@ -1592,7 +1588,6 @@ Package glossaries Info: Writing glossary file main.glo on input line 29.
 \glo@acronym@file=\write7
 Package glossaries Info: Writing glossary file main.acn on input line 29.
 
-<<<<<<< HEAD
 ("C:\Users\Ida Malene\Project\Project_report\main.aux"
 ("C:\Users\Ida Malene\Project\Project_report\summary.aux")
 ("C:\Users\Ida Malene\Project\Project_report\acknowledgement.aux")
@@ -1606,21 +1601,6 @@ LaTeX Warning: Label `chp:relatedwork' multiply defined.
 ("C:\Users\Ida Malene\Project\Project_report\mechanicalturk.aux")
 ("C:\Users\Ida Malene\Project\Project_report\discussion.aux")
 ("C:\Users\Ida Malene\Project\Project_report\conclusion.aux"))
-=======
-(C:\Users\Esther\Project\Project_report\main.aux
-(C:\Users\Esther\Project\Project_report\summary.aux)
-(C:\Users\Esther\Project\Project_report\acknowledgement.aux)
-(C:\Users\Esther\Project\Project_report\introduction.aux)
-(C:\Users\Esther\Project\Project_report\related_work.aux)
-(C:\Users\Esther\Project\Project_report\methodology.aux
-
-LaTeX Warning: Label `chp:relatedwork' multiply defined.
-
-) (C:\Users\Esther\Project\Project_report\default_privacy_settings.aux)
-(C:\Users\Esther\Project\Project_report\mechanicalturk.aux)
-(C:\Users\Esther\Project\Project_report\discussion.aux)
-(C:\Users\Esther\Project\Project_report\conclusion.aux))
->>>>>>> d8c691bd063ae0b90e35fecec3936260ec4b034b
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
 LaTeX Font Info:    ... okay on input line 31.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
@@ -1792,84 +1772,52 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20> not available
  [3
 
 
-<<<<<<< HEAD
 ]
-[4] <./figs/facebook-icon.png, id=212, 481.8pt x 481.8pt>
-=======
-] [4]
-<./figs/facebook-icon.png, id=229, 481.8pt x 481.8pt>
->>>>>>> d8c691bd063ae0b90e35fecec3936260ec4b034b
+[4] <./figs/facebook-icon.png, id=232, 481.8pt x 481.8pt>
 File: ./figs/facebook-icon.png Graphic file (type png)
 
 <use ./figs/facebook-icon.png>
-Package pdftex.def Info: ./figs/facebook-icon.png used on input line 52.
+Package pdftex.def Info: ./figs/facebook-icon.png used on input line 50.
 (pdftex.def)             Requested size: 72.79889pt x 72.79619pt.
  [5pdfTeX warning (ext4): destination with the same identifier (name{figure.1.1
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-<<<<<<< HEAD
-l.51 
+l.56 
       <C:/Users/Ida Malene/Project/Project_report/figs/facebook-icon.png>]
-Underfull \vbox (badness 7796) has occurred while \output is active []
-
- [6]
-[7] [8] <./figs/Turk-open.jpg, id=266, 602.25pt x 524.96124pt>
+[6] [7] [8] [9] <./figs/Turk-open.jpg, id=296, 602.25pt x 524.96124pt>
 File: ./figs/Turk-open.jpg Graphic file (type jpg)
 
 <use ./figs/Turk-open.jpg>
-Package pdftex.def Info: ./figs/Turk-open.jpg used on input line 113.
+Package pdftex.def Info: ./figs/Turk-open.jpg used on input line 131.
 (pdftex.def)             Requested size: 254.79889pt x 222.10028pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[9]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[10]
+Underfull \vbox (badness 4556) has occurred while \output is active []
 
-=======
-l.58 
-      <C:/Users/Esther/Project/Project_report/figs/facebook-icon.png>] [6]
-[7] [8] [9] <./figs/Turk-open.jpg, id=290, 602.25pt x 524.96124pt>
-File: ./figs/Turk-open.jpg Graphic file (type jpg)
-
-<use ./figs/Turk-open.jpg>
-Package pdftex.def Info: ./figs/Turk-open.jpg used on input line 128.
-(pdftex.def)             Requested size: 254.79889pt x 222.10028pt.
->>>>>>> d8c691bd063ae0b90e35fecec3936260ec4b034b
- [10pdfTeX warning (ext4): destination with the same identifier (name{figure.1.
+ [11pdfTeX warning (ext4): destination with the same identifier (name{figure.1.
 2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-<<<<<<< HEAD
-l.124 \subparagraph
+l.142 \subparagraph
                    {} <C:/Users/Ida Malene/Project/Project_report/figs/Turk-ope
-n.jpg>]) [11] [12
+n.jpg>]) [12] ("C:\Users\Ida Malene\Project\Project_report\methodology.tex")
+[13
 
 
-] ("C:\Users\Ida Malene\Project\Project_report\methodology.tex") [13
-=======
-l.134 
-       <C:/Users/Esther/Project/Project_report/figs/Turk-open.jpg>]) [11]
-[12
-
-
-] (C:\Users\Esther\Project\Project_report\methodology.tex) [13
->>>>>>> d8c691bd063ae0b90e35fecec3936260ec4b034b
 
 
 ] [14
 
 
 ]
-<<<<<<< HEAD
 ("C:\Users\Ida Malene\Project\Project_report\default_privacy_settings.tex"
 [15
-=======
-(C:\Users\Esther\Project\Project_report\default_privacy_settings.tex [15
->>>>>>> d8c691bd063ae0b90e35fecec3936260ec4b034b
 
 
 ]
@@ -1884,149 +1832,84 @@ l.62
      ]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 80.
-<<<<<<< HEAD
-) [17] [18
-=======
->>>>>>> d8c691bd063ae0b90e35fecec3936260ec4b034b
 
 Underfull \vbox (badness 2119) has occurred while \output is active []
 
-<<<<<<< HEAD
-]
-("C:\Users\Ida Malene\Project\Project_report\mechanicalturk.tex") [19
-
-
-] [20
-
-
-]
-("C:\Users\Ida Malene\Project\Project_report\discussion.tex") [21
-
-] [22
-
-
-]
-("C:\Users\Ida Malene\Project\Project_report\conclusion.tex") [23
-=======
  [17])
-[18] (C:\Users\Esther\Project\Project_report\mechanicalturk.tex) [19
+[18] ("C:\Users\Ida Malene\Project\Project_report\mechanicalturk.tex") [19
 
 
-
-
-] [20
 
 
 ]
-(C:\Users\Esther\Project\Project_report\discussion.tex) [21
->>>>>>> d8c691bd063ae0b90e35fecec3936260ec4b034b
+[20
 
-] [24
 
+] ("C:\Users\Ida Malene\Project\Project_report\discussion.tex") [21
 
 ]
-<<<<<<< HEAD
-("C:\Users\Ida Malene\Project\Project_report\main.bbl"
+[22
+
+
+] ("C:\Users\Ida Malene\Project\Project_report\conclusion.tex") [23
+
+]
+[24
+
+
+] ("C:\Users\Ida Malene\Project\Project_report\main.bbl"
 bibitemlist
-
-Underfull \hbox (badness 1796) in paragraph at lines 66--68
-[]\T1/ptm/m/n/10 (+20) IMDB, ``The so-cial net-work.''  [][]$http : / / www . i
-mdb . com / title / tt1285016/$[][], ac-cessed
-=======
-(C:\Users\Esther\Project\Project_report\conclusion.tex) [23
-
-] [24
-
-
-]
-(C:\Users\Esther\Project\Project_report\main.bbl
-bibitemlist
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--54
-[]\T1/ptm/m/n/10 (+20) Facebook.  Lead-ing web-sites of-fer face-book bea-con
->>>>>>> d8c691bd063ae0b90e35fecec3936260ec4b034b
- []
-
 [25
 
-<<<<<<< HEAD
 ]
-Underfull \hbox (badness 1424) in paragraph at lines 93--95
+Underfull \hbox (badness 1796) in paragraph at lines 85--87
+[]\T1/ptm/m/n/10 (+20) IMDB, ``The so-cial net-work.''  [][]$http : / / www . i
+mdb . com / title / tt1285016/$[][], ac-cessed
+ []
+
+
+Underfull \hbox (badness 1424) in paragraph at lines 108--110
 []\T1/ptm/m/n/10 (+20) Amazon, ``Ama-zon me-chan-i-cal turk.''  [][]$http : / /
  aws . amazon . com / mturk/$[][], ac-cessed
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--137
+Underfull \hbox (badness 10000) in paragraph at lines 147--152
 []\T1/ptm/m/n/10 (+20) J. Topol-sky, ``Mark zucker-berg's let-ter to in-vestors
  on face-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--137
+Underfull \hbox (badness 10000) in paragraph at lines 147--152
 \T1/ptm/m/n/10 (+20) book's 'so-cial mis-sion'.''  [][]$http : / / www . thever
 ge . com / 2012 / 2 / 1 / 2764840 /$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--137
+Underfull \hbox (badness 10000) in paragraph at lines 147--152
 $\T1/ptm/m/n/10 (+20) mark-[]zuckerbergs-[]letter-[]to-[]investors-[]on-[]faceb
 ooks-[]social-[]mission / in / 2528910$[][],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--143
+Underfull \hbox (badness 10000) in paragraph at lines 154--158
 []\T1/ptm/m/n/10 (+20) Facebook, ``Lead-ing web-sites of-fer face-book bea-con 
 for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--143
+Underfull \hbox (badness 10000) in paragraph at lines 154--158
 \T1/ptm/m/n/10 (+20) so-cial dis-tri-bu-tion.''  [][]$https : / / newsroom . fb
  . com / News / 234 /$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--143
+Underfull \hbox (badness 10000) in paragraph at lines 154--158
 $\T1/ptm/m/n/10 (+20) Leading-[]Websites-[]Oer-[]Facebook-[]Beacon-[]for-[]Soc
 ial-[]Distribution$[][], ac-cessed
- []
-
-) [26]
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 49--54
-\T1/ptm/m/n/10 (+20) for so-cial dis-tri-bu-tion.  [][]$https : / / newsroom . 
-fb . com / News / 234 /$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--54
-$\T1/ptm/m/n/10 (+20) Leading-[]Websites-[]Oer-[]Facebook-[]Beacon-[]for-[]Soc
-ial-[]Distribution$[][], ac-cessed
- []
-
-[25
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 147--152
-[]\T1/ptm/m/n/10 (+20) Joshua Topol-sky.  Mark zucker-berg's let-ter to in-vest
-ors on face-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 147--152
-\T1/ptm/m/n/10 (+20) book's 'so-cial mis-sion'.  [][]$http : / / www . theverge
- . com / 2012 / 2 / 1 / 2764840 /$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 147--152
-$\T1/ptm/m/n/10 (+20) mark-[]zuckerbergs-[]letter-[]to-[]investors-[]on-[]faceb
-ooks-[]social-[]mission / in / 2528910$[][],
  []
 
 [26]) [27]
->>>>>>> d8c691bd063ae0b90e35fecec3936260ec4b034b
 \tf@toc=\write9
 \tf@lof=\write10
 \tf@lot=\write11
@@ -2045,11 +1928,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 110.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 110.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 110.
 Package rerunfilecheck Info: File `main.out' has not changed.
-<<<<<<< HEAD
-(rerunfilecheck)             Checksum: 38D5C504F5063123F145B1FDD8616902;1037.
-=======
 (rerunfilecheck)             Checksum: 3C4D3247EAEBA169738D34EE6D5E2786;1198.
->>>>>>> d8c691bd063ae0b90e35fecec3936260ec4b034b
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -2057,45 +1936,23 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 110.
  ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
- 21591 strings out of 493921
- 314116 string characters out of 3147267
- 564545 words of memory out of 3000000
- 24099 multiletter control sequences out of 15000+200000
- 83352 words of font info for 179 fonts, out of 3000000 for 9000
+ 21625 strings out of 493921
+ 314608 string characters out of 3147267
+ 565610 words of memory out of 3000000
+ 24115 multiletter control sequences out of 15000+200000
+ 83577 words of font info for 181 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 58i,11n,44p,2805b,590s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}{C:/Program File
-s/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}<C:/Program Files/MiKTeX 2.9/fonts/ty
+ 58i,11n,44p,2805b,664s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/M
+iKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/ty
 pe1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/u
 hvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/
 Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiK
 TeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
 e1/urw/times/utmri8a.pfb>
-Output written on main.pdf (42 pages, 388551 bytes).
+Output written on main.pdf (43 pages, 399929 bytes).
 PDF statistics:
- 487 PDF objects out of 1000 (max. 8388607)
- 124 named destinations out of 1000 (max. 500000)
- 19608 words of extra memory for PDF output out of 20736 (max. 10000000)
-=======
- 21589 strings out of 493921
- 315560 string characters out of 3144873
- 563453 words of memory out of 3000000
- 24097 multiletter control sequences out of 15000+200000
- 83222 words of font info for 177 fonts, out of 3000000 for 9000
- 841 hyphenation exceptions out of 8191
- 58i,11n,44p,2805b,652s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program F
-iles (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/M
-iKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
-nts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
-1/urw/helvetic/uhvr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/ti
-mes/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.
-pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (43 pages, 391582 bytes).
-PDF statistics:
- 498 PDF objects out of 1000 (max. 8388607)
- 127 named destinations out of 1000 (max. 500000)
+ 527 PDF objects out of 1000 (max. 8388607)
+ 139 named destinations out of 1000 (max. 500000)
  19624 words of extra memory for PDF output out of 20736 (max. 10000000)
->>>>>>> d8c691bd063ae0b90e35fecec3936260ec4b034b
 

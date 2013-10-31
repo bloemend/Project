@@ -40,29 +40,27 @@ Warning--entry type for "EvolutionOfFacebook" isn't style-file defined
 --line 139 of file references.bib
 Warning--entry type for "anchoring" isn't style-file defined
 --line 151 of file references.bib
-<<<<<<< HEAD
 Warning--entry type for "surveymonkeyaboutus" isn't style-file defined
 --line 179 of file references.bib
 Warning--entry type for "surveymonkeyfeatures" isn't style-file defined
 --line 186 of file references.bib
 Warning--entry type for "surveymonkeywiki" isn't style-file defined
 --line 193 of file references.bib
+Warning--entry type for "privacy" isn't style-file defined
+--line 212 of file references.bib
+Warning--entry type for "searchSetting" isn't style-file defined
+--line 219 of file references.bib
+Warning--entry type for "defprivacy" isn't style-file defined
+--line 226 of file references.bib
 Warning--empty journal in EvoPriv
 Warning--empty journal in PrivTimeline
 Warning--empty journal in OSNpaper
-Warning--empty journal in thirdPartyApps
-=======
-Warning--entry type for "privacy" isn't style-file defined
---line 188 of file references.bib
-Warning--entry type for "searchSetting" isn't style-file defined
---line 195 of file references.bib
+Warning--empty journal in expectations
 Warning--empty journal in InterdependetPriv
-Warning--empty journal in EvoPriv2
->>>>>>> d8c691bd063ae0b90e35fecec3936260ec4b034b
+Warning--empty journal in thirdPartyApps
 Warning--empty journal in MeMedia
 Warning--empty journal in FacebookStoryInceptionToIsp
 Warning--empty journal in whocares
-Warning--empty journal in expectations
 Warning--empty journal in AMT
 Warning--empty journal in incentivesAmt
 Warning--empty year in incentivesAmt

@@ -37,24 +37,28 @@ A.~Mislove, M.~Marcon, K.~P. Gummadi, P.~Druschel, and B.~Bhattacharjee,
 \newblock Published in Proceeding IMC '07 Proceedings of the 7th ACM SIGCOMM
   conference on Internet measurement. Pages 29-42.
 
-<<<<<<< HEAD
-\bibitem{thirdPartyApps}
-J.~G. Na~Wang, Heng~Xu, ``Third-party apps on facebook: Privacy and the
-  illusion of control,'' December 2011.
-=======
-\bibitem{InterdependetPriv}
-Gergely Biczók and Pern~Hui Chia.
-\newblock Interdependet privaqcy: Let me share your data.
-\newblock 2013.
+\bibitem{expectations}
+Y.~Liu, K.~P. Gummadi, B.~Krishnamurthy, and A.~Mislove, ``Analyzing facebook
+  privacy settings: User expectations vs. reality,'' 2011.
 
-\bibitem{EvoPriv2}
-Michael C.
-\newblock The evolution of privacy on facebook.
-\newblock 2011.
-\newblock
-  \url{http://www.yalelawtech.org/control-privacy-technology/evolution-of-facebook-privacy},
-  accessed 30.09.2013.
->>>>>>> d8c691bd063ae0b90e35fecec3936260ec4b034b
+\bibitem{InterdependetPriv}
+G.~Biczók and P.~H. Chia, ``Interdependet privaqcy: Let me share your data,''
+  2013.
+
+\bibitem{privacy}
+R.~Clarke, ``Introduction to dataveillance and information privacy, and
+  definitions of terms,'' Last edited: October 2013.
+\newblock \url{http://www.rogerclarke.com/DV/Intro.html#Priv}, accessed
+  30.10.2013.
+
+\bibitem{defprivacy}
+O.~Dictionaries, ``Definition of privacy.''
+\newblock \url{http://www.oxforddictionaries.com/definition/english/privacy},
+  accessed 30.10.2013.
+
+\bibitem{thirdPartyApps}
+H.~X. Na~Wang and J.~Grossklags, ``Third-party apps on facebook: Privacy and
+  the illusion of control,'' December 2011.
 
 \bibitem{MeMedia}
 J.~Cassidy, ``The online life; me media,'' May 2006.
@@ -62,26 +66,8 @@ J.~Cassidy, ``The online life; me media,'' May 2006.
   \url{http://www.newyorker.com/archive/2006/05/15/060515fa_fact_cassidy},
   accessed 04.10.2013.
 
-<<<<<<< HEAD
 \bibitem{droppLawsuit}
 S.~Musli, ``Winklevoss twins drop facebook lawsuit.''
-=======
-\bibitem{privacy}
-Roger Clarke.
-\newblock Introduction to dataveillance and information privacy, and
-  definitions of terms, Last edited: October 2013.
-\newblock \url{http://www.rogerclarke.com/DV/Intro.html#Priv}, accessed
-  30.10.2013.
-
-\bibitem{whocares}
-danah boyd and Eszter Hargittai.
-\newblock Facebook privacy settings; who cares?
-\newblock 2010.
-
-\bibitem{BeaconWebsites}
-Facebook.
-\newblock Leading websites offer facebook beacon for social distribution.
->>>>>>> d8c691bd063ae0b90e35fecec3936260ec4b034b
 \newblock
   \url{http://www.ivygateblog.com/2011/06/winklevoss-twins-finally-end-facebook-lawsuit-%E2%80%A6-psyche/},
   accessed 23.10.2013.
@@ -114,10 +100,6 @@ T.~Houston, ``Facebook to buy instagram for $ 1 $ billion.''
 \bibitem{whocares}
 danah boyd and E.~Hargittai, ``Facebook privacy settings; who cares?,'' 2010.
 
-\bibitem{expectations}
-Y.~Liu, K.~P. Gummadi, B.~Krishnamurthy, and A.~Mislove, ``Analyzing facebook
-  privacy settings: User expectations vs. reality,'' 2011.
-
 \bibitem{AMT}
 W.~Mason and S.~Suri, ``Conducting behavioral research on amazon's mechanical
   turk,'' 2011.
@@ -142,16 +124,9 @@ Wikipedia, ``Anchoring,'' Last edited: October 2013.
 \newblock \url{http://en.wikipedia.org/wiki/Anchoring_effect}, accessed
   28.10.2013.
 
-<<<<<<< HEAD
 \bibitem{surveymonkeyaboutus}
 SurveyMonkey, ``Surveymonkey - about us,'' 2013.
 \newblock \url{https://www.surveymonkey.com/mp/aboutus/}, accessed 30.10.2013.
-=======
-\bibitem{thirdPartyApps}
-Heng~Xu Na~Wang and Jens Grossklags.
-\newblock Third-party apps on facebook: Privacy and the illusion of control.
-\newblock December 2011.
->>>>>>> d8c691bd063ae0b90e35fecec3936260ec4b034b
 
 \bibitem{surveymonkeywiki}
 Wikipedia, ``Surveymonkey,'' Last edited: October 2013.
@@ -175,42 +150,22 @@ J.~Topolsky, ``Mark zuckerberg's letter to investors on facebook's 'social
   \url{http://www.theverge.com/2012/2/1/2764840/mark-zuckerbergs-letter-to-investors-on-facebooks-social-mission/in/2528910},
   accessed 28.10.2013.
 
-<<<<<<< HEAD
 \bibitem{BeaconWebsites}
 Facebook, ``Leading websites offer facebook beacon for social distribution.''
 \newblock
   \url{https://newsroom.fb.com/News/234/Leading-Websites-Offer-Facebook-Beacon-for-Social-Distribution},
   accessed 24.10.2013.
-=======
-\bibitem{searchSetting}
-Gregory Wallace.
-\newblock Facebook kills search privacy setting, Octover 11 2013.
-\newblock
-  \url{http://money.cnn.com/2013/10/11/technology/social/facebook-search-privacy/index.html?iid=EL},
-  accessed 30.10.2013.
-
-\bibitem{anchoring}
-Wikipedia.
-\newblock Anchoring, Last edited: October 2013.
-\newblock \url{http://en.wikipedia.org/wiki/Anchoring_effect}, accessed
-  28.10.2013.
-
-\bibitem{theturk}
-Wikipedia.
-\newblock The turk, Last edited: October 2013.
-\newblock \url{http://en.wikipedia.org/wiki/The_Turk}, accessed 23.10.2013.
-
-\bibitem{FacebookHistory}
-Wikipedia.
-\newblock History of facebook, Last edited: September 2013.
-\newblock \url{http://en.wikipedia.org/wiki/History_of_Facebook}, accessed
-  02.10.201.
->>>>>>> d8c691bd063ae0b90e35fecec3936260ec4b034b
 
 \bibitem{Beacon}
 M.~Zuckerberg, ``Thoughts on beacon.''
 \newblock
   \url{https://www.facebook.com/notes/facebook/thoughts-on-beacon/7584397130},
   accessed 24.10.2013.
+
+\bibitem{searchSetting}
+G.~Wallace, ``Facebook kills search privacy setting,'' Octover 11 2013.
+\newblock
+  \url{http://money.cnn.com/2013/10/11/technology/social/facebook-search-privacy/index.html?iid=EL},
+  accessed 30.10.2013.
 
 \end{thebibliography}
