@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  1 NOV 2013 14:32
+=======
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  1 NOV 2013 14:15
+>>>>>>> d1f0f0bcd912fed0e1330dd060b1c0854637ec32
 entering extended mode
 **main.tex
 ("C:\Users\Ida Malene\Project\Project_report\main.tex"
@@ -1588,6 +1592,7 @@ Package glossaries Info: Writing glossary file main.glo on input line 29.
 \glo@acronym@file=\write7
 Package glossaries Info: Writing glossary file main.acn on input line 29.
 
+<<<<<<< HEAD
 ("C:\Users\Ida Malene\Project\Project_report\main.aux"
 ("C:\Users\Ida Malene\Project\Project_report\summary.aux")
 ("C:\Users\Ida Malene\Project\Project_report\acknowledgement.aux")
@@ -1601,6 +1606,21 @@ LaTeX Warning: Label `chp:relatedwork' multiply defined.
 ("C:\Users\Ida Malene\Project\Project_report\mechanicalturk.aux")
 ("C:\Users\Ida Malene\Project\Project_report\discussion.aux")
 ("C:\Users\Ida Malene\Project\Project_report\conclusion.aux"))
+=======
+(C:\Users\Esther\Project\Project_report\main.aux
+(C:\Users\Esther\Project\Project_report\summary.aux)
+(C:\Users\Esther\Project\Project_report\acknowledgement.aux)
+(C:\Users\Esther\Project\Project_report\introduction.aux)
+(C:\Users\Esther\Project\Project_report\related_work.aux)
+(C:\Users\Esther\Project\Project_report\methodology.aux
+
+LaTeX Warning: Label `chp:relatedwork' multiply defined.
+
+) (C:\Users\Esther\Project\Project_report\default_privacy_settings.aux)
+(C:\Users\Esther\Project\Project_report\mechanicalturk.aux)
+(C:\Users\Esther\Project\Project_report\discussion.aux)
+(C:\Users\Esther\Project\Project_report\conclusion.aux))
+>>>>>>> d1f0f0bcd912fed0e1330dd060b1c0854637ec32
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
 LaTeX Font Info:    ... okay on input line 31.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
@@ -1772,8 +1792,13 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20> not available
  [3
 
 
+<<<<<<< HEAD
 ]
 [4] [5] <./figs/facebook-icon.png, id=244, 481.8pt x 481.8pt>
+=======
+] [4] [5]
+<./figs/facebook-icon.png, id=244, 481.8pt x 481.8pt>
+>>>>>>> d1f0f0bcd912fed0e1330dd060b1c0854637ec32
 File: ./figs/facebook-icon.png Graphic file (type png)
 
 <use ./figs/facebook-icon.png>
@@ -1785,7 +1810,11 @@ Package pdftex.def Info: ./figs/facebook-icon.png used on input line 57.
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.63 
+<<<<<<< HEAD
       <C:/Users/Ida Malene/Project/Project_report/figs/facebook-icon.png>]
+=======
+      <C:/Users/Esther/Project/Project_report/figs/facebook-icon.png>]
+>>>>>>> d1f0f0bcd912fed0e1330dd060b1c0854637ec32
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7]
@@ -1808,6 +1837,7 @@ e.1.2}) has been already used, duplicate ignored
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.147 \subparagraph
+<<<<<<< HEAD
                    {} <C:/Users/Ida Malene/Project/Project_report/figs/Turk-ope
 n.jpg>]) [13] [14
 
@@ -1816,10 +1846,26 @@ n.jpg>]) [13] [14
 
 Package natbib Warning: Citation `survey' on page 15 undefined on input line 11
 .
+=======
+                   {} <C:/Users/Esther/Project/Project_report/figs/Turk-open.jp
+g>]) [13] [14
+
+
+] (C:\Users\Esther\Project\Project_report\methodology.tex
+Underfull \vbox (badness 1308) has occurred while \output is active []
+
+ [15
+
+
+])
+[16] (C:\Users\Esther\Project\Project_report\default_privacy_settings.tex
+[17
+>>>>>>> d1f0f0bcd912fed0e1330dd060b1c0854637ec32
 
 ) [15
 
 
+<<<<<<< HEAD
 ] [16
 
 
@@ -1827,6 +1873,8 @@ Package natbib Warning: Citation `survey' on page 15 undefined on input line 11
 ("C:\Users\Ida Malene\Project\Project_report\default_privacy_settings.tex"
 [17
 
+=======
+>>>>>>> d1f0f0bcd912fed0e1330dd060b1c0854637ec32
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1844,15 +1892,28 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
 Underfull \vbox (badness 2119) has occurred while \output is active []
 
  [19])
+<<<<<<< HEAD
 [20] ("C:\Users\Ida Malene\Project\Project_report\mechanicalturk.tex") [21
+=======
+[20] (C:\Users\Esther\Project\Project_report\mechanicalturk.tex) [21
 
 
+>>>>>>> d1f0f0bcd912fed0e1330dd060b1c0854637ec32
+
+
+] [22
 
 
 ]
+<<<<<<< HEAD
 [22
+=======
+(C:\Users\Esther\Project\Project_report\discussion.tex) [23
+>>>>>>> d1f0f0bcd912fed0e1330dd060b1c0854637ec32
 
+] [24
 
+<<<<<<< HEAD
 ] ("C:\Users\Ida Malene\Project\Project_report\discussion.tex") [23
 
 ]
@@ -1860,68 +1921,114 @@ Underfull \vbox (badness 2119) has occurred while \output is active []
 
 
 ] ("C:\Users\Ida Malene\Project\Project_report\conclusion.tex") [25
+=======
+>>>>>>> d1f0f0bcd912fed0e1330dd060b1c0854637ec32
 
 ]
 [26
 
 
+<<<<<<< HEAD
 ] ("C:\Users\Ida Malene\Project\Project_report\main.bbl"
+=======
+
+]
+(C:\Users\Esther\Project\Project_report\main.bbl
+>>>>>>> d1f0f0bcd912fed0e1330dd060b1c0854637ec32
 bibitemlist
 [27
 
 ]
+<<<<<<< HEAD
 Underfull \hbox (badness 1796) in paragraph at lines 95--97
+=======
+Underfull \hbox (badness 1796) in paragraph at lines 84--86
+>>>>>>> d1f0f0bcd912fed0e1330dd060b1c0854637ec32
 []\T1/ptm/m/n/10 (+20) IMDB, ``The so-cial net-work.''  [][]$http : / / www . i
 mdb . com / title / tt1285016/$[][], ac-cessed
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 1424) in paragraph at lines 118--120
+=======
+Underfull \hbox (badness 1424) in paragraph at lines 107--109
+>>>>>>> d1f0f0bcd912fed0e1330dd060b1c0854637ec32
 []\T1/ptm/m/n/10 (+20) Amazon, ``Ama-zon me-chan-i-cal turk.''  [][]$http : / /
  aws . amazon . com / mturk/$[][], ac-cessed
  []
 
+<<<<<<< HEAD
 [28]
 Underfull \hbox (badness 10000) in paragraph at lines 157--162
+=======
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--157
+>>>>>>> d1f0f0bcd912fed0e1330dd060b1c0854637ec32
 []\T1/ptm/m/n/10 (+20) J. Topol-sky, ``Mark zucker-berg's let-ter to in-vestors
  on face-
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 157--162
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 152--157
+>>>>>>> d1f0f0bcd912fed0e1330dd060b1c0854637ec32
 \T1/ptm/m/n/10 (+20) book's 'so-cial mis-sion'.''  [][]$http : / / www . thever
 ge . com / 2012 / 2 / 1 / 2764840 /$
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 157--162
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 152--157
+>>>>>>> d1f0f0bcd912fed0e1330dd060b1c0854637ec32
 $\T1/ptm/m/n/10 (+20) mark-[]zuckerbergs-[]letter-[]to-[]investors-[]on-[]faceb
 ooks-[]social-[]mission / in / 2528910$[][],
  []
 
+<<<<<<< HEAD
 
 Underfull \hbox (badness 10000) in paragraph at lines 164--168
+=======
+[28]
+Underfull \hbox (badness 10000) in paragraph at lines 159--163
+>>>>>>> d1f0f0bcd912fed0e1330dd060b1c0854637ec32
 []\T1/ptm/m/n/10 (+20) Facebook, ``Lead-ing web-sites of-fer face-book bea-con 
 for
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 164--168
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 159--163
+>>>>>>> d1f0f0bcd912fed0e1330dd060b1c0854637ec32
 \T1/ptm/m/n/10 (+20) so-cial dis-tri-bu-tion.''  [][]$https : / / newsroom . fb
  . com / News / 234 /$
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 164--168
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 159--163
+>>>>>>> d1f0f0bcd912fed0e1330dd060b1c0854637ec32
 $\T1/ptm/m/n/10 (+20) Leading-[]Websites-[]Oer-[]Facebook-[]Beacon-[]for-[]Soc
 ial-[]Distribution$[][], ac-cessed
  []
 
+<<<<<<< HEAD
 )
 
 Package natbib Warning: There were undefined citations.
 
 [29]
+=======
+) [29]
+>>>>>>> d1f0f0bcd912fed0e1330dd060b1c0854637ec32
 \tf@toc=\write9
 \tf@lof=\write10
 \tf@lot=\write11
@@ -1940,7 +2047,11 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 110.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 110.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 110.
 Package rerunfilecheck Info: File `main.out' has not changed.
+<<<<<<< HEAD
 (rerunfilecheck)             Checksum: 85E79DE506C130B16F9A9F452B74F155;1246.
+=======
+(rerunfilecheck)             Checksum: 9247D76CB5DC6496AFE10AEA8A3F83C4;1254.
+>>>>>>> d1f0f0bcd912fed0e1330dd060b1c0854637ec32
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -1948,6 +2059,7 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 110.
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  21640 strings out of 493921
  314814 string characters out of 3147267
  563625 words of memory out of 3000000
@@ -1965,6 +2077,25 @@ e1/urw/times/utmri8a.pfb>
 Output written on main.pdf (45 pages, 407628 bytes).
 PDF statistics:
  544 PDF objects out of 1000 (max. 8388607)
+=======
+ 21643 strings out of 493921
+ 316367 string characters out of 3144873
+ 564625 words of memory out of 3000000
+ 24122 multiletter control sequences out of 15000+200000
+ 84027 words of font info for 185 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 58i,11n,44p,2805b,664s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
+nts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
+1/urw/helvetic/uhvr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/ti
+mes/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.
+pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (45 pages, 408827 bytes).
+PDF statistics:
+ 543 PDF objects out of 1000 (max. 8388607)
+>>>>>>> d1f0f0bcd912fed0e1330dd060b1c0854637ec32
  144 named destinations out of 1000 (max. 500000)
  19632 words of extra memory for PDF output out of 20736 (max. 10000000)
 

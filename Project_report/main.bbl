@@ -37,13 +37,10 @@ A.~Mislove, M.~Marcon, K.~P. Gummadi, P.~Druschel, and B.~Bhattacharjee,
 \newblock Published in Proceeding IMC '07 Proceedings of the 7th ACM SIGCOMM
   conference on Internet measurement. Pages 29-42.
 
-<<<<<<< HEAD
-=======
 \bibitem{expectations}
 Y.~Liu, K.~P. Gummadi, B.~Krishnamurthy, and A.~Mislove, ``Analyzing facebook
   privacy settings: User expectations vs. reality,'' 2011.
 
->>>>>>> 76d15bcab812fdcbc6691816e6627ad4c7d09deb
 \bibitem{InterdependetPriv}
 G.~Biczók and P.~H. Chia, ``Interdependet privaqcy: Let me share your data,''
   2013.
@@ -54,18 +51,10 @@ R.~Clarke, ``Introduction to dataveillance and information privacy, and
 \newblock \url{http://www.rogerclarke.com/DV/Intro.html#Priv}, accessed
   30.10.2013.
 
-\bibitem{defprivacy}
-O.~Dictionaries, ``Definition of privacy.''
-\newblock \url{http://www.oxforddictionaries.com/definition/english/privacy},
-  accessed 30.10.2013.
-
-<<<<<<< HEAD
 \bibitem{externalityDef}
 F.~Gottheil, ``Principles of economics.'' Power Point, 2013.
 \newblock Chapter 14: Externalities, Market, Failure and Public Choise.
 
-=======
->>>>>>> 76d15bcab812fdcbc6691816e6627ad4c7d09deb
 \bibitem{thirdPartyApps}
 H.~X. Na~Wang and J.~Grossklags, ``Third-party apps on facebook: Privacy and
   the illusion of control,'' December 2011.
@@ -146,6 +135,12 @@ Wikipedia, ``Surveymonkey,'' Last edited: October 2013.
 SurveyMonkey, ``Surveymonkey - how it works,'' 2013.
 \newblock \url{https://www.surveymonkey.com/mp/take-a-tour/}, accessed
   30.10.2013.
+
+\bibitem{survey}
+A.~Bhattacherjee, {\em Social Science Research: Principles, Methods, and
+  Practices}, ch.~Survey Research, pp.~73--82.
+\newblock Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported
+  License, 2012.
 
 \bibitem{EvoPriv2}
 M.~C., ``The evolution of privacy on facebook,'' 2011.

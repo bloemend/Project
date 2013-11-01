@@ -8,7 +8,11 @@
 \BOOKMARK [1][-]{section.1.5}{Amazon Mechanical Turk}{chapter.1}% 8
 \BOOKMARK [1][-]{section.1.6}{SurveyMonkey}{chapter.1}% 9
 \BOOKMARK [0][-]{chapter.2}{Methodology}{}% 10
+<<<<<<< HEAD
 \BOOKMARK [1][-]{section.2.1}{}{chapter.2}% 11
+=======
+\BOOKMARK [1][-]{section.2.1}{Approach}{chapter.2}% 11
+>>>>>>> d1f0f0bcd912fed0e1330dd060b1c0854637ec32
 \BOOKMARK [0][-]{chapter.3}{Default Privacy Settings}{}% 12
 \BOOKMARK [1][-]{section.3.1}{Default Privacy Settings}{chapter.3}% 13
 \BOOKMARK [1][-]{section.3.2}{Facebook privacy}{chapter.3}% 14
