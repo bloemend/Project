@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  4 NOV 2013 16:46
+=======
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  4 NOV 2013 16:49
+>>>>>>> 174132a800b8d4115b22390ebc61e384eda99ff9
 entering extended mode
 **main.tex
 (C:\Users\Esther\Project\Project_report\main.tex
@@ -1599,10 +1603,17 @@ Package glossaries Info: Writing glossary file main.acn on input line 29.
 
 LaTeX Warning: Label `chp:relatedwork' multiply defined.
 
+<<<<<<< HEAD
 ) (C:\Users\Esther\Project\Project_report\default_privacy_settings.aux)
 (C:\Users\Esther\Project\Project_report\mechanicalturk.aux)
 (C:\Users\Esther\Project\Project_report\discussion.aux)
 (C:\Users\Esther\Project\Project_report\conclusion.aux))
+=======
+) ("C:\Users\Ida Malene\Project\Project_report\default_privacy_settings.aux")
+("C:\Users\Ida Malene\Project\Project_report\mechanicalturk.aux")
+("C:\Users\Ida Malene\Project\Project_report\discussion.aux")
+("C:\Users\Ida Malene\Project\Project_report\conclusion.aux"))
+>>>>>>> 174132a800b8d4115b22390ebc61e384eda99ff9
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
 LaTeX Font Info:    ... okay on input line 31.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
@@ -1678,7 +1689,7 @@ LaTeX Info: Redefining \nameref on input line 31.
 \@outlinefile=\write8
 \c@lstlisting=\count324
 
-<./figs/ntnu-logo.pdf, id=91, 241.4922pt x 52.79724pt>
+<./figs/ntnu-logo.pdf, id=87, 241.4922pt x 52.79724pt>
 File: ./figs/ntnu-logo.pdf Graphic file (type pdf)
 
 <use ./figs/ntnu-logo.pdf>
@@ -1774,8 +1785,13 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20> not available
  [3
 
 
+<<<<<<< HEAD
 ] [4] [5]
 <./figs/facebook-icon.png, id=264, 481.8pt x 481.8pt>
+=======
+]
+[4] [5] <./figs/facebook-icon.png, id=257, 481.8pt x 481.8pt>
+>>>>>>> 174132a800b8d4115b22390ebc61e384eda99ff9
 File: ./figs/facebook-icon.png Graphic file (type png)
 
 <use ./figs/facebook-icon.png>
@@ -1787,8 +1803,13 @@ Package pdftex.def Info: ./figs/facebook-icon.png used on input line 53.
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.59 
+<<<<<<< HEAD
       <C:/Users/Esther/Project/Project_report/figs/facebook-icon.png>] [7]
 [8] [9] [10] <./figs/Turk-open.jpg, id=327, 602.25pt x 524.96124pt>
+=======
+      <C:/Users/Ida Malene/Project/Project_report/figs/facebook-icon.png>]
+[7] [8] [9] [10] <./figs/Turk-open.jpg, id=320, 602.25pt x 524.96124pt>
+>>>>>>> 174132a800b8d4115b22390ebc61e384eda99ff9
 File: ./figs/Turk-open.jpg Graphic file (type jpg)
 
 <use ./figs/Turk-open.jpg>
@@ -1833,6 +1854,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.59 
+<<<<<<< HEAD
      ]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 75.
@@ -1842,20 +1864,37 @@ File: ./figs/new_post.png Graphic file (type png)
 <use ./figs/new_post.png>
 Package pdftex.def Info: ./figs/new_post.png used on input line 81.
 (pdftex.def)             Requested size: 291.20111pt x 182.96906pt.
+=======
+     ] <./figs/sharePost.png, id=405, 393.72093pt x 161.10187pt>
+File: ./figs/sharePost.png Graphic file (type png)
+
+<use ./figs/sharePost.png>
+Package pdftex.def Info: ./figs/sharePost.png used on input line 83.
+(pdftex.def)             Requested size: 291.20111pt x 119.15205pt.
+>>>>>>> 174132a800b8d4115b22390ebc61e384eda99ff9
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+<<<<<<< HEAD
 <./figs/teensSharePost.png, id=415, 395.97937pt x 197.23688pt>
 File: ./figs/teensSharePost.png Graphic file (type png)
 
 <use ./figs/teensSharePost.png>
 Package pdftex.def Info: ./figs/teensSharePost.png used on input line 88.
+=======
+<./figs/teensSharePost.png, id=408, 395.97937pt x 197.23688pt>
+File: ./figs/teensSharePost.png Graphic file (type png)
+
+<use ./figs/teensSharePost.png>
+Package pdftex.def Info: ./figs/teensSharePost.png used on input line 90.
+>>>>>>> 174132a800b8d4115b22390ebc61e384eda99ff9
 (pdftex.def)             Requested size: 291.20111pt x 145.05011pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+<<<<<<< HEAD
 <./figs/sharePost.png, id=418, 393.72093pt x 161.10187pt>
 File: ./figs/sharePost.png Graphic file (type png)
 
@@ -1866,17 +1905,26 @@ Package pdftex.def Info: ./figs/sharePost.png used on input line 95.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+=======
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 96.
+>>>>>>> 174132a800b8d4115b22390ebc61e384eda99ff9
 [19] [20pdfTeX warning (ext4): destination with the same identifier (name{figur
 e.3.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
+<<<<<<< HEAD
 l.107 
+=======
+l.112 
+>>>>>>> 174132a800b8d4115b22390ebc61e384eda99ff9
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 3.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
+<<<<<<< HEAD
 l.107 
        <C:/Users/Esther/Project/Project_report/figs/new_post.png> <C:/Users/Est
 her/Project/Project_report/figs/teensSharePost.png>]) [21pdfTeX warning (ext4):
@@ -1889,6 +1937,11 @@ l.83 \include{default_privacy_settings}
                                         <C:/Users/Esther/Project/Project_report
 /figs/sharePost.png>] [22]
 (C:\Users\Esther\Project\Project_report\mechanicalturk.tex) [23
+=======
+l.112 
+       <C:/Users/Ida Malene/Project/Project_report/figs/sharePost.png> <C:/User
+s/Ida Malene/Project/Project_report/figs/teensSharePost.png>]) [21] [22
+>>>>>>> 174132a800b8d4115b22390ebc61e384eda99ff9
 
 
 
@@ -1992,7 +2045,11 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 110.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 110.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 110.
 Package rerunfilecheck Info: File `main.out' has not changed.
+<<<<<<< HEAD
 (rerunfilecheck)             Checksum: F8DBA8509E4EBE3E15EBDFA7632C2BA7;1430.
+=======
+(rerunfilecheck)             Checksum: ED5ABA8916065946CB97C26E4E71EC4E;1349.
+>>>>>>> 174132a800b8d4115b22390ebc61e384eda99ff9
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -2000,6 +2057,7 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 110.
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  21679 strings out of 493921
  317045 string characters out of 3144873
  565304 words of memory out of 3000000
@@ -2019,4 +2077,25 @@ PDF statistics:
  597 PDF objects out of 1000 (max. 8388607)
  153 named destinations out of 1000 (max. 500000)
  19663 words of extra memory for PDF output out of 20736 (max. 10000000)
+=======
+ 21674 strings out of 493921
+ 315383 string characters out of 3147267
+ 564932 words of memory out of 3000000
+ 24139 multiletter control sequences out of 15000+200000
+ 84252 words of font info for 187 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 58i,11n,44p,2843b,660s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/M
+iKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/u
+hvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/urw/times/utmri8a.pfb>
+Output written on main.pdf (47 pages, 503042 bytes).
+PDF statistics:
+ 588 PDF objects out of 1000 (max. 8388607)
+ 153 named destinations out of 1000 (max. 500000)
+ 19650 words of extra memory for PDF output out of 20736 (max. 10000000)
+>>>>>>> 174132a800b8d4115b22390ebc61e384eda99ff9
 
