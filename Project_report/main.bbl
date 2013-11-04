@@ -85,7 +85,7 @@ IMDB, ``The social network.''
 \newblock \url{http://www.imdb.com/title/tt1285016/}, accessed 24.10.2013.
 
 \bibitem{EvolutionOfFacebook}
-B.~D.~T. The New York~Times, ``The evolution of facebook.''
+T.~N. Y. T. B.~D. Technology, ``The evolution of facebook.''
 \newblock
   \url{http://www.nytimes.com/interactive/technology/facebook-timeline.html?_r=0#/#time189_6062},
   Last edited 24.07.2013, accessed 28.10.2013.
@@ -172,5 +172,11 @@ G.~Wallace, ``Facebook kills search privacy setting,'' Octover 11 2013.
 \newblock
   \url{http://money.cnn.com/2013/10/11/technology/social/facebook-search-privacy/index.html?iid=EL},
   accessed 30.10.2013.
+
+\bibitem{timeline}
+S.~W. Lessin, ``Tell your story with timeline,'' September 22, 2011.
+\newblock
+  \url{https://www.facebook.com/notes/facebook/tell-your-story-with-timeline/10150289612087131},
+  accessed 04.11.2013.
 
 \end{thebibliography}
