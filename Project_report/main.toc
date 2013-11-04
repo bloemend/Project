@@ -46,14 +46,13 @@
 \contentsline {paragraph}{}{18}{section*.30}
 \contentsline {paragraph}{}{19}{section*.31}
 \contentsline {paragraph}{}{19}{section*.32}
-\contentsline {paragraph}{Default for teens}{19}{section*.33}
-\contentsline {section}{\numberline {3.3}Facebook Features}{19}{section.3.3}
-\contentsline {section}{\numberline {3.4}Facebook Features - Impact on your Privacy}{19}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Beacon}{20}{subsection.3.4.1}
-\contentsline {paragraph}{}{20}{section*.34}
-\contentsline {paragraph}{}{20}{section*.35}
-\contentsline {subsection}{\numberline {3.4.2}Graph search}{21}{subsection.3.4.2}
-\contentsline {subsection}{\numberline {3.4.3}Facebook removes search privacy setting}{21}{subsection.3.4.3}
-\contentsline {subsection}{\numberline {3.4.4}Timeline}{21}{subsection.3.4.4}
+\contentsline {subsection}{\numberline {3.2.1}Default settings for teens}{19}{subsection.3.2.1}
+\contentsline {section}{\numberline {3.3}Facebook Features - Impact on your Privacy}{20}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Beacon}{20}{subsection.3.3.1}
+\contentsline {paragraph}{}{20}{section*.33}
+\contentsline {paragraph}{}{21}{section*.34}
+\contentsline {subsection}{\numberline {3.3.2}Graph search}{21}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Facebook removes search privacy setting}{21}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Timeline}{21}{subsection.3.3.4}
 \contentsline {chapter}{\chapternumberline {4}Amazon Mechanical Turk Survey}{23}{chapter.4}
-\contentsline {chapter}{References}{29}{section*.37}
+\contentsline {chapter}{References}{29}{section*.36}
