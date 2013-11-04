@@ -38,14 +38,20 @@
 \contentsline {section}{\numberline {1.6}SurveyMonkey}{13}{section.1.6}
 \contentsline {chapter}{\chapternumberline {2}Methodology}{15}{chapter.2}
 \contentsline {section}{\numberline {2.1}Approach}{15}{section.2.1}
+<<<<<<< HEAD
 \contentsline {chapter}{\chapternumberline {3}Default Privacy Settings}{17}{chapter.3}
 \contentsline {section}{\numberline {3.1}Default Privacy Settings}{17}{section.3.1}
+=======
+\contentsline {chapter}{\chapternumberline {3}Facebook Privacy}{17}{chapter.3}
+\contentsline {section}{\numberline {3.1}Privacy on Facebook}{17}{section.3.1}
+\contentsline {section}{\numberline {3.2}Default Privacy Settings on Facebook}{17}{section.3.2}
+>>>>>>> db18f9b980181622b2a849cb37f8fb55a2956589
 \contentsline {paragraph}{}{17}{section*.28}
-\contentsline {section}{\numberline {3.2}Facebook privacy}{17}{section.3.2}
 \contentsline {paragraph}{}{17}{section*.29}
-\contentsline {paragraph}{}{17}{section*.30}
+\contentsline {paragraph}{}{18}{section*.30}
 \contentsline {paragraph}{}{19}{section*.31}
 \contentsline {paragraph}{}{19}{section*.32}
+<<<<<<< HEAD
 \contentsline {paragraph}{default for teens}{19}{section*.33}
 \contentsline {section}{\numberline {3.3}Facebook Features}{20}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}Beacon}{20}{subsection.3.3.1}
@@ -55,3 +61,14 @@
 \contentsline {subsection}{\numberline {3.3.3}Facebook removes search privacy setting}{20}{subsection.3.3.3}
 \contentsline {chapter}{\chapternumberline {4}Amazon Mechanical Turk Survey}{23}{chapter.4}
 \contentsline {chapter}{References}{29}{section*.37}
+=======
+\contentsline {section}{\numberline {3.3}Facebook Features - Impact on your Privacy}{19}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Beacon}{19}{subsection.3.3.1}
+\contentsline {paragraph}{}{19}{section*.33}
+\contentsline {paragraph}{}{19}{section*.34}
+\contentsline {subsection}{\numberline {3.3.2}Graph search}{20}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Facebook removes search privacy setting}{20}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Timeline}{20}{subsection.3.3.4}
+\contentsline {chapter}{\chapternumberline {4}Amazon Mechanical Turk Survey}{21}{chapter.4}
+\contentsline {chapter}{References}{27}{section*.36}
+>>>>>>> db18f9b980181622b2a849cb37f8fb55a2956589
