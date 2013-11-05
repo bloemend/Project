@@ -40,33 +40,25 @@
 \contentsline {section}{\numberline {2.1}Approach}{15}{section.2.1}
 \contentsline {chapter}{\chapternumberline {3}Facebook Privacy}{17}{chapter.3}
 \contentsline {section}{\numberline {3.1}Privacy on Facebook}{17}{section.3.1}
-\contentsline {section}{\numberline {3.2}Default Privacy Settings on Facebook}{17}{section.3.2}
+\contentsline {subsection}{\numberline {3.1.1}What does Zuckerburg mean}{17}{subsection.3.1.1}
 \contentsline {paragraph}{}{17}{section*.28}
-\contentsline {paragraph}{}{17}{section*.29}
+\contentsline {paragraph}{Skal vi ha med det her?}{18}{section*.29}
 \contentsline {paragraph}{}{18}{section*.30}
-\contentsline {paragraph}{}{19}{section*.31}
-\contentsline {paragraph}{}{19}{section*.32}
-<<<<<<< HEAD
-\contentsline {subsection}{\numberline {3.2.1}Default settings for teens}{19}{subsection.3.2.1}
+\contentsline {section}{\numberline {3.2}Default Privacy Settings on Facebook}{19}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Development of default privacy settings}{19}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Default settings today}{19}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Default settings for teens}{19}{subsection.3.2.3}
 \contentsline {section}{\numberline {3.3}Facebook Features - Impact on your Privacy}{20}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Beacon}{20}{subsection.3.3.1}
-\contentsline {paragraph}{}{20}{section*.33}
-\contentsline {paragraph}{}{21}{section*.34}
-\contentsline {subsection}{\numberline {3.3.2}Graph search}{21}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Facebook removes search privacy setting}{21}{subsection.3.3.3}
-\contentsline {subsection}{\numberline {3.3.4}Timeline}{21}{subsection.3.3.4}
-\contentsline {chapter}{\chapternumberline {4}Amazon Mechanical Turk Survey}{23}{chapter.4}
-\contentsline {chapter}{References}{29}{section*.36}
-=======
-\contentsline {paragraph}{Default for teens}{19}{section*.33}
-\contentsline {section}{\numberline {3.3}Facebook Features - Impact on your Privacy}{19}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Beacon}{19}{subsection.3.3.1}
-\contentsline {paragraph}{}{19}{section*.34}
-\contentsline {paragraph}{}{20}{section*.35}
-\contentsline {subsection}{\numberline {3.3.2}Graph search}{20}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Facebook removes search privacy setting}{20}{subsection.3.3.3}
-\contentsline {subsection}{\numberline {3.3.4}Timeline}{21}{subsection.3.3.4}
-\contentsline {paragraph}{Privacy concerns regarding Facebook timeline}{21}{section*.36}
-\contentsline {chapter}{\chapternumberline {4}Amazon Mechanical Turk Survey}{23}{chapter.4}
-\contentsline {chapter}{References}{29}{section*.38}
->>>>>>> 174132a800b8d4115b22390ebc61e384eda99ff9
+\contentsline {subsection}{\numberline {3.3.1}News feed}{20}{subsection.3.3.1}
+\contentsline {paragraph}{}{20}{section*.31}
+\contentsline {subsection}{\numberline {3.3.2}Facebook Platform - apps}{20}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Beacon}{20}{subsection.3.3.3}
+\contentsline {paragraph}{}{21}{section*.32}
+\contentsline {paragraph}{}{21}{section*.33}
+\contentsline {subsection}{\numberline {3.3.4}Facebook connect - "log in with facebook"}{22}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}Graph search}{22}{subsection.3.3.5}
+\contentsline {subsection}{\numberline {3.3.6}Facebook removes search privacy setting}{22}{subsection.3.3.6}
+\contentsline {subsection}{\numberline {3.3.7}Timeline}{22}{subsection.3.3.7}
+\contentsline {paragraph}{Privacy concerns regarding Facebook timeline}{23}{section*.34}
+\contentsline {chapter}{\chapternumberline {4}Amazon Mechanical Turk Survey}{25}{chapter.4}
+\contentsline {chapter}{References}{31}{section*.36}

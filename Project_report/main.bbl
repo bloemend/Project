@@ -4,6 +4,12 @@
 Wikipedia, ``The turk,'' Last edited: October 2013.
 \newblock \url{http://en.wikipedia.org/wiki/The_Turk}, accessed 23.10.2013.
 
+\bibitem{BBCFacebookGrowth}
+B.~N. Technology, ``Facebook timeline: the social network's life story,'' May
+  18, 2012.
+\newblock \url{http://www.bbc.co.uk/news/technology-16832799}, accessed
+  05.11.2013.
+
 \bibitem{defaultTeens}
 Facebook, ``Teens now start with "friends" privacy for new accounts; adding the
   option to share publicly,'' Octover 16 2013.
@@ -149,18 +155,18 @@ A.~Bhattacherjee, {\em Social Science Research: Principles, Methods, and
 \newblock Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported
   License, 2012.
 
-\bibitem{EvoPriv2}
-M.~C., ``The evolution of privacy on facebook,'' 2011.
-\newblock
-  \url{http://www.yalelawtech.org/control-privacy-technology/evolution-of-facebook-privacy},
-  accessed 30.09.2013.
-
 \bibitem{LetterToInvestors}
 J.~Topolsky, ``Mark zuckerberg's letter to investors on facebook's 'social
   mission'.''
 \newblock
   \url{http://www.theverge.com/2012/2/1/2764840/mark-zuckerbergs-letter-to-investors-on-facebooks-social-mission/in/2528910},
   accessed 28.10.2013.
+
+\bibitem{EvoPriv2}
+M.~C., ``The evolution of privacy on facebook,'' 2011.
+\newblock
+  \url{http://www.yalelawtech.org/control-privacy-technology/evolution-of-facebook-privacy},
+  accessed 30.09.2013.
 
 \bibitem{BeaconWebsites}
 Facebook, ``Leading websites offer facebook beacon for social distribution.''
