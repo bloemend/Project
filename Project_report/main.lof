@@ -7,8 +7,15 @@
 \contentsline {figure}{\numberline {1.2}{\ignorespaces Engraving of the Turk. This shows the Turk with open doors and the different parts inside of the Turk. Wolfgang von Kempelen may have drawn this picture himself, since he was a talented engraver \cite {theturk}.}}{12}{figure.1.2}
 \addvspace {10pt}
 \addvspace {10pt}
+<<<<<<< HEAD
 \contentsline {figure}{\numberline {3.1}{\ignorespaces A graph showing the development of both users and introduction of new features over the years \cite {BBCFacebookGrowth}.}}{18}{figure.3.1}
 \contentsline {figure}{\numberline {3.2}{\ignorespaces Choosing who can see the status update.}}{21}{figure.3.2}
 \contentsline {figure}{\numberline {3.3}{\ignorespaces The message that is shown to a teens when posting to the public \cite {defaultTeens}.}}{21}{figure.3.3}
 \contentsline {figure}{\numberline {3.4}{\ignorespaces The message that is shown to a regular user when posting to the public \cite {defaultTeens}.}}{22}{figure.3.4}
+=======
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Choosing who can see the status update.}}{20}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces The message that is shown to a teens when posting to the public \cite {defaultTeens}.}}{20}{figure.3.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces The message that is shown to a regular user when posting to the public \cite {defaultTeens}.}}{21}{figure.3.3}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Example of an activity log on Facebook. On the left side you see types of content. If you want to view for example "Posts by others" you can do so by clicking on it. To the right you see a list of the years and months. You can click on which year or month you want, and review the activity from that year/month \cite {activitylog}}}{22}{figure.3.4}
+>>>>>>> e5e260333031e5f01d614ddc1197ec95ae1c6b9c
 \addvspace {10pt}

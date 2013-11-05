@@ -54,7 +54,11 @@ Warning--entry type for "defaultTeens" isn't style-file defined
 --line 245 of file references.bib
 Warning--entry type for "timeline" isn't style-file defined
 --line 252 of file references.bib
+<<<<<<< HEAD
 Warning--entry type for "BBCFacebookGrowth" isn't style-file defined
+=======
+Warning--entry type for "activitylog" isn't style-file defined
+>>>>>>> e5e260333031e5f01d614ddc1197ec95ae1c6b9c
 --line 259 of file references.bib
 Warning--empty journal in EvoPriv
 Warning--empty journal in PrivTimeline
