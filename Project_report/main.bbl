@@ -10,18 +10,6 @@ B.~N. Technology, ``Facebook timeline: the social network's life story,'' May
 \newblock \url{http://www.bbc.co.uk/news/technology-16832799}, accessed
   05.11.2013.
 
-\bibitem{defaultTeens}
-Facebook, ``Teens now start with "friends" privacy for new accounts; adding the
-  option to share publicly,'' Octover 16 2013.
-\newblock
-  \url{http://newsroom.fb.com/News/737/Teens-Now-Start-With-Friends-Privacy-for-New-Accounts-Adding-the-Option-to-Share-Publicly#downloads},
-  accessed 04.11.2013.
-
-\bibitem{activitylog}
-Facebook, ``Explore your activity log.''
-\newblock \url{https://www.facebook.com/help/437430672945092}, accessed
-  05.11.2013.
-
 \bibitem{EvoPriv}
 M.~McKeon, ``The evolution of privacy on facebook,'' 2010.
 \newblock \url{http://www.mattmckeon.com/facebook-privacy}, accessed
@@ -160,18 +148,18 @@ A.~Bhattacherjee, {\em Social Science Research: Principles, Methods, and
 \newblock Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported
   License, 2012.
 
-\bibitem{LetterToInvestors}
-J.~Topolsky, ``Mark zuckerberg's letter to investors on facebook's 'social
-  mission'.''
-\newblock
-  \url{http://www.theverge.com/2012/2/1/2764840/mark-zuckerbergs-letter-to-investors-on-facebooks-social-mission/in/2528910},
-  accessed 28.10.2013.
-
 \bibitem{EvoPriv2}
 M.~C., ``The evolution of privacy on facebook,'' 2011.
 \newblock
   \url{http://www.yalelawtech.org/control-privacy-technology/evolution-of-facebook-privacy},
   accessed 30.09.2013.
+
+\bibitem{defaultTeens}
+Facebook, ``Teens now start with "friends" privacy for new accounts; adding the
+  option to share publicly,'' Octover 16 2013.
+\newblock
+  \url{http://newsroom.fb.com/News/737/Teens-Now-Start-With-Friends-Privacy-for-New-Accounts-Adding-the-Option-to-Share-Publicly#downloads},
+  accessed 04.11.2013.
 
 \bibitem{BeaconWebsites}
 Facebook, ``Leading websites offer facebook beacon for social distribution.''
@@ -185,16 +173,28 @@ M.~Zuckerberg, ``Thoughts on beacon.''
   \url{https://www.facebook.com/notes/facebook/thoughts-on-beacon/7584397130},
   accessed 24.10.2013.
 
+\bibitem{timeline}
+S.~W. Lessin, ``Tell your story with timeline,'' September 22, 2011.
+\newblock
+  \url{https://www.facebook.com/notes/facebook/tell-your-story-with-timeline/10150289612087131},
+  accessed 04.11.2013.
+
+\bibitem{activitylog}
+Facebook, ``Explore your activity log.''
+\newblock \url{https://www.facebook.com/help/437430672945092}, accessed
+  05.11.2013.
+
 \bibitem{searchSetting}
 G.~Wallace, ``Facebook kills search privacy setting,'' October 11 2013.
 \newblock
   \url{http://money.cnn.com/2013/10/11/technology/social/facebook-search-privacy/index.html?iid=EL},
   accessed 30.10.2013.
 
-\bibitem{timeline}
-S.~W. Lessin, ``Tell your story with timeline,'' September 22, 2011.
+\bibitem{LetterToInvestors}
+J.~Topolsky, ``Mark zuckerberg's letter to investors on facebook's 'social
+  mission'.''
 \newblock
-  \url{https://www.facebook.com/notes/facebook/tell-your-story-with-timeline/10150289612087131},
-  accessed 04.11.2013.
+  \url{http://www.theverge.com/2012/2/1/2764840/mark-zuckerbergs-letter-to-investors-on-facebooks-social-mission/in/2528910},
+  accessed 28.10.2013.
 
 \end{thebibliography}
