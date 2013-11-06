@@ -55,18 +55,11 @@ Warning--entry type for "defaultTeens" isn't style-file defined
 Warning--entry type for "timeline" isn't style-file defined
 --line 252 of file references.bib
 Warning--entry type for "BBCFacebookGrowth" isn't style-file defined
---line 260 of file references.bib
-You're missing a field name---line 265 of file references.bib
- : 
- : =======
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
+--line 259 of file references.bib
 Warning--entry type for "activitylog" isn't style-file defined
 --line 266 of file references.bib
-I was expecting an "="---line 270 of file references.bib
- : >>>>>>> 
- :         e5e260333031e5f01d614ddc1197ec95ae1c6b9c
-I'm skipping whatever remains of this entry
+Warning--entry type for "beaconMarketsPerspective" isn't style-file defined
+--line 272 of file references.bib
 Warning--empty journal in EvoPriv
 Warning--empty journal in PrivTimeline
 Warning--empty journal in OSNpaper
@@ -82,4 +75,4 @@ Warning--empty year in incentivesAmt
 Warning--empty journal in amtpay
 Warning--empty journal in averagepay
 Warning--empty journal in EvoPriv2
-(There were 3 error messages)
+(There was 1 error message)

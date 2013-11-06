@@ -1,15 +1,5 @@
 \begin{thebibliography}{10}
 
-\bibitem{theturk}
-Wikipedia, ``The turk,'' Last edited: October 2013.
-\newblock \url{http://en.wikipedia.org/wiki/The_Turk}, accessed 23.10.2013.
-
-\bibitem{BBCFacebookGrowth}
-B.~N. Technology, ``Facebook timeline: the social network's life story,'' May
-  18, 2012.
-\newblock \url{http://www.bbc.co.uk/news/technology-16832799}, accessed
-  05.11.2013.
-
 \bibitem{EvoPriv}
 M.~McKeon, ``The evolution of privacy on facebook,'' 2010.
 \newblock \url{http://www.mattmckeon.com/facebook-privacy}, accessed
@@ -102,6 +92,12 @@ T.~Houston, ``Facebook to buy instagram for $ 1 $ billion.''
   \url{http://www.theverge.com/2012/4/9/2936375/facebook-buys-instagram},
   accessed 28.10.2013.
 
+\bibitem{BBCFacebookGrowth}
+B.~N. Technology, ``Facebook timeline: the social network's life story,'' May
+  18, 2012.
+\newblock \url{http://www.bbc.co.uk/news/technology-16832799}, accessed
+  05.11.2013.
+
 \bibitem{whocares}
 danah boyd and E.~Hargittai, ``Facebook privacy settings; who cares?,'' 2010.
 
@@ -112,6 +108,10 @@ W.~Mason and S.~Suri, ``Conducting behavioral research on amazon's mechanical
 \bibitem{amazonweb}
 Amazon, ``Amazon mechanical turk.''
 \newblock \url{http://aws.amazon.com/mturk/}, accessed 23.10.2013.
+
+\bibitem{theturk}
+Wikipedia, ``The turk,'' Last edited: October 2013.
+\newblock \url{http://en.wikipedia.org/wiki/The_Turk}, accessed 23.10.2013.
 
 \bibitem{incentivesAmt}
 W.~Mason and D.~J. Watts, ``Financial incentives and the "performance of
@@ -166,6 +166,12 @@ Facebook, ``Leading websites offer facebook beacon for social distribution.''
 \newblock
   \url{https://newsroom.fb.com/News/234/Leading-Websites-Offer-Facebook-Beacon-for-Social-Distribution},
   accessed 24.10.2013.
+
+\bibitem{beaconMarketsPerspective}
+M.~Dickman, ``Inside//out: Facebook beacon,'' Last edit December 5 2007.
+\newblock
+  \url{http://technomarketer.typepad.com/technomarketer/2007/11/insideout-faceb.html
+  }, accessed 06.11.2013.
 
 \bibitem{Beacon}
 M.~Zuckerberg, ``Thoughts on beacon.''
