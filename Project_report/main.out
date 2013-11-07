@@ -1,29 +1,31 @@
 \BOOKMARK [0][-]{section*.1}{List of Figures}{}% 1
 \BOOKMARK [0][-]{section*.2}{List of Tables}{}% 2
-\BOOKMARK [0][-]{chapter.1}{Related Work}{}% 3
-\BOOKMARK [1][-]{section.1.1}{Social Network Services}{chapter.1}% 4
-\BOOKMARK [1][-]{section.1.2}{Interdependent Privacy}{chapter.1}% 5
-\BOOKMARK [1][-]{section.1.3}{The History of Facebook}{chapter.1}% 6
-\BOOKMARK [1][-]{section.1.4}{Facebook Privacy}{chapter.1}% 7
-\BOOKMARK [1][-]{section.1.5}{Amazon Mechanical Turk}{chapter.1}% 8
-\BOOKMARK [1][-]{section.1.6}{SurveyMonkey}{chapter.1}% 9
-\BOOKMARK [0][-]{chapter.2}{Methodology}{}% 10
-\BOOKMARK [1][-]{section.2.1}{Approach}{chapter.2}% 11
-\BOOKMARK [0][-]{chapter.3}{Facebook Privacy}{}% 12
-\BOOKMARK [1][-]{section.3.1}{Privacy on Facebook}{chapter.3}% 13
-\BOOKMARK [2][-]{subsection.3.1.1}{Facebook Settings}{section.3.1}% 14
-\BOOKMARK [1][-]{section.3.2}{Default Privacy Settings on Facebook}{chapter.3}% 15
-\BOOKMARK [2][-]{subsection.3.2.1}{Development of Default Privacy Settings}{section.3.2}% 16
-\BOOKMARK [2][-]{subsection.3.2.2}{Default Settings 2013}{section.3.2}% 17
-\BOOKMARK [2][-]{subsection.3.2.3}{Default Settings for Teens}{section.3.2}% 18
-\BOOKMARK [1][-]{section.3.3}{Facebook Features - Impact on your Privacy}{chapter.3}% 19
-\BOOKMARK [2][-]{subsection.3.3.1}{News Feed}{section.3.3}% 20
-\BOOKMARK [2][-]{subsection.3.3.2}{Facebook Platform - Apps}{section.3.3}% 21
-\BOOKMARK [2][-]{subsection.3.3.3}{Beacon}{section.3.3}% 22
-\BOOKMARK [2][-]{subsection.3.3.4}{Facebook Connect - "Log in with Facebook"}{section.3.3}% 23
-\BOOKMARK [2][-]{subsection.3.3.5}{Timeline}{section.3.3}% 24
-\BOOKMARK [2][-]{subsection.3.3.6}{Graph Search}{section.3.3}% 25
-\BOOKMARK [2][-]{subsection.3.3.7}{Facebook Removes Search Privacy Setting}{section.3.3}% 26
-\BOOKMARK [1][-]{section.3.4}{Zuckerberg's Thoughts}{chapter.3}% 27
-\BOOKMARK [0][-]{chapter.4}{Amazon Mechanical Turk Survey}{}% 28
-\BOOKMARK [0][-]{section*.39}{References}{}% 29
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 3
+\BOOKMARK [1][-]{section.1.1}{Motivation}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.2}{Problem Description}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.3}{Methodology}{chapter.1}% 6
+\BOOKMARK [0][-]{chapter.2}{Related Work}{}% 7
+\BOOKMARK [1][-]{section.2.1}{Social Network Services}{chapter.2}% 8
+\BOOKMARK [1][-]{section.2.2}{The History of Facebook}{chapter.2}% 9
+\BOOKMARK [1][-]{section.2.3}{Facebook Privacy}{chapter.2}% 10
+\BOOKMARK [1][-]{section.2.4}{Interdependent Privacy}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.5}{Amazon Mechanical Turk}{chapter.2}% 12
+\BOOKMARK [1][-]{section.2.6}{SurveyMonkey}{chapter.2}% 13
+\BOOKMARK [0][-]{chapter.3}{Facebook Privacy}{}% 14
+\BOOKMARK [1][-]{section.3.1}{Privacy on Facebook}{chapter.3}% 15
+\BOOKMARK [2][-]{subsection.3.1.1}{Facebook Settings}{section.3.1}% 16
+\BOOKMARK [1][-]{section.3.2}{Default Privacy Settings on Facebook}{chapter.3}% 17
+\BOOKMARK [2][-]{subsection.3.2.1}{Development of Default Privacy Settings}{section.3.2}% 18
+\BOOKMARK [2][-]{subsection.3.2.2}{Default Settings 2013}{section.3.2}% 19
+\BOOKMARK [2][-]{subsection.3.2.3}{Default Settings for Teens}{section.3.2}% 20
+\BOOKMARK [1][-]{section.3.3}{Facebook Features - Impact on your Privacy}{chapter.3}% 21
+\BOOKMARK [2][-]{subsection.3.3.1}{News Feed}{section.3.3}% 22
+\BOOKMARK [2][-]{subsection.3.3.2}{Facebook Platform - Apps}{section.3.3}% 23
+\BOOKMARK [2][-]{subsection.3.3.3}{Beacon}{section.3.3}% 24
+\BOOKMARK [2][-]{subsection.3.3.4}{Facebook Connect - "Log in with Facebook"}{section.3.3}% 25
+\BOOKMARK [2][-]{subsection.3.3.5}{Timeline}{section.3.3}% 26
+\BOOKMARK [2][-]{subsection.3.3.6}{Graph Search}{section.3.3}% 27
+\BOOKMARK [2][-]{subsection.3.3.7}{Facebook Removes Search Privacy Setting}{section.3.3}% 28
+\BOOKMARK [1][-]{section.3.4}{Zuckerberg's Thoughts}{chapter.3}% 29
+\BOOKMARK [0][-]{chapter.4}{Amazon Mechanical Turk Survey}{}% 30
+\BOOKMARK [0][-]{section*.41}{References}{}% 31

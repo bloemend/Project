@@ -4,88 +4,69 @@
 \select@language {english}
 \contentsline {chapter}{List of Figures}{ix}{section*.1}
 \contentsline {chapter}{List of Tables}{xi}{section*.2}
-\contentsline {chapter}{\chapternumberline {1}Related Work}{3}{chapter.1}
-\contentsline {section}{\numberline {1.1}Social Network Services}{3}{section.1.1}
-\contentsline {paragraph}{}{3}{section*.3}
+\contentsline {chapter}{\chapternumberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Motivation}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Problem Description}{1}{section.1.2}
+\contentsline {section}{\numberline {1.3}Methodology}{1}{section.1.3}
+\contentsline {paragraph}{Approach}{1}{section*.3}
+\contentsline {chapter}{\chapternumberline {2}Related Work}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Social Network Services}{3}{section.2.1}
 \contentsline {paragraph}{}{3}{section*.4}
 \contentsline {paragraph}{}{3}{section*.5}
-\contentsline {section}{\numberline {1.2}Interdependent Privacy}{4}{section.1.2}
-\contentsline {paragraph}{Privacy}{4}{section*.6}
-\contentsline {paragraph}{Social networking privacy}{5}{section*.7}
-\contentsline {paragraph}{Interdependent privacy}{5}{section*.8}
+\contentsline {paragraph}{}{3}{section*.6}
+\contentsline {section}{\numberline {2.2}The History of Facebook}{4}{section.2.2}
+\contentsline {paragraph}{}{4}{section*.7}
+\contentsline {paragraph}{}{4}{section*.8}
 \contentsline {paragraph}{}{5}{section*.9}
 \contentsline {paragraph}{}{5}{section*.10}
-\contentsline {section}{\numberline {1.3}The History of Facebook}{6}{section.1.3}
 \contentsline {paragraph}{}{6}{section*.11}
-\contentsline {paragraph}{}{7}{section*.12}
-\contentsline {paragraph}{}{7}{section*.13}
-\contentsline {paragraph}{}{8}{section*.14}
-\contentsline {paragraph}{}{8}{section*.15}
-\contentsline {paragraph}{}{8}{section*.16}
-\contentsline {paragraph}{}{9}{section*.17}
-\contentsline {paragraph}{}{9}{section*.18}
-\contentsline {paragraph}{}{9}{section*.19}
-\contentsline {section}{\numberline {1.4}Facebook Privacy}{9}{section.1.4}
-\contentsline {paragraph}{}{9}{section*.20}
-\contentsline {section}{\numberline {1.5}Amazon Mechanical Turk}{11}{section.1.5}
-\contentsline {paragraph}{}{11}{section*.21}
+\contentsline {paragraph}{}{6}{section*.12}
+\contentsline {paragraph}{}{6}{section*.13}
+\contentsline {paragraph}{}{6}{section*.14}
+\contentsline {paragraph}{}{6}{section*.15}
+\contentsline {section}{\numberline {2.3}Facebook Privacy}{7}{section.2.3}
+\contentsline {paragraph}{}{7}{section*.16}
+\contentsline {section}{\numberline {2.4}Interdependent Privacy}{9}{section.2.4}
+\contentsline {paragraph}{Privacy}{9}{section*.17}
+\contentsline {paragraph}{Social networking privacy}{9}{section*.18}
+\contentsline {paragraph}{Interdependent privacy}{9}{section*.19}
+\contentsline {paragraph}{}{10}{section*.20}
+\contentsline {paragraph}{}{10}{section*.21}
+\contentsline {section}{\numberline {2.5}Amazon Mechanical Turk}{11}{section.2.5}
 \contentsline {paragraph}{}{11}{section*.22}
-\contentsline {paragraph}{The Turk}{11}{section*.23}
-\contentsline {paragraph}{Advantages with Amazon Mechanical Turk}{11}{section*.24}
-\contentsline {paragraph}{Financial Incentives}{12}{section*.25}
-\contentsline {subparagraph}{}{13}{section*.26}
+\contentsline {paragraph}{}{11}{section*.23}
+\contentsline {paragraph}{The Turk}{11}{section*.24}
+\contentsline {paragraph}{Advantages with Amazon Mechanical Turk}{11}{section*.25}
+\contentsline {paragraph}{Financial Incentives}{12}{section*.26}
 \contentsline {subparagraph}{}{13}{section*.27}
-\contentsline {section}{\numberline {1.6}SurveyMonkey}{13}{section.1.6}
-\contentsline {chapter}{\chapternumberline {2}Methodology}{15}{chapter.2}
-\contentsline {section}{\numberline {2.1}Approach}{15}{section.2.1}
-\contentsline {chapter}{\chapternumberline {3}Facebook Privacy}{17}{chapter.3}
-\contentsline {section}{\numberline {3.1}Privacy on Facebook}{17}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Facebook Settings}{18}{subsection.3.1.1}
-\contentsline {section}{\numberline {3.2}Default Privacy Settings on Facebook}{18}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Development of Default Privacy Settings}{19}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Default Settings 2013}{19}{subsection.3.2.2}
-<<<<<<< HEAD
+\contentsline {subparagraph}{}{13}{section*.28}
+\contentsline {section}{\numberline {2.6}SurveyMonkey}{13}{section.2.6}
+\contentsline {chapter}{\chapternumberline {3}Facebook Privacy}{15}{chapter.3}
+\contentsline {section}{\numberline {3.1}Privacy on Facebook}{15}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Facebook Settings}{16}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2}Default Privacy Settings on Facebook}{16}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Development of Default Privacy Settings}{17}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Default Settings 2013}{17}{subsection.3.2.2}
+\contentsline {paragraph}{Default settings does not preserve privacy}{19}{section*.29}
 \contentsline {subsection}{\numberline {3.2.3}Default Settings for Teens}{19}{subsection.3.2.3}
-\contentsline {section}{\numberline {3.3}Facebook Features - Impact on your Privacy}{20}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}News Feed}{20}{subsection.3.3.1}
-\contentsline {paragraph}{}{20}{section*.28}
-\contentsline {subsection}{\numberline {3.3.2}Facebook Platform - Apps}{20}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Beacon}{20}{subsection.3.3.3}
-\contentsline {paragraph}{}{20}{section*.29}
-\contentsline {paragraph}{}{22}{section*.30}
+\contentsline {section}{\numberline {3.3}Facebook Features - Impact on your Privacy}{21}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}News Feed}{21}{subsection.3.3.1}
+\contentsline {paragraph}{}{21}{section*.30}
+\contentsline {subsection}{\numberline {3.3.2}Facebook Platform - Apps}{21}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Beacon}{21}{subsection.3.3.3}
+\contentsline {paragraph}{}{21}{section*.31}
+\contentsline {paragraph}{}{22}{section*.32}
 \contentsline {subsection}{\numberline {3.3.4}Facebook Connect - "Log in with Facebook"}{22}{subsection.3.3.4}
 \contentsline {subsection}{\numberline {3.3.5}Timeline}{22}{subsection.3.3.5}
-\contentsline {paragraph}{Privacy concerns regarding Facebook timeline}{22}{section*.31}
-\contentsline {paragraph}{}{22}{section*.32}
-\contentsline {subsection}{\numberline {3.3.6}Graph Search}{23}{subsection.3.3.6}
-\contentsline {subsection}{\numberline {3.3.7}Facebook Removes Search Privacy Setting}{23}{subsection.3.3.7}
+\contentsline {paragraph}{Privacy concerns regarding Facebook timeline}{23}{section*.33}
+\contentsline {paragraph}{}{23}{section*.34}
+\contentsline {subsection}{\numberline {3.3.6}Graph Search}{24}{subsection.3.3.6}
+\contentsline {subsection}{\numberline {3.3.7}Facebook Removes Search Privacy Setting}{24}{subsection.3.3.7}
 \contentsline {section}{\numberline {3.4}Zuckerberg's Thoughts}{24}{section.3.4}
-\contentsline {paragraph}{}{24}{section*.33}
-\contentsline {paragraph}{Skal vi ha med det her?}{24}{section*.34}
 \contentsline {paragraph}{}{24}{section*.35}
+\contentsline {paragraph}{}{24}{section*.36}
+\contentsline {paragraph}{}{25}{section*.37}
+\contentsline {paragraph}{}{25}{section*.38}
+\contentsline {paragraph}{Skal vi ha med det her?}{25}{section*.39}
 \contentsline {chapter}{\chapternumberline {4}Amazon Mechanical Turk Survey}{27}{chapter.4}
-\contentsline {chapter}{References}{33}{section*.37}
-=======
-\contentsline {paragraph}{Default settings does not preserve privacy}{21}{section*.28}
-\contentsline {subsection}{\numberline {3.2.3}Default Settings for Teens}{21}{subsection.3.2.3}
-\contentsline {section}{\numberline {3.3}Facebook Features - Impact on your Privacy}{23}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}News Feed}{23}{subsection.3.3.1}
-\contentsline {paragraph}{}{23}{section*.29}
-\contentsline {subsection}{\numberline {3.3.2}Facebook Platform - Apps}{23}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Beacon}{23}{subsection.3.3.3}
-\contentsline {paragraph}{}{23}{section*.30}
-\contentsline {paragraph}{}{23}{section*.31}
-\contentsline {subsection}{\numberline {3.3.4}Facebook Connect - "Log in with Facebook"}{23}{subsection.3.3.4}
-\contentsline {subsection}{\numberline {3.3.5}Timeline}{24}{subsection.3.3.5}
-\contentsline {paragraph}{Privacy concerns regarding Facebook timeline}{24}{section*.32}
-\contentsline {paragraph}{}{24}{section*.33}
-\contentsline {subsection}{\numberline {3.3.6}Graph Search}{25}{subsection.3.3.6}
-\contentsline {subsection}{\numberline {3.3.7}Facebook Removes Search Privacy Setting}{25}{subsection.3.3.7}
-\contentsline {section}{\numberline {3.4}Zuckerberg's Thoughts}{26}{section.3.4}
-\contentsline {paragraph}{}{26}{section*.34}
-\contentsline {paragraph}{}{26}{section*.35}
-\contentsline {paragraph}{}{26}{section*.36}
-\contentsline {paragraph}{Skal vi ha med det her?}{26}{section*.37}
-\contentsline {chapter}{\chapternumberline {4}Amazon Mechanical Turk Survey}{29}{chapter.4}
-\contentsline {chapter}{References}{35}{section*.39}
->>>>>>> 261d88f926311f758ffd9a61be0ec45875f24afe
+\contentsline {chapter}{References}{33}{section*.41}
