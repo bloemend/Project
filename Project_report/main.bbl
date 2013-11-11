@@ -10,6 +10,12 @@ K.~Opsahl, ``Facebook's eroding privacy policy: A timeline,'' 2010.
 \newblock \url{https://www.eff.org/deeplinks/2010/04/facebook-timeline},
   accessed 02.10.2013.
 
+\bibitem{survey}
+A.~Bhattacherjee, {\em Social Science Research: Principles, Methods, and
+  Practices}, ch.~Survey Research, pp.~73--82.
+\newblock Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported
+  License, 2012.
+
 \bibitem{SNS}
 GSMArena.com, ``Social network service.''
 \newblock \url{http://www.gsmarena.com/glossary.php3?term=sns}, accessed
@@ -36,24 +42,6 @@ A.~Mislove, M.~Marcon, K.~P. Gummadi, P.~Druschel, and B.~Bhattacharjee,
 \bibitem{expectations}
 Y.~Liu, K.~P. Gummadi, B.~Krishnamurthy, and A.~Mislove, ``Analyzing facebook
   privacy settings: User expectations vs. reality,'' 2011.
-
-\bibitem{InterdependetPriv}
-G.~Biczók and P.~H. Chia, ``Interdependet privaqcy: Let me share your data,''
-  2013.
-
-\bibitem{privacy}
-R.~Clarke, ``Introduction to dataveillance and information privacy, and
-  definitions of terms,'' Last edited: October 2013.
-\newblock \url{http://www.rogerclarke.com/DV/Intro.html#Priv}, accessed
-  30.10.2013.
-
-\bibitem{externalityDef}
-F.~Gottheil, ``Principles of economics.'' Power Point, 2013.
-\newblock Chapter 14: Externalities, Market, Failure and Public Choise.
-
-\bibitem{thirdPartyApps}
-H.~X. Na~Wang and J.~Grossklags, ``Third-party apps on facebook: Privacy and
-  the illusion of control,'' December 2011.
 
 \bibitem{MeMedia}
 J.~Cassidy, ``The online life; me media,'' May 2006.
@@ -101,6 +89,24 @@ B.~N. Technology, ``Facebook timeline: the social network's life story,'' May
 \bibitem{whocares}
 danah boyd and E.~Hargittai, ``Facebook privacy settings; who cares?,'' 2010.
 
+\bibitem{InterdependetPriv}
+G.~Biczók and P.~H. Chia, ``Interdependet privaqcy: Let me share your data,''
+  2013.
+
+\bibitem{privacy}
+R.~Clarke, ``Introduction to dataveillance and information privacy, and
+  definitions of terms,'' Last edited: October 2013.
+\newblock \url{http://www.rogerclarke.com/DV/Intro.html#Priv}, accessed
+  30.10.2013.
+
+\bibitem{externalityDef}
+F.~Gottheil, ``Principles of economics.'' Power Point, 2013.
+\newblock Chapter 14: Externalities, Market, Failure and Public Choise.
+
+\bibitem{thirdPartyApps}
+H.~X. Na~Wang and J.~Grossklags, ``Third-party apps on facebook: Privacy and
+  the illusion of control,'' December 2011.
+
 \bibitem{AMT}
 W.~Mason and S.~Suri, ``Conducting behavioral research on amazon's mechanical
   turk,'' 2011.
@@ -141,12 +147,6 @@ Wikipedia, ``Surveymonkey,'' Last edited: October 2013.
 SurveyMonkey, ``Surveymonkey - how it works,'' 2013.
 \newblock \url{https://www.surveymonkey.com/mp/take-a-tour/}, accessed
   30.10.2013.
-
-\bibitem{survey}
-A.~Bhattacherjee, {\em Social Science Research: Principles, Methods, and
-  Practices}, ch.~Survey Research, pp.~73--82.
-\newblock Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported
-  License, 2012.
 
 \bibitem{EvoPriv2}
 M.~C., ``The evolution of privacy on facebook,'' 2011.

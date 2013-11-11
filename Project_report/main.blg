@@ -3,7 +3,6 @@ A level-1 auxiliary file: summary.aux
 A level-1 auxiliary file: acknowledgement.aux
 A level-1 auxiliary file: introduction.aux
 A level-1 auxiliary file: related_work.aux
-A level-1 auxiliary file: methodology.aux
 A level-1 auxiliary file: default_privacy_settings.aux
 A level-1 auxiliary file: mechanicalturk.aux
 A level-1 auxiliary file: discussion.aux
@@ -64,11 +63,11 @@ Warning--empty journal in EvoPriv
 Warning--empty journal in PrivTimeline
 Warning--empty journal in OSNpaper
 Warning--empty journal in expectations
-Warning--empty journal in InterdependetPriv
-Warning--empty journal in thirdPartyApps
 Warning--empty journal in MeMedia
 Warning--empty journal in FacebookStoryInceptionToIsp
 Warning--empty journal in whocares
+Warning--empty journal in InterdependetPriv
+Warning--empty journal in thirdPartyApps
 Warning--empty journal in AMT
 Warning--empty journal in incentivesAmt
 Warning--empty year in incentivesAmt
