@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  11 NOV 2013 18:47
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  12 NOV 2013 11:27
 entering extended mode
 **main.tex
 ("C:\Users\Ida Malene\Project\Project_report\main.tex"
@@ -1598,9 +1598,6 @@ Package glossaries Info: Writing glossary file main.acn on input line 29.
 
 LaTeX Warning: Label `fig:co' multiply defined.
 
-
-LaTeX Warning: Label `fig:co' multiply defined.
-
 ) ("C:\Users\Ida Malene\Project\Project_report\discussion.aux")
 ("C:\Users\Ida Malene\Project\Project_report\conclusion.aux"))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
@@ -1678,7 +1675,7 @@ LaTeX Info: Redefining \nameref on input line 31.
 \@outlinefile=\write8
 \c@lstlisting=\count324
 
-<./figs/ntnu-logo.pdf, id=151, 241.4922pt x 52.79724pt>
+<./figs/ntnu-logo.pdf, id=155, 241.4922pt x 52.79724pt>
 File: ./figs/ntnu-logo.pdf Graphic file (type pdf)
 
 <use ./figs/ntnu-logo.pdf>
@@ -1775,7 +1772,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20> not available
 
 
 
-] <./figs/facebook-icon.png, id=329, 481.8pt x 481.8pt>
+] <./figs/facebook-icon.png, id=336, 481.8pt x 481.8pt>
 File: ./figs/facebook-icon.png Graphic file (type png)
 
 <use ./figs/facebook-icon.png>
@@ -1791,7 +1788,7 @@ l.31
 Underfull \vbox (badness 2057) has occurred while \output is active []
 
  [5]
-[6] [7] [8] [9] [10] <./figs/Turk-open.jpg, id=420, 602.25pt x 524.96124pt>
+[6] [7] [8] [9] [10] <./figs/Turk-open.jpg, id=427, 602.25pt x 524.96124pt>
 File: ./figs/Turk-open.jpg Graphic file (type jpg)
 
 <use ./figs/Turk-open.jpg>
@@ -1813,7 +1810,7 @@ n.jpg>]) [13] [14
 
 ]
 ("C:\Users\Ida Malene\Project\Project_report\default_privacy_settings.tex"
-<./figs/gowth_of_facebook.png, id=466, 738.50906pt x 460.72125pt>
+<./figs/gowth_of_facebook.png, id=473, 738.50906pt x 460.72125pt>
 File: ./figs/gowth_of_facebook.png Graphic file (type png)
 
 <use ./figs/gowth_of_facebook.png>
@@ -1841,7 +1838,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
                                                   \fi \fi 
 l.62 \end{center}
                  ]
-<./figs/default_nov_2013_security.png, id=493, 748.29562pt x 297.36093pt>
+<./figs/default_nov_2013_security.png, id=500, 748.29562pt x 297.36093pt>
 File: ./figs/default_nov_2013_security.png Graphic file (type png)
 
 <use ./figs/default_nov_2013_security.png>
@@ -1849,7 +1846,7 @@ Package pdftex.def Info: ./figs/default_nov_2013_security.png used on input lin
 e 77.
 (pdftex.def)             Requested size: 364.0pt x 144.64638pt.
 
-<./figs/default_nov_2013_privacy.png, id=494, 740.0147pt x 312.41719pt>
+<./figs/default_nov_2013_privacy.png, id=501, 740.0147pt x 312.41719pt>
 File: ./figs/default_nov_2013_privacy.png Graphic file (type png)
 
 <use ./figs/default_nov_2013_privacy.png>
@@ -1861,7 +1858,7 @@ Package pdftex.def Info: ./figs/default_nov_2013_privacy.png used on input line
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<./figs/default_nov_2013_timelineandtagging.png, id=495, 741.52031pt x 317.6868
+<./figs/default_nov_2013_timelineandtagging.png, id=502, 741.52031pt x 317.6868
 7pt>
 File: ./figs/default_nov_2013_timelineandtagging.png Graphic file (type png)
  <use ./figs/default_nov_2013_timelineandtagging.png>
@@ -1872,7 +1869,7 @@ Package pdftex.def Info: ./figs/default_nov_2013_timelineandtagging.png used on
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/default_nov_2013_apps.png, id=496, 740.7675pt x 274.77657pt>
+<./figs/default_nov_2013_apps.png, id=503, 740.7675pt x 274.77657pt>
 File: ./figs/default_nov_2013_apps.png Graphic file (type png)
 
 <use ./figs/default_nov_2013_apps.png>
@@ -1904,7 +1901,7 @@ l.106
 l.106 
        <C:/Users/Ida Malene/Project/Project_report/figs/default_nov_2013_privac
 y.png> <C:/Users/Ida Malene/Project/Project_report/figs/default_nov_2013_timeli
-neandtagging.png>] <./figs/new_post.png, id=510, 398.99063pt x 250.68657pt>
+neandtagging.png>] <./figs/new_post.png, id=517, 398.99063pt x 250.68657pt>
 File: ./figs/new_post.png Graphic file (type png)
 
 <use ./figs/new_post.png>
@@ -1914,7 +1911,7 @@ Package pdftex.def Info: ./figs/new_post.png used on input line 113.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/teensSharePost.png, id=511, 395.97937pt x 197.23688pt>
+<./figs/teensSharePost.png, id=518, 395.97937pt x 197.23688pt>
 File: ./figs/teensSharePost.png Graphic file (type png)
 
 <use ./figs/teensSharePost.png>
@@ -1924,7 +1921,7 @@ Package pdftex.def Info: ./figs/teensSharePost.png used on input line 120.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/sharePost.png, id=516, 393.72093pt x 161.10187pt>
+<./figs/sharePost.png, id=523, 393.72093pt x 161.10187pt>
 File: ./figs/sharePost.png Graphic file (type png)
 
 <use ./figs/sharePost.png>
@@ -1965,7 +1962,7 @@ y used, duplicate ignored
                                                   \fi \fi 
 l.153 
        <C:/Users/Ida Malene/Project/Project_report/figs/sharePost.png>]
-[22] <./figs/activity_log.png, id=567, 788.9475pt x 368.87813pt>
+[22] <./figs/activity_log.png, id=574, 788.9475pt x 368.87813pt>
 File: ./figs/activity_log.png Graphic file (type png)
 
 <use ./figs/activity_log.png>
@@ -1981,22 +1978,31 @@ l.183
 [24]) [25] [26
 
 
-] ("C:\Users\Ida Malene\Project\Project_report\mechanicalturk.tex" <./figs/land
-.png, id=605, 810.02625pt x 633.11531pt>
-File: ./figs/land.png Graphic file (type png)
- <use ./figs/land.png>
-Package pdftex.def Info: ./figs/land.png used on input line 22.
-(pdftex.def)             Requested size: 364.0pt x 284.50317pt.
+] ("C:\Users\Ida Malene\Project\Project_report\mechanicalturk.tex"
+
+LaTeX Warning: File `gender.png' not found on input line 23.
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+! Package pdftex.def Error: File `gender.png' not found.
 
-<./figs/nevercheckedtable.png, id=606, 589.4522pt x 343.2825pt>
-File: ./figs/nevercheckedtable.png Graphic file (type png)
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 ...udegraphics[width=1\textwidth]{gender.png}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-<use ./figs/nevercheckedtable.png>
-Package pdftex.def Info: ./figs/nevercheckedtable.png used on input line 36.
-(pdftex.def)             Requested size: 364.0pt x 211.98438pt.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 23.
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `pcr' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2004,55 +2010,81 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [27
 
 
-] <./figs/checkonceaweekormoretable.png, id=612, 587.94656pt x 347.04657pt>
+] <./figs/land.png, id=622, 810.02625pt x 633.11531pt>
+File: ./figs/land.png Graphic file (type png)
+
+<use ./figs/land.png>
+Package pdftex.def Info: ./figs/land.png used on input line 33.
+(pdftex.def)             Requested size: 364.0pt x 284.50317pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figs/nevercheckedtable.png, id=623, 589.4522pt x 343.2825pt>
+File: ./figs/nevercheckedtable.png Graphic file (type png)
+
+<use ./figs/nevercheckedtable.png>
+Package pdftex.def Info: ./figs/nevercheckedtable.png used on input line 47.
+(pdftex.def)             Requested size: 364.0pt x 211.98438pt.
+ [28pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.50 \end{figure}
+                 ]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [29pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.64 \subsection
+                {Checks Privacy Settings "Once a month" or "Once a week or m...
+ <C:/Users/Ida Malene/Project/Project_report/figs/land.png>]
+<./figs/checkonceaweekormoretable.png, id=634, 587.94656pt x 347.04657pt>
 File: ./figs/checkonceaweekormoretable.png Graphic file (type png)
 
 <use ./figs/checkonceaweekormoretable.png>
 Package pdftex.def Info: ./figs/checkonceaweekormoretable.png used on input lin
-e 68.
+e 79.
 (pdftex.def)             Requested size: 364.0pt x 214.8595pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [28pdfTeX warning (ext4): destination with the same identifier (name{figure.4
-.1}) has been already used, duplicate ignored
+) [30pdfTeX warning (ext4): destination with the same identifier (name{figure.4
+.3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.84 \include{mechanicalturk}
                               <C:/Users/Ida Malene/Project/Project_report/figs/
-land.png>]
-
-LaTeX Warning: Text page 29 contains only floats.
-
-[29pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2
-}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.84 \include{mechanicalturk}
-                             pdfTeX warning (ext4): destination with the same i
-dentifier (name{figure.4.3}) has been already used, duplicate ignored
+nevercheckedtable.png>] [31pdfTeX warning (ext4): destination with the same ide
+ntifier (name{figure.4.4}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.84 \include{mechanicalturk}
                               <C:/Users/Ida Malene/Project/Project_report/figs/
-nevercheckedtable.png> <C:/Users/Ida Malene/Project/Project_report/figs/checkon
-ceaweekormoretable.png>] [30
+checkonceaweekormoretable.png>] [32
 
 
 ]
-("C:\Users\Ida Malene\Project\Project_report\discussion.tex") [31
-
-] [32
-
-
-]
-("C:\Users\Ida Malene\Project\Project_report\conclusion.tex") [33
+("C:\Users\Ida Malene\Project\Project_report\discussion.tex") [33
 
 ] [34
+
+
+]
+("C:\Users\Ida Malene\Project\Project_report\conclusion.tex") [35
+
+] [36
 
 
 ]
@@ -2064,7 +2096,7 @@ Underfull \hbox (badness 1796) in paragraph at lines 68--70
 mdb . com / title / tt1285016/$[][], ac-cessed
  []
 
-[35
+[37
 
 ]
 Underfull \hbox (badness 1424) in paragraph at lines 115--117
@@ -2072,7 +2104,7 @@ Underfull \hbox (badness 1424) in paragraph at lines 115--117
  aws . amazon . com / mturk/$[][], ac-cessed
  []
 
-[36]
+[38]
 Underfull \hbox (badness 1436) in paragraph at lines 158--163
 []\T1/ptm/m/n/10 (+20) Facebook, ``Teens now start with "friends" pri-vacy for 
 new ac-counts; adding
@@ -2126,7 +2158,7 @@ $\T1/ptm/m/n/10 (+20) mark-[]zuckerbergs-[]letter-[]to-[]investors-[]on-[]faceb
 ooks-[]social-[]mission / in / 2528910$[][],
  []
 
-) [37]
+) [39]
 \tf@toc=\write9
 \tf@lof=\write10
 \tf@lot=\write11
@@ -2150,31 +2182,35 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 036DB37CBE03BD6058784644B239ECE0;2606
-(rerunfilecheck)             After:  E99D9273AE4DEA0930938014D48330F9;2683.
+(rerunfilecheck)             Before: E4B75A131850315E3191D6B09A52B22F;2683
+(rerunfilecheck)             After:  B5406EA3A632F42106957B4522FEB856;2683.
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 108.
  ) 
 Here is how much of TeX's memory you used:
- 21796 strings out of 493921
- 317828 string characters out of 3147267
- 563953 words of memory out of 3000000
- 24211 multiletter control sequences out of 15000+200000
- 84927 words of font info for 193 fonts, out of 3000000 for 9000
+ 21842 strings out of 493921
+ 318426 string characters out of 3147267
+ 564157 words of memory out of 3000000
+ 24244 multiletter control sequences out of 15000+200000
+ 85548 words of font info for 195 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 58i,12n,44p,2843b,666s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}{C:/Program File
-s/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}<C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/u
-hvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiK
-TeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
-e1/urw/times/utmri8a.pfb>
-Output written on main.pdf (53 pages, 902076 bytes).
+ 58i,11n,44p,2843b,666s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{section*.42} has been referenced but does not exi
+st, replaced by a fixed one
+
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}{C:/Program Files/
+MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}<C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrr
+8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr
+i8a.pfb>
+Output written on main.pdf (55 pages, 915179 bytes).
 PDF statistics:
- 772 PDF objects out of 1000 (max. 8388607)
- 192 named destinations out of 1000 (max. 500000)
- 19828 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 798 PDF objects out of 1000 (max. 8388607)
+ 198 named destinations out of 1000 (max. 500000)
+ 20348 words of extra memory for PDF output out of 20736 (max. 10000000)
 
