@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  12 NOV 2013 12:04
+=======
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  12 NOV 2013 16:01
+>>>>>>> f6026cb57910ba43f3fd9981f4b8937b90996429
 entering extended mode
 **main.tex
 (C:\Users\Esther\Project\Project_report\main.tex
@@ -1590,6 +1594,7 @@ Package glossaries Info: Writing glossary file main.glo on input line 29.
 \glo@acronym@file=\write7
 Package glossaries Info: Writing glossary file main.acn on input line 29.
 
+<<<<<<< HEAD
 (C:\Users\Esther\Project\Project_report\main.aux
 (C:\Users\Esther\Project\Project_report\summary.aux)
 (C:\Users\Esther\Project\Project_report\acknowledgement.aux)
@@ -1602,6 +1607,17 @@ LaTeX Warning: Label `fig:co' multiply defined.
 
 ) (C:\Users\Esther\Project\Project_report\discussion.aux)
 (C:\Users\Esther\Project\Project_report\conclusion.aux))
+=======
+("C:\Users\Ida Malene\Project\Project_report\main.aux"
+("C:\Users\Ida Malene\Project\Project_report\summary.aux")
+("C:\Users\Ida Malene\Project\Project_report\acknowledgement.aux")
+("C:\Users\Ida Malene\Project\Project_report\introduction.aux")
+("C:\Users\Ida Malene\Project\Project_report\related_work.aux")
+("C:\Users\Ida Malene\Project\Project_report\default_privacy_settings.aux")
+("C:\Users\Ida Malene\Project\Project_report\mechanicalturk.aux")
+("C:\Users\Ida Malene\Project\Project_report\discussion.aux")
+("C:\Users\Ida Malene\Project\Project_report\conclusion.aux"))
+>>>>>>> f6026cb57910ba43f3fd9981f4b8937b90996429
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
 LaTeX Font Info:    ... okay on input line 31.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
@@ -1677,7 +1693,7 @@ LaTeX Info: Redefining \nameref on input line 31.
 \@outlinefile=\write8
 \c@lstlisting=\count324
 
-<./figs/ntnu-logo.pdf, id=155, 241.4922pt x 52.79724pt>
+<./figs/ntnu-logo.pdf, id=151, 241.4922pt x 52.79724pt>
 File: ./figs/ntnu-logo.pdf Graphic file (type pdf)
 
 <use ./figs/ntnu-logo.pdf>
@@ -1693,8 +1709,8 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \hbox (8.25159pt too wide) in paragraph at lines 37--37
-\T1/phv/m/n/23.00003 Privacy on Face-book and In-ter-de-pen-
+Overfull \hbox (5.35347pt too wide) in paragraph at lines 37--37
+\T1/phv/m/n/23.00003 Interdependent Pri-vacy on Face-book 
  []
 
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <16.00006> not available
@@ -1773,8 +1789,12 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20> not available
 
 
 
+<<<<<<< HEAD
 ]
 <./figs/facebook-icon.png, id=336, 481.8pt x 481.8pt>
+=======
+] <./figs/facebook-icon.png, id=331, 481.8pt x 481.8pt>
+>>>>>>> f6026cb57910ba43f3fd9981f4b8937b90996429
 File: ./figs/facebook-icon.png Graphic file (type png)
 
 <use ./figs/facebook-icon.png>
@@ -1790,7 +1810,7 @@ l.31
 Underfull \vbox (badness 2057) has occurred while \output is active []
 
  [5]
-[6] [7] [8] [9] [10] <./figs/Turk-open.jpg, id=427, 602.25pt x 524.96124pt>
+[6] [7] [8] [9] [10] <./figs/Turk-open.jpg, id=422, 602.25pt x 524.96124pt>
 File: ./figs/Turk-open.jpg Graphic file (type jpg)
 
 <use ./figs/Turk-open.jpg>
@@ -1811,8 +1831,13 @@ g>]) [13] [14
 
 
 ]
+<<<<<<< HEAD
 (C:\Users\Esther\Project\Project_report\default_privacy_settings.tex
 <./figs/gowth_of_facebook.png, id=473, 738.50906pt x 460.72125pt>
+=======
+("C:\Users\Ida Malene\Project\Project_report\default_privacy_settings.tex"
+<./figs/gowth_of_facebook.png, id=468, 738.50906pt x 460.72125pt>
+>>>>>>> f6026cb57910ba43f3fd9981f4b8937b90996429
 File: ./figs/gowth_of_facebook.png Graphic file (type png)
 
 <use ./figs/gowth_of_facebook.png>
@@ -1840,42 +1865,42 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
                                                   \fi \fi 
 l.62 \end{center}
                  ]
-<./figs/default_nov_2013_security.png, id=500, 748.29562pt x 297.36093pt>
+<./figs/default_nov_2013_security.png, id=495, 748.29562pt x 297.36093pt>
 File: ./figs/default_nov_2013_security.png Graphic file (type png)
 
 <use ./figs/default_nov_2013_security.png>
 Package pdftex.def Info: ./figs/default_nov_2013_security.png used on input lin
-e 77.
+e 78.
 (pdftex.def)             Requested size: 364.0pt x 144.64638pt.
 
-<./figs/default_nov_2013_privacy.png, id=501, 740.0147pt x 312.41719pt>
+<./figs/default_nov_2013_privacy.png, id=496, 740.0147pt x 312.41719pt>
 File: ./figs/default_nov_2013_privacy.png Graphic file (type png)
 
 <use ./figs/default_nov_2013_privacy.png>
 Package pdftex.def Info: ./figs/default_nov_2013_privacy.png used on input line
- 84.
+ 85.
 (pdftex.def)             Requested size: 364.0pt x 153.6721pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<./figs/default_nov_2013_timelineandtagging.png, id=502, 741.52031pt x 317.6868
+<./figs/default_nov_2013_timelineandtagging.png, id=497, 741.52031pt x 317.6868
 7pt>
 File: ./figs/default_nov_2013_timelineandtagging.png Graphic file (type png)
  <use ./figs/default_nov_2013_timelineandtagging.png>
 Package pdftex.def Info: ./figs/default_nov_2013_timelineandtagging.png used on
- input line 91.
+ input line 92.
 (pdftex.def)             Requested size: 364.0pt x 155.94907pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/default_nov_2013_apps.png, id=503, 740.7675pt x 274.77657pt>
+<./figs/default_nov_2013_apps.png, id=498, 740.7675pt x 274.77657pt>
 File: ./figs/default_nov_2013_apps.png Graphic file (type png)
 
 <use ./figs/default_nov_2013_apps.png>
-Package pdftex.def Info: ./figs/default_nov_2013_apps.png used on input line 98
+Package pdftex.def Info: ./figs/default_nov_2013_apps.png used on input line 99
 .
 (pdftex.def)             Requested size: 364.0pt x 135.01903pt.
 
@@ -1887,47 +1912,61 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
+<<<<<<< HEAD
 l.106 
        <C:/Users/Esther/Project/Project_report/figs/default_nov_2013_security.p
 ng>] [18pdfTeX warning (ext4): destination with the same identifier (name{figur
 e.3.3}) has been already used, duplicate ignored
+=======
+l.107 
+       <C:/Users/Ida Malene/Project/Project_report/figs/default_nov_2013_securi
+ty.png>] [18pdfTeX warning (ext4): destination with the same identifier (name{f
+igure.3.3}) has been already used, duplicate ignored
+>>>>>>> f6026cb57910ba43f3fd9981f4b8937b90996429
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.106 
+l.107 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 3.4}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
+<<<<<<< HEAD
 l.106 
        <C:/Users/Esther/Project/Project_report/figs/default_nov_2013_privacy.pn
 g> <C:/Users/Esther/Project/Project_report/figs/default_nov_2013_timelineandtag
 ging.png>] <./figs/new_post.png, id=517, 398.99063pt x 250.68657pt>
+=======
+l.107 
+       <C:/Users/Ida Malene/Project/Project_report/figs/default_nov_2013_privac
+y.png> <C:/Users/Ida Malene/Project/Project_report/figs/default_nov_2013_timeli
+neandtagging.png>] <./figs/new_post.png, id=512, 398.99063pt x 250.68657pt>
+>>>>>>> f6026cb57910ba43f3fd9981f4b8937b90996429
 File: ./figs/new_post.png Graphic file (type png)
 
 <use ./figs/new_post.png>
-Package pdftex.def Info: ./figs/new_post.png used on input line 113.
+Package pdftex.def Info: ./figs/new_post.png used on input line 114.
 (pdftex.def)             Requested size: 291.20111pt x 182.96906pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/teensSharePost.png, id=518, 395.97937pt x 197.23688pt>
+<./figs/teensSharePost.png, id=513, 395.97937pt x 197.23688pt>
 File: ./figs/teensSharePost.png Graphic file (type png)
 
 <use ./figs/teensSharePost.png>
-Package pdftex.def Info: ./figs/teensSharePost.png used on input line 120.
+Package pdftex.def Info: ./figs/teensSharePost.png used on input line 121.
 (pdftex.def)             Requested size: 291.20111pt x 145.05011pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/sharePost.png, id=523, 393.72093pt x 161.10187pt>
+<./figs/sharePost.png, id=518, 393.72093pt x 161.10187pt>
 File: ./figs/sharePost.png Graphic file (type png)
 
 <use ./figs/sharePost.png>
-Package pdftex.def Info: ./figs/sharePost.png used on input line 127.
+Package pdftex.def Info: ./figs/sharePost.png used on input line 128.
 (pdftex.def)             Requested size: 291.20111pt x 119.15205pt.
 
 
@@ -1938,7 +1977,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.134 \section
+l.135 \section
               {Facebook Features - Impact on your Privacy}\label{sec:faceboo...
  <C:/Users/Esther/Project/Project_report/figs/default_nov_2013_apps.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1948,12 +1987,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.140 
+l.141 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 3.7}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
+<<<<<<< HEAD
 l.140 
        <C:/Users/Esther/Project/Project_report/figs/new_post.png> <C:/Users/Est
 her/Project/Project_report/figs/teensSharePost.png>] [21pdfTeX warning (ext4): 
@@ -1965,16 +2005,30 @@ duplicate ignored
 l.153 
        <C:/Users/Esther/Project/Project_report/figs/sharePost.png>] [22]
 <./figs/activity_log.png, id=574, 788.9475pt x 368.87813pt>
+=======
+l.141 
+       <C:/Users/Ida Malene/Project/Project_report/figs/new_post.png> <C:/Users
+/Ida Malene/Project/Project_report/figs/teensSharePost.png>] [21pdfTeX warning 
+(ext4): destination with the same identifier (name{figure.3.8}) has been alread
+y used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.154 
+       <C:/Users/Ida Malene/Project/Project_report/figs/sharePost.png>]
+[22] <./figs/activity_log.png, id=569, 788.9475pt x 368.87813pt>
+>>>>>>> f6026cb57910ba43f3fd9981f4b8937b90996429
 File: ./figs/activity_log.png Graphic file (type png)
 
 <use ./figs/activity_log.png>
-Package pdftex.def Info: ./figs/activity_log.png used on input line 175.
+Package pdftex.def Info: ./figs/activity_log.png used on input line 176.
 (pdftex.def)             Requested size: 364.0pt x 170.19257pt.
  [23pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
 9}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
+<<<<<<< HEAD
 l.183 
        <C:/Users/Esther/Project/Project_report/figs/activity_log.png>] [24])
 [25] [26
@@ -1985,6 +2039,27 @@ l.183
 File: ./figs/gender.png Graphic file (type png)
  <use ./figs/gender.png>
 Package pdftex.def Info: ./figs/gender.png used on input line 23.
+=======
+l.184 
+       <C:/Users/Ida Malene/Project/Project_report/figs/activity_log.png>]
+[24]) [25] [26
+
+
+] ("C:\Users\Ida Malene\Project\Project_report\mechanicalturk.tex" <./figs/land
+.png, id=607, 810.02625pt x 633.11531pt>
+File: ./figs/land.png Graphic file (type png)
+ <use ./figs/land.png>
+Package pdftex.def Info: ./figs/land.png used on input line 18.
+(pdftex.def)             Requested size: 364.0pt x 284.50317pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figs/gender.png, id=608, 722.7pt x 542.025pt>
+File: ./figs/gender.png Graphic file (type png)
+ <use ./figs/gender.png>
+Package pdftex.def Info: ./figs/gender.png used on input line 27.
+>>>>>>> f6026cb57910ba43f3fd9981f4b8937b90996429
 (pdftex.def)             Requested size: 364.0pt x 272.99678pt.
 
 
@@ -1993,6 +2068,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [27
 
 
+<<<<<<< HEAD
 ] <./figs/land.png, id=623, 810.02625pt x 633.11531pt>
 File: ./figs/land.png Graphic file (type png)
 
@@ -2004,6 +2080,9 @@ Package pdftex.def Info: ./figs/land.png used on input line 33.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <./figs/nevercheckedtable.png, id=624, 589.4522pt x 343.2825pt>
+=======
+] <./figs/nevercheckedtable.png, id=619, 589.4522pt x 343.2825pt>
+>>>>>>> f6026cb57910ba43f3fd9981f4b8937b90996429
 File: ./figs/nevercheckedtable.png Graphic file (type png)
 
 <use ./figs/nevercheckedtable.png>
@@ -2018,6 +2097,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
+<<<<<<< HEAD
 l.60 O
       n the setting "Who can look me up? Do you want other search engines to...
  <C:/Users/Esther/Project/Project_report/figs/gender.png>] [29pdfTeX warning (e
@@ -2030,21 +2110,36 @@ l.73 1
       2 of the 48 people in this category answered yes on the question wheth...
  <C:/Users/Esther/Project/Project_report/figs/land.png>]
 <./figs/checkonceaweekormoretable.png, id=635, 587.94656pt x 347.04657pt>
+=======
+l.56 
+      <C:/Users/Ida Malene/Project/Project_report/figs/land.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [29pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.62 
+      <C:/Users/Ida Malene/Project/Project_report/figs/gender.png>]
+<./figs/checkonceaweekormoretable.png, id=633, 587.94656pt x 347.04657pt>
+>>>>>>> f6026cb57910ba43f3fd9981f4b8937b90996429
 File: ./figs/checkonceaweekormoretable.png Graphic file (type png)
 
 <use ./figs/checkonceaweekormoretable.png>
 Package pdftex.def Info: ./figs/checkonceaweekormoretable.png used on input lin
-e 79.
+e 68.
 (pdftex.def)             Requested size: 364.0pt x 214.8595pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [30pdfTeX warning (ext4): destination with the same identifier (name{figure.4
-.3}) has been already used, duplicate ignored
+[30pdfTeX warning (ext4): destination with the same identifier (name{figure.4.3
+}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
+<<<<<<< HEAD
 l.84 \include{mechanicalturk}
                               <C:/Users/Esther/Project/Project_report/figs/neve
 rcheckedtable.png>] [31pdfTeX warning (ext4): destination with the same identif
@@ -2059,18 +2154,43 @@ konceaweekormoretable.png>] [32
 
 ]
 (C:\Users\Esther\Project\Project_report\discussion.tex) [33
+=======
+l.86 \subsubsection
+                   {Comparing the ones Who Have Never Checked their Facebook...
+ <C:/Users/Ida Malene/Project/Project_report/figs/nevercheckedtable.png>]
+[31pdfTeX warning (ext4): destination with the same identifier (name{figure.4.4
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.98 
+      <C:/Users/Ida Malene/Project/Project_report/figs/checkonceaweekormoretabl
+e.png>]) [32] ("C:\Users\Ida Malene\Project\Project_report\discussion.tex")
+[33
+
+
+>>>>>>> f6026cb57910ba43f3fd9981f4b8937b90996429
 
 ] [34
 
 
+<<<<<<< HEAD
 ]
 (C:\Users\Esther\Project\Project_report\conclusion.tex) [35
+=======
+] ("C:\Users\Ida Malene\Project\Project_report\conclusion.tex")
+[35
+>>>>>>> f6026cb57910ba43f3fd9981f4b8937b90996429
 
 ] [36
 
 
+<<<<<<< HEAD
 ]
 (C:\Users\Esther\Project\Project_report\main.bbl
+=======
+] ("C:\Users\Ida Malene\Project\Project_report\main.bbl"
+>>>>>>> f6026cb57910ba43f3fd9981f4b8937b90996429
 bibitemlist
 
 Underfull \hbox (badness 1796) in paragraph at lines 68--70
@@ -2158,6 +2278,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 108.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 108.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 108.
 Package rerunfilecheck Info: File `main.out' has not changed.
+<<<<<<< HEAD
 (rerunfilecheck)             Checksum: B5406EA3A632F42106957B4522FEB856;2683.
 
 
@@ -2185,4 +2306,29 @@ PDF statistics:
  795 PDF objects out of 1000 (max. 8388607)
  197 named destinations out of 1000 (max. 500000)
  19841 words of extra memory for PDF output out of 20736 (max. 10000000)
+=======
+(rerunfilecheck)             Checksum: 405323090D3F2B5F5C974209350B9CB4;2552.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 108.
+ ) 
+Here is how much of TeX's memory you used:
+ 21819 strings out of 493921
+ 318142 string characters out of 3147267
+ 564472 words of memory out of 3000000
+ 24220 multiletter control sequences out of 15000+200000
+ 85152 words of font info for 195 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 58i,11n,44p,2843b,666s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}{C:/Program File
+s/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}<C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/u
+hvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/urw/times/utmri8a.pfb>
+Output written on main.pdf (55 pages, 952277 bytes).
+PDF statistics:
+ 802 PDF objects out of 1000 (max. 8388607)
+ 202 named destinations out of 1000 (max. 500000)
+ 19833 words of extra memory for PDF output out of 20736 (max. 10000000)
+>>>>>>> f6026cb57910ba43f3fd9981f4b8937b90996429
 
