@@ -76,6 +76,6 @@
 \contentsline {paragraph}{}{27}{section*.40}
 \contentsline {paragraph}{}{27}{section*.41}
 \contentsline {subsection}{\numberline {4.2.2}Never Checked Facebook Privacy Settings During the Last Year}{28}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Checks Privacy Settings "Once a month" or "Once a week or more"}{30}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.3}Checks Privacy Settings "Once a month" or "Once a week or more"}{29}{subsection.4.2.3}
 \contentsline {subsection}{\numberline {4.2.4}Interdependent Privacy}{30}{subsection.4.2.4}
 \contentsline {chapter}{References}{37}{section*.43}
