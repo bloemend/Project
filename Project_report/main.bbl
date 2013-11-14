@@ -1,5 +1,9 @@
 \begin{thebibliography}{10}
 
+\bibitem{facebooksettings}
+Facebook, ``Facebook settings,'' 2013.
+\newblock \url{https://www.facebook.com/settings}, accessed 14.11.2013.
+
 \bibitem{EvoPriv}
 M.~McKeon, ``The evolution of privacy on facebook,'' 2010.
 \newblock \url{http://www.mattmckeon.com/facebook-privacy}, accessed
@@ -9,6 +13,18 @@ M.~McKeon, ``The evolution of privacy on facebook,'' 2010.
 K.~Opsahl, ``Facebook's eroding privacy policy: A timeline,'' 2010.
 \newblock \url{https://www.eff.org/deeplinks/2010/04/facebook-timeline},
   accessed 02.10.2013.
+
+\bibitem{connect}
+Corvida, ``Facebook answers myspace data availability with facebook connect,''
+  May 09, 2008.
+\newblock
+  \url{http://readwrite.com/2008/05/09/facebook_answers_myspace_with_facebook_connect#awesm=~onbBzdw2DxSyoW},
+  accessed 14.11.2013.
+
+\bibitem{connect2}
+CrunchBase, ``Facebook connect,'' 2008.
+\newblock \url{http://www.crunchbase.com/product/facebook-connect}, accessed
+  14.11.2013.
 
 \bibitem{survey}
 A.~Bhattacherjee, {\em Social Science Research: Principles, Methods, and
@@ -148,6 +164,12 @@ SurveyMonkey, ``Surveymonkey - how it works,'' 2013.
 \newblock \url{https://www.surveymonkey.com/mp/take-a-tour/}, accessed
   30.10.2013.
 
+\bibitem{settingschangingagain}
+M.~Gardner, ``Facebook privacy settings are changing again,'' October 30, 2013.
+\newblock
+  \url{http://guardianlv.com/2013/10/facebook-privacy-settings-are-changing-again/},
+  accessed 14.11.2013.
+
 \bibitem{EvoPriv2}
 M.~C., ``The evolution of privacy on facebook,'' 2011.
 \newblock
@@ -195,6 +217,36 @@ S.~W. Lessin, ``Tell your story with timeline,'' September 22, 2011.
 Facebook, ``Explore your activity log.''
 \newblock \url{https://www.facebook.com/help/437430672945092}, accessed
   05.11.2013.
+
+\bibitem{graphsearchnet}
+Z.~Zorz, ``Facebook rolls out graph search for english speaking users,''
+  October 08, 2013.
+\newblock \url{http://www.net-security.org/secworld.php?id=15377}, accessed
+  14.11.2013.
+
+\bibitem{graphsearchfb}
+Facebook, ``Graph search now fully launched in us english,'' August 07, 2013.
+\newblock
+  \url{http://newsroom.fb.com/News/684/Graph-Search-Now-Fully-Launched-in-US-English},
+  accessed 14.11.2013.
+
+\bibitem{graphsearchew}
+T.~Craver, ``Facebook introduces graph search,'' January 15, 2013.
+\newblock
+  \url{http://searchenginewatch.com/article/2236618/Facebook-Introduces-Graph-Search},
+  accessed 14.11.2013.
+
+\bibitem{graphsearchtips}
+Facebook, ``3 tips about search privacy,'' 2013.
+\newblock \url{https://www.facebook.com/about/graphsearch/privacy}, accessed
+  14.11.2013.
+
+\bibitem{graphsearchcw}
+Z.~Miners, ``Facebook launches graph search, acknowledges privacy concerns,''
+  August 7, 2013.
+\newblock
+  \url{http://www.computerworld.com/s/article/9241453/Facebook_launches_Graph_Search_acknowledges_privacy_concerns},
+  accessed 14.11.2013.
 
 \bibitem{searchSetting}
 G.~Wallace, ``Facebook kills search privacy setting,'' October 11 2013.
