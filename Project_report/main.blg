@@ -60,7 +60,20 @@ Warning--entry type for "activitylog" isn't style-file defined
 Warning--entry type for "beaconMarketsPerspective" isn't style-file defined
 --line 272 of file references.bib
 Warning--entry type for "secureBrowsing" isn't style-file defined
---line 281 of file references.bib
+--line 280 of file references.bib
+Warning--entry type for "keyFacts" isn't style-file defined
+--line 288 of file references.bib
+Warning--entry type for "checkIn" isn't style-file defined
+--line 295 of file references.bib
+Warning--entry type for "ring" isn't style-file defined
+--line 302 of file references.bib
+Warning--entry type for "lawsuitB" isn't style-file defined
+--line 309 of file references.bib
+Warning--entry type for "faceHelp" isn't style-file defined
+--line 316 of file references.bib
+Warning--entry type for "permission" isn't style-file defined
+--line 323 of file references.bib
+Warning--I didn't find a database entry for "facebooksettings"
 Warning--empty journal in EvoPriv
 Warning--empty journal in PrivTimeline
 Warning--empty journal in OSNpaper

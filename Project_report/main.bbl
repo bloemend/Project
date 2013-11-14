@@ -86,6 +86,10 @@ B.~N. Technology, ``Facebook timeline: the social network's life story,'' May
 \newblock \url{http://www.bbc.co.uk/news/technology-16832799}, accessed
   05.11.2013.
 
+\bibitem{keyFacts}
+Facebook, ``Key facts,'' September 2013.
+\newblock \url{https://newsroom.fb.com/Key-Facts}, accessed 14.11.2013.
+
 \bibitem{whocares}
 danah boyd and E.~Hargittai, ``Facebook privacy settings; who cares?,'' 2010.
 
@@ -155,17 +159,26 @@ M.~C., ``The evolution of privacy on facebook,'' 2011.
   accessed 30.09.2013.
 
 \bibitem{secureBrowsing}
-J.~Kirk, ``Facebook turns on secure browsing by default,'' August 1 2013.
-\newblock
-  \url{http://www.computerworld.com/s/article/9241277/Facebook_turns_on_secure_browsing_by_default},
-  accessed 12.11.2013.
+J.~Kirk, ``Facebook turns on secure browsing by default,'' August 1, 2013.
+\newblock \url{http://www.computerworld.com/s/article/9241277
+  Facebook_turns_on_secure_browsing_by_default}, accessed 12.11.2013.
 
 \bibitem{defaultTeens}
 Facebook, ``Teens now start with "friends" privacy for new accounts; adding the
-  option to share publicly,'' Octover 16 2013.
+  option to share publicly,'' Octover 16, 2013.
 \newblock
   \url{http://newsroom.fb.com/News/737/Teens-Now-Start-With-Friends-Privacy-for-New-Accounts-Adding-the-Option-to-Share-Publicly#downloads},
   accessed 04.11.2013.
+
+\bibitem{faceHelp}
+F.~H. C.~A. Basics, ``Facebook.''
+\newblock \url{https://www.facebook.com/help/493707223977442/}, accessed
+  14.11.2013.
+
+\bibitem{permission}
+F.~D.~L. Reference, ``Facebook.''
+\newblock \url{https://developers.facebook.com/docs/reference/login/}, accessed
+  14.11.2013.
 
 \bibitem{BeaconWebsites}
 Facebook, ``Leading websites offer facebook beacon for social distribution.''
@@ -174,16 +187,35 @@ Facebook, ``Leading websites offer facebook beacon for social distribution.''
   accessed 24.10.2013.
 
 \bibitem{beaconMarketsPerspective}
-M.~Dickman, ``Inside//out: Facebook beacon,'' Last edit December 5 2007.
+M.~Dickman, ``Inside//out: Facebook beacon,'' Last edit December 5, 2007.
 \newblock
-  \url{http://technomarketer.typepad.com/technomarketer/2007/11/insideout-faceb.html
-  }, accessed 06.11.2013.
+  \url{http://technomarketer.typepad.com/technomarketer/2007/11/insideout-faceb.html},
+  accessed 06.11.2013.
+
+\bibitem{ring}
+C.~Li, ``Close encounter with facebook beacon,'' November 21, 2007.
+\newblock
+  \url{http://forrester.typepad.com/groundswell/2007/11/close-encounter.html},
+  accessed 14.11.2013.
 
 \bibitem{Beacon}
 M.~Zuckerberg, ``Thoughts on beacon.''
 \newblock
   \url{https://www.facebook.com/notes/facebook/thoughts-on-beacon/7584397130},
   accessed 24.10.2013.
+
+\bibitem{lawsuitB}
+J.~Brodkin, ``Facebook halts beacon, gives $9.5m to settle lawsuit,'' December
+  8, 2009.
+\newblock
+  \url{http://www.pcworld.com/article/184029/facebook_halts_beacon_gives_9_5_million_to_settle_lawsuit.html},
+  accessed 14.11.2013.
+
+\bibitem{checkIn}
+M.~E. Sharon, ``Who, what, when, and now... where,'' August 19, 2010.
+\newblock
+  \url{https://www.facebook.com/notes/facebook/who-what-when-and-nowwhere/418175202130},
+  accessed 14.11.2013.
 
 \bibitem{timeline}
 S.~W. Lessin, ``Tell your story with timeline,'' September 22, 2011.
@@ -197,7 +229,7 @@ Facebook, ``Explore your activity log.''
   05.11.2013.
 
 \bibitem{searchSetting}
-G.~Wallace, ``Facebook kills search privacy setting,'' October 11 2013.
+G.~Wallace, ``Facebook kills search privacy setting,'' October 11, 2013.
 \newblock
   \url{http://money.cnn.com/2013/10/11/technology/social/facebook-search-privacy/index.html?iid=EL},
   accessed 30.10.2013.
