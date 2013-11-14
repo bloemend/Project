@@ -60,42 +60,37 @@ Warning--entry type for "activitylog" isn't style-file defined
 Warning--entry type for "beaconMarketsPerspective" isn't style-file defined
 --line 272 of file references.bib
 Warning--entry type for "secureBrowsing" isn't style-file defined
-<<<<<<< HEAD
---line 281 of file references.bib
-Warning--entry type for "facebooksettings" isn't style-file defined
---line 289 of file references.bib
-Warning--entry type for "settingschangingagain" isn't style-file defined
---line 297 of file references.bib
-Warning--entry type for "graphsearchnet" isn't style-file defined
---line 305 of file references.bib
-Warning--entry type for "graphsearchew" isn't style-file defined
---line 313 of file references.bib
-Warning--entry type for "graphsearchfb" isn't style-file defined
---line 320 of file references.bib
-Warning--entry type for "graphsearchtips" isn't style-file defined
---line 327 of file references.bib
-Warning--entry type for "graphsearchcw" isn't style-file defined
---line 334 of file references.bib
-Warning--entry type for "connect" isn't style-file defined
---line 341 of file references.bib
-Warning--entry type for "connect2" isn't style-file defined
---line 348 of file references.bib
-=======
 --line 280 of file references.bib
-Warning--entry type for "keyFacts" isn't style-file defined
+Warning--entry type for "facebooksettings" isn't style-file defined
 --line 288 of file references.bib
+Warning--entry type for "settingschangingagain" isn't style-file defined
+--line 296 of file references.bib
+Warning--entry type for "graphsearchnet" isn't style-file defined
+--line 304 of file references.bib
+Warning--entry type for "graphsearchew" isn't style-file defined
+--line 312 of file references.bib
+Warning--entry type for "graphsearchfb" isn't style-file defined
+--line 319 of file references.bib
+Warning--entry type for "graphsearchtips" isn't style-file defined
+--line 326 of file references.bib
+Warning--entry type for "graphsearchcw" isn't style-file defined
+--line 333 of file references.bib
+Warning--entry type for "connect" isn't style-file defined
+--line 340 of file references.bib
+Warning--entry type for "connect2" isn't style-file defined
+--line 347 of file references.bib
+Warning--entry type for "keyFacts" isn't style-file defined
+--line 354 of file references.bib
 Warning--entry type for "checkIn" isn't style-file defined
---line 295 of file references.bib
+--line 361 of file references.bib
 Warning--entry type for "ring" isn't style-file defined
---line 302 of file references.bib
-Warning--entry type for "lawsuitB" isn't style-file defined
---line 309 of file references.bib
+--line 368 of file references.bib
 Warning--entry type for "faceHelp" isn't style-file defined
---line 316 of file references.bib
+--line 376 of file references.bib
 Warning--entry type for "permission" isn't style-file defined
---line 323 of file references.bib
-Warning--I didn't find a database entry for "facebooksettings"
->>>>>>> 818ad1a8d64018156185261cd19c7cfbe69d3196
+--line 383 of file references.bib
+Warning--entry type for "lawsuitB" isn't style-file defined
+--line 390 of file references.bib
 Warning--empty journal in EvoPriv
 Warning--empty journal in PrivTimeline
 Warning--empty journal in OSNpaper
