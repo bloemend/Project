@@ -91,7 +91,6 @@ Warning--entry type for "permission" isn't style-file defined
 --line 383 of file references.bib
 Warning--entry type for "lawsuitB" isn't style-file defined
 --line 390 of file references.bib
-<<<<<<< HEAD
 Warning--entry type for "newsfeed" isn't style-file defined
 --line 397 of file references.bib
 Warning--entry type for "newsfeed2" isn't style-file defined
@@ -100,13 +99,12 @@ I was expecting a `,' or a `}'---line 406 of file references.bib
  : year = {September 25, 2012}
  :                            .
 I'm skipping whatever remains of this entry
-=======
 Warning--entry type for "fbPlatform" isn't style-file defined
---line 397 of file references.bib
+--line 410 of file references.bib
+Warning--entry type for "platformStory" isn't style-file defined
+--line 417 of file references.bib
 Warning--entry type for "secure.me" isn't style-file defined
---line 411 of file references.bib
-Warning--I didn't find a database entry for "PlatformStory"
->>>>>>> 9a94791fe29e7a380175ee3c5f64fd89fe472c43
+--line 424 of file references.bib
 Warning--empty journal in EvoPriv
 Warning--empty journal in PrivTimeline
 Warning--empty journal in OSNpaper

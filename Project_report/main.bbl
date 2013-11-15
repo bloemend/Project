@@ -192,7 +192,6 @@ Facebook, ``Teens now start with "friends" privacy for new accounts; adding the
   \url{http://newsroom.fb.com/News/737/Teens-Now-Start-With-Friends-Privacy-for-New-Accounts-Adding-the-Option-to-Share-Publicly#downloads},
   accessed 04.11.2013.
 
-<<<<<<< HEAD
 \bibitem{newsfeed}
 Facebook, ``How news feed works.''
 \newblock \url{https://www.facebook.com/help/327131014036297}, accessed
@@ -200,11 +199,17 @@ Facebook, ``How news feed works.''
 
 \bibitem{newsfeed2}
 D.~{Schwartz for CBC News}, ``8 facebook privacy flaps,'' September 25, 2012.
-=======
+
+\bibitem{platformStory}
+H.~MCKENZIE, ``Move fast, break things: The sad story of platform, facebook’s
+  gigantic missed opportunity,'' July 23, 2013.
+\newblock
+  \url{http://pandodaily.com/2013/07/23/move-fast-break-things-the-sad-story-of-platform-facebooks-gigantic-missed-opportunity/},
+  accessed 15.11.2013.
+
 \bibitem{fbPlatform}
 Facebook, ``Facebook newsroom - platform.''
 \newblock \url{http://newsroom.fb.com/Platform}, accessed 15.11.2013.
->>>>>>> 9a94791fe29e7a380175ee3c5f64fd89fe472c43
 
 \bibitem{faceHelp}
 {Facebook Help Center - App Basics}, ``Facebook.''
