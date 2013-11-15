@@ -85,7 +85,7 @@ IMDB, ``The social network.''
 \newblock \url{http://www.imdb.com/title/tt1285016/}, accessed 24.10.2013.
 
 \bibitem{EvolutionOfFacebook}
-T.~N. Y. T. B.~D. Technology, ``The evolution of facebook.''
+{The New York Times Business Day Technology}, ``The evolution of facebook.''
 \newblock
   \url{http://www.nytimes.com/interactive/technology/facebook-timeline.html?_r=0#/#time189_6062},
   Last edited 24.07.2013, accessed 28.10.2013.
@@ -97,8 +97,8 @@ T.~Houston, ``Facebook to buy instagram for $ 1 $ billion.''
   accessed 28.10.2013.
 
 \bibitem{BBCFacebookGrowth}
-B.~N. Technology, ``Facebook timeline: the social network's life story,'' May
-  18, 2012.
+{BBC News Technology}, ``Facebook timeline: the social network's life story,''
+  May 18, 2012.
 \newblock \url{http://www.bbc.co.uk/news/technology-16832799}, accessed
   05.11.2013.
 
@@ -124,7 +124,7 @@ F.~Gottheil, ``Principles of economics.'' Power Point, 2013.
 \newblock Chapter 14: Externalities, Market, Failure and Public Choise.
 
 \bibitem{thirdPartyApps}
-H.~X. Na~Wang and J.~Grossklags, ``Third-party apps on facebook: Privacy and
+N.~Wang, H.~Xu, and J.~Grossklags, ``Third-party apps on facebook: Privacy and
   the illusion of control,'' December 2011.
 
 \bibitem{AMT}
@@ -175,7 +175,7 @@ M.~Gardner, ``Facebook privacy settings are changing again,'' October 30, 2013.
   accessed 14.11.2013.
 
 \bibitem{EvoPriv2}
-M.~C., ``The evolution of privacy on facebook,'' 2011.
+{Michael C.}, ``The evolution of privacy on facebook,'' 2011.
 \newblock
   \url{http://www.yalelawtech.org/control-privacy-technology/evolution-of-facebook-privacy},
   accessed 30.09.2013.
@@ -192,13 +192,21 @@ Facebook, ``Teens now start with "friends" privacy for new accounts; adding the
   \url{http://newsroom.fb.com/News/737/Teens-Now-Start-With-Friends-Privacy-for-New-Accounts-Adding-the-Option-to-Share-Publicly#downloads},
   accessed 04.11.2013.
 
+\bibitem{newsfeed}
+Facebook, ``How news feed works.''
+\newblock \url{https://www.facebook.com/help/327131014036297}, accessed
+  15.11.2013.
+
+\bibitem{newsfeed2}
+D.~{Schwartz for CBC News}, ``8 facebook privacy flaps,'' September 25, 2012.
+
 \bibitem{faceHelp}
-F.~H. C.~A. Basics, ``Facebook.''
+{Facebook Help Center - App Basics}, ``Facebook.''
 \newblock \url{https://www.facebook.com/help/493707223977442/}, accessed
   14.11.2013.
 
 \bibitem{permission}
-F.~D.~L. Reference, ``Facebook.''
+{Facebook Developers - Login Reference}, ``Facebook.''
 \newblock \url{https://developers.facebook.com/docs/reference/login/}, accessed
   14.11.2013.
 

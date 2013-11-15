@@ -91,6 +91,14 @@ Warning--entry type for "permission" isn't style-file defined
 --line 383 of file references.bib
 Warning--entry type for "lawsuitB" isn't style-file defined
 --line 390 of file references.bib
+Warning--entry type for "newsfeed" isn't style-file defined
+--line 397 of file references.bib
+Warning--entry type for "newsfeed2" isn't style-file defined
+--line 403 of file references.bib
+I was expecting a `,' or a `}'---line 406 of file references.bib
+ : year = {September 25, 2012}
+ :                            .
+I'm skipping whatever remains of this entry
 Warning--empty journal in EvoPriv
 Warning--empty journal in PrivTimeline
 Warning--empty journal in OSNpaper
@@ -106,4 +114,4 @@ Warning--empty year in incentivesAmt
 Warning--empty journal in amtpay
 Warning--empty journal in averagepay
 Warning--empty journal in EvoPriv2
-(There was 1 error message)
+(There were 2 error messages)
