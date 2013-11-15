@@ -56,6 +56,7 @@
 \contentsline {subsection}{\numberline {3.3.1}News Feed}{24}{subsection.3.3.1}
 \contentsline {paragraph}{}{24}{section*.33}
 \contentsline {subsection}{\numberline {3.3.2}Facebook Platform - Apps}{24}{subsection.3.3.2}
+<<<<<<< HEAD
 \contentsline {paragraph}{Application permissions.}{25}{section*.34}
 \contentsline {subsection}{\numberline {3.3.3}Beacon}{25}{subsection.3.3.3}
 \contentsline {paragraph}{}{25}{section*.35}
@@ -97,3 +98,10 @@
 \contentsline {paragraph}{Considered changing settings.}{51}{section*.56}
 \contentsline {subsection}{\numberline {4.2.3}Interdependent Privacy}{51}{subsection.4.2.3}
 \contentsline {chapter}{References}{57}{section*.58}
+=======
+\contentsline {paragraph}{Application permissions.}{24}{section*.34}
+\contentsline {paragraph}{Apps privacy control.}{25}{section*.35}
+\contentsline {subsubsection}{installing an application}{25}{section*.36}
+\contentsline {paragraph}{Installing on a PC.}{25}{section*.37}
+\contentsline {paragraph}{Installing on a mobile phone.}{25}{section*.38}
+>>>>>>> 9a94791fe29e7a380175ee3c5f64fd89fe472c43

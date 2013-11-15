@@ -14,6 +14,7 @@
 \contentsline {figure}{\numberline {3.5}{\ignorespaces Default settings for apps on Facebook November 2013}}{21}{figure.3.5}
 \contentsline {figure}{\numberline {3.6}{\ignorespaces Choosing who can see a status update.}}{23}{figure.3.6}
 \contentsline {figure}{\numberline {3.7}{\ignorespaces The message shown to teens when posting to the public for the first time}}{23}{figure.3.7}
+<<<<<<< HEAD
 \contentsline {figure}{\numberline {3.8}{\ignorespaces The message shown to teens when posting to the public, except for the first time}}{24}{figure.3.8}
 \contentsline {figure}{\numberline {3.9}{\ignorespaces Nearby function on Facebook mobile}}{28}{figure.3.9}
 \contentsline {figure}{\numberline {3.10}{\ignorespaces Places nearby feature}}{29}{figure.3.10}
@@ -32,3 +33,6 @@
 \contentsline {figure}{\numberline {4.11}{\ignorespaces Gender distribution}}{48}{figure.4.11}
 \contentsline {figure}{\numberline {4.12}{\ignorespaces Never checked Facebook privacy settings during the last year}}{49}{figure.4.12}
 \contentsline {figure}{\numberline {4.13}{\ignorespaces Checks Facebook privacy settings "Once a month" or "Once a week or more"}}{50}{figure.4.13}
+=======
+\contentsline {figure}{\numberline {3.8}{\ignorespaces The message shown to teens when posting to the public, except for the first time}}{23}{figure.3.8}
+>>>>>>> 9a94791fe29e7a380175ee3c5f64fd89fe472c43
