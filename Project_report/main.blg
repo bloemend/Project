@@ -91,6 +91,11 @@ Warning--entry type for "permission" isn't style-file defined
 --line 383 of file references.bib
 Warning--entry type for "lawsuitB" isn't style-file defined
 --line 390 of file references.bib
+Warning--entry type for "fbPlatform" isn't style-file defined
+--line 397 of file references.bib
+Warning--entry type for "secure.me" isn't style-file defined
+--line 411 of file references.bib
+Warning--I didn't find a database entry for "PlatformStory"
 Warning--empty journal in EvoPriv
 Warning--empty journal in PrivTimeline
 Warning--empty journal in OSNpaper
