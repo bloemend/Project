@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  18 NOV 2013 11:19
+=======
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  18 NOV 2013 15:24
+>>>>>>> 33104cf09f7d9cf7999a5097819be48966e5138f
 entering extended mode
 **main.tex
 (C:\Users\Esther\Project\Project_report\main.tex
@@ -1674,7 +1678,7 @@ LaTeX Info: Redefining \nameref on input line 32.
 \@outlinefile=\write8
 \c@lstlisting=\count324
 
-<./figs/ntnu-logo.pdf, id=167, 241.4922pt x 52.79724pt>
+<./figs/ntnu-logo.pdf, id=171, 241.4922pt x 52.79724pt>
 File: ./figs/ntnu-logo.pdf Graphic file (type pdf)
 
 <use ./figs/ntnu-logo.pdf>
@@ -1770,8 +1774,12 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20> not available
 
 
 
+<<<<<<< HEAD
 ]
 <./figs/facebook-icon.png, id=394, 481.8pt x 481.8pt>
+=======
+] <./figs/facebook-icon.png, id=402, 481.8pt x 481.8pt>
+>>>>>>> 33104cf09f7d9cf7999a5097819be48966e5138f
 File: ./figs/facebook-icon.png Graphic file (type png)
 
 <use ./figs/facebook-icon.png>
@@ -1787,21 +1795,22 @@ l.31
 Underfull \vbox (badness 2057) has occurred while \output is active []
 
  [5]
-[6] [7] [8] [9] [10] [11]
-<./figs/Turk-open.jpg, id=497, 602.25pt x 524.96124pt>
+[6] [7] [8] [9] [10] <./figs/Turk-open.jpg, id=493, 602.25pt x 524.96124pt>
 File: ./figs/Turk-open.jpg Graphic file (type jpg)
 
 <use ./figs/Turk-open.jpg>
-Package pdftex.def Info: ./figs/Turk-open.jpg used on input line 141.
+Package pdftex.def Info: ./figs/Turk-open.jpg used on input line 126.
 (pdftex.def)             Requested size: 254.79889pt x 222.10028pt.
 
-Underfull \vbox (badness 4048) has occurred while \output is active []
 
- [12pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
-2}) has been already used, duplicate ignored
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[11] [12pdfTeX warning (ext4): destination with the same identifier (name{figur
+e.2.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
+<<<<<<< HEAD
 l.150 \subparagraph
                    {} <C:/Users/Esther/Project/Project_report/figs/Turk-open.jp
 g>]) [13] [14
@@ -1810,6 +1819,16 @@ g>]) [13] [14
 ]
 (C:\Users\Esther\Project\Project_report\default_privacy_settings.tex
 <./figs/gowth_of_facebook.png, id=534, 738.50906pt x 460.72125pt>
+=======
+l.137 \subparagraph
+                   {} <C:/Users/Ida Malene/Project/Project_report/figs/Turk-ope
+n.jpg>]) [13] [14
+
+
+]
+("C:\Users\Ida Malene\Project\Project_report\default_privacy_settings.tex"
+<./figs/gowth_of_facebook.png, id=539, 738.50906pt x 460.72125pt>
+>>>>>>> 33104cf09f7d9cf7999a5097819be48966e5138f
 File: ./figs/gowth_of_facebook.png Graphic file (type png)
 
 <use ./figs/gowth_of_facebook.png>
@@ -1834,7 +1853,7 @@ Overfull \hbox (5.00406pt too wide) in alignment at lines 29--52
  []
 
 [17] [18]
-<./figs/default_nov_2013_security.png, id=576, 748.29562pt x 297.36093pt>
+<./figs/default_nov_2013_security.png, id=581, 748.29562pt x 297.36093pt>
 File: ./figs/default_nov_2013_security.png Graphic file (type png)
 
 <use ./figs/default_nov_2013_security.png>
@@ -1845,7 +1864,7 @@ e 110.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/default_nov_2013_privacy.png, id=577, 740.0147pt x 312.41719pt>
+<./figs/default_nov_2013_privacy.png, id=582, 740.0147pt x 312.41719pt>
 File: ./figs/default_nov_2013_privacy.png Graphic file (type png)
 
 <use ./figs/default_nov_2013_privacy.png>
@@ -1857,7 +1876,7 @@ Package pdftex.def Info: ./figs/default_nov_2013_privacy.png used on input line
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<./figs/default_nov_2013_timelineandtagging.png, id=578, 741.52031pt x 317.6868
+<./figs/default_nov_2013_timelineandtagging.png, id=583, 741.52031pt x 317.6868
 7pt>
 File: ./figs/default_nov_2013_timelineandtagging.png Graphic file (type png)
  <use ./figs/default_nov_2013_timelineandtagging.png>
@@ -1868,7 +1887,7 @@ Package pdftex.def Info: ./figs/default_nov_2013_timelineandtagging.png used on
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/default_nov_2013_apps.png, id=579, 761.84625pt x 543.53062pt>
+<./figs/default_nov_2013_apps.png, id=584, 761.84625pt x 543.53062pt>
 File: ./figs/default_nov_2013_apps.png Graphic file (type png)
 
 <use ./figs/default_nov_2013_apps.png>
@@ -1911,16 +1930,29 @@ l.139
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.139 
+<<<<<<< HEAD
        <C:/Users/Esther/Project/Project_report/figs/default_nov_2013_timelinean
 dtagging.png> <C:/Users/Esther/Project/Project_report/figs/default_nov_2013_app
 s.png>] <./figs/new_post.png, id=601, 398.99063pt x 250.68657pt>
+=======
+       <C:/Users/Ida Malene/Project/Project_report/figs/default_nov_2013_timeli
+neandtagging.png> <C:/Users/Ida Malene/Project/Project_report/figs/default_nov_
+2013_apps.png>] <./figs/new_post.png, id=606, 398.99063pt x 250.68657pt>
+>>>>>>> 33104cf09f7d9cf7999a5097819be48966e5138f
 File: ./figs/new_post.png Graphic file (type png)
 
 <use ./figs/new_post.png>
 Package pdftex.def Info: ./figs/new_post.png used on input line 148.
 (pdftex.def)             Requested size: 291.20111pt x 182.96906pt.
 
+<<<<<<< HEAD
 <./figs/teensSharePost.png, id=602, 395.97937pt x 197.23688pt>
+=======
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figs/teensSharePost.png, id=607, 395.97937pt x 197.23688pt>
+>>>>>>> 33104cf09f7d9cf7999a5097819be48966e5138f
 File: ./figs/teensSharePost.png Graphic file (type png)
 
 <use ./figs/teensSharePost.png>
@@ -1930,7 +1962,7 @@ Package pdftex.def Info: ./figs/teensSharePost.png used on input line 155.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/sharePost.png, id=607, 393.72093pt x 161.10187pt>
+<./figs/sharePost.png, id=612, 393.72093pt x 161.10187pt>
 File: ./figs/sharePost.png Graphic file (type png)
 
 <use ./figs/sharePost.png>
@@ -1965,15 +1997,33 @@ l.174
 rs/Esther/Project/Project_report/figs/sharePost.png>]
 Underfull \vbox (badness 1681) has occurred while \output is active []
 
+<<<<<<< HEAD
  [24]
 [25] <./figs/tripadvisorpc.png, id=664, 767.86874pt x 678.28406pt>
+=======
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.181 
+       <C:/Users/Ida Malene/Project/Project_report/figs/sharePost.png>]
+Underfull \vbox (badness 5726) has occurred while \output is active []
+
+ [25]
+<./figs/tripadvisorpc.png, id=666, 767.86874pt x 678.28406pt>
+>>>>>>> 33104cf09f7d9cf7999a5097819be48966e5138f
 File: ./figs/tripadvisorpc.png Graphic file (type png)
 
 <use ./figs/tripadvisorpc.png>
 Package pdftex.def Info: ./figs/tripadvisorpc.png used on input line 200.
 (pdftex.def)             Requested size: 291.20111pt x 257.23312pt.
 
+<<<<<<< HEAD
 <./figs/permissions.jpg, id=665, 498.36188pt x 481.8pt>
+=======
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figs/permissions.jpg, id=667, 498.36188pt x 481.8pt>
+>>>>>>> 33104cf09f7d9cf7999a5097819be48966e5138f
 File: ./figs/permissions.jpg Graphic file (type jpg)
 
 <use ./figs/permissions.jpg>
@@ -1983,6 +2033,7 @@ Package pdftex.def Info: ./figs/permissions.jpg used on input line 207.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+<<<<<<< HEAD
 [26pdfTeX warning (ext4): destination with the same identifier (name{figure.3.9
 }) has been already used, duplicate ignored
 
@@ -1991,6 +2042,9 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 l.214 
        <C:/Users/Esther/Project/Project_report/figs/tripadvisorpc.png>]
 <./figs/tripa1mobil.png, id=675, 360.59718pt x 570.63188pt>
+=======
+<./figs/tripa1mobil.png, id=671, 360.59718pt x 570.63188pt>
+>>>>>>> 33104cf09f7d9cf7999a5097819be48966e5138f
 File: ./figs/tripa1mobil.png Graphic file (type png)
 
 <use ./figs/tripa1mobil.png>
@@ -2000,7 +2054,11 @@ Package pdftex.def Info: ./figs/tripa1mobil.png used on input line 218.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+<<<<<<< HEAD
 <./figs/tripa2mobil.png, id=676, 359.09157pt x 572.1375pt>
+=======
+<./figs/tripa2mobil.png, id=672, 359.09157pt x 572.1375pt>
+>>>>>>> 33104cf09f7d9cf7999a5097819be48966e5138f
 File: ./figs/tripa2mobil.png Graphic file (type png)
 
 <use ./figs/tripa2mobil.png>
@@ -2010,7 +2068,11 @@ Package pdftex.def Info: ./figs/tripa2mobil.png used on input line 225.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+<<<<<<< HEAD
 <./figs/tripa3mobil.png, id=679, 358.33875pt x 570.63188pt>
+=======
+<./figs/tripa3mobil.png, id=675, 358.33875pt x 570.63188pt>
+>>>>>>> 33104cf09f7d9cf7999a5097819be48966e5138f
 File: ./figs/tripa3mobil.png Graphic file (type png)
 
 <use ./figs/tripa3mobil.png>
@@ -2063,12 +2125,30 @@ Overfull \hbox (9.41373pt too wide) in paragraph at lines 265--278
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.284 
+<<<<<<< HEAD
       ] <./figs/nearby.png, id=724, 234.1247pt x 299.61937pt>
+=======
+       <C:/Users/Ida Malene/Project/Project_report/figs/tripa3mobil.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [32pdfTeX warning (ext4): destination with the same identifier (name{table.3.3
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.287 
+      ] <./figs/nearby.png, id=734, 234.1247pt x 299.61937pt>
+>>>>>>> 33104cf09f7d9cf7999a5097819be48966e5138f
 File: ./figs/nearby.png Graphic file (type png)
 
 <use ./figs/nearby.png>
 Package pdftex.def Info: ./figs/nearby.png used on input line 290.
 (pdftex.def)             Requested size: 109.20111pt x 139.75131pt.
+<<<<<<< HEAD
+=======
+ <./figs/places.png, id=735, 451.6875pt x 937.25156pt>
+File: ./figs/places.png Graphic file (type png)
+>>>>>>> 33104cf09f7d9cf7999a5097819be48966e5138f
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2097,9 +2177,14 @@ l.307
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.307 
+<<<<<<< HEAD
        <C:/Users/Esther/Project/Project_report/figs/nearby.png> <C:/Users/Esthe
 r/Project/Project_report/figs/places.png>]
 <./figs/activity_log.png, id=744, 788.9475pt x 368.87813pt>
+=======
+       <C:/Users/Ida Malene/Project/Project_report/figs/nearby.png>]
+<./figs/activity_log.png, id=750, 788.9475pt x 368.87813pt>
+>>>>>>> 33104cf09f7d9cf7999a5097819be48966e5138f
 File: ./figs/activity_log.png Graphic file (type png)
 
 <use ./figs/activity_log.png>
@@ -2122,7 +2207,14 @@ Underfull \vbox (badness 1325) has occurred while \output is active []
 
 
 ]
+<<<<<<< HEAD
 [40] <./figs/firstpagesurvey.png, id=814, 640.64343pt x 314.67563pt>
+=======
+Underfull \vbox (badness 2744) has occurred while \output is active []
+
+ [40]
+<./figs/firstpagesurvey.png, id=820, 640.64343pt x 314.67563pt>
+>>>>>>> 33104cf09f7d9cf7999a5097819be48966e5138f
 File: ./figs/firstpagesurvey.png Graphic file (type png)
 
 <use ./figs/firstpagesurvey.png>
@@ -2133,17 +2225,19 @@ Overfull \hbox (11.79999pt too wide) in paragraph at lines 27--28
  [][] 
  []
 
-
-Underfull \vbox (badness 2837) has occurred while \output is active []
-
- [41pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
-1}) has been already used, duplicate ignored
+[41pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
+}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.37 
+<<<<<<< HEAD
       <C:/Users/Esther/Project/Project_report/figs/firstpagesurvey.png>]
 <./figs/page12.png, id=821, 540.51938pt x 563.10374pt>
+=======
+      <C:/Users/Ida Malene/Project/Project_report/figs/firstpagesurvey.png>]
+<./figs/page12.png, id=827, 540.51938pt x 563.10374pt>
+>>>>>>> 33104cf09f7d9cf7999a5097819be48966e5138f
 File: ./figs/page12.png Graphic file (type png)
  <use ./figs/page12.png>
 Package pdftex.def Info: ./figs/page12.png used on input line 43.
@@ -2165,8 +2259,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.54 
+<<<<<<< HEAD
       <C:/Users/Esther/Project/Project_report/figs/page12.png>]
 <./figs/page14.png, id=841, 584.1825pt x 481.8pt>
+=======
+      <C:/Users/Ida Malene/Project/Project_report/figs/page12.png>]
+<./figs/page14.png, id=847, 584.1825pt x 481.8pt>
+>>>>>>> 33104cf09f7d9cf7999a5097819be48966e5138f
 File: ./figs/page14.png Graphic file (type png)
  <use ./figs/page14.png>
 Package pdftex.def Info: ./figs/page14.png used on input line 58.
@@ -2176,7 +2275,11 @@ Overfull \hbox (11.79999pt too wide) in paragraph at lines 58--59
  [][] 
  []
 
+<<<<<<< HEAD
 <./figs/page15.png, id=842, 582.67688pt x 623.32875pt>
+=======
+<./figs/page15.png, id=848, 582.67688pt x 623.32875pt>
+>>>>>>> 33104cf09f7d9cf7999a5097819be48966e5138f
 File: ./figs/page15.png Graphic file (type png)
  <use ./figs/page15.png>
 Package pdftex.def Info: ./figs/page15.png used on input line 66.
@@ -2204,8 +2307,13 @@ Underfull \vbox (badness 1448) has occurred while \output is active []
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.76 
+<<<<<<< HEAD
       <C:/Users/Esther/Project/Project_report/figs/page15.png>]
 <./figs/amtedit.png, id=858, 649.67719pt x 640.64343pt>
+=======
+      <C:/Users/Ida Malene/Project/Project_report/figs/page15.png>]
+<./figs/amtedit.png, id=864, 649.67719pt x 640.64343pt>
+>>>>>>> 33104cf09f7d9cf7999a5097819be48966e5138f
 File: ./figs/amtedit.png Graphic file (type png)
 
 <use ./figs/amtedit.png>
@@ -2219,7 +2327,11 @@ Overfull \hbox (11.79999pt too wide) in paragraph at lines 83--84
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+<<<<<<< HEAD
 <./figs/amtlayout.png, id=860, 1308.38812pt x 618.05907pt>
+=======
+<./figs/amtlayout.png, id=866, 1308.38812pt x 618.05907pt>
+>>>>>>> 33104cf09f7d9cf7999a5097819be48966e5138f
 File: ./figs/amtlayout.png Graphic file (type png)
 
 <use ./figs/amtlayout.png>
@@ -2233,7 +2345,11 @@ Overfull \hbox (11.79999pt too wide) in paragraph at lines 93--94
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+<<<<<<< HEAD
 <./figs/hitout.png, id=862, 1430.34375pt x 837.88031pt>
+=======
+<./figs/hitout.png, id=868, 1430.34375pt x 837.88031pt>
+>>>>>>> 33104cf09f7d9cf7999a5097819be48966e5138f
 File: ./figs/hitout.png Graphic file (type png)
 
 <use ./figs/hitout.png>
@@ -2247,7 +2363,11 @@ Overfull \hbox (11.79999pt too wide) in paragraph at lines 104--105
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+<<<<<<< HEAD
 [46] <./figs/answersamt.png, id=867, 557.08125pt x 274.77657pt>
+=======
+[46] <./figs/answersamt.png, id=873, 557.08125pt x 274.77657pt>
+>>>>>>> 33104cf09f7d9cf7999a5097819be48966e5138f
 File: ./figs/answersamt.png Graphic file (type png)
 
 <use ./figs/answersamt.png>
@@ -2268,7 +2388,11 @@ l.117 \end{figure}
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+<<<<<<< HEAD
 <./figs/answersfacebook.png, id=873, 490.08093pt x 245.41687pt>
+=======
+<./figs/answersfacebook.png, id=879, 490.08093pt x 245.41687pt>
+>>>>>>> 33104cf09f7d9cf7999a5097819be48966e5138f
 File: ./figs/answersfacebook.png Graphic file (type png)
 
 <use ./figs/answersfacebook.png>
@@ -2313,9 +2437,15 @@ l.131
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.131 
+<<<<<<< HEAD
        <C:/Users/Esther/Project/Project_report/figs/answersamt.png> <C:/Users/E
 sther/Project/Project_report/figs/answersfacebook.png>]
 <./figs/land.png, id=889, 810.02625pt x 633.11531pt>
+=======
+       <C:/Users/Ida Malene/Project/Project_report/figs/answersamt.png> <C:/Use
+rs/Ida Malene/Project/Project_report/figs/answersfacebook.png>]
+<./figs/land.png, id=895, 810.02625pt x 633.11531pt>
+>>>>>>> 33104cf09f7d9cf7999a5097819be48966e5138f
 File: ./figs/land.png Graphic file (type png)
  <use ./figs/land.png>
 Package pdftex.def Info: ./figs/land.png used on input line 143.
@@ -2324,7 +2454,11 @@ Package pdftex.def Info: ./figs/land.png used on input line 143.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+<<<<<<< HEAD
 <./figs/gender.png, id=890, 722.7pt x 542.025pt>
+=======
+<./figs/gender.png, id=896, 722.7pt x 542.025pt>
+>>>>>>> 33104cf09f7d9cf7999a5097819be48966e5138f
 File: ./figs/gender.png Graphic file (type png)
  <use ./figs/gender.png>
 Package pdftex.def Info: ./figs/gender.png used on input line 153.
@@ -2333,7 +2467,11 @@ Package pdftex.def Info: ./figs/gender.png used on input line 153.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+<<<<<<< HEAD
 [50] <./figs/nevercheckedtable.png, id=900, 589.4522pt x 343.2825pt>
+=======
+[50] <./figs/nevercheckedtable.png, id=906, 589.4522pt x 343.2825pt>
+>>>>>>> 33104cf09f7d9cf7999a5097819be48966e5138f
 File: ./figs/nevercheckedtable.png Graphic file (type png)
 
 <use ./figs/nevercheckedtable.png>
@@ -2358,8 +2496,13 @@ Underfull \vbox (badness 3333) has occurred while \output is active []
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.188 
+<<<<<<< HEAD
        <C:/Users/Esther/Project/Project_report/figs/gender.png>]
 <./figs/checkonceaweekormoretable.png, id=915, 587.94656pt x 347.04657pt>
+=======
+       <C:/Users/Ida Malene/Project/Project_report/figs/gender.png>]
+<./figs/checkonceaweekormoretable.png, id=921, 587.94656pt x 347.04657pt>
+>>>>>>> 33104cf09f7d9cf7999a5097819be48966e5138f
 File: ./figs/checkonceaweekormoretable.png Graphic file (type png)
 
 <use ./figs/checkonceaweekormoretable.png>
@@ -2376,6 +2519,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.212 \subsubsection
+<<<<<<< HEAD
                     {Comparing the ones Who Have Never Checked their Faceboo...
  <C:/Users/Esther/Project/Project_report/figs/nevercheckedtable.png>] [54pdfTeX
  warning (ext4): destination with the same identifier (name{figure.4.13}) has b
@@ -2386,21 +2530,60 @@ een already used, duplicate ignored
 l.219 
        <C:/Users/Esther/Project/Project_report/figs/checkonceaweekormoretable.p
 ng>]) [55] [56
+=======
+                    {Comparing the ones who have "Never checked their Facebo...
+ <C:/Users/Ida Malene/Project/Project_report/figs/nevercheckedtable.png>]
+[54pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
+3}) has been already used, duplicate ignored
 
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.221 
+       <C:/Users/Ida Malene/Project/Project_report/figs/checkonceaweekormoretab
+le.png>]
+Underfull \hbox (badness 1540) in paragraph at lines 240--241
+[]|\T1/ptm/b/n/10 Q31. Do you have any idea about
+ []
+>>>>>>> 33104cf09f7d9cf7999a5097819be48966e5138f
 
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 256.
+
+<<<<<<< HEAD
 ] (C:\Users\Esther\Project\Project_report\discussion.tex)
 [57
+=======
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ts1ptm.fd"
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+Overfull \hbox (2.63303pt too wide) in alignment at lines 237--276
+ [] [] 
+ []
+>>>>>>> 33104cf09f7d9cf7999a5097819be48966e5138f
 
-] [58
+[55] [56]) [57] [58
 
 
+<<<<<<< HEAD
 ] (C:\Users\Esther\Project\Project_report\conclusion.tex) [59
+=======
+] ("C:\Users\Ida Malene\Project\Project_report\discussion.tex") [59
+>>>>>>> 33104cf09f7d9cf7999a5097819be48966e5138f
 
 ] [60
 
 
+<<<<<<< HEAD
 ]
 (C:\Users\Esther\Project\Project_report\main.bbl
+=======
+] ("C:\Users\Ida Malene\Project\Project_report\conclusion.tex")
+[61
+
+] [62
+
+
+] ("C:\Users\Ida Malene\Project\Project_report\main.bbl"
+>>>>>>> 33104cf09f7d9cf7999a5097819be48966e5138f
 bibitemlist
 
 Underfull \hbox (badness 2591) in paragraph at lines 25--28
@@ -2408,7 +2591,7 @@ Underfull \hbox (badness 2591) in paragraph at lines 25--28
  / www . crunchbase . com / product /$
  []
 
-[61
+[63
 
 ]
 Underfull \hbox (badness 1796) in paragraph at lines 84--86
@@ -2422,7 +2605,7 @@ Underfull \hbox (badness 1424) in paragraph at lines 135--137
  aws . amazon . com / mturk/$[][], ac-cessed
  []
 
-[62]
+[64]
 Underfull \hbox (badness 2591) in paragraph at lines 184--187
 []\T1/ptm/m/n/10 (+20) J. Kirk, ``Face-book turns on se-cure brows-ing by de-fa
 ult,'' Au-gust 1, 2013.
@@ -2476,7 +2659,7 @@ $\T1/ptm/m/n/10 (+20) Leading-[]Websites-[]Oer-[]Facebook-[]Beacon-[]for-[]Soc
 ial-[]Distribution$[][], ac-cessed
  []
 
-[63]
+[65]
 Underfull \hbox (badness 10000) in paragraph at lines 272--275
 []\T1/ptm/m/n/10 (+20) Facebook, ``Ex-plore your ac-tiv-ity log.''  [][]$https 
 : / / www . facebook . com / help /$
@@ -2506,7 +2689,7 @@ $\T1/ptm/m/n/10 (+20) mark-[]zuckerbergs-[]letter-[]to-[]investors-[]on-[]faceb
 ooks-[]social-[]mission / in / 2528910$[][],
  []
 
-[64]) [65]
+[66]) [67]
 \tf@toc=\write9
 \tf@lof=\write10
 \tf@lot=\write11
@@ -2524,14 +2707,11 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 109.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 109.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 109.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 2FA5243928521B7AC3C2249D2E03CF1C;2809.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+(rerunfilecheck)             Checksum: 4D00DFF71C3CCE1F35AF3E4E994D54E8;2897.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 109.
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  22077 strings out of 493921
  324072 string characters out of 3144873
  572077 words of memory out of 3000000
@@ -2551,4 +2731,25 @@ PDF statistics:
  1148 PDF objects out of 1200 (max. 8388607)
  284 named destinations out of 1000 (max. 500000)
  19945 words of extra memory for PDF output out of 20736 (max. 10000000)
+=======
+ 22105 strings out of 493921
+ 322947 string characters out of 3147267
+ 581188 words of memory out of 3000000
+ 24400 multiletter control sequences out of 15000+200000
+ 85691 words of font info for 198 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 58i,12n,47p,2845b,782s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}{C:/Program File
+s/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}<C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/u
+hvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/urw/times/utmri8a.pfb>
+Output written on main.pdf (83 pages, 3149515 bytes).
+PDF statistics:
+ 1164 PDF objects out of 1200 (max. 8388607)
+ 285 named destinations out of 1000 (max. 500000)
+ 20465 words of extra memory for PDF output out of 20736 (max. 10000000)
+>>>>>>> 33104cf09f7d9cf7999a5097819be48966e5138f
 
