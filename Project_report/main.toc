@@ -58,20 +58,20 @@
 \contentsline {subsection}{\numberline {3.3.2}Facebook Platform - Apps}{24}{subsection.3.3.2}
 \contentsline {paragraph}{Application permissions.}{25}{section*.34}
 \contentsline {paragraph}{Apps privacy control.}{25}{section*.35}
-\contentsline {subsubsection}{Installing an Application}{26}{section*.36}
-\contentsline {paragraph}{Installing on a PC.}{26}{section*.37}
+\contentsline {subsubsection}{Installing an Application}{25}{section*.36}
+\contentsline {paragraph}{Installing on a PC.}{25}{section*.37}
 \contentsline {paragraph}{Installing on a mobile phone.}{26}{section*.38}
 \contentsline {subsection}{\numberline {3.3.3}Beacon}{27}{subsection.3.3.3}
 \contentsline {paragraph}{}{27}{section*.39}
 \contentsline {subsection}{\numberline {3.3.4}Facebook Connect - "Log in with Facebook"}{31}{subsection.3.3.4}
-\contentsline {subsection}{\numberline {3.3.5}Places}{31}{subsection.3.3.5}
-\contentsline {subsection}{\numberline {3.3.6}Timeline}{33}{subsection.3.3.6}
-\contentsline {paragraph}{Privacy concerns regarding Facebook timeline}{33}{section*.40}
+\contentsline {subsection}{\numberline {3.3.5}Places}{32}{subsection.3.3.5}
+\contentsline {subsection}{\numberline {3.3.6}Timeline}{32}{subsection.3.3.6}
+\contentsline {paragraph}{Privacy concerns regarding Facebook timeline}{34}{section*.40}
 \contentsline {paragraph}{}{34}{section*.41}
 \contentsline {subsection}{\numberline {3.3.7}Graph Search}{35}{subsection.3.3.7}
-\contentsline {subsection}{\numberline {3.3.8}Facebook Removes Search Privacy Setting}{37}{subsection.3.3.8}
-\contentsline {section}{\numberline {3.4}Zuckerberg's Thoughts}{37}{section.3.4}
-\contentsline {paragraph}{}{37}{section*.42}
+\contentsline {subsection}{\numberline {3.3.8}Facebook Removes Search Privacy Setting}{36}{subsection.3.3.8}
+\contentsline {section}{\numberline {3.4}Zuckerberg's Thoughts}{36}{section.3.4}
+\contentsline {paragraph}{}{36}{section*.42}
 \contentsline {paragraph}{}{37}{section*.43}
 \contentsline {paragraph}{}{37}{section*.44}
 \contentsline {chapter}{\chapternumberline {4}Survey}{39}{chapter.4}
