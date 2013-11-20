@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  19 NOV 2013 15:35
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  20 NOV 2013 19:59
 entering extended mode
 **main.tex
 ("C:\Users\Ida Malene\Project\Project_report\main.tex"
@@ -1672,7 +1672,7 @@ LaTeX Info: Redefining \nameref on input line 32.
 \@outlinefile=\write8
 \c@lstlisting=\count324
 
-<./figs/ntnu-logo.pdf, id=171, 241.4922pt x 52.79724pt>
+<./figs/ntnu-logo.pdf, id=175, 241.4922pt x 52.79724pt>
 File: ./figs/ntnu-logo.pdf Graphic file (type pdf)
 
 <use ./figs/ntnu-logo.pdf>
@@ -1749,33 +1749,30 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20.74> not available
 ] [12
 
 ]
-No file main.gls.
-[13] [14
-
-]
-No file main.acr.
-[15] [16
-
-] ("C:\Users\Ida Malene\Project\Project_report\introduction.tex"
+("C:\Users\Ida Malene\Project\Project_report\introduction.tex"
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 1.
 
-[1
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
 
 
-]) [2] ("C:\Users\Ida Malene\Project\Project_report\related_work.tex"
-[3
+]
+[2]) [3] [4
 
 
+] ("C:\Users\Ida Malene\Project\Project_report\related_work.tex"
+[5
 
 
-] <./figs/facebook-icon.png, id=420, 481.8pt x 481.8pt>
+] <./figs/facebook-icon.png, id=426, 481.8pt x 481.8pt>
 File: ./figs/facebook-icon.png Graphic file (type png)
 
 <use ./figs/facebook-icon.png>
 Package pdftex.def Info: ./figs/facebook-icon.png used on input line 22.
 (pdftex.def)             Requested size: 72.79889pt x 72.79619pt.
- [4pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1
+ [6pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1784,8 +1781,8 @@ l.31
       <C:/Users/Ida Malene/Project/Project_report/figs/facebook-icon.png>]
 Underfull \vbox (badness 2057) has occurred while \output is active []
 
- [5]
-[6] [7] [8] [9] [10] <./figs/Turk-open.jpg, id=511, 602.25pt x 524.96124pt>
+ [7]
+[8] [9] [10] [11] [12] <./figs/Turk-open.jpg, id=516, 602.25pt x 524.96124pt>
 File: ./figs/Turk-open.jpg Graphic file (type jpg)
 
 <use ./figs/Turk-open.jpg>
@@ -1795,25 +1792,25 @@ Package pdftex.def Info: ./figs/Turk-open.jpg used on input line 126.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[11] [12pdfTeX warning (ext4): destination with the same identifier (name{figur
+[13] [14pdfTeX warning (ext4): destination with the same identifier (name{figur
 e.2.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.137 \subparagraph
                    {} <C:/Users/Ida Malene/Project/Project_report/figs/Turk-ope
-n.jpg>]) [13] [14
+n.jpg>]) [15] [16
 
 
 ]
 ("C:\Users\Ida Malene\Project\Project_report\default_privacy_settings.tex"
-<./figs/gowth_of_facebook.png, id=557, 738.50906pt x 460.72125pt>
+<./figs/gowth_of_facebook.png, id=563, 738.50906pt x 460.72125pt>
 File: ./figs/gowth_of_facebook.png Graphic file (type png)
 
 <use ./figs/gowth_of_facebook.png>
 Package pdftex.def Info: ./figs/gowth_of_facebook.png used on input line 11.
 (pdftex.def)             Requested size: 291.20111pt x 181.66302pt.
- [15
+ [17
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1}) 
@@ -1826,13 +1823,13 @@ l.19 \subsection
 /figs/gowth_of_facebook.png>]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 19.
- [16]
+ [18]
 Overfull \hbox (5.00406pt too wide) in alignment at lines 29--52
  [] [] 
  []
 
-[17] [18]
-<./figs/default_nov_2013_security.png, id=599, 748.29562pt x 297.36093pt>
+[19] [20]
+<./figs/default_nov_2013_security.png, id=605, 748.29562pt x 297.36093pt>
 File: ./figs/default_nov_2013_security.png Graphic file (type png)
 
 <use ./figs/default_nov_2013_security.png>
@@ -1843,7 +1840,7 @@ e 110.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/default_nov_2013_privacy.png, id=600, 740.0147pt x 312.41719pt>
+<./figs/default_nov_2013_privacy.png, id=606, 740.0147pt x 312.41719pt>
 File: ./figs/default_nov_2013_privacy.png Graphic file (type png)
 
 <use ./figs/default_nov_2013_privacy.png>
@@ -1855,7 +1852,7 @@ Package pdftex.def Info: ./figs/default_nov_2013_privacy.png used on input line
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<./figs/default_nov_2013_timelineandtagging.png, id=601, 741.52031pt x 317.6868
+<./figs/default_nov_2013_timelineandtagging.png, id=607, 741.52031pt x 317.6868
 7pt>
 File: ./figs/default_nov_2013_timelineandtagging.png Graphic file (type png)
  <use ./figs/default_nov_2013_timelineandtagging.png>
@@ -1866,7 +1863,7 @@ Package pdftex.def Info: ./figs/default_nov_2013_timelineandtagging.png used on
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/default_nov_2013_apps.png, id=602, 761.84625pt x 543.53062pt>
+<./figs/default_nov_2013_apps.png, id=608, 761.84625pt x 543.53062pt>
 File: ./figs/default_nov_2013_apps.png Graphic file (type png)
 
 <use ./figs/default_nov_2013_apps.png>
@@ -1877,13 +1874,13 @@ Package pdftex.def Info: ./figs/default_nov_2013_apps.png used on input line 13
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[19pdfTeX warning (ext4): destination with the same identifier (name{table.3.2}
+[21pdfTeX warning (ext4): destination with the same identifier (name{table.3.2}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.137 
-      ] [20pdfTeX warning (ext4): destination with the same identifier (name{fi
+      ] [22pdfTeX warning (ext4): destination with the same identifier (name{fi
 gure.3.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1897,7 +1894,7 @@ l.139
 l.139 
        <C:/Users/Ida Malene/Project/Project_report/figs/default_nov_2013_securi
 ty.png> <C:/Users/Ida Malene/Project/Project_report/figs/default_nov_2013_priva
-cy.png>] [21pdfTeX warning (ext4): destination with the same identifier (name{f
+cy.png>] [23pdfTeX warning (ext4): destination with the same identifier (name{f
 igure.3.4}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1911,14 +1908,14 @@ l.139
 l.139 
        <C:/Users/Ida Malene/Project/Project_report/figs/default_nov_2013_timeli
 neandtagging.png> <C:/Users/Ida Malene/Project/Project_report/figs/default_nov_
-2013_apps.png>] <./figs/new_post.png, id=624, 398.99063pt x 250.68657pt>
+2013_apps.png>] <./figs/new_post.png, id=629, 398.99063pt x 250.68657pt>
 File: ./figs/new_post.png Graphic file (type png)
 
 <use ./figs/new_post.png>
 Package pdftex.def Info: ./figs/new_post.png used on input line 148.
 (pdftex.def)             Requested size: 291.20111pt x 182.96906pt.
 
-<./figs/teensSharePost.png, id=625, 395.97937pt x 197.23688pt>
+<./figs/teensSharePost.png, id=630, 395.97937pt x 197.23688pt>
 File: ./figs/teensSharePost.png Graphic file (type png)
 
 <use ./figs/teensSharePost.png>
@@ -1928,7 +1925,7 @@ Package pdftex.def Info: ./figs/teensSharePost.png used on input line 155.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/sharePost.png, id=630, 393.72093pt x 161.10187pt>
+<./figs/sharePost.png, id=635, 393.72093pt x 161.10187pt>
 File: ./figs/sharePost.png Graphic file (type png)
 
 <use ./figs/sharePost.png>
@@ -1938,7 +1935,7 @@ Package pdftex.def Info: ./figs/sharePost.png used on input line 162.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[22pdfTeX warning (ext4): destination with the same identifier (name{figure.3.6
+[24pdfTeX warning (ext4): destination with the same identifier (name{figure.3.6
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1947,7 +1944,7 @@ l.168
        <C:/Users/Ida Malene/Project/Project_report/figs/new_post.png>]
 Underfull \vbox (badness 1163) has occurred while \output is active []
 
- [23pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+ [25pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
 7}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1962,15 +1959,15 @@ has been already used, duplicate ignored
 l.169 \section
               {Facebook Features - Impact on your Privacy}\label{sec:faceboo...
  <C:/Users/Ida Malene/Project/Project_report/figs/teensSharePost.png> <C:/Users
-/Ida Malene/Project/Project_report/figs/sharePost.png>] [24] [25]
-<./figs/tripadvisorpc.png, id=687, 767.86874pt x 678.28406pt>
+/Ida Malene/Project/Project_report/figs/sharePost.png>] [26] [27]
+<./figs/tripadvisorpc.png, id=693, 767.86874pt x 678.28406pt>
 File: ./figs/tripadvisorpc.png Graphic file (type png)
 
 <use ./figs/tripadvisorpc.png>
 Package pdftex.def Info: ./figs/tripadvisorpc.png used on input line 200.
 (pdftex.def)             Requested size: 291.20111pt x 257.23312pt.
 
-<./figs/permissions.jpg, id=688, 498.36188pt x 481.8pt>
+<./figs/permissions.jpg, id=694, 498.36188pt x 481.8pt>
 File: ./figs/permissions.jpg Graphic file (type jpg)
 
 <use ./figs/permissions.jpg>
@@ -1983,14 +1980,14 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [26pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+ [28pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
 9}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.214 
        <C:/Users/Ida Malene/Project/Project_report/figs/tripadvisorpc.png>]
-<./figs/tripa1mobil.png, id=697, 360.59718pt x 570.63188pt>
+<./figs/tripa1mobil.png, id=703, 360.59718pt x 570.63188pt>
 File: ./figs/tripa1mobil.png Graphic file (type png)
 
 <use ./figs/tripa1mobil.png>
@@ -2000,7 +1997,7 @@ Package pdftex.def Info: ./figs/tripa1mobil.png used on input line 218.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/tripa2mobil.png, id=698, 359.09157pt x 572.1375pt>
+<./figs/tripa2mobil.png, id=704, 359.09157pt x 572.1375pt>
 File: ./figs/tripa2mobil.png Graphic file (type png)
 
 <use ./figs/tripa2mobil.png>
@@ -2010,7 +2007,7 @@ Package pdftex.def Info: ./figs/tripa2mobil.png used on input line 225.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/tripa3mobil.png, id=701, 358.33875pt x 570.63188pt>
+<./figs/tripa3mobil.png, id=707, 358.33875pt x 570.63188pt>
 File: ./figs/tripa3mobil.png Graphic file (type png)
 
 <use ./figs/tripa3mobil.png>
@@ -2020,7 +2017,7 @@ Package pdftex.def Info: ./figs/tripa3mobil.png used on input line 232.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[27pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1
+[29pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1
 0}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -2029,7 +2026,7 @@ l.247
        <C:/Users/Ida Malene/Project/Project_report/figs/permissions.jpg>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [28pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+ [30pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
 11}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -2038,14 +2035,14 @@ l.249
        <C:/Users/Ida Malene/Project/Project_report/figs/tripa1mobil.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [29pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+ [31pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
 12}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.252 
        <C:/Users/Ida Malene/Project/Project_report/figs/tripa2mobil.png>]
-[30pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1
+[32pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1
 3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -2056,13 +2053,13 @@ Overfull \hbox (9.41373pt too wide) in paragraph at lines 265--278
 [][] 
  []
 
-[31pdfTeX warning (ext4): destination with the same identifier (name{table.3.3}
+[33pdfTeX warning (ext4): destination with the same identifier (name{table.3.3}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.279 \end{center}
-                  ] <./figs/nearby.png, id=747, 234.1247pt x 299.61937pt>
+                  ] <./figs/nearby.png, id=753, 234.1247pt x 299.61937pt>
 File: ./figs/nearby.png Graphic file (type png)
 
 <use ./figs/nearby.png>
@@ -2072,7 +2069,7 @@ Package pdftex.def Info: ./figs/nearby.png used on input line 290.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/places.png, id=748, 451.6875pt x 937.25156pt>
+<./figs/places.png, id=754, 451.6875pt x 937.25156pt>
 File: ./figs/places.png Graphic file (type png)
  <use ./figs/places.png>
 Package pdftex.def Info: ./figs/places.png used on input line 297.
@@ -2081,7 +2078,7 @@ Package pdftex.def Info: ./figs/places.png used on input line 297.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[32] [33pdfTeX warning (ext4): destination with the same identifier (name{figur
+[34] [35pdfTeX warning (ext4): destination with the same identifier (name{figur
 e.3.14}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -2097,35 +2094,35 @@ l.305 \paragraph
                 {Privacy concerns regarding Facebook timeline} <C:/Users/Ida Ma
 lene/Project/Project_report/figs/nearby.png> <C:/Users/Ida Malene/Project/Proje
 ct_report/figs/places.png>]
-<./figs/activity_log.png, id=767, 788.9475pt x 368.87813pt>
+<./figs/activity_log.png, id=772, 788.9475pt x 368.87813pt>
 File: ./figs/activity_log.png Graphic file (type png)
 
 <use ./figs/activity_log.png>
 Package pdftex.def Info: ./figs/activity_log.png used on input line 310.
 (pdftex.def)             Requested size: 364.0pt x 170.19257pt.
- [34pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+ [36pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
 16}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.318 
        <C:/Users/Ida Malene/Project/Project_report/figs/activity_log.png>]
-[35]
+[37]
 Underfull \vbox (badness 1325) has occurred while \output is active []
 
- [36])
-[37] [38
+ [38])
+[39] [40
 
 
 ] ("C:\Users\Ida Malene\Project\Project_report\mechanicalturk.tex"
-[39
+[41
 
 
 ]
 Underfull \vbox (badness 2744) has occurred while \output is active []
 
- [40]
-<./figs/firstpagesurvey.png, id=837, 640.64343pt x 314.67563pt>
+ [42]
+<./figs/firstpagesurvey.png, id=842, 640.64343pt x 314.67563pt>
 File: ./figs/firstpagesurvey.png Graphic file (type png)
 
 <use ./figs/firstpagesurvey.png>
@@ -2136,14 +2133,14 @@ Overfull \hbox (11.79999pt too wide) in paragraph at lines 27--28
  [][] 
  []
 
-[41pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
+[43pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.37 
       <C:/Users/Ida Malene/Project/Project_report/figs/firstpagesurvey.png>]
-<./figs/page12.png, id=844, 540.51938pt x 563.10374pt>
+<./figs/page12.png, id=850, 540.51938pt x 563.10374pt>
 File: ./figs/page12.png Graphic file (type png)
  <use ./figs/page12.png>
 Package pdftex.def Info: ./figs/page12.png used on input line 43.
@@ -2156,17 +2153,17 @@ Overfull \hbox (11.79999pt too wide) in paragraph at lines 43--44
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[42]
+[44]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [43pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+ [45pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
 2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.54 
       <C:/Users/Ida Malene/Project/Project_report/figs/page12.png>]
-<./figs/page14.png, id=864, 584.1825pt x 481.8pt>
+<./figs/page14.png, id=870, 584.1825pt x 481.8pt>
 File: ./figs/page14.png Graphic file (type png)
  <use ./figs/page14.png>
 Package pdftex.def Info: ./figs/page14.png used on input line 58.
@@ -2176,7 +2173,7 @@ Overfull \hbox (11.79999pt too wide) in paragraph at lines 58--59
  [][] 
  []
 
-<./figs/page15.png, id=865, 582.67688pt x 623.32875pt>
+<./figs/page15.png, id=871, 582.67688pt x 623.32875pt>
 File: ./figs/page15.png Graphic file (type png)
  <use ./figs/page15.png>
 Package pdftex.def Info: ./figs/page15.png used on input line 66.
@@ -2189,7 +2186,7 @@ Overfull \hbox (11.79999pt too wide) in paragraph at lines 66--67
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[44pdfTeX warning (ext4): destination with the same identifier (name{figure.4.3
+[46pdfTeX warning (ext4): destination with the same identifier (name{figure.4.3
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -2198,14 +2195,14 @@ l.76
       <C:/Users/Ida Malene/Project/Project_report/figs/page14.png>]
 Underfull \vbox (badness 1448) has occurred while \output is active []
 
- [45pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+ [47pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
 4}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.76 
       <C:/Users/Ida Malene/Project/Project_report/figs/page15.png>]
-<./figs/amtedit.png, id=881, 649.67719pt x 640.64343pt>
+<./figs/amtedit.png, id=886, 649.67719pt x 640.64343pt>
 File: ./figs/amtedit.png Graphic file (type png)
 
 <use ./figs/amtedit.png>
@@ -2219,7 +2216,7 @@ Overfull \hbox (11.79999pt too wide) in paragraph at lines 83--84
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/amtlayout.png, id=883, 1308.38812pt x 618.05907pt>
+<./figs/amtlayout.png, id=888, 1308.38812pt x 618.05907pt>
 File: ./figs/amtlayout.png Graphic file (type png)
 
 <use ./figs/amtlayout.png>
@@ -2233,7 +2230,7 @@ Overfull \hbox (11.79999pt too wide) in paragraph at lines 93--94
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/hitout.png, id=885, 1430.34375pt x 837.88031pt>
+<./figs/hitout.png, id=890, 1430.34375pt x 837.88031pt>
 File: ./figs/hitout.png Graphic file (type png)
 
 <use ./figs/hitout.png>
@@ -2247,7 +2244,7 @@ Overfull \hbox (11.79999pt too wide) in paragraph at lines 104--105
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[46] <./figs/answersamt.png, id=890, 557.08125pt x 274.77657pt>
+[48] <./figs/answersamt.png, id=895, 557.08125pt x 274.77657pt>
 File: ./figs/answersamt.png Graphic file (type png)
 
 <use ./figs/answersamt.png>
@@ -2258,7 +2255,7 @@ Overfull \hbox (11.79999pt too wide) in paragraph at lines 114--115
  [][] 
  []
 
-[47pdfTeX warning (ext4): destination with the same identifier (name{figure.4.5
+[49pdfTeX warning (ext4): destination with the same identifier (name{figure.4.5
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -2269,7 +2266,7 @@ l.117 \end{figure}
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/answersfacebook.png, id=896, 490.08093pt x 245.41687pt>
+<./figs/answersfacebook.png, id=902, 490.08093pt x 245.41687pt>
 File: ./figs/answersfacebook.png Graphic file (type png)
 
 <use ./figs/answersfacebook.png>
@@ -2286,7 +2283,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 Underfull \vbox (badness 6032) has occurred while \output is active []
 
- [48pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+ [50pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
 6}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -2302,7 +2299,7 @@ l.128
 s/Ida Malene/Project/Project_report/figs/hitout.png>]
 Underfull \vbox (badness 1810) has occurred while \output is active []
 
- [49pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+ [51pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
 8}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -2316,7 +2313,7 @@ l.131
 l.131 
        <C:/Users/Ida Malene/Project/Project_report/figs/answersamt.png> <C:/Use
 rs/Ida Malene/Project/Project_report/figs/answersfacebook.png>]
-<./figs/land.png, id=912, 810.02625pt x 633.11531pt>
+<./figs/land.png, id=918, 810.02625pt x 633.11531pt>
 File: ./figs/land.png Graphic file (type png)
  <use ./figs/land.png>
 Package pdftex.def Info: ./figs/land.png used on input line 143.
@@ -2325,7 +2322,7 @@ Package pdftex.def Info: ./figs/land.png used on input line 143.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/gender.png, id=913, 722.7pt x 542.025pt>
+<./figs/gender.png, id=919, 722.7pt x 542.025pt>
 File: ./figs/gender.png Graphic file (type png)
  <use ./figs/gender.png>
 Package pdftex.def Info: ./figs/gender.png used on input line 153.
@@ -2334,7 +2331,7 @@ Package pdftex.def Info: ./figs/gender.png used on input line 153.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[50] <./figs/nevercheckedtable.png, id=923, 624.83438pt x 348.55219pt>
+[52] <./figs/nevercheckedtable.png, id=929, 624.83438pt x 348.55219pt>
 File: ./figs/nevercheckedtable.png Graphic file (type png)
 
 <use ./figs/nevercheckedtable.png>
@@ -2344,7 +2341,7 @@ Package pdftex.def Info: ./figs/nevercheckedtable.png used on input line 173.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[51pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
+[53pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
 0}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -2353,14 +2350,14 @@ l.182
        <C:/Users/Ida Malene/Project/Project_report/figs/land.png>]
 Underfull \vbox (badness 3333) has occurred while \output is active []
 
- [52pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+ [54pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
 11}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.188 
        <C:/Users/Ida Malene/Project/Project_report/figs/gender.png>]
-<./figs/checkonceaweekormoretable.png, id=938, 620.3175pt x 353.06906pt>
+<./figs/checkonceaweekormoretable.png, id=943, 620.3175pt x 353.06906pt>
 File: ./figs/checkonceaweekormoretable.png Graphic file (type png)
 
 <use ./figs/checkonceaweekormoretable.png>
@@ -2371,14 +2368,14 @@ e 194.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[53pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
+[55pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
 2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.216 
        <C:/Users/Ida Malene/Project/Project_report/figs/nevercheckedtable.png>]
-[54pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
+[56pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
 3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -2388,161 +2385,178 @@ l.221
 le.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [55]
-LaTeX Font Info:    Try loading font information for TS1+ptm on input line 262.
+ [57]
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 240.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ts1ptm.fd"
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-Overfull \hbox (2.63303pt too wide) in alignment at lines 239--279
+) [58]
+Overfull \hbox (2.63303pt too wide) in alignment at lines 259--299
  [] [] 
  []
 
 
-Overfull \hbox (2.63303pt too wide) in alignment at lines 279--282
+Overfull \hbox (2.63303pt too wide) in alignment at lines 299--302
  [] [] 
  []
 
-[56] [57] [58] <./figs/appsyouuse.png, id=984, 652.4375pt x 570.13pt>
+[59] [60]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [61]
+<./figs/appsyouuse.png, id=989, 652.4375pt x 570.13pt>
 File: ./figs/appsyouuse.png Graphic file (type png)
 
 <use ./figs/appsyouuse.png>
-Package pdftex.def Info: ./figs/appsyouuse.png used on input line 296.
+Package pdftex.def Info: ./figs/appsyouuse.png used on input line 312.
 (pdftex.def)             Requested size: 291.20111pt x 254.46826pt.
+ [62pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+14}) has been already used, duplicate ignored
 
-<./figs/appsaccessbasicinfo.png, id=985, 652.4375pt x 409.53pt>
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.318 
+       <C:/Users/Ida Malene/Project/Project_report/figs/appsyouuse.png>]
+<./figs/appsaccessbasicinfo.png, id=999, 652.4375pt x 409.53pt>
 File: ./figs/appsaccessbasicinfo.png Graphic file (type png)
 
 <use ./figs/appsaccessbasicinfo.png>
-Package pdftex.def Info: ./figs/appsaccessbasicinfo.png used on input line 305.
+Package pdftex.def Info: ./figs/appsaccessbasicinfo.png used on input line 322.
 
 (pdftex.def)             Requested size: 291.20111pt x 182.78705pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<./figs/appspostonyourbehalf.png, id=986, 652.4375pt x 409.53pt>
+<./figs/appspostonyourbehalf.png, id=1000, 652.4375pt x 409.53pt>
 File: ./figs/appspostonyourbehalf.png Graphic file (type png)
 
 <use ./figs/appspostonyourbehalf.png>
-Package pdftex.def Info: ./figs/appspostonyourbehalf.png used on input line 313
+Package pdftex.def Info: ./figs/appspostonyourbehalf.png used on input line 330
 .
 (pdftex.def)             Requested size: 291.20111pt x 182.78705pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/appsaccesstofriendsinfo.png, id=987, 652.4375pt x 409.53pt>
+<./figs/appsaccesstofriendsinfo.png, id=1001, 652.4375pt x 409.53pt>
 File: ./figs/appsaccesstofriendsinfo.png Graphic file (type png)
 
 <use ./figs/appsaccesstofriendsinfo.png>
 Package pdftex.def Info: ./figs/appsaccesstofriendsinfo.png used on input line 
-321.
+338.
 (pdftex.def)             Requested size: 291.20111pt x 182.78705pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/appsaccessrelationalinfo.png, id=988, 652.4375pt x 409.53pt>
+<./figs/appsaccessrelationalinfo.png, id=1002, 652.4375pt x 409.53pt>
 File: ./figs/appsaccessrelationalinfo.png Graphic file (type png)
 
 <use ./figs/appsaccessrelationalinfo.png>
 Package pdftex.def Info: ./figs/appsaccessrelationalinfo.png used on input line
- 329.
+ 346.
 (pdftex.def)             Requested size: 291.20111pt x 182.78705pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/appsothersuse.png, id=989, 652.4375pt x 503.8825pt>
+<./figs/appsothersuse.png, id=1003, 652.4375pt x 503.8825pt>
 File: ./figs/appsothersuse.png Graphic file (type png)
 
 <use ./figs/appsothersuse.png>
-Package pdftex.def Info: ./figs/appsothersuse.png used on input line 337.
+Package pdftex.def Info: ./figs/appsothersuse.png used on input line 354.
 (pdftex.def)             Requested size: 291.20111pt x 224.89977pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[59pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
-4}) has been already used, duplicate ignored
+[63pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
+5}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.345 
-       <C:/Users/Ida Malene/Project/Project_report/figs/appsyouuse.png>]
-Underfull \vbox (badness 1603) has occurred while \output is active []
-
- [60pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
-15}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.345 
-      pdfTeX warning (ext4): destination with the same identifier (name{figure.
-4.16}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.345 
+l.361 
        <C:/Users/Ida Malene/Project/Project_report/figs/appsaccessbasicinfo.png
-> <C:/Users/Ida Malene/Project/Project_report/figs/appspostonyourbehalf.png>]
+>]
 Underfull \vbox (badness 2245) has occurred while \output is active []
 
- [61pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
-17}) has been already used, duplicate ignored
+ [64pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+16}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.345 
+l.361 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
+4.17}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.361 
+       <C:/Users/Ida Malene/Project/Project_report/figs/appspostonyourbehalf.pn
+g> <C:/Users/Ida Malene/Project/Project_report/figs/appsaccesstofriendsinfo.png
+>] [65pdfTeX warning (ext4): destination with the same identifier (name{figure.
 4.18}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.345 
-       <C:/Users/Ida Malene/Project/Project_report/figs/appsaccesstofriendsinfo
-.png> <C:/Users/Ida Malene/Project/Project_report/figs/appsaccessrelationalinfo
-.png>]
-<./figs/awareness(manyappsandfewapps).png, id=1008, 417.05812pt x 212.29312pt>
+l.364 
+       <C:/Users/Ida Malene/Project/Project_report/figs/appsaccessrelationalinf
+o.png>]
+<./figs/awareness(manyappsandfewapps).png, id=1023, 417.05812pt x 212.29312pt>
 File: ./figs/awareness(manyappsandfewapps).png Graphic file (type png)
 
 <use ./figs/awareness(manyappsandfewapps).png>
 Package pdftex.def Info: ./figs/awareness(manyappsandfewapps).png used on input
- line 348.
-(pdftex.def)             Requested size: 364.0pt x 185.29604pt.
+ line 367.
+(pdftex.def)             Requested size: 291.20111pt x 148.23488pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [62pdfTeX warning (ext4): destination with the same identifier (name{figure.4
+<./figs/appsothersusemanyfew2.png, id=1024, 403.5075pt x 587.19376pt>
+File: ./figs/appsothersusemanyfew2.png Graphic file (type png)
+
+<use ./figs/appsothersusemanyfew2.png>
+Package pdftex.def Info: ./figs/appsothersusemanyfew2.png used on input line 37
+5.
+(pdftex.def)             Requested size: 218.40222pt x 317.82358pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [66pdfTeX warning (ext4): destination with the same identifier (name{figure.4
 .19}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.85 \include{mechanicalturk}
                               <C:/Users/Ida Malene/Project/Project_report/figs/
-appsothersuse.png>] [63pdfTeX warning (ext4): destination with the same identif
+appsothersuse.png>] [67pdfTeX warning (ext4): destination with the same identif
 ier (name{figure.4.20}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.85 \include{mechanicalturk}
                               <C:/Users/Ida Malene/Project/Project_report/figs/
-awareness(manyappsandfewapps).png>] [64
+awareness(manyappsandfewapps).png>] [68pdfTeX warning (ext4): destination with 
+the same identifier (name{figure.4.21}) has been already used, duplicate ignore
+d
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.85 \include{mechanicalturk}
+                              <C:/Users/Ida Malene/Project/Project_report/figs/
+appsothersusemanyfew2.png>]
+("C:\Users\Ida Malene\Project\Project_report\discussion.tex") [69
+
+
+
+] [70
 
 
 ]
-("C:\Users\Ida Malene\Project\Project_report\discussion.tex") [65
+("C:\Users\Ida Malene\Project\Project_report\conclusion.tex") [71
 
-] [66
-
-
-]
-("C:\Users\Ida Malene\Project\Project_report\conclusion.tex") [67
-
-] [68
+] [72
 
 
 ]
@@ -2554,7 +2568,7 @@ Underfull \hbox (badness 2591) in paragraph at lines 25--28
  / www . crunchbase . com / product /$
  []
 
-[69
+[73
 
 ]
 Underfull \hbox (badness 1796) in paragraph at lines 84--86
@@ -2568,7 +2582,7 @@ Underfull \hbox (badness 1424) in paragraph at lines 135--137
  aws . amazon . com / mturk/$[][], ac-cessed
  []
 
-[70]
+[74]
 Underfull \hbox (badness 2591) in paragraph at lines 184--187
 []\T1/ptm/m/n/10 (+20) J. Kirk, ``Face-book turns on se-cure brows-ing by de-fa
 ult,'' Au-gust 1, 2013.
@@ -2622,7 +2636,7 @@ $\T1/ptm/m/n/10 (+20) Leading-[]Websites-[]Oer-[]Facebook-[]Beacon-[]for-[]Soc
 ial-[]Distribution$[][], ac-cessed
  []
 
-[71]
+[75]
 Underfull \hbox (badness 10000) in paragraph at lines 272--275
 []\T1/ptm/m/n/10 (+20) Facebook, ``Ex-plore your ac-tiv-ity log.''  [][]$https 
 : / / www . facebook . com / help /$
@@ -2652,7 +2666,12 @@ $\T1/ptm/m/n/10 (+20) mark-[]zuckerbergs-[]letter-[]to-[]investors-[]on-[]faceb
 ooks-[]social-[]mission / in / 2528910$[][],
  []
 
-[72]) [73]
+[76])
+
+Package glossaries Warning: No \printglossary or \printglossaries found.
+This document will not have a glossary.
+
+[77]
 \tf@toc=\write9
 \tf@lof=\write10
 \tf@lot=\write11
@@ -2670,31 +2689,27 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 109.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 109.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 109.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 4D00DFF71C3CCE1F35AF3E4E994D54E8;2897.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+(rerunfilecheck)             Checksum: C24B493BA5322E95B5C85EF891B6AE6B;2978.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 109.
  ) 
 Here is how much of TeX's memory you used:
- 22160 strings out of 493921
- 324397 string characters out of 3147267
- 586576 words of memory out of 3000000
- 24435 multiletter control sequences out of 15000+200000
- 85691 words of font info for 198 fonts, out of 3000000 for 9000
+ 22177 strings out of 493921
+ 324732 string characters out of 3147267
+ 587807 words of memory out of 3000000
+ 24441 multiletter control sequences out of 15000+200000
+ 85916 words of font info for 200 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 58i,12n,47p,2845b,782s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}{C:/Program File
-s/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}<C:/Program Files/MiKTeX 2.9/fonts/ty
+ 58i,12n,47p,2845b,780s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/M
+iKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/ty
 pe1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/u
 hvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/
 Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiK
 TeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
 e1/urw/times/utmri8a.pfb>
-Output written on main.pdf (89 pages, 3302503 bytes).
+Output written on main.pdf (89 pages, 3400858 bytes).
 PDF statistics:
- 1234 PDF objects out of 1440 (max. 8388607)
- 298 named destinations out of 1000 (max. 500000)
- 20500 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 1253 PDF objects out of 1440 (max. 8388607)
+ 307 named destinations out of 1000 (max. 500000)
+ 20513 words of extra memory for PDF output out of 20736 (max. 10000000)
 
