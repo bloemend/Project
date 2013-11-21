@@ -77,37 +77,39 @@
 \contentsline {paragraph}{}{38}{section*.45}
 \contentsline {paragraph}{}{39}{section*.46}
 \contentsline {paragraph}{}{39}{section*.47}
-\contentsline {chapter}{\chapternumberline {4}Survey}{41}{chapter.4}
-\contentsline {section}{\numberline {4.1}Constructing the Survey}{41}{section.4.1}
-\contentsline {paragraph}{}{41}{section*.48}
-\contentsline {subsection}{\numberline {4.1.1}Design}{42}{subsection.4.1.1}
-\contentsline {paragraph}{Features we used in SurveyMonkey.}{42}{section*.49}
-\contentsline {subsection}{\numberline {4.1.2}How the Survey is Structured}{43}{subsection.4.1.2}
-\contentsline {subsubsection}{Facebook usage}{43}{section*.50}
-\contentsline {subsubsection}{Facebook privacy: settings}{44}{section*.51}
-\contentsline {subsubsection}{Facebook privacy: personal experience}{44}{section*.52}
-\contentsline {subsubsection}{Facebook privacy: apps}{44}{section*.53}
-\contentsline {subsubsection}{Facebook security: settings}{46}{section*.54}
-\contentsline {subsubsection}{Demographics}{47}{section*.55}
-\contentsline {subsection}{\numberline {4.1.3}Distributing the Survey}{48}{subsection.4.1.3}
-\contentsline {subsection}{\numberline {4.1.4}Feedback on the Survey}{52}{subsection.4.1.4}
-\contentsline {section}{\numberline {4.2}Survey Results}{52}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Demographics}{52}{subsection.4.2.1}
-\contentsline {paragraph}{}{52}{section*.56}
-\contentsline {paragraph}{}{52}{section*.57}
-\contentsline {subsection}{\numberline {4.2.2}Never Checked Facebook Privacy Settings During the Last Year}{53}{subsection.4.2.2}
-\contentsline {subsubsection}{App awareness}{55}{section*.58}
-\contentsline {subsection}{\numberline {4.2.3}Checks Facebook Privacy Settings "Once a month" or "Once a week or more"}{55}{subsection.4.2.3}
-\contentsline {subsubsection}{App awareness}{57}{section*.59}
-\contentsline {subsection}{\numberline {4.2.4}Comparing the ones who have "Never checked their Facebook privacy settings during the last year" and the ones who checks "Once a month" or "Once a week or more"}{57}{subsection.4.2.4}
-\contentsline {subsubsection}{Activity level.}{57}{section*.60}
-\contentsline {subsubsection}{More secure settings for those who check their settings more often?}{57}{section*.61}
-\contentsline {subsubsection}{Considered changing settings.}{57}{section*.62}
-\contentsline {subsection}{\numberline {4.2.5}Comparisons with Previous Surveys}{58}{subsection.4.2.5}
-\contentsline {subsection}{\numberline {4.2.6}Users' personal experience}{58}{subsection.4.2.6}
-\contentsline {subsection}{\numberline {4.2.7}Interdependent Privacy}{59}{subsection.4.2.7}
-\contentsline {paragraph}{}{67}{section*.63}
-\contentsline {chapter}{References}{73}{section*.65}
+\contentsline {chapter}{\chapternumberline {4}Construction of the Survey}{41}{chapter.4}
+\contentsline {paragraph}{Constructing the Survey}{41}{section*.48}
+\contentsline {paragraph}{}{41}{section*.49}
+\contentsline {section}{\numberline {4.1}Design}{42}{section.4.1}
+\contentsline {paragraph}{Features we used in SurveyMonkey.}{42}{section*.50}
+\contentsline {section}{\numberline {4.2}How the Survey is Structured}{43}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Facebook usage}{43}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Facebook privacy: settings}{44}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Facebook privacy: personal experience}{44}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Facebook privacy: apps}{44}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Facebook security: settings}{46}{subsection.4.2.5}
+\contentsline {subsection}{\numberline {4.2.6}Demographics}{47}{subsection.4.2.6}
+\contentsline {section}{\numberline {4.3}Distributing the Survey}{48}{section.4.3}
+\contentsline {section}{\numberline {4.4}Feedback on the Survey}{52}{section.4.4}
+\contentsline {chapter}{\chapternumberline {5}The Survey Results}{53}{chapter.5}
+\contentsline {section}{\numberline {5.1}Demographics}{54}{section.5.1}
+\contentsline {paragraph}{}{54}{section*.51}
+\contentsline {paragraph}{}{55}{section*.52}
+\contentsline {section}{\numberline {5.2}Never Checked Facebook Privacy Settings During the Last Year}{55}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}App awareness}{56}{subsection.5.2.1}
+\contentsline {section}{\numberline {5.3}Checks Facebook Privacy Settings "Once a month" or "Once a week or more"}{56}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}App awareness}{58}{subsection.5.3.1}
+\contentsline {section}{\numberline {5.4}Comparing the ones who never check and the ones who check frequently}{58}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Activity level.}{58}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}More secure settings for those who check their settings more often?}{60}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}Considered changing settings.}{60}{subsection.5.4.3}
+\contentsline {section}{\numberline {5.5}Comparisons with Previous Surveys}{60}{section.5.5}
+\contentsline {section}{\numberline {5.6}Users' personal experience}{61}{section.5.6}
+\contentsline {section}{\numberline {5.7}Interdependent Privacy}{62}{section.5.7}
+\contentsline {paragraph}{}{69}{section*.53}
+\contentsline {chapter}{\chapternumberline {6}Discussion}{73}{chapter.6}
+\contentsline {chapter}{\chapternumberline {7}Conclusion}{75}{chapter.7}
+\contentsline {chapter}{References}{79}{section*.55}
  \vspace {1em} \noindent \bfseries Appendices\par \vspace {-.5em} 
-\contentsline {appendix}{\chapternumberline {A}Appendix A}{79}{appendix.A}
-\contentsline {appendix}{\chapternumberline {B}Appendix B}{89}{appendix.B}
+\contentsline {appendix}{\chapternumberline {A}The survey}{85}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}Survey results}{95}{appendix.B}
