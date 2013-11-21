@@ -100,9 +100,9 @@
 \contentsline {section}{\numberline {5.3}Checks Facebook Privacy Settings "Once a month" or "Once a week or more"}{56}{section.5.3}
 \contentsline {subsection}{\numberline {5.3.1}App awareness}{58}{subsection.5.3.1}
 \contentsline {section}{\numberline {5.4}Comparing the ones who never check and the ones who check frequently}{58}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}Activity level.}{58}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.1}Activity level}{58}{subsection.5.4.1}
 \contentsline {subsection}{\numberline {5.4.2}More secure settings for those who check their settings more often?}{60}{subsection.5.4.2}
-\contentsline {subsection}{\numberline {5.4.3}Considered changing settings.}{60}{subsection.5.4.3}
+\contentsline {subsection}{\numberline {5.4.3}Considered changing settings}{60}{subsection.5.4.3}
 \contentsline {section}{\numberline {5.5}Comparisons with Previous Surveys}{60}{section.5.5}
 \contentsline {section}{\numberline {5.6}Users' personal experience}{61}{section.5.6}
 \contentsline {section}{\numberline {5.7}Interdependent Privacy}{62}{section.5.7}
