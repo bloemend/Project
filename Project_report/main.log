@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  20 NOV 2013 19:59
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  21 NOV 2013 14:07
 entering extended mode
 **main.tex
 ("C:\Users\Ida Malene\Project\Project_report\main.tex"
@@ -1596,7 +1596,9 @@ Package glossaries Info: Writing glossary file main.acn on input line 30.
 ("C:\Users\Ida Malene\Project\Project_report\default_privacy_settings.aux")
 ("C:\Users\Ida Malene\Project\Project_report\mechanicalturk.aux")
 ("C:\Users\Ida Malene\Project\Project_report\discussion.aux")
-("C:\Users\Ida Malene\Project\Project_report\conclusion.aux"))
+("C:\Users\Ida Malene\Project\Project_report\conclusion.aux")
+("C:\Users\Ida Malene\Project\Project_report\appendixA.aux")
+("C:\Users\Ida Malene\Project\Project_report\appendixB.aux"))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
 LaTeX Font Info:    ... okay on input line 32.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
@@ -1672,7 +1674,7 @@ LaTeX Info: Redefining \nameref on input line 32.
 \@outlinefile=\write8
 \c@lstlisting=\count324
 
-<./figs/ntnu-logo.pdf, id=175, 241.4922pt x 52.79724pt>
+<./figs/ntnu-logo.pdf, id=191, 241.4922pt x 52.79724pt>
 File: ./figs/ntnu-logo.pdf Graphic file (type pdf)
 
 <use ./figs/ntnu-logo.pdf>
@@ -1766,7 +1768,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [5
 
 
-] <./figs/facebook-icon.png, id=426, 481.8pt x 481.8pt>
+] <./figs/facebook-icon.png, id=449, 481.8pt x 481.8pt>
 File: ./figs/facebook-icon.png Graphic file (type png)
 
 <use ./figs/facebook-icon.png>
@@ -1782,7 +1784,7 @@ l.31
 Underfull \vbox (badness 2057) has occurred while \output is active []
 
  [7]
-[8] [9] [10] [11] [12] <./figs/Turk-open.jpg, id=516, 602.25pt x 524.96124pt>
+[8] [9] [10] [11] [12] <./figs/Turk-open.jpg, id=539, 602.25pt x 524.96124pt>
 File: ./figs/Turk-open.jpg Graphic file (type jpg)
 
 <use ./figs/Turk-open.jpg>
@@ -1804,7 +1806,7 @@ n.jpg>]) [15] [16
 
 ]
 ("C:\Users\Ida Malene\Project\Project_report\default_privacy_settings.tex"
-<./figs/gowth_of_facebook.png, id=563, 738.50906pt x 460.72125pt>
+<./figs/gowth_of_facebook.png, id=586, 738.50906pt x 460.72125pt>
 File: ./figs/gowth_of_facebook.png Graphic file (type png)
 
 <use ./figs/gowth_of_facebook.png>
@@ -1829,7 +1831,7 @@ Overfull \hbox (5.00406pt too wide) in alignment at lines 29--52
  []
 
 [19] [20]
-<./figs/default_nov_2013_security.png, id=605, 748.29562pt x 297.36093pt>
+<./figs/default_nov_2013_security.png, id=628, 748.29562pt x 297.36093pt>
 File: ./figs/default_nov_2013_security.png Graphic file (type png)
 
 <use ./figs/default_nov_2013_security.png>
@@ -1840,7 +1842,7 @@ e 110.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/default_nov_2013_privacy.png, id=606, 740.0147pt x 312.41719pt>
+<./figs/default_nov_2013_privacy.png, id=629, 740.0147pt x 312.41719pt>
 File: ./figs/default_nov_2013_privacy.png Graphic file (type png)
 
 <use ./figs/default_nov_2013_privacy.png>
@@ -1852,7 +1854,7 @@ Package pdftex.def Info: ./figs/default_nov_2013_privacy.png used on input line
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<./figs/default_nov_2013_timelineandtagging.png, id=607, 741.52031pt x 317.6868
+<./figs/default_nov_2013_timelineandtagging.png, id=630, 741.52031pt x 317.6868
 7pt>
 File: ./figs/default_nov_2013_timelineandtagging.png Graphic file (type png)
  <use ./figs/default_nov_2013_timelineandtagging.png>
@@ -1863,7 +1865,7 @@ Package pdftex.def Info: ./figs/default_nov_2013_timelineandtagging.png used on
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/default_nov_2013_apps.png, id=608, 761.84625pt x 543.53062pt>
+<./figs/default_nov_2013_apps.png, id=631, 761.84625pt x 543.53062pt>
 File: ./figs/default_nov_2013_apps.png Graphic file (type png)
 
 <use ./figs/default_nov_2013_apps.png>
@@ -1908,14 +1910,14 @@ l.139
 l.139 
        <C:/Users/Ida Malene/Project/Project_report/figs/default_nov_2013_timeli
 neandtagging.png> <C:/Users/Ida Malene/Project/Project_report/figs/default_nov_
-2013_apps.png>] <./figs/new_post.png, id=629, 398.99063pt x 250.68657pt>
+2013_apps.png>] <./figs/new_post.png, id=652, 398.99063pt x 250.68657pt>
 File: ./figs/new_post.png Graphic file (type png)
 
 <use ./figs/new_post.png>
 Package pdftex.def Info: ./figs/new_post.png used on input line 148.
 (pdftex.def)             Requested size: 291.20111pt x 182.96906pt.
 
-<./figs/teensSharePost.png, id=630, 395.97937pt x 197.23688pt>
+<./figs/teensSharePost.png, id=653, 395.97937pt x 197.23688pt>
 File: ./figs/teensSharePost.png Graphic file (type png)
 
 <use ./figs/teensSharePost.png>
@@ -1925,7 +1927,7 @@ Package pdftex.def Info: ./figs/teensSharePost.png used on input line 155.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/sharePost.png, id=635, 393.72093pt x 161.10187pt>
+<./figs/sharePost.png, id=658, 393.72093pt x 161.10187pt>
 File: ./figs/sharePost.png Graphic file (type png)
 
 <use ./figs/sharePost.png>
@@ -1960,14 +1962,14 @@ l.169 \section
               {Facebook Features - Impact on your Privacy}\label{sec:faceboo...
  <C:/Users/Ida Malene/Project/Project_report/figs/teensSharePost.png> <C:/Users
 /Ida Malene/Project/Project_report/figs/sharePost.png>] [26] [27]
-<./figs/tripadvisorpc.png, id=693, 767.86874pt x 678.28406pt>
+<./figs/tripadvisorpc.png, id=716, 767.86874pt x 678.28406pt>
 File: ./figs/tripadvisorpc.png Graphic file (type png)
 
 <use ./figs/tripadvisorpc.png>
 Package pdftex.def Info: ./figs/tripadvisorpc.png used on input line 200.
 (pdftex.def)             Requested size: 291.20111pt x 257.23312pt.
 
-<./figs/permissions.jpg, id=694, 498.36188pt x 481.8pt>
+<./figs/permissions.jpg, id=717, 498.36188pt x 481.8pt>
 File: ./figs/permissions.jpg Graphic file (type jpg)
 
 <use ./figs/permissions.jpg>
@@ -1987,7 +1989,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
                                                   \fi \fi 
 l.214 
        <C:/Users/Ida Malene/Project/Project_report/figs/tripadvisorpc.png>]
-<./figs/tripa1mobil.png, id=703, 360.59718pt x 570.63188pt>
+<./figs/tripa1mobil.png, id=726, 360.59718pt x 570.63188pt>
 File: ./figs/tripa1mobil.png Graphic file (type png)
 
 <use ./figs/tripa1mobil.png>
@@ -1997,7 +1999,7 @@ Package pdftex.def Info: ./figs/tripa1mobil.png used on input line 218.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/tripa2mobil.png, id=704, 359.09157pt x 572.1375pt>
+<./figs/tripa2mobil.png, id=727, 359.09157pt x 572.1375pt>
 File: ./figs/tripa2mobil.png Graphic file (type png)
 
 <use ./figs/tripa2mobil.png>
@@ -2007,7 +2009,7 @@ Package pdftex.def Info: ./figs/tripa2mobil.png used on input line 225.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/tripa3mobil.png, id=707, 358.33875pt x 570.63188pt>
+<./figs/tripa3mobil.png, id=730, 358.33875pt x 570.63188pt>
 File: ./figs/tripa3mobil.png Graphic file (type png)
 
 <use ./figs/tripa3mobil.png>
@@ -2059,7 +2061,7 @@ Overfull \hbox (9.41373pt too wide) in paragraph at lines 265--278
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.279 \end{center}
-                  ] <./figs/nearby.png, id=753, 234.1247pt x 299.61937pt>
+                  ] <./figs/nearby.png, id=776, 234.1247pt x 299.61937pt>
 File: ./figs/nearby.png Graphic file (type png)
 
 <use ./figs/nearby.png>
@@ -2069,7 +2071,7 @@ Package pdftex.def Info: ./figs/nearby.png used on input line 290.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/places.png, id=754, 451.6875pt x 937.25156pt>
+<./figs/places.png, id=777, 451.6875pt x 937.25156pt>
 File: ./figs/places.png Graphic file (type png)
  <use ./figs/places.png>
 Package pdftex.def Info: ./figs/places.png used on input line 297.
@@ -2094,7 +2096,7 @@ l.305 \paragraph
                 {Privacy concerns regarding Facebook timeline} <C:/Users/Ida Ma
 lene/Project/Project_report/figs/nearby.png> <C:/Users/Ida Malene/Project/Proje
 ct_report/figs/places.png>]
-<./figs/activity_log.png, id=772, 788.9475pt x 368.87813pt>
+<./figs/activity_log.png, id=795, 788.9475pt x 368.87813pt>
 File: ./figs/activity_log.png Graphic file (type png)
 
 <use ./figs/activity_log.png>
@@ -2122,7 +2124,7 @@ Underfull \vbox (badness 1325) has occurred while \output is active []
 Underfull \vbox (badness 2744) has occurred while \output is active []
 
  [42]
-<./figs/firstpagesurvey.png, id=842, 640.64343pt x 314.67563pt>
+<./figs/firstpagesurvey.png, id=865, 640.64343pt x 314.67563pt>
 File: ./figs/firstpagesurvey.png Graphic file (type png)
 
 <use ./figs/firstpagesurvey.png>
@@ -2140,7 +2142,7 @@ Overfull \hbox (11.79999pt too wide) in paragraph at lines 27--28
                                                   \fi \fi 
 l.37 
       <C:/Users/Ida Malene/Project/Project_report/figs/firstpagesurvey.png>]
-<./figs/page12.png, id=850, 540.51938pt x 563.10374pt>
+<./figs/page12.png, id=873, 540.51938pt x 563.10374pt>
 File: ./figs/page12.png Graphic file (type png)
  <use ./figs/page12.png>
 Package pdftex.def Info: ./figs/page12.png used on input line 43.
@@ -2163,7 +2165,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
                                                   \fi \fi 
 l.54 
       <C:/Users/Ida Malene/Project/Project_report/figs/page12.png>]
-<./figs/page14.png, id=870, 584.1825pt x 481.8pt>
+<./figs/page14.png, id=893, 584.1825pt x 481.8pt>
 File: ./figs/page14.png Graphic file (type png)
  <use ./figs/page14.png>
 Package pdftex.def Info: ./figs/page14.png used on input line 58.
@@ -2173,7 +2175,7 @@ Overfull \hbox (11.79999pt too wide) in paragraph at lines 58--59
  [][] 
  []
 
-<./figs/page15.png, id=871, 582.67688pt x 623.32875pt>
+<./figs/page15.png, id=894, 582.67688pt x 623.32875pt>
 File: ./figs/page15.png Graphic file (type png)
  <use ./figs/page15.png>
 Package pdftex.def Info: ./figs/page15.png used on input line 66.
@@ -2202,7 +2204,7 @@ Underfull \vbox (badness 1448) has occurred while \output is active []
                                                   \fi \fi 
 l.76 
       <C:/Users/Ida Malene/Project/Project_report/figs/page15.png>]
-<./figs/amtedit.png, id=886, 649.67719pt x 640.64343pt>
+<./figs/amtedit.png, id=909, 649.67719pt x 640.64343pt>
 File: ./figs/amtedit.png Graphic file (type png)
 
 <use ./figs/amtedit.png>
@@ -2216,7 +2218,7 @@ Overfull \hbox (11.79999pt too wide) in paragraph at lines 83--84
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/amtlayout.png, id=888, 1308.38812pt x 618.05907pt>
+<./figs/amtlayout.png, id=911, 1308.38812pt x 618.05907pt>
 File: ./figs/amtlayout.png Graphic file (type png)
 
 <use ./figs/amtlayout.png>
@@ -2230,7 +2232,7 @@ Overfull \hbox (11.79999pt too wide) in paragraph at lines 93--94
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/hitout.png, id=890, 1430.34375pt x 837.88031pt>
+<./figs/hitout.png, id=913, 1430.34375pt x 837.88031pt>
 File: ./figs/hitout.png Graphic file (type png)
 
 <use ./figs/hitout.png>
@@ -2244,7 +2246,7 @@ Overfull \hbox (11.79999pt too wide) in paragraph at lines 104--105
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[48] <./figs/answersamt.png, id=895, 557.08125pt x 274.77657pt>
+[48] <./figs/answersamt.png, id=918, 557.08125pt x 274.77657pt>
 File: ./figs/answersamt.png Graphic file (type png)
 
 <use ./figs/answersamt.png>
@@ -2266,7 +2268,7 @@ l.117 \end{figure}
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/answersfacebook.png, id=902, 490.08093pt x 245.41687pt>
+<./figs/answersfacebook.png, id=925, 490.08093pt x 245.41687pt>
 File: ./figs/answersfacebook.png Graphic file (type png)
 
 <use ./figs/answersfacebook.png>
@@ -2313,7 +2315,7 @@ l.131
 l.131 
        <C:/Users/Ida Malene/Project/Project_report/figs/answersamt.png> <C:/Use
 rs/Ida Malene/Project/Project_report/figs/answersfacebook.png>]
-<./figs/land.png, id=918, 810.02625pt x 633.11531pt>
+<./figs/land.png, id=941, 810.02625pt x 633.11531pt>
 File: ./figs/land.png Graphic file (type png)
  <use ./figs/land.png>
 Package pdftex.def Info: ./figs/land.png used on input line 143.
@@ -2322,7 +2324,7 @@ Package pdftex.def Info: ./figs/land.png used on input line 143.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/gender.png, id=919, 722.7pt x 542.025pt>
+<./figs/gender.png, id=942, 722.7pt x 542.025pt>
 File: ./figs/gender.png Graphic file (type png)
  <use ./figs/gender.png>
 Package pdftex.def Info: ./figs/gender.png used on input line 153.
@@ -2331,22 +2333,25 @@ Package pdftex.def Info: ./figs/gender.png used on input line 153.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[52] <./figs/nevercheckedtable.png, id=929, 624.83438pt x 348.55219pt>
+[52] <./figs/nevercheckedtable.png, id=952, 624.83438pt x 348.55219pt>
 File: ./figs/nevercheckedtable.png Graphic file (type png)
 
 <use ./figs/nevercheckedtable.png>
-Package pdftex.def Info: ./figs/nevercheckedtable.png used on input line 173.
+Package pdftex.def Info: ./figs/nevercheckedtable.png used on input line 171.
 (pdftex.def)             Requested size: 364.0pt x 203.0539pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[53pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
-0}) has been already used, duplicate ignored
+
+Underfull \vbox (badness 1895) has occurred while \output is active []
+
+ [53pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+10}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.182 
+l.180 
        <C:/Users/Ida Malene/Project/Project_report/figs/land.png>]
 Underfull \vbox (badness 3333) has occurred while \output is active []
 
@@ -2355,14 +2360,14 @@ Underfull \vbox (badness 3333) has occurred while \output is active []
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.188 
+l.186 
        <C:/Users/Ida Malene/Project/Project_report/figs/gender.png>]
-<./figs/checkonceaweekormoretable.png, id=943, 620.3175pt x 353.06906pt>
+<./figs/checkonceaweekormoretable.png, id=965, 620.3175pt x 353.06906pt>
 File: ./figs/checkonceaweekormoretable.png Graphic file (type png)
 
 <use ./figs/checkonceaweekormoretable.png>
 Package pdftex.def Info: ./figs/checkonceaweekormoretable.png used on input lin
-e 194.
+e 195.
 (pdftex.def)             Requested size: 364.0pt x 207.17758pt.
 
 
@@ -2373,165 +2378,168 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.216 
+l.203 
        <C:/Users/Ida Malene/Project/Project_report/figs/nevercheckedtable.png>]
-[56pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
-3}) has been already used, duplicate ignored
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [56pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+13}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.221 
+l.218 
        <C:/Users/Ida Malene/Project/Project_report/figs/checkonceaweekormoretab
-le.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+le.png>] [57] [58]
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 242.
 
- [57]
-LaTeX Font Info:    Try loading font information for TS1+ptm on input line 240.
-
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ts1ptm.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ts1ptm.fd"
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-) [58]
-Overfull \hbox (2.63303pt too wide) in alignment at lines 259--299
+)
+[59]
+Overfull \hbox (2.63303pt too wide) in alignment at lines 261--301
  [] [] 
  []
 
 
-Overfull \hbox (2.63303pt too wide) in alignment at lines 299--302
+Overfull \hbox (2.63303pt too wide) in alignment at lines 301--304
  [] [] 
  []
 
-[59] [60]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [61]
-<./figs/appsyouuse.png, id=989, 652.4375pt x 570.13pt>
+[60] [61] <./figs/appsyouuse.png, id=1011, 652.4375pt x 570.13pt>
 File: ./figs/appsyouuse.png Graphic file (type png)
 
 <use ./figs/appsyouuse.png>
-Package pdftex.def Info: ./figs/appsyouuse.png used on input line 312.
+Package pdftex.def Info: ./figs/appsyouuse.png used on input line 314.
 (pdftex.def)             Requested size: 291.20111pt x 254.46826pt.
- [62pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
-14}) has been already used, duplicate ignored
 
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.318 
-       <C:/Users/Ida Malene/Project/Project_report/figs/appsyouuse.png>]
-<./figs/appsaccessbasicinfo.png, id=999, 652.4375pt x 409.53pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[62] <./figs/appsaccessbasicinfo.png, id=1020, 652.4375pt x 409.53pt>
 File: ./figs/appsaccessbasicinfo.png Graphic file (type png)
 
 <use ./figs/appsaccessbasicinfo.png>
-Package pdftex.def Info: ./figs/appsaccessbasicinfo.png used on input line 322.
+Package pdftex.def Info: ./figs/appsaccessbasicinfo.png used on input line 324.
 
 (pdftex.def)             Requested size: 291.20111pt x 182.78705pt.
 
-<./figs/appspostonyourbehalf.png, id=1000, 652.4375pt x 409.53pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figs/appspostonyourbehalf.png, id=1021, 652.4375pt x 409.53pt>
 File: ./figs/appspostonyourbehalf.png Graphic file (type png)
 
 <use ./figs/appspostonyourbehalf.png>
-Package pdftex.def Info: ./figs/appspostonyourbehalf.png used on input line 330
+Package pdftex.def Info: ./figs/appspostonyourbehalf.png used on input line 332
 .
 (pdftex.def)             Requested size: 291.20111pt x 182.78705pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/appsaccesstofriendsinfo.png, id=1001, 652.4375pt x 409.53pt>
+<./figs/appsaccesstofriendsinfo.png, id=1022, 652.4375pt x 409.53pt>
 File: ./figs/appsaccesstofriendsinfo.png Graphic file (type png)
 
 <use ./figs/appsaccesstofriendsinfo.png>
 Package pdftex.def Info: ./figs/appsaccesstofriendsinfo.png used on input line 
-338.
+340.
 (pdftex.def)             Requested size: 291.20111pt x 182.78705pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/appsaccessrelationalinfo.png, id=1002, 652.4375pt x 409.53pt>
+<./figs/appsaccessrelationalinfo.png, id=1023, 652.4375pt x 409.53pt>
 File: ./figs/appsaccessrelationalinfo.png Graphic file (type png)
 
 <use ./figs/appsaccessrelationalinfo.png>
 Package pdftex.def Info: ./figs/appsaccessrelationalinfo.png used on input line
- 346.
+ 348.
 (pdftex.def)             Requested size: 291.20111pt x 182.78705pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/appsothersuse.png, id=1003, 652.4375pt x 503.8825pt>
+<./figs/appsothersuse.png, id=1024, 652.4375pt x 503.8825pt>
 File: ./figs/appsothersuse.png Graphic file (type png)
 
 <use ./figs/appsothersuse.png>
-Package pdftex.def Info: ./figs/appsothersuse.png used on input line 354.
+Package pdftex.def Info: ./figs/appsothersuse.png used on input line 356.
 (pdftex.def)             Requested size: 291.20111pt x 224.89977pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[63pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
-5}) has been already used, duplicate ignored
+
+Underfull \vbox (badness 2735) has occurred while \output is active []
+
+ [63pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+14}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.361 
-       <C:/Users/Ida Malene/Project/Project_report/figs/appsaccessbasicinfo.png
->]
-Underfull \vbox (badness 2245) has occurred while \output is active []
+l.363 
+       <C:/Users/Ida Malene/Project/Project_report/figs/appsyouuse.png>]
+Underfull \vbox (badness 1603) has occurred while \output is active []
 
  [64pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
-16}) has been already used, duplicate ignored
+15}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.361 
+l.363 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
-4.17}) has been already used, duplicate ignored
+4.16}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.361 
-       <C:/Users/Ida Malene/Project/Project_report/figs/appspostonyourbehalf.pn
-g> <C:/Users/Ida Malene/Project/Project_report/figs/appsaccesstofriendsinfo.png
->] [65pdfTeX warning (ext4): destination with the same identifier (name{figure.
+l.363 
+       <C:/Users/Ida Malene/Project/Project_report/figs/appsaccessbasicinfo.png
+> <C:/Users/Ida Malene/Project/Project_report/figs/appspostonyourbehalf.png>]
+Underfull \vbox (badness 2245) has occurred while \output is active []
+
+ [65pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+17}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.363 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
 4.18}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.364 
-       <C:/Users/Ida Malene/Project/Project_report/figs/appsaccessrelationalinf
-o.png>]
-<./figs/awareness(manyappsandfewapps).png, id=1023, 417.05812pt x 212.29312pt>
+l.363 
+       <C:/Users/Ida Malene/Project/Project_report/figs/appsaccesstofriendsinfo
+.png> <C:/Users/Ida Malene/Project/Project_report/figs/appsaccessrelationalinfo
+.png>] [66pdfTeX warning (ext4): destination with the same identifier (name{fig
+ure.4.19}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.363 
+       <C:/Users/Ida Malene/Project/Project_report/figs/appsothersuse.png>]
+<./figs/awareness(manyappsandfewapps).png, id=1049, 417.05812pt x 212.29312pt>
 File: ./figs/awareness(manyappsandfewapps).png Graphic file (type png)
 
 <use ./figs/awareness(manyappsandfewapps).png>
 Package pdftex.def Info: ./figs/awareness(manyappsandfewapps).png used on input
- line 367.
+ line 369.
 (pdftex.def)             Requested size: 291.20111pt x 148.23488pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<./figs/appsothersusemanyfew2.png, id=1024, 403.5075pt x 587.19376pt>
+<./figs/appsothersusemanyfew2.png, id=1050, 403.5075pt x 587.19376pt>
 File: ./figs/appsothersusemanyfew2.png Graphic file (type png)
 
 <use ./figs/appsothersusemanyfew2.png>
 Package pdftex.def Info: ./figs/appsothersusemanyfew2.png used on input line 37
-5.
+7.
 (pdftex.def)             Requested size: 218.40222pt x 317.82358pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [66pdfTeX warning (ext4): destination with the same identifier (name{figure.4
-.19}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.85 \include{mechanicalturk}
-                              <C:/Users/Ida Malene/Project/Project_report/figs/
-appsothersuse.png>] [67pdfTeX warning (ext4): destination with the same identif
-ier (name{figure.4.20}) has been already used, duplicate ignored
+) [67pdfTeX warning (ext4): destination with the same identifier (name{figure.4
+.20}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
@@ -2666,18 +2674,224 @@ $\T1/ptm/m/n/10 (+20) mark-[]zuckerbergs-[]letter-[]to-[]investors-[]on-[]faceb
 ooks-[]social-[]mission / in / 2528910$[][],
  []
 
-[76])
+[76]) [77] ("C:\Users\Ida Malene\Project\Project_report\appendixA.tex" [78
+
+
+]
+<thesurvey.pdf, id=1188, 597.55246pt x 845.07718pt>
+File: thesurvey.pdf Graphic file (type pdf)
+ <use thesurvey.pdf>
+Package pdftex.def Info: thesurvey.pdf used on input line 3.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: thesurvey.pdf Graphic file (type pdf)
+
+<use thesurvey.pdf>
+Package pdftex.def Info: thesurvey.pdf used on input line 3.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: thesurvey.pdf Graphic file (type pdf)
+ <use thesurvey.pdf>
+Package pdftex.def Info: thesurvey.pdf used on input line 3.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: thesurvey.pdf Graphic file (type pdf)
+ <use thesurvey.pdf>
+Package pdftex.def Info: thesurvey.pdf used on input line 3.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: thesurvey.pdf Graphic file (type pdf)
+
+<use thesurvey.pdf>
+Package pdftex.def Info: thesurvey.pdf used on input line 3.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: thesurvey.pdf Graphic file (type pdf)
+ <use thesurvey.pdf>
+Package pdftex.def Info: thesurvey.pdf used on input line 3.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: thesurvey.pdf Graphic file (type pdf)
+ <use thesurvey.pdf>
+Package pdftex.def Info: thesurvey.pdf used on input line 3.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: thesurvey.pdf Graphic file (type pdf)
+
+<use thesurvey.pdf>
+Package pdftex.def Info: thesurvey.pdf used on input line 3.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: thesurvey.pdf Graphic file (type pdf)
+ <use thesurvey.pdf>
+Package pdftex.def Info: thesurvey.pdf used on input line 3.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: thesurvey.pdf Graphic file (type pdf)
+ <use thesurvey.pdf>
+Package pdftex.def Info: thesurvey.pdf used on input line 3.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+ [79]
+<thesurvey.pdf, id=1204, page=1, 597.55246pt x 845.07718pt>
+File: thesurvey.pdf Graphic file (type pdf)
+
+<use thesurvey.pdf, page 1>
+Package pdftex.def Info: thesurvey.pdf, page1 used on input line 3.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: thesurvey.pdf Graphic file (type pdf)
+ <use thesurvey.pdf, page 1>
+Package pdftex.def Info: thesurvey.pdf, page1 used on input line 3.
+(pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+File: thesurvey.pdf Graphic file (type pdf)
+
+<use thesurvey.pdf, page 1>
+Package pdftex.def Info: thesurvey.pdf, page1 used on input line 3.
+(pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+File: thesurvey.pdf Graphic file (type pdf)
+ <use thesurvey.pdf, page 1>
+Package pdftex.def Info: thesurvey.pdf, page1 used on input line 3.
+(pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+File: thesurvey.pdf Graphic file (type pdf)
+
+<use thesurvey.pdf, page 1>
+Package pdftex.def Info: thesurvey.pdf, page1 used on input line 3.
+(pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+ [80 <C:/Users/Ida Malene/Project/Project_report/thesurvey.pdf>] <thesurvey.pdf
+, id=1213, page=2, 597.55246pt x 845.07718pt>
+File: thesurvey.pdf Graphic file (type pdf)
+
+<use thesurvey.pdf, page 2>
+Package pdftex.def Info: thesurvey.pdf, page2 used on input line 3.
+(pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+File: thesurvey.pdf Graphic file (type pdf)
+ <use thesurvey.pdf, page 2>
+Package pdftex.def Info: thesurvey.pdf, page2 used on input line 3.
+(pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+File: thesurvey.pdf Graphic file (type pdf)
+
+<use thesurvey.pdf, page 2>
+Package pdftex.def Info: thesurvey.pdf, page2 used on input line 3.
+(pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+ [81 <C:/Users/Ida Malene/Project/Project_report/thesurvey.pdf>] <thesurvey.pdf
+, id=1221, page=3, 597.55246pt x 845.07718pt>
+File: thesurvey.pdf Graphic file (type pdf)
+
+<use thesurvey.pdf, page 3>
+Package pdftex.def Info: thesurvey.pdf, page3 used on input line 3.
+(pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+File: thesurvey.pdf Graphic file (type pdf)
+ <use thesurvey.pdf, page 3>
+Package pdftex.def Info: thesurvey.pdf, page3 used on input line 3.
+(pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+File: thesurvey.pdf Graphic file (type pdf)
+
+<use thesurvey.pdf, page 3>
+Package pdftex.def Info: thesurvey.pdf, page3 used on input line 3.
+(pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+ [82 <C:/Users/Ida Malene/Project/Project_report/thesurvey.pdf>] <thesurvey.pdf
+, id=1228, page=4, 597.55246pt x 845.07718pt>
+File: thesurvey.pdf Graphic file (type pdf)
+
+<use thesurvey.pdf, page 4>
+Package pdftex.def Info: thesurvey.pdf, page4 used on input line 3.
+(pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+File: thesurvey.pdf Graphic file (type pdf)
+ <use thesurvey.pdf, page 4>
+Package pdftex.def Info: thesurvey.pdf, page4 used on input line 3.
+(pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+File: thesurvey.pdf Graphic file (type pdf)
+
+<use thesurvey.pdf, page 4>
+Package pdftex.def Info: thesurvey.pdf, page4 used on input line 3.
+(pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+ [83 <C:/Users/Ida Malene/Project/Project_report/thesurvey.pdf>] <thesurvey.pdf
+, id=1238, page=5, 597.55246pt x 845.07718pt>
+File: thesurvey.pdf Graphic file (type pdf)
+
+<use thesurvey.pdf, page 5>
+Package pdftex.def Info: thesurvey.pdf, page5 used on input line 3.
+(pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+File: thesurvey.pdf Graphic file (type pdf)
+ <use thesurvey.pdf, page 5>
+Package pdftex.def Info: thesurvey.pdf, page5 used on input line 3.
+(pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+File: thesurvey.pdf Graphic file (type pdf)
+
+<use thesurvey.pdf, page 5>
+Package pdftex.def Info: thesurvey.pdf, page5 used on input line 3.
+(pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+ [84 <C:/Users/Ida Malene/Project/Project_report/thesurvey.pdf>] <thesurvey.pdf
+, id=1247, page=6, 597.55246pt x 845.07718pt>
+File: thesurvey.pdf Graphic file (type pdf)
+
+<use thesurvey.pdf, page 6>
+Package pdftex.def Info: thesurvey.pdf, page6 used on input line 3.
+(pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+File: thesurvey.pdf Graphic file (type pdf)
+ <use thesurvey.pdf, page 6>
+Package pdftex.def Info: thesurvey.pdf, page6 used on input line 3.
+(pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+File: thesurvey.pdf Graphic file (type pdf)
+
+<use thesurvey.pdf, page 6>
+Package pdftex.def Info: thesurvey.pdf, page6 used on input line 3.
+(pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+ [85 <C:/Users/Ida Malene/Project/Project_report/thesurvey.pdf>] <thesurvey.pdf
+, id=1256, page=7, 597.55246pt x 845.07718pt>
+File: thesurvey.pdf Graphic file (type pdf)
+
+<use thesurvey.pdf, page 7>
+Package pdftex.def Info: thesurvey.pdf, page7 used on input line 3.
+(pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+File: thesurvey.pdf Graphic file (type pdf)
+ <use thesurvey.pdf, page 7>
+Package pdftex.def Info: thesurvey.pdf, page7 used on input line 3.
+(pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+File: thesurvey.pdf Graphic file (type pdf)
+
+<use thesurvey.pdf, page 7>
+Package pdftex.def Info: thesurvey.pdf, page7 used on input line 3.
+(pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+ [86 <C:/Users/Ida Malene/Project/Project_report/thesurvey.pdf>] <thesurvey.pdf
+, id=1263, page=9, 597.55246pt x 845.07718pt>
+File: thesurvey.pdf Graphic file (type pdf)
+
+<use thesurvey.pdf, page 9>
+Package pdftex.def Info: thesurvey.pdf, page9 used on input line 3.
+(pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+File: thesurvey.pdf Graphic file (type pdf)
+ <use thesurvey.pdf, page 9>
+Package pdftex.def Info: thesurvey.pdf, page9 used on input line 3.
+(pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+File: thesurvey.pdf Graphic file (type pdf)
+
+<use thesurvey.pdf, page 9>
+Package pdftex.def Info: thesurvey.pdf, page9 used on input line 3.
+(pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+ [87 <C:/Users/Ida Malene/Project/Project_report/thesurvey.pdf>] <thesurvey.pdf
+, id=1271, page=10, 597.55246pt x 845.07718pt>
+File: thesurvey.pdf Graphic file (type pdf)
+
+<use thesurvey.pdf, page 10>
+Package pdftex.def Info: thesurvey.pdf, page10 used on input line 3.
+(pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+File: thesurvey.pdf Graphic file (type pdf)
+ <use thesurvey.pdf, page 10>
+Package pdftex.def Info: thesurvey.pdf, page10 used on input line 3.
+(pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+File: thesurvey.pdf Graphic file (type pdf)
+
+<use thesurvey.pdf, page 10>
+Package pdftex.def Info: thesurvey.pdf, page10 used on input line 3.
+(pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+ [88 <C:/Users/Ida Malene/Project/Project_report/thesurvey.pdf>]) ("C:\Users\Id
+a Malene\Project\Project_report\appendixB.tex")
+[89
+
+
+
+]
 
 Package glossaries Warning: No \printglossary or \printglossaries found.
 This document will not have a glossary.
 
-[77]
 \tf@toc=\write9
 \tf@lof=\write10
 \tf@lot=\write11
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 109.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 109.
- ("C:\Users\Ida Malene\Project\Project_report\main.aux"
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 111.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 111.
+("C:\Users\Ida Malene\Project\Project_report\main.aux"
 ("C:\Users\Ida Malene\Project\Project_report\summary.aux")
 ("C:\Users\Ida Malene\Project\Project_report\acknowledgement.aux")
 ("C:\Users\Ida Malene\Project\Project_report\introduction.aux")
@@ -2685,21 +2899,27 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 109.
 ("C:\Users\Ida Malene\Project\Project_report\default_privacy_settings.aux")
 ("C:\Users\Ida Malene\Project\Project_report\mechanicalturk.aux")
 ("C:\Users\Ida Malene\Project\Project_report\discussion.aux")
-("C:\Users\Ida Malene\Project\Project_report\conclusion.aux"))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 109.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 109.
+("C:\Users\Ida Malene\Project\Project_report\conclusion.aux")
+("C:\Users\Ida Malene\Project\Project_report\appendixA.aux")
+("C:\Users\Ida Malene\Project\Project_report\appendixB.aux"))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 111.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 111.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: C24B493BA5322E95B5C85EF891B6AE6B;2978.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 109.
+(rerunfilecheck)             Checksum: D9212013D75308E57837AA983192C4D4;3429.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 111.
  ) 
 Here is how much of TeX's memory you used:
- 22177 strings out of 493921
- 324732 string characters out of 3147267
- 587807 words of memory out of 3000000
- 24441 multiletter control sequences out of 15000+200000
- 85916 words of font info for 200 fonts, out of 3000000 for 9000
+ 22266 strings out of 493921
+ 326598 string characters out of 3147267
+ 589631 words of memory out of 3000000
+ 24486 multiletter control sequences out of 15000+200000
+ 87149 words of font info for 209 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 58i,12n,47p,2845b,780s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 58i,18n,53p,2845b,780s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/M
 iKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/ty
 pe1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/u
@@ -2707,9 +2927,9 @@ hvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/
 Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiK
 TeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
 e1/urw/times/utmri8a.pfb>
-Output written on main.pdf (89 pages, 3400858 bytes).
+Output written on main.pdf (101 pages, 3921435 bytes).
 PDF statistics:
- 1253 PDF objects out of 1440 (max. 8388607)
- 307 named destinations out of 1000 (max. 500000)
- 20513 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 1379 PDF objects out of 1440 (max. 8388607)
+ 322 named destinations out of 1000 (max. 500000)
+ 21157 words of extra memory for PDF output out of 24883 (max. 10000000)
 
