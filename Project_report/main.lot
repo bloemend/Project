@@ -5,12 +5,18 @@
 \addvspace {10pt}
 \addvspace {10pt}
 \addvspace {10pt}
+<<<<<<< HEAD
 \contentsline {table}{\numberline {3.1}{The settings that exist on Facebook \cite {facebooksettings}.}}{19}{table.3.1}
 \contentsline {table}{\numberline {3.2}{\ignorespaces Changes in the default privacy settings on Facebook from 2005 until today. \cite {EvoPriv,PrivTimeline}}}{21}{table.3.2}
 \contentsline {table}{\numberline {3.3}{\ignorespaces Facebook Connect Features \cite {connect, connect2}.}}{35}{table.3.3}
+=======
+\contentsline {table}{\numberline {3.1}{\ignorespaces The settings that exist on Facebook \cite {facebooksettings}.}}{19}{table.3.1}
+\contentsline {table}{\numberline {3.2}{\ignorespaces Changes in the default privacy settings on Facebook from 2005 until today \cite {EvoPriv,PrivTimeline}.}}{21}{table.3.2}
+\contentsline {table}{\numberline {3.3}{\ignorespaces Facebook Connect Features \cite {connect, connect2}.\relax }}{34}{table.caption.56}
+>>>>>>> 153ba459764ca26956b33e6563e6e9330172bc07
 \addvspace {10pt}
 \addvspace {10pt}
-\contentsline {table}{\numberline {5.1}{Peoples thoughts of what is meant by interdependent privacy before and after answering questions about privacy issues regarding the use of Facebook apps.}}{63}{table.5.1}
+\contentsline {table}{\numberline {5.1}{\ignorespaces Peoples thoughts of what is meant by interdependent privacy before and after answering questions about privacy issues regarding the use of Facebook apps.}}{62}{table.5.1}
 \addvspace {10pt}
 \addvspace {10pt}
 \addvspace {10pt}

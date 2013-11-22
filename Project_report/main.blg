@@ -5,9 +5,12 @@ A level-1 auxiliary file: introduction.aux
 A level-1 auxiliary file: related_work.aux
 A level-1 auxiliary file: default_privacy_settings.aux
 A level-1 auxiliary file: mechanicalturk.aux
+A level-1 auxiliary file: surveyresults.aux
 A level-1 auxiliary file: discussion.aux
 A level-1 auxiliary file: conclusion.aux
 The style file: ieeetr.bst
+A level-1 auxiliary file: appendixA.aux
+A level-1 auxiliary file: appendixB.aux
 Database file #1: references.bib
 Warning--entry type for "FacebookHistory" isn't style-file defined
 --line 33 of file references.bib
@@ -16,103 +19,101 @@ Warning--entry type for "SNS" isn't style-file defined
 Warning--entry type for "OSN" isn't style-file defined
 --line 53 of file references.bib
 Warning--entry type for "amazonweb" isn't style-file defined
---line 73 of file references.bib
+--line 74 of file references.bib
 Warning--entry type for "theturk" isn't style-file defined
---line 80 of file references.bib
+--line 81 of file references.bib
 Warning--entry type for "droppLawsuit" isn't style-file defined
---line 87 of file references.bib
-I was expecting a `,' or a `}'---line 105 of file references.bib
+--line 88 of file references.bib
+I was expecting a `,' or a `}'---line 107 of file references.bib
  : url = {http://www.theverge.com/2012/5/18/3028478/facebook-story-best-writing-from-inception-to-ipo} 
  :                                                                                                     accessed 24.10.2013,
 I'm skipping whatever remains of this entry
 Warning--entry type for "BeaconWebsites" isn't style-file defined
---line 108 of file references.bib
+--line 110 of file references.bib
 Warning--entry type for "Beacon" isn't style-file defined
---line 114 of file references.bib
+--line 116 of file references.bib
 Warning--entry type for "TheSocialNetwork" isn't style-file defined
---line 120 of file references.bib
+--line 122 of file references.bib
 Warning--entry type for "FacebookInstragram" isn't style-file defined
---line 126 of file references.bib
+--line 128 of file references.bib
 Warning--entry type for "LetterToInvestors" isn't style-file defined
---line 133 of file references.bib
+--line 135 of file references.bib
 Warning--entry type for "EvolutionOfFacebook" isn't style-file defined
---line 139 of file references.bib
+--line 141 of file references.bib
 Warning--entry type for "anchoring" isn't style-file defined
---line 151 of file references.bib
+--line 154 of file references.bib
 Warning--entry type for "surveymonkeyaboutus" isn't style-file defined
---line 179 of file references.bib
+--line 185 of file references.bib
 Warning--entry type for "surveymonkeyfeatures" isn't style-file defined
---line 186 of file references.bib
+--line 192 of file references.bib
 Warning--entry type for "surveymonkeywiki" isn't style-file defined
---line 193 of file references.bib
+--line 199 of file references.bib
 Warning--entry type for "privacy" isn't style-file defined
---line 212 of file references.bib
+--line 220 of file references.bib
 Warning--entry type for "searchSetting" isn't style-file defined
---line 219 of file references.bib
+--line 227 of file references.bib
 Warning--entry type for "defaultTeens" isn't style-file defined
---line 245 of file references.bib
+--line 253 of file references.bib
 Warning--entry type for "timeline" isn't style-file defined
---line 252 of file references.bib
+--line 260 of file references.bib
 Warning--entry type for "BBCFacebookGrowth" isn't style-file defined
---line 259 of file references.bib
+--line 267 of file references.bib
 Warning--entry type for "activitylog" isn't style-file defined
---line 266 of file references.bib
+--line 274 of file references.bib
 Warning--entry type for "beaconMarketsPerspective" isn't style-file defined
---line 272 of file references.bib
-Warning--entry type for "secureBrowsing" isn't style-file defined
 --line 280 of file references.bib
-Warning--entry type for "facebooksettings" isn't style-file defined
+Warning--entry type for "secureBrowsing" isn't style-file defined
 --line 288 of file references.bib
-Warning--entry type for "settingschangingagain" isn't style-file defined
+Warning--entry type for "facebooksettings" isn't style-file defined
 --line 296 of file references.bib
-Warning--entry type for "graphsearchnet" isn't style-file defined
+Warning--entry type for "settingschangingagain" isn't style-file defined
 --line 304 of file references.bib
-Warning--entry type for "graphsearchew" isn't style-file defined
+Warning--entry type for "graphsearchnet" isn't style-file defined
 --line 312 of file references.bib
+Warning--entry type for "graphsearchew" isn't style-file defined
+--line 320 of file references.bib
 Warning--entry type for "graphsearchfb" isn't style-file defined
---line 319 of file references.bib
+--line 327 of file references.bib
 Warning--entry type for "graphsearchtips" isn't style-file defined
---line 326 of file references.bib
+--line 334 of file references.bib
 Warning--entry type for "graphsearchcw" isn't style-file defined
---line 333 of file references.bib
+--line 341 of file references.bib
 Warning--entry type for "connect" isn't style-file defined
---line 340 of file references.bib
+--line 348 of file references.bib
 Warning--entry type for "connect2" isn't style-file defined
---line 347 of file references.bib
+--line 355 of file references.bib
 Warning--entry type for "keyFacts" isn't style-file defined
---line 354 of file references.bib
+--line 362 of file references.bib
 Warning--entry type for "checkIn" isn't style-file defined
---line 361 of file references.bib
+--line 369 of file references.bib
 Warning--entry type for "ring" isn't style-file defined
---line 368 of file references.bib
-Warning--entry type for "faceHelp" isn't style-file defined
 --line 376 of file references.bib
+Warning--entry type for "faceHelp" isn't style-file defined
+--line 384 of file references.bib
 Warning--entry type for "permission" isn't style-file defined
---line 383 of file references.bib
+--line 391 of file references.bib
 Warning--entry type for "lawsuitB" isn't style-file defined
---line 390 of file references.bib
+--line 398 of file references.bib
 Warning--entry type for "newsfeed" isn't style-file defined
---line 397 of file references.bib
+--line 405 of file references.bib
 Warning--entry type for "newsfeed2" isn't style-file defined
---line 403 of file references.bib
-I was expecting a `,' or a `}'---line 406 of file references.bib
+--line 411 of file references.bib
+I was expecting a `,' or a `}'---line 414 of file references.bib
  : year = {September 25, 2012}
  :                            .
 I'm skipping whatever remains of this entry
 Warning--entry type for "fbPlatform" isn't style-file defined
---line 410 of file references.bib
+--line 418 of file references.bib
 Warning--entry type for "platformStory" isn't style-file defined
---line 417 of file references.bib
+--line 425 of file references.bib
 Warning--entry type for "secure.me" isn't style-file defined
---line 424 of file references.bib
+--line 432 of file references.bib
 Warning--empty journal in EvoPriv
 Warning--empty journal in PrivTimeline
 Warning--empty journal in OSNpaper
 Warning--empty journal in expectations
 Warning--empty journal in MeMedia
 Warning--empty journal in FacebookStoryInceptionToIsp
-Warning--empty journal in whocares
-Warning--empty journal in InterdependetPriv
 Warning--empty journal in thirdPartyApps
 Warning--empty journal in AMT
 Warning--empty journal in incentivesAmt
