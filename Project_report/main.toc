@@ -52,92 +52,64 @@
 \contentsline {subsubsection}{The settings that exists}{18}{section*.37}
 \contentsline {section}{\numberline {3.2}Default Settings on Facebook}{20}{section.3.2}
 \contentsline {subsection}{\numberline {3.2.1}Development of Default Settings}{21}{subsection.3.2.1}
-<<<<<<< HEAD
-\contentsline {subsection}{\numberline {3.2.2}Default Settings 2013}{22}{subsection.3.2.2}
-\contentsline {paragraph}{Default settings does not preserve privacy}{25}{section*.35}
-\contentsline {subsection}{\numberline {3.2.3}Default Settings for Teens}{25}{subsection.3.2.3}
-\contentsline {section}{\numberline {3.3}Facebook Features - Impact on your Privacy}{27}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}News Feed}{27}{subsection.3.3.1}
-\contentsline {paragraph}{}{27}{section*.36}
-\contentsline {subsection}{\numberline {3.3.2}Facebook Platform - Apps}{27}{subsection.3.3.2}
-\contentsline {paragraph}{Application permissions.}{28}{section*.37}
-\contentsline {paragraph}{Apps privacy control.}{28}{section*.38}
-\contentsline {subsubsection}{Installing an Application}{29}{section*.39}
-\contentsline {paragraph}{Installing on a PC.}{29}{section*.40}
-\contentsline {paragraph}{Installing on a mobile phone.}{29}{section*.41}
-\contentsline {subsection}{\numberline {3.3.3}Beacon}{30}{subsection.3.3.3}
-\contentsline {paragraph}{}{30}{section*.42}
-\contentsline {subsection}{\numberline {3.3.4}Facebook Connect - "Log in with Facebook"}{34}{subsection.3.3.4}
-\contentsline {subsection}{\numberline {3.3.5}Places}{34}{subsection.3.3.5}
-\contentsline {subsection}{\numberline {3.3.6}Timeline}{36}{subsection.3.3.6}
-\contentsline {paragraph}{Privacy concerns regarding Facebook timeline}{36}{section*.43}
-\contentsline {paragraph}{}{37}{section*.44}
-\contentsline {subsection}{\numberline {3.3.7}Graph Search}{38}{subsection.3.3.7}
-\contentsline {subsection}{\numberline {3.3.8}Facebook Removes Search Privacy Setting}{40}{subsection.3.3.8}
-\contentsline {section}{\numberline {3.4}Zuckerberg's Thoughts}{40}{section.3.4}
-\contentsline {paragraph}{}{40}{section*.45}
-\contentsline {paragraph}{}{40}{section*.46}
-\contentsline {paragraph}{}{40}{section*.47}
-=======
-\contentsline {subsection}{\numberline {3.2.2}Default Settings 2013}{24}{subsection.3.2.2}
-\contentsline {paragraph}{Default settings does not preserve privacy}{26}{section*.42}
-\contentsline {subsection}{\numberline {3.2.3}Default Settings for Teens}{26}{subsection.3.2.3}
-\contentsline {section}{\numberline {3.3}Facebook Features - Impact on your Privacy}{28}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}News Feed}{28}{subsection.3.3.1}
-\contentsline {paragraph}{}{28}{section*.46}
-\contentsline {subsection}{\numberline {3.3.2}Facebook Platform - Apps}{28}{subsection.3.3.2}
-\contentsline {paragraph}{Application permissions.}{29}{section*.47}
-\contentsline {paragraph}{Apps privacy control.}{29}{section*.48}
-\contentsline {subsubsection}{Installing an Application}{30}{section*.49}
-\contentsline {paragraph}{Installing on a PC.}{30}{section*.51}
-\contentsline {paragraph}{Installing on a mobile phone.}{31}{section*.53}
-\contentsline {subsection}{\numberline {3.3.3}Beacon}{32}{subsection.3.3.3}
-\contentsline {paragraph}{}{32}{section*.55}
-\contentsline {subsection}{\numberline {3.3.4}Facebook Connect - "Log in with Facebook"}{34}{subsection.3.3.4}
-\contentsline {subsection}{\numberline {3.3.5}Places}{35}{subsection.3.3.5}
-\contentsline {subsection}{\numberline {3.3.6}Timeline}{36}{subsection.3.3.6}
-\contentsline {paragraph}{Privacy concerns regarding Facebook timeline}{37}{section*.59}
-\contentsline {paragraph}{}{37}{section*.61}
-\contentsline {subsection}{\numberline {3.3.7}Graph Search}{38}{subsection.3.3.7}
-\contentsline {subsection}{\numberline {3.3.8}Facebook Removes Search Privacy Setting}{39}{subsection.3.3.8}
-\contentsline {section}{\numberline {3.4}Zuckerberg's Thoughts}{39}{section.3.4}
-\contentsline {paragraph}{}{39}{section*.62}
-\contentsline {paragraph}{}{40}{section*.63}
-\contentsline {paragraph}{}{40}{section*.64}
->>>>>>> 153ba459764ca26956b33e6563e6e9330172bc07
-\contentsline {chapter}{\chapternumberline {4}Construction of the Survey}{41}{chapter.4}
-\contentsline {paragraph}{Constructing the Survey}{41}{section*.65}
-\contentsline {paragraph}{}{41}{section*.66}
-\contentsline {section}{\numberline {4.1}Design}{42}{section.4.1}
-\contentsline {paragraph}{Features we used in SurveyMonkey.}{42}{section*.67}
-\contentsline {section}{\numberline {4.2}How the Survey is Structured}{43}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Facebook usage}{43}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Facebook privacy: settings}{43}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Facebook privacy: personal experience}{44}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}Facebook privacy: apps}{44}{subsection.4.2.4}
-\contentsline {subsection}{\numberline {4.2.5}Facebook security: settings}{46}{subsection.4.2.5}
-\contentsline {subsection}{\numberline {4.2.6}Demographics}{46}{subsection.4.2.6}
-\contentsline {section}{\numberline {4.3}Distributing the Survey}{48}{section.4.3}
-\contentsline {section}{\numberline {4.4}Feedback on the Survey}{50}{section.4.4}
-\contentsline {chapter}{\chapternumberline {5}The Survey Results}{53}{chapter.5}
-\contentsline {section}{\numberline {5.1}Demographics}{53}{section.5.1}
-\contentsline {paragraph}{}{54}{section*.78}
+\contentsline {subsection}{\numberline {3.2.2}Default Settings 2013}{25}{subsection.3.2.2}
+\contentsline {paragraph}{Default settings does not preserve privacy}{27}{section*.42}
+\contentsline {subsection}{\numberline {3.2.3}Default Settings for Teens}{28}{subsection.3.2.3}
+\contentsline {section}{\numberline {3.3}Facebook Features - Impact on your Privacy}{30}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}News Feed}{30}{subsection.3.3.1}
+\contentsline {paragraph}{}{30}{section*.46}
+\contentsline {subsection}{\numberline {3.3.2}Facebook Platform - Apps}{30}{subsection.3.3.2}
+\contentsline {paragraph}{Application permissions.}{31}{section*.47}
+\contentsline {paragraph}{Apps privacy control.}{31}{section*.48}
+\contentsline {subsubsection}{Installing an Application}{32}{section*.49}
+\contentsline {paragraph}{Installing on a PC.}{32}{section*.51}
+\contentsline {paragraph}{Installing on a mobile phone.}{33}{section*.53}
+\contentsline {subsection}{\numberline {3.3.3}Beacon}{34}{subsection.3.3.3}
+\contentsline {paragraph}{}{34}{section*.55}
+\contentsline {subsection}{\numberline {3.3.4}Facebook Connect - "Log in with Facebook"}{36}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}Places}{37}{subsection.3.3.5}
+\contentsline {subsection}{\numberline {3.3.6}Timeline}{38}{subsection.3.3.6}
+\contentsline {paragraph}{Privacy concerns regarding Facebook timeline}{39}{section*.59}
+\contentsline {paragraph}{}{39}{section*.61}
+\contentsline {subsection}{\numberline {3.3.7}Graph Search}{40}{subsection.3.3.7}
+\contentsline {subsection}{\numberline {3.3.8}Facebook Removes Search Privacy Setting}{41}{subsection.3.3.8}
+\contentsline {section}{\numberline {3.4}Zuckerberg's Thoughts}{41}{section.3.4}
+\contentsline {paragraph}{}{41}{section*.62}
+\contentsline {paragraph}{}{42}{section*.63}
+\contentsline {paragraph}{}{42}{section*.64}
+\contentsline {chapter}{\chapternumberline {4}Construction of the Survey}{43}{chapter.4}
+\contentsline {paragraph}{Constructing the Survey}{43}{section*.65}
+\contentsline {paragraph}{}{43}{section*.66}
+\contentsline {section}{\numberline {4.1}Design}{44}{section.4.1}
+\contentsline {paragraph}{Features we used in SurveyMonkey.}{44}{section*.67}
+\contentsline {section}{\numberline {4.2}How the Survey is Structured}{45}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Facebook usage}{45}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Facebook privacy: settings}{45}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Facebook privacy: personal experience}{46}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Facebook privacy: apps}{46}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Facebook security: settings}{48}{subsection.4.2.5}
+\contentsline {subsection}{\numberline {4.2.6}Demographics}{48}{subsection.4.2.6}
+\contentsline {section}{\numberline {4.3}Distributing the Survey}{50}{section.4.3}
+\contentsline {section}{\numberline {4.4}Feedback on the Survey}{52}{section.4.4}
+\contentsline {chapter}{\chapternumberline {5}The Survey Results}{55}{chapter.5}
+\contentsline {section}{\numberline {5.1}Demographics}{55}{section.5.1}
+\contentsline {paragraph}{}{55}{section*.78}
 \contentsline {paragraph}{}{55}{section*.80}
-\contentsline {section}{\numberline {5.2}Never Checked Facebook Privacy Settings During the Last Year}{55}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}App awareness}{56}{subsection.5.2.1}
-\contentsline {section}{\numberline {5.3}Checks Facebook Privacy Settings "Once a month" or "Once a week or more"}{56}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}App awareness}{57}{subsection.5.3.1}
-\contentsline {section}{\numberline {5.4}Comparing the ones who never check and the ones who check frequently}{58}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}Activity level}{58}{subsection.5.4.1}
-\contentsline {subsection}{\numberline {5.4.2}More secure settings for those who check their settings more often?}{59}{subsection.5.4.2}
-\contentsline {subsection}{\numberline {5.4.3}Considered changing settings}{60}{subsection.5.4.3}
-\contentsline {section}{\numberline {5.5}Comparisons with Previous Surveys}{60}{section.5.5}
-\contentsline {section}{\numberline {5.6}Users' personal experience}{61}{section.5.6}
-\contentsline {section}{\numberline {5.7}Interdependent Privacy}{62}{section.5.7}
-\contentsline {paragraph}{}{68}{section*.91}
-\contentsline {chapter}{\chapternumberline {6}Discussion}{73}{chapter.6}
-\contentsline {chapter}{\chapternumberline {7}Conclusion}{75}{chapter.7}
-\contentsline {chapter}{References}{79}{section*.95}
+\contentsline {section}{\numberline {5.2}Never Checked Facebook Privacy Settings During the Last Year}{56}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}App awareness}{58}{subsection.5.2.1}
+\contentsline {section}{\numberline {5.3}Checks Facebook Privacy Settings "Once a month" or "Once a week or more"}{58}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}App awareness}{60}{subsection.5.3.1}
+\contentsline {section}{\numberline {5.4}Comparing the ones who never check and the ones who check frequently}{60}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Activity level}{60}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}More secure settings for those who check their settings more often?}{62}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}Considered changing settings}{62}{subsection.5.4.3}
+\contentsline {section}{\numberline {5.5}Comparisons with Previous Surveys}{62}{section.5.5}
+\contentsline {section}{\numberline {5.6}Users' personal experience}{63}{section.5.6}
+\contentsline {section}{\numberline {5.7}Interdependent Privacy}{64}{section.5.7}
+\contentsline {paragraph}{}{71}{section*.91}
+\contentsline {chapter}{\chapternumberline {6}Discussion}{75}{chapter.6}
+\contentsline {chapter}{\chapternumberline {7}Conclusion}{77}{chapter.7}
+\contentsline {chapter}{References}{81}{section*.95}
  \vspace {1em} \noindent \bfseries Appendices\par \vspace {-.5em} 
-\contentsline {appendix}{\chapternumberline {A}The survey}{85}{appendix.A}
-\contentsline {appendix}{\chapternumberline {B}Survey results}{95}{appendix.B}
+\contentsline {appendix}{\chapternumberline {A}The survey}{87}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}Survey results}{97}{appendix.B}
