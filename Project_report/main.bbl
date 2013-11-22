@@ -58,6 +58,8 @@ A.~Mislove, M.~Marcon, K.~P. Gummadi, P.~Druschel, and B.~Bhattacharjee,
 \bibitem{expectations}
 Y.~Liu, K.~P. Gummadi, B.~Krishnamurthy, and A.~Mislove, ``Analyzing facebook
   privacy settings: User expectations vs. reality,'' 2011.
+\newblock Published in Proceeding IMC '11 Proceedings of the 2011 ACM SIGCOMM
+  conference on Internet measurement conference. Pages 61-70.
 
 \bibitem{MeMedia}
 J.~Cassidy, ``The online life; me media,'' May 2006.
@@ -107,11 +109,13 @@ Facebook, ``Key facts,'' September 2013.
 \newblock \url{https://newsroom.fb.com/Key-Facts}, accessed 14.11.2013.
 
 \bibitem{whocares}
-danah boyd and E.~Hargittai, ``Facebook privacy settings; who cares?,'' 2010.
+danah boyd and E.~Hargittai, ``Facebook privacy settings; who cares?,'' {\em
+  First Monday, Volume 15, Number 8}, 2010.
 
 \bibitem{InterdependetPriv}
-G.~Biczók and P.~H. Chia, ``Interdependet privaqcy: Let me share your data,''
-  2013.
+G.~Biczók and P.~H. Chia, ``Interdependent privaqcy: Let me share your data,''
+  {\em Financial Cryptography and Data Security Lecture Notes in Computer
+  Science Volume 7859, 2013, pp 338-353}, 2013.
 
 \bibitem{privacy}
 R.~Clarke, ``Introduction to dataveillance and information privacy, and
@@ -126,10 +130,14 @@ F.~Gottheil, ``Principles of economics.'' Power Point, 2013.
 \bibitem{thirdPartyApps}
 N.~Wang, H.~Xu, and J.~Grossklags, ``Third-party apps on facebook: Privacy and
   the illusion of control,'' December 2011.
+\newblock Published in Proceeding CHIMIT '11 Proceedings of the 5th ACM
+  Symposium on Computer Human Interaction for Management of Information
+  Technology Article No. 4.
 
 \bibitem{AMT}
 W.~Mason and S.~Suri, ``Conducting behavioral research on amazon's mechanical
   turk,'' 2011.
+\newblock Yahoo! Research.
 
 \bibitem{amazonweb}
 Amazon, ``Amazon mechanical turk.''
@@ -142,13 +150,19 @@ Wikipedia, ``The turk,'' Last edited: October 2013.
 \bibitem{incentivesAmt}
 W.~Mason and D.~J. Watts, ``Financial incentives and the "performance of
   crowds",''
+\newblock Published in Proceeding HCOMP '09 Proceedings of the ACM SIGKDD
+  Workshop on Human Computation. Pages 77-85.
 
 \bibitem{amtpay}
 J.~J. Horton and L.~B. Chilton, ``The labor economics of paid crowdsourcing,''
   2010.
+\newblock Published in Proceeding EC '10 Proceedings of the 11th ACM conference
+  on Electronic commerce. Pages 209-218.
 
 \bibitem{averagepay}
 P.~G. Ipeirotis, ``Analyzing the amazon mechanical turk marketplace,'' 2010.
+\newblock Published in Magazine XRDS: Crossroads, The ACM Magazine for Students
+  - Comp-YOU-Ter. Volume 17 Issue 2, Winter 2010. Pages 16-21.
 
 \bibitem{anchoring}
 Wikipedia, ``Anchoring,'' Last edited: October 2013.
