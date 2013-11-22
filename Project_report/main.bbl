@@ -26,6 +26,13 @@ CrunchBase, ``Facebook connect,'' 2008.
 \newblock \url{http://www.crunchbase.com/product/facebook-connect}, accessed
   14.11.2013.
 
+\bibitem{thirdPartyApps}
+N.~Wang, H.~Xu, and J.~Grossklags, ``Third-party apps on facebook: Privacy and
+  the illusion of control,'' December 2011.
+\newblock Published in Proceeding CHIMIT '11 Proceedings of the 5th ACM
+  Symposium on Computer Human Interaction for Management of Information
+  Technology Article No. 4.
+
 \bibitem{survey}
 A.~Bhattacherjee, {\em Social Science Research: Principles, Methods, and
   Practices}, ch.~Survey Research, pp.~73--82.
@@ -113,7 +120,7 @@ danah boyd and E.~Hargittai, ``Facebook privacy settings; who cares?,'' {\em
   First Monday, Volume 15, Number 8}, 2010.
 
 \bibitem{InterdependetPriv}
-G.~Biczók and P.~H. Chia, ``Interdependent privaqcy: Let me share your data,''
+G.~Biczók and P.~H. Chia, ``Interdependent privacy: Let me share your data,''
   {\em Financial Cryptography and Data Security Lecture Notes in Computer
   Science Volume 7859, 2013, pp 338-353}, 2013.
 
@@ -126,13 +133,6 @@ R.~Clarke, ``Introduction to dataveillance and information privacy, and
 \bibitem{externalityDef}
 F.~Gottheil, ``Principles of economics.'' Power Point, 2013.
 \newblock Chapter 14: Externalities, Market, Failure and Public Choise.
-
-\bibitem{thirdPartyApps}
-N.~Wang, H.~Xu, and J.~Grossklags, ``Third-party apps on facebook: Privacy and
-  the illusion of control,'' December 2011.
-\newblock Published in Proceeding CHIMIT '11 Proceedings of the 5th ACM
-  Symposium on Computer Human Interaction for Management of Information
-  Technology Article No. 4.
 
 \bibitem{AMT}
 W.~Mason and S.~Suri, ``Conducting behavioral research on amazon's mechanical
