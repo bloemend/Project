@@ -5,8 +5,8 @@
 \contentsline {paragraph}{}{v}{section*.2}
 \contentsline {paragraph}{}{v}{section*.3}
 \select@language {english}
-\contentsline {chapter}{List of Figures}{ix}{section*.4}
-\contentsline {chapter}{List of Tables}{xi}{section*.5}
+\contentsline {chapter}{List of Figures}{xi}{section*.4}
+\contentsline {chapter}{List of Tables}{xiii}{section*.5}
 \contentsline {chapter}{\chapternumberline {1}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Motivation}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}Problem Description}{1}{section.1.2}
@@ -91,7 +91,7 @@
 \contentsline {section}{\numberline {4.4}Feedback on the Survey}{53}{section.4.4}
 \contentsline {chapter}{\chapternumberline {5}The Survey Results}{57}{chapter.5}
 \contentsline {section}{\numberline {5.1}Demographics}{57}{section.5.1}
-\contentsline {paragraph}{Gender.}{57}{section*.75}
+\contentsline {paragraph}{Gender.}{57}{figure.caption.76}
 \contentsline {paragraph}{}{58}{section*.77}
 \contentsline {section}{\numberline {5.2}Never Checked Facebook Privacy/Security Settings During the Last Year}{59}{section.5.2}
 \contentsline {subsection}{\numberline {5.2.1}App awareness}{60}{subsection.5.2.1}
@@ -104,10 +104,15 @@
 \contentsline {section}{\numberline {5.5}Comparisons with Previous Surveys}{65}{section.5.5}
 \contentsline {section}{\numberline {5.6}Users' personal experience}{65}{section.5.6}
 \contentsline {section}{\numberline {5.7}Interdependent Privacy}{66}{section.5.7}
-\contentsline {paragraph}{}{73}{section*.88}
+\contentsline {subsection}{\numberline {5.7.1}Users' knowledge about the term "Interdependent Privacy"}{67}{subsection.5.7.1}
+\contentsline {subsection}{\numberline {5.7.2}Number of apps connected to Facebook}{70}{subsection.5.7.2}
+\contentsline {subsection}{\numberline {5.7.3}Users' awareness regarding app permission requests}{70}{subsection.5.7.3}
+\contentsline {subsection}{\numberline {5.7.4}Hypothesis: the ones with many apps have less knowledge about the privacy issues related to apps}{72}{subsection.5.7.4}
+\contentsline {subsection}{\numberline {5.7.5}Awareness of the setting "Apps others use"}{74}{subsection.5.7.5}
+\contentsline {paragraph}{}{74}{section*.89}
 \contentsline {chapter}{\chapternumberline {6}Discussion}{77}{chapter.6}
 \contentsline {chapter}{\chapternumberline {7}Conclusion}{79}{chapter.7}
-\contentsline {chapter}{References}{83}{section*.92}
+\contentsline {chapter}{References}{81}{section*.92}
  \vspace {1em} \noindent \bfseries Appendices\par \vspace {-.5em} 
-\contentsline {appendix}{\chapternumberline {A}The survey}{89}{appendix.A}
-\contentsline {appendix}{\chapternumberline {B}Survey results}{99}{appendix.B}
+\contentsline {appendix}{\chapternumberline {A}The survey}{87}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}Survey results}{97}{appendix.B}
