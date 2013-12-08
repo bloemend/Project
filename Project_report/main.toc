@@ -112,7 +112,7 @@
 \contentsline {paragraph}{}{74}{section*.89}
 \contentsline {chapter}{\chapternumberline {6}Discussion}{77}{chapter.6}
 \contentsline {chapter}{\chapternumberline {7}Conclusion}{79}{chapter.7}
-\contentsline {chapter}{References}{83}{section*.92}
+\contentsline {chapter}{References}{81}{section*.92}
  \vspace {1em} \noindent \bfseries Appendices\par \vspace {-.5em} 
-\contentsline {appendix}{\chapternumberline {A}The survey}{89}{appendix.A}
-\contentsline {appendix}{\chapternumberline {B}Survey results}{99}{appendix.B}
+\contentsline {appendix}{\chapternumberline {A}The survey}{87}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}Survey results}{97}{appendix.B}
