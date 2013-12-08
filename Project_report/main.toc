@@ -110,9 +110,8 @@
 \contentsline {subsection}{\numberline {5.7.4}Hypothesis: the ones with many apps have less knowledge about the privacy issues related to apps}{72}{subsection.5.7.4}
 \contentsline {subsection}{\numberline {5.7.5}Awareness of the setting "Apps others use"}{74}{subsection.5.7.5}
 \contentsline {paragraph}{}{74}{section*.89}
-\contentsline {chapter}{\chapternumberline {6}Discussion}{77}{chapter.6}
-\contentsline {chapter}{\chapternumberline {7}Conclusion}{79}{chapter.7}
-\contentsline {chapter}{References}{81}{section*.92}
+\contentsline {chapter}{\chapternumberline {6}Conclusion}{77}{chapter.6}
+\contentsline {chapter}{References}{79}{section*.92}
  \vspace {1em} \noindent \bfseries Appendices\par \vspace {-.5em} 
-\contentsline {appendix}{\chapternumberline {A}The survey}{87}{appendix.A}
-\contentsline {appendix}{\chapternumberline {B}Survey results}{97}{appendix.B}
+\contentsline {appendix}{\chapternumberline {A}The survey}{85}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}Survey results}{95}{appendix.B}
