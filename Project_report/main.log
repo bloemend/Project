@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  8 DEC 2013 18:38
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  9 DEC 2013 13:42
 entering extended mode
 **main.tex
 (C:\Users\Esther\Project\Project_report\main.tex
@@ -2253,12 +2253,11 @@ Package pdftex.def Info: ./figs/land.png used on input line 11.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/gender.png, id=1067, 980.16188pt x 642.90187pt>
+<./figs/gender.png, id=1067, 987.69pt x 645.16031pt>
 File: ./figs/gender.png Graphic file (type png)
-
-<use ./figs/gender.png>
+ <use ./figs/gender.png>
 Package pdftex.def Info: ./figs/gender.png used on input line 23.
-(pdftex.def)             Requested size: 364.0pt x 238.75285pt.
+(pdftex.def)             Requested size: 364.0pt x 237.76051pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -5786,7 +5785,7 @@ nts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
 1/urw/helvetic/uhvr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/ti
 mes/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.
 pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (209 pages, 5951113 bytes).
+Output written on main.pdf (209 pages, 5951002 bytes).
 PDF statistics:
  2505 PDF objects out of 2984 (max. 8388607)
  442 named destinations out of 1000 (max. 500000)
