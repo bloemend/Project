@@ -117,24 +117,13 @@
 \contentsline {subsection}{\numberline {5.5.3}Awareness of the Setting "Apps others use"}{73}{subsection.5.5.3}
 \contentsline {paragraph}{}{73}{section*.93}
 \contentsline {subsection}{\numberline {5.5.4}Many vs. Few Apps}{73}{subsection.5.5.4}
-<<<<<<< HEAD
-\contentsline {subsection}{\numberline {5.5.5}Correlation with Hypothesis 2}{76}{subsection.5.5.5}
-\contentsline {subsubsection}{Does the Ones With Many Apps Have Less Knowledge About the App Permission Requests?}{76}{section*.102}
-\contentsline {subsubsection}{Awareness of the Setting "Apps others use"}{76}{section*.103}
-\contentsline {subsubsection}{Comparison to Previous Work}{76}{section*.104}
-\contentsline {chapter}{\chapternumberline {6}Conclusion}{79}{chapter.6}
-\contentsline {chapter}{References}{83}{section*.106}
- \vspace {1em} \noindent \bfseries Appendices\par \vspace {-.5em} 
-\contentsline {appendix}{\chapternumberline {A}The survey}{89}{appendix.A}
-\contentsline {appendix}{\chapternumberline {B}Survey results}{99}{appendix.B}
-=======
 \contentsline {subsection}{\numberline {5.5.5}Correlation with Hypothesis 2}{74}{subsection.5.5.5}
 \contentsline {subsubsection}{Does the Ones With Many Apps Have Less Knowledge About the App Permission Requests?}{74}{section*.96}
 \contentsline {subsubsection}{Awareness of the Setting "Apps others use"}{76}{section*.97}
 \contentsline {subsubsection}{Comparison to Previous Work}{76}{section*.98}
 \contentsline {chapter}{\chapternumberline {6}Conclusion}{77}{chapter.6}
-\contentsline {chapter}{References}{79}{section*.100}
+\contentsline {section}{\numberline {6.1}Furtue Work}{80}{section.6.1}
+\contentsline {chapter}{References}{81}{section*.100}
  \vspace {1em} \noindent \bfseries Appendices\par \vspace {-.5em} 
-\contentsline {appendix}{\chapternumberline {A}The survey}{85}{appendix.A}
-\contentsline {appendix}{\chapternumberline {B}Survey results}{95}{appendix.B}
->>>>>>> 0a25e1608b523cddc03c7dd27b1adb0f9685e9c4
+\contentsline {appendix}{\chapternumberline {A}The survey}{87}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}Survey results}{97}{appendix.B}
