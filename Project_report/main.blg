@@ -6,7 +6,6 @@ A level-1 auxiliary file: related_work.aux
 A level-1 auxiliary file: default_privacy_settings.aux
 A level-1 auxiliary file: mechanicalturk.aux
 A level-1 auxiliary file: surveyresults.aux
-A level-1 auxiliary file: discussion.aux
 A level-1 auxiliary file: conclusion.aux
 The style file: ieeetr.bst
 A level-1 auxiliary file: appendixA.aux
@@ -108,6 +107,8 @@ Warning--entry type for "platformStory" isn't style-file defined
 --line 425 of file references.bib
 Warning--entry type for "secure.me" isn't style-file defined
 --line 432 of file references.bib
+Warning--entry type for "six" isn't style-file defined
+--line 439 of file references.bib
 Warning--empty journal in EvoPriv
 Warning--empty journal in PrivTimeline
 Warning--empty journal in thirdPartyApps
