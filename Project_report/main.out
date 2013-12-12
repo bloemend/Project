@@ -10,58 +10,54 @@
 \BOOKMARK [1][-]{section.2.2}{The History of Facebook}{chapter.2}% 10
 \BOOKMARK [1][-]{section.2.3}{Facebook Privacy}{chapter.2}% 11
 \BOOKMARK [1][-]{section.2.4}{Interdependent Privacy}{chapter.2}% 12
-\BOOKMARK [2][-]{subsection.2.4.1}{Privacy}{section.2.4}% 13
-\BOOKMARK [2][-]{subsection.2.4.2}{Interdependent privacy}{section.2.4}% 14
-\BOOKMARK [1][-]{section.2.5}{Amazon Mechanical Turk}{chapter.2}% 15
-\BOOKMARK [2][-]{subsection.2.5.1}{The Turk}{section.2.5}% 16
-\BOOKMARK [2][-]{subsection.2.5.2}{Advantages with Amazon Mechanical Turk}{section.2.5}% 17
-\BOOKMARK [2][-]{subsection.2.5.3}{Financial Incentives}{section.2.5}% 18
-\BOOKMARK [1][-]{section.2.6}{SurveyMonkey}{chapter.2}% 19
-\BOOKMARK [0][-]{chapter.3}{Facebook Privacy}{}% 20
-\BOOKMARK [1][-]{section.3.1}{Privacy on Facebook}{chapter.3}% 21
-\BOOKMARK [2][-]{subsection.3.1.1}{Facebook Settings}{section.3.1}% 22
-\BOOKMARK [1][-]{section.3.2}{Default Settings on Facebook}{chapter.3}% 23
-\BOOKMARK [2][-]{subsection.3.2.1}{Development of Default Settings}{section.3.2}% 24
-\BOOKMARK [2][-]{subsection.3.2.2}{Default Settings 2013}{section.3.2}% 25
-\BOOKMARK [2][-]{subsection.3.2.3}{Default Settings for Teens}{section.3.2}% 26
-\BOOKMARK [1][-]{section.3.3}{Facebook Features - Impact on your Privacy}{chapter.3}% 27
-\BOOKMARK [2][-]{subsection.3.3.1}{News Feed}{section.3.3}% 28
-\BOOKMARK [2][-]{subsection.3.3.2}{Facebook Platform - Apps}{section.3.3}% 29
-\BOOKMARK [2][-]{subsection.3.3.3}{Beacon}{section.3.3}% 30
-\BOOKMARK [2][-]{subsection.3.3.4}{Facebook Connect - "Log in with Facebook"}{section.3.3}% 31
-\BOOKMARK [2][-]{subsection.3.3.5}{Places}{section.3.3}% 32
-\BOOKMARK [2][-]{subsection.3.3.6}{Timeline}{section.3.3}% 33
-\BOOKMARK [2][-]{subsection.3.3.7}{Graph Search}{section.3.3}% 34
-\BOOKMARK [2][-]{subsection.3.3.8}{Facebook Removes Search Privacy Setting}{section.3.3}% 35
-\BOOKMARK [1][-]{section.3.4}{Zuckerberg's Thoughts}{chapter.3}% 36
-\BOOKMARK [0][-]{chapter.4}{Construction of the Survey}{}% 37
-\BOOKMARK [1][-]{section.4.1}{Design}{chapter.4}% 38
-\BOOKMARK [1][-]{section.4.2}{How the Survey is Structured}{chapter.4}% 39
-\BOOKMARK [2][-]{subsection.4.2.1}{Facebook usage}{section.4.2}% 40
-\BOOKMARK [2][-]{subsection.4.2.2}{Facebook privacy: settings}{section.4.2}% 41
-\BOOKMARK [2][-]{subsection.4.2.3}{Facebook privacy: personal experience}{section.4.2}% 42
-\BOOKMARK [2][-]{subsection.4.2.4}{Facebook privacy: apps}{section.4.2}% 43
-\BOOKMARK [2][-]{subsection.4.2.5}{Facebook security: settings}{section.4.2}% 44
-\BOOKMARK [2][-]{subsection.4.2.6}{Demographics}{section.4.2}% 45
-\BOOKMARK [1][-]{section.4.3}{Distributing the Survey}{chapter.4}% 46
-\BOOKMARK [1][-]{section.4.4}{Feedback on the Survey}{chapter.4}% 47
-\BOOKMARK [0][-]{chapter.5}{The Survey Results}{}% 48
-\BOOKMARK [1][-]{section.5.1}{Demographics}{chapter.5}% 49
-\BOOKMARK [1][-]{section.5.2}{Users' personal experience}{chapter.5}% 50
-\BOOKMARK [1][-]{section.5.3}{Investigating Hypothesis 1}{chapter.5}% 51
-\BOOKMARK [2][-]{subsection.5.3.1}{Never Checked Facebook Privacy/Security Settings During the Last Year}{section.5.3}% 52
-\BOOKMARK [2][-]{subsection.5.3.2}{Checks Facebook Privacy/Security Settings "Once a month" or "Once a week or more"}{section.5.3}% 53
-\BOOKMARK [2][-]{subsection.5.3.3}{Correlation with Hypothesis 1}{section.5.3}% 54
-\BOOKMARK [1][-]{section.5.4}{Interdependent Privacy}{chapter.5}% 55
-\BOOKMARK [2][-]{subsection.5.4.1}{Users' Knowledge About the Term "Interdependent Privacy"}{section.5.4}% 56
-\BOOKMARK [1][-]{section.5.5}{Investigating Hypothesis 2}{chapter.5}% 57
-\BOOKMARK [2][-]{subsection.5.5.1}{Number of Apps Connected to Facebook}{section.5.5}% 58
-\BOOKMARK [2][-]{subsection.5.5.2}{Users' Awareness Regarding App Permission Requests}{section.5.5}% 59
-\BOOKMARK [2][-]{subsection.5.5.3}{Awareness of the Setting "Apps others use"}{section.5.5}% 60
-\BOOKMARK [2][-]{subsection.5.5.4}{Many vs. Few Apps}{section.5.5}% 61
-\BOOKMARK [2][-]{subsection.5.5.5}{Correlation with Hypothesis 2}{section.5.5}% 62
-\BOOKMARK [0][-]{chapter.6}{Conclusion}{}% 63
-\BOOKMARK [1][-]{section.6.1}{Future Work}{chapter.6}% 64
-\BOOKMARK [0][-]{section*.100}{References}{}% 65
-\BOOKMARK [0][-]{appendix.A}{The survey}{}% 66
-\BOOKMARK [0][-]{appendix.B}{Survey results}{}% 67
+\BOOKMARK [1][-]{section.2.5}{Amazon Mechanical Turk}{chapter.2}% 13
+\BOOKMARK [2][-]{subsection.2.5.1}{The Turk}{section.2.5}% 14
+\BOOKMARK [2][-]{subsection.2.5.2}{Advantages with Amazon Mechanical Turk}{section.2.5}% 15
+\BOOKMARK [2][-]{subsection.2.5.3}{Financial Incentives}{section.2.5}% 16
+\BOOKMARK [1][-]{section.2.6}{SurveyMonkey}{chapter.2}% 17
+\BOOKMARK [0][-]{chapter.3}{Facebook Privacy}{}% 18
+\BOOKMARK [1][-]{section.3.1}{Privacy on Facebook}{chapter.3}% 19
+\BOOKMARK [2][-]{subsection.3.1.1}{Facebook Settings}{section.3.1}% 20
+\BOOKMARK [1][-]{section.3.2}{Default Settings on Facebook}{chapter.3}% 21
+\BOOKMARK [2][-]{subsection.3.2.1}{Development of Default Settings}{section.3.2}% 22
+\BOOKMARK [2][-]{subsection.3.2.2}{Default Settings 2013}{section.3.2}% 23
+\BOOKMARK [2][-]{subsection.3.2.3}{Default Settings for Teens}{section.3.2}% 24
+\BOOKMARK [1][-]{section.3.3}{Facebook Features - Impact on Privacy}{chapter.3}% 25
+\BOOKMARK [2][-]{subsection.3.3.1}{News Feed}{section.3.3}% 26
+\BOOKMARK [2][-]{subsection.3.3.2}{Facebook Platform - Apps}{section.3.3}% 27
+\BOOKMARK [2][-]{subsection.3.3.3}{Beacon}{section.3.3}% 28
+\BOOKMARK [2][-]{subsection.3.3.4}{Facebook Connect - "Log in with Facebook"}{section.3.3}% 29
+\BOOKMARK [2][-]{subsection.3.3.5}{Places}{section.3.3}% 30
+\BOOKMARK [2][-]{subsection.3.3.6}{Timeline}{section.3.3}% 31
+\BOOKMARK [2][-]{subsection.3.3.7}{Graph Search}{section.3.3}% 32
+\BOOKMARK [2][-]{subsection.3.3.8}{Facebook Removes Search Privacy Setting}{section.3.3}% 33
+\BOOKMARK [1][-]{section.3.4}{Zuckerberg's Thoughts}{chapter.3}% 34
+\BOOKMARK [0][-]{chapter.4}{Construction of the Survey}{}% 35
+\BOOKMARK [1][-]{section.4.1}{Design}{chapter.4}% 36
+\BOOKMARK [1][-]{section.4.2}{Survey Structure}{chapter.4}% 37
+\BOOKMARK [2][-]{subsection.4.2.1}{Facebook Usage}{section.4.2}% 38
+\BOOKMARK [2][-]{subsection.4.2.2}{Facebook Privacy: Settings}{section.4.2}% 39
+\BOOKMARK [2][-]{subsection.4.2.3}{Facebook Privacy: Personal Experience}{section.4.2}% 40
+\BOOKMARK [2][-]{subsection.4.2.4}{Facebook Privacy: Apps}{section.4.2}% 41
+\BOOKMARK [2][-]{subsection.4.2.5}{Facebook Security: Settings}{section.4.2}% 42
+\BOOKMARK [2][-]{subsection.4.2.6}{Demographics}{section.4.2}% 43
+\BOOKMARK [1][-]{section.4.3}{Distributing the Survey}{chapter.4}% 44
+\BOOKMARK [1][-]{section.4.4}{Feedback on the Survey}{chapter.4}% 45
+\BOOKMARK [0][-]{chapter.5}{Survey Results}{}% 46
+\BOOKMARK [1][-]{section.5.1}{Demographics}{chapter.5}% 47
+\BOOKMARK [1][-]{section.5.2}{Users' Personal Experience}{chapter.5}% 48
+\BOOKMARK [1][-]{section.5.3}{Investigating Hypothesis 1}{chapter.5}% 49
+\BOOKMARK [2][-]{subsection.5.3.1}{Never Checked Facebook Privacy/Security Settings During the Last Year}{section.5.3}% 50
+\BOOKMARK [2][-]{subsection.5.3.2}{Checks Facebook Privacy/Security Settings "Once a month" or "Once a week or more"}{section.5.3}% 51
+\BOOKMARK [2][-]{subsection.5.3.3}{Correlation with Hypothesis 1}{section.5.3}% 52
+\BOOKMARK [1][-]{section.5.4}{Interdependent Privacy}{chapter.5}% 53
+\BOOKMARK [1][-]{section.5.5}{Investigating Hypothesis 2}{chapter.5}% 54
+\BOOKMARK [2][-]{subsection.5.5.1}{Number of Apps Connected to Facebook}{section.5.5}% 55
+\BOOKMARK [2][-]{subsection.5.5.2}{User Awareness Regarding App Permission Requests}{section.5.5}% 56
+\BOOKMARK [2][-]{subsection.5.5.3}{Awareness of the Setting "Apps others use"}{section.5.5}% 57
+\BOOKMARK [2][-]{subsection.5.5.4}{Many vs. Few Apps}{section.5.5}% 58
+\BOOKMARK [2][-]{subsection.5.5.5}{Correlation with Hypothesis 2}{section.5.5}% 59
+\BOOKMARK [0][-]{chapter.6}{Conclusion}{}% 60
+\BOOKMARK [0][-]{section*.104}{References}{}% 61
+\BOOKMARK [0][-]{appendix.A}{The survey}{}% 62
+\BOOKMARK [0][-]{appendix.B}{Survey results}{}% 63

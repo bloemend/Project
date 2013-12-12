@@ -32,98 +32,98 @@
 \contentsline {section}{\numberline {2.3}Facebook Privacy}{9}{section.2.3}
 \contentsline {paragraph}{}{9}{section*.21}
 \contentsline {section}{\numberline {2.4}Interdependent Privacy}{11}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Privacy}{11}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}Interdependent privacy}{12}{subsection.2.4.2}
-\contentsline {paragraph}{Related article}{12}{section*.22}
+\contentsline {subsubsection}{Privacy}{11}{section*.22}
+\contentsline {subsubsection}{Interdependent privacy}{11}{section*.23}
+\contentsline {paragraph}{Related article}{12}{section*.24}
 \contentsline {section}{\numberline {2.5}Amazon Mechanical Turk}{13}{section.2.5}
-\contentsline {paragraph}{}{13}{section*.23}
-\contentsline {paragraph}{}{13}{section*.24}
+\contentsline {paragraph}{}{13}{section*.25}
+\contentsline {paragraph}{}{13}{section*.26}
 \contentsline {subsection}{\numberline {2.5.1}The Turk}{13}{subsection.2.5.1}
 \contentsline {subsection}{\numberline {2.5.2}Advantages with Amazon Mechanical Turk}{14}{subsection.2.5.2}
-\contentsline {subsection}{\numberline {2.5.3}Financial Incentives}{15}{subsection.2.5.3}
-\contentsline {paragraph}{}{15}{section*.26}
-\contentsline {paragraph}{}{15}{section*.27}
+\contentsline {subsection}{\numberline {2.5.3}Financial Incentives}{14}{subsection.2.5.3}
+\contentsline {paragraph}{}{15}{section*.28}
+\contentsline {paragraph}{}{15}{section*.29}
 \contentsline {section}{\numberline {2.6}SurveyMonkey}{15}{section.2.6}
 \contentsline {chapter}{\chapternumberline {3}Facebook Privacy}{17}{chapter.3}
 \contentsline {section}{\numberline {3.1}Privacy on Facebook}{17}{section.3.1}
 \contentsline {subsection}{\numberline {3.1.1}Facebook Settings}{18}{subsection.3.1.1}
-\contentsline {subsubsection}{The settings that exists}{18}{section*.29}
+\contentsline {subsubsection}{The settings that exists}{18}{section*.31}
 \contentsline {section}{\numberline {3.2}Default Settings on Facebook}{20}{section.3.2}
 \contentsline {subsection}{\numberline {3.2.1}Development of Default Settings}{21}{subsection.3.2.1}
 \contentsline {subsection}{\numberline {3.2.2}Default Settings 2013}{28}{subsection.3.2.2}
-\contentsline {paragraph}{Default settings does not preserve privacy}{30}{section*.34}
+\contentsline {paragraph}{Default settings does not preserve privacy}{30}{section*.36}
 \contentsline {subsection}{\numberline {3.2.3}Default Settings for Teens}{30}{subsection.3.2.3}
-\contentsline {section}{\numberline {3.3}Facebook Features - Impact on your Privacy}{32}{section.3.3}
+\contentsline {section}{\numberline {3.3}Facebook Features - Impact on Privacy}{32}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}News Feed}{32}{subsection.3.3.1}
-\contentsline {paragraph}{}{32}{section*.38}
+\contentsline {paragraph}{}{32}{section*.40}
 \contentsline {subsection}{\numberline {3.3.2}Facebook Platform - Apps}{32}{subsection.3.3.2}
-\contentsline {paragraph}{Application permissions.}{33}{section*.39}
-\contentsline {paragraph}{Apps privacy control.}{33}{section*.40}
-\contentsline {subsubsection}{Installing an Application}{34}{section*.41}
-\contentsline {paragraph}{Installing on a PC.}{34}{section*.43}
-\contentsline {paragraph}{Installing on a mobile phone.}{36}{section*.45}
+\contentsline {paragraph}{Application permissions.}{33}{section*.41}
+\contentsline {paragraph}{Apps privacy control.}{33}{section*.42}
+\contentsline {subsubsection}{Installing an Application}{34}{section*.43}
+\contentsline {paragraph}{Installing on a PC.}{34}{section*.45}
+\contentsline {paragraph}{Installing on a mobile phone.}{36}{section*.47}
 \contentsline {subsection}{\numberline {3.3.3}Beacon}{36}{subsection.3.3.3}
-\contentsline {paragraph}{}{36}{section*.47}
+\contentsline {paragraph}{}{36}{section*.49}
 \contentsline {subsection}{\numberline {3.3.4}Facebook Connect - "Log in with Facebook"}{38}{subsection.3.3.4}
 \contentsline {subsection}{\numberline {3.3.5}Places}{39}{subsection.3.3.5}
 \contentsline {subsection}{\numberline {3.3.6}Timeline}{40}{subsection.3.3.6}
-\contentsline {paragraph}{Privacy concerns regarding Facebook timeline}{41}{section*.51}
-\contentsline {paragraph}{}{41}{section*.53}
+\contentsline {paragraph}{Privacy concerns regarding Facebook timeline}{41}{section*.53}
+\contentsline {paragraph}{}{41}{section*.55}
 \contentsline {subsection}{\numberline {3.3.7}Graph Search}{42}{subsection.3.3.7}
 \contentsline {subsection}{\numberline {3.3.8}Facebook Removes Search Privacy Setting}{43}{subsection.3.3.8}
 \contentsline {section}{\numberline {3.4}Zuckerberg's Thoughts}{43}{section.3.4}
-\contentsline {paragraph}{}{43}{section*.54}
-\contentsline {paragraph}{}{43}{section*.55}
-\contentsline {paragraph}{}{44}{section*.56}
+\contentsline {paragraph}{}{43}{section*.56}
+\contentsline {paragraph}{}{43}{section*.57}
+\contentsline {paragraph}{}{44}{section*.58}
 \contentsline {chapter}{\chapternumberline {4}Construction of the Survey}{45}{chapter.4}
-\contentsline {paragraph}{Constructing the Survey}{45}{section*.57}
-\contentsline {paragraph}{}{45}{section*.58}
+\contentsline {paragraph}{Constructing the Survey.}{45}{section*.59}
+\contentsline {paragraph}{}{45}{section*.60}
 \contentsline {section}{\numberline {4.1}Design}{46}{section.4.1}
-\contentsline {paragraph}{Features we used in SurveyMonkey.}{46}{section*.59}
-\contentsline {section}{\numberline {4.2}How the Survey is Structured}{47}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Facebook usage}{47}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Facebook privacy: settings}{47}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Facebook privacy: personal experience}{49}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}Facebook privacy: apps}{49}{subsection.4.2.4}
-\contentsline {subsection}{\numberline {4.2.5}Facebook security: settings}{50}{subsection.4.2.5}
+\contentsline {paragraph}{Features we used in SurveyMonkey.}{46}{section*.61}
+\contentsline {section}{\numberline {4.2}Survey Structure}{47}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Facebook Usage}{47}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Facebook Privacy: Settings}{47}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Facebook Privacy: Personal Experience}{48}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Facebook Privacy: Apps}{48}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Facebook Security: Settings}{50}{subsection.4.2.5}
 \contentsline {subsection}{\numberline {4.2.6}Demographics}{50}{subsection.4.2.6}
 \contentsline {section}{\numberline {4.3}Distributing the Survey}{51}{section.4.3}
 \contentsline {section}{\numberline {4.4}Feedback on the Survey}{53}{section.4.4}
-\contentsline {chapter}{\chapternumberline {5}The Survey Results}{57}{chapter.5}
-\contentsline {paragraph}{}{57}{section*.69}
+\contentsline {chapter}{\chapternumberline {5}Survey Results}{57}{chapter.5}
+\contentsline {paragraph}{}{57}{section*.71}
 \contentsline {section}{\numberline {5.1}Demographics}{57}{section.5.1}
-\contentsline {paragraph}{Gender.}{58}{figure.caption.72}
-\contentsline {paragraph}{}{58}{section*.73}
-\contentsline {section}{\numberline {5.2}Users' personal experience}{59}{section.5.2}
+\contentsline {paragraph}{Gender.}{58}{figure.caption.74}
+\contentsline {paragraph}{}{59}{section*.75}
+\contentsline {section}{\numberline {5.2}Users' Personal Experience}{59}{section.5.2}
 \contentsline {section}{\numberline {5.3}Investigating Hypothesis 1}{61}{section.5.3}
-\contentsline {paragraph}{}{61}{section*.74}
+\contentsline {paragraph}{}{61}{section*.76}
 \contentsline {subsection}{\numberline {5.3.1}Never Checked Facebook Privacy/Security Settings During the Last Year}{61}{subsection.5.3.1}
-\contentsline {subsubsection}{App Awareness}{62}{section*.76}
+\contentsline {subsubsection}{App Awareness}{62}{section*.78}
 \contentsline {subsection}{\numberline {5.3.2}Checks Facebook Privacy/Security Settings "Once a month" or "Once a week or more"}{62}{subsection.5.3.2}
-\contentsline {subsubsection}{App Awareness}{64}{section*.79}
-\contentsline {subsection}{\numberline {5.3.3}Correlation with Hypothesis 1}{65}{subsection.5.3.3}
-\contentsline {subsubsection}{Activity Level}{65}{section*.80}
-\contentsline {subsubsection}{More Secure Settings for Those Who Check Their Settings More Often?}{65}{section*.81}
-\contentsline {subsubsection}{Considered Changing Settings}{65}{section*.82}
-\contentsline {subsubsection}{App Awareness}{66}{section*.83}
-\contentsline {subsubsection}{Comparisons with Previous Work}{66}{section*.84}
-\contentsline {section}{\numberline {5.4}Interdependent Privacy}{67}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}Users' Knowledge About the Term "Interdependent Privacy"}{67}{subsection.5.4.1}
-\contentsline {section}{\numberline {5.5}Investigating Hypothesis 2}{70}{section.5.5}
-\contentsline {paragraph}{}{70}{section*.85}
-\contentsline {subsection}{\numberline {5.5.1}Number of Apps Connected to Facebook}{70}{subsection.5.5.1}
-\contentsline {subsection}{\numberline {5.5.2}Users' Awareness Regarding App Permission Requests}{70}{subsection.5.5.2}
-\contentsline {paragraph}{}{70}{section*.91}
-\contentsline {subsection}{\numberline {5.5.3}Awareness of the Setting "Apps others use"}{73}{subsection.5.5.3}
-\contentsline {paragraph}{}{73}{section*.93}
-\contentsline {subsection}{\numberline {5.5.4}Many vs. Few Apps}{73}{subsection.5.5.4}
-\contentsline {subsection}{\numberline {5.5.5}Correlation with Hypothesis 2}{74}{subsection.5.5.5}
-\contentsline {subsubsection}{Does the Ones With Many Apps Have Less Knowledge About the App Permission Requests?}{74}{section*.96}
-\contentsline {subsubsection}{Awareness of the Setting "Apps others use"}{76}{section*.97}
-\contentsline {subsubsection}{Comparison to Previous Work}{76}{section*.98}
+\contentsline {subsubsection}{App Awareness}{63}{section*.81}
+\contentsline {subsection}{\numberline {5.3.3}Correlation with Hypothesis 1}{64}{subsection.5.3.3}
+\contentsline {subsubsection}{Activity Level}{64}{section*.82}
+\contentsline {subsubsection}{More Secure Settings for Those Who Check Their Settings More Often?}{65}{section*.83}
+\contentsline {subsubsection}{Considered Changing Settings}{65}{section*.84}
+\contentsline {subsubsection}{App Awareness}{65}{section*.85}
+\contentsline {subsubsection}{Comparisons with Previous Work}{66}{section*.86}
+\contentsline {section}{\numberline {5.4}Interdependent Privacy}{66}{section.5.4}
+\contentsline {subsubsection}{User Knowledge About the Term "Interdependent Privacy"}{66}{section*.87}
+\contentsline {section}{\numberline {5.5}Investigating Hypothesis 2}{69}{section.5.5}
+\contentsline {paragraph}{}{69}{section*.88}
+\contentsline {subsection}{\numberline {5.5.1}Number of Apps Connected to Facebook}{69}{subsection.5.5.1}
+\contentsline {subsection}{\numberline {5.5.2}User Awareness Regarding App Permission Requests}{69}{subsection.5.5.2}
+\contentsline {paragraph}{}{69}{section*.94}
+\contentsline {subsection}{\numberline {5.5.3}Awareness of the Setting "Apps others use"}{70}{subsection.5.5.3}
+\contentsline {paragraph}{}{70}{section*.96}
+\contentsline {subsection}{\numberline {5.5.4}Many vs. Few Apps}{71}{subsection.5.5.4}
+\contentsline {subsection}{\numberline {5.5.5}Correlation with Hypothesis 2}{73}{subsection.5.5.5}
+\contentsline {subsubsection}{Does the Ones With Many Apps Have Less Knowledge About the App Permission Requests?}{73}{section*.99}
+\contentsline {subsubsection}{Awareness of the Setting "Apps others use"}{74}{section*.100}
+\contentsline {subsubsection}{Comparison to Previous Work}{74}{section*.101}
 \contentsline {chapter}{\chapternumberline {6}Conclusion}{77}{chapter.6}
-\contentsline {section}{\numberline {6.1}Future Work}{80}{section.6.1}
-\contentsline {chapter}{References}{81}{section*.100}
+\contentsline {subsubsection}{Future Work}{80}{section*.102}
+\contentsline {chapter}{References}{81}{section*.104}
  \vspace {1em} \noindent \bfseries Appendices\par \vspace {-.5em} 
 \contentsline {appendix}{\chapternumberline {A}The survey}{87}{appendix.A}
 \contentsline {appendix}{\chapternumberline {B}Survey results}{97}{appendix.B}
