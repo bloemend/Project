@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  10 DEC 2013 16:02
+=======
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  12 DEC 2013 18:37
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 entering extended mode
 **main.tex
 (C:\Users\Esther\Project\Project_report\main.tex
@@ -1755,7 +1759,7 @@ LaTeX Info: Redefining \nameref on input line 35.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 
-<./figs/ntnu-logo.pdf, id=271, 241.4922pt x 52.79724pt>
+<./figs/ntnu-logo.pdf, id=255, 241.4922pt x 52.79724pt>
 File: ./figs/ntnu-logo.pdf Graphic file (type pdf)
 
 <use ./figs/ntnu-logo.pdf>
@@ -1811,10 +1815,18 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 2.
- [3
 
+<<<<<<< HEAD
 ]) [4]
 (C:\Users\Esther\Project\Project_report\acknowledgement.tex
+=======
+Underfull \vbox (badness 1910) has occurred while \output is active []
+
+ [3
+
+])
+[4] ("C:\Users\Ida Malene\Project\Project_report\acknowledgement.tex"
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
@@ -1831,17 +1843,25 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <113.81102> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 54.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20.74> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 54.
+<<<<<<< HEAD
  (C:\Users\Esther\Project\Project_report\main.toc [7]
 Underfull \vbox (badness 1210) has occurred while \output is active []
 
  [8])
+=======
+ ("C:\Users\Ida Malene\Project\Project_report\main.toc" [7]) [8]
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 [9] [10
 
-] (C:\Users\Esther\Project\Project_report\main.lof
+] ("C:\Users\Ida Malene\Project\Project_report\main.lof"
 Underfull \vbox (badness 4832) has occurred while \output is active []
 
  [11])
+<<<<<<< HEAD
 [12] (C:\Users\Esther\Project\Project_report\main.lot) [13
+=======
+[12] ("C:\Users\Ida Malene\Project\Project_report\main.lot") [13
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 
 ] [14
 
@@ -1860,35 +1880,48 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20> not available
 
 
 ]
-<./figs/facebook-icon.png, id=567, 481.8pt x 481.8pt>
+<./figs/facebook-icon.png, id=547, 481.8pt x 481.8pt>
 File: ./figs/facebook-icon.png Graphic file (type png)
 
 <use ./figs/facebook-icon.png>
 Package pdftex.def Info: ./figs/facebook-icon.png used on input line 22.
 (pdftex.def)             Requested size: 72.79889pt x 72.79619pt.
+<<<<<<< HEAD
  [6 <C:/Users/Esther/Project/Project_report/figs/facebook-icon.png>] [7] [8] [9
 ] [10]
+=======
+ [6 <C:/Users/Ida Malene/Project/Project_report/figs/facebook-icon.png>] [7] [8
+] [9] [10] [11] [12]
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 90.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 120.
 
-Underfull \vbox (badness 1769) has occurred while \output is active []
-
- [11]
-[12] [13] <./figs/Turk-open.jpg, id=658, 602.25pt x 524.96124pt>
+<./figs/Turk-open.jpg, id=631, 602.25pt x 524.96124pt>
 File: ./figs/Turk-open.jpg Graphic file (type jpg)
 
 <use ./figs/Turk-open.jpg>
 Package pdftex.def Info: ./figs/Turk-open.jpg used on input line 126.
 (pdftex.def)             Requested size: 254.79889pt x 222.10028pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
+<<<<<<< HEAD
  [14 <C:/Users/Esther/Project/Project_report/figs/Turk-open.jpg>]) [15] [16
 
 
 ]
 (C:\Users\Esther\Project\Project_report\default_privacy_settings.tex
 <./figs/gowth_of_facebook.png, id=690, 738.50906pt x 460.72125pt>
+=======
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[13] [14 <C:/Users/Ida Malene/Project/Project_report/figs/Turk-open.jpg>])
+[15] [16
+
+
+]
+("C:\Users\Ida Malene\Project\Project_report\default_privacy_settings.tex"
+<./figs/gowth_of_facebook.png, id=672, 738.50906pt x 460.72125pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/gowth_of_facebook.png Graphic file (type png)
 
 <use ./figs/gowth_of_facebook.png>
@@ -1897,64 +1930,68 @@ Package pdftex.def Info: ./figs/gowth_of_facebook.png used on input line 11.
  [17
 
 
+<<<<<<< HEAD
  <C:/Users/Esther/Project/Project_report/figs/gowth_of_facebook.png>] [18]
+=======
+ <C:/Users/Ida Malene/Project/Project_report/figs/gowth_of_facebook.png>] [18]
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 Overfull \hbox (5.00406pt too wide) in alignment at lines 29--52
  [] [] 
  []
 
-[19] [20] <./figs/dp2005.png, id=726, 461.47406pt x 499.8675pt>
+[19] [20] <./figs/dp2005.png, id=708, 461.47406pt x 499.8675pt>
 File: ./figs/dp2005.png Graphic file (type png)
 
 <use ./figs/dp2005.png>
-Package pdftex.def Info: ./figs/dp2005.png used on input line 79.
+Package pdftex.def Info: ./figs/dp2005.png used on input line 74.
 (pdftex.def)             Requested size: 291.20197pt x 284.53844pt.
- <./figs/dp2006.png, id=727, 462.22687pt x 497.60907pt>
+ <./figs/dp2006.png, id=709, 462.22687pt x 497.60907pt>
 File: ./figs/dp2006.png Graphic file (type png)
 
 <use ./figs/dp2006.png>
-Package pdftex.def Info: ./figs/dp2006.png used on input line 83.
+Package pdftex.def Info: ./figs/dp2006.png used on input line 78.
 (pdftex.def)             Requested size: 291.20447pt x 284.52847pt.
- <./figs/dp2007.png, id=728, 462.97969pt x 498.36188pt>
+ <./figs/dp2007.png, id=710, 462.97969pt x 498.36188pt>
 File: ./figs/dp2007.png Graphic file (type png)
 
 <use ./figs/dp2007.png>
-Package pdftex.def Info: ./figs/dp2007.png used on input line 87.
+Package pdftex.def Info: ./figs/dp2007.png used on input line 82.
 (pdftex.def)             Requested size: 291.20541pt x 284.53308pt.
 
-Overfull \hbox (3.90701pt too wide) in paragraph at lines 89--89
+Overfull \hbox (3.90701pt too wide) in paragraph at lines 84--84
 []|\T1/ptm/m/n/10 (-20) November
  []
 
-<./figs/dp2009nov.png, id=729, 462.97969pt x 500.62032pt>
+<./figs/dp2009nov.png, id=711, 462.97969pt x 500.62032pt>
 File: ./figs/dp2009nov.png Graphic file (type png)
 
 <use ./figs/dp2009nov.png>
-Package pdftex.def Info: ./figs/dp2009nov.png used on input line 91.
+Package pdftex.def Info: ./figs/dp2009nov.png used on input line 86.
 (pdftex.def)             Requested size: 291.20541pt x 284.53918pt.
 
-Overfull \hbox (3.1091pt too wide) in paragraph at lines 93--93
+Overfull \hbox (3.1091pt too wide) in paragraph at lines 88--88
 []|\T1/ptm/m/n/10 (-20) December
  []
 
-<./figs/dp2009des.png, id=730, 463.7325pt x 502.12593pt>
+<./figs/dp2009des.png, id=712, 463.7325pt x 502.12593pt>
 File: ./figs/dp2009des.png Graphic file (type png)
 
 <use ./figs/dp2009des.png>
-Package pdftex.def Info: ./figs/dp2009des.png used on input line 95.
+Package pdftex.def Info: ./figs/dp2009des.png used on input line 90.
 (pdftex.def)             Requested size: 291.20483pt x 284.54448pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--97
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
 []|\T1/ptm/m/n/10 (+20) April
  []
 
-<./figs/dp2010april.png, id=731, 462.97969pt x 496.85625pt>
+<./figs/dp2010april.png, id=713, 462.97969pt x 496.85625pt>
 File: ./figs/dp2010april.png Graphic file (type png)
 
 <use ./figs/dp2010april.png>
-Package pdftex.def Info: ./figs/dp2010april.png used on input line 99.
+Package pdftex.def Info: ./figs/dp2010april.png used on input line 94.
 (pdftex.def)             Requested size: 291.20541pt x 284.53017pt.
 
-Overfull \hbox (3.90701pt too wide) in paragraph at lines 103--103
+Overfull \hbox (3.90701pt too wide) in paragraph at lines 96--96
 []|\T1/ptm/m/n/10 (-20) November
  []
 
@@ -1966,60 +2003,71 @@ ct_report/figs/dp2007.png>] [24 <C:/Users/Esther/Project/Project_report/figs/dp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [27]
-<./figs/default_nov_2013_security.png, id=776, 748.29562pt x 297.36093pt>
+<./figs/default_nov_2013_security.png, id=758, 748.29562pt x 297.36093pt>
 File: ./figs/default_nov_2013_security.png Graphic file (type png)
 
 <use ./figs/default_nov_2013_security.png>
 Package pdftex.def Info: ./figs/default_nov_2013_security.png used on input lin
-e 134.
+e 128.
 (pdftex.def)             Requested size: 364.0pt x 144.64638pt.
 
-<./figs/default_nov_2013_privacy.png, id=777, 740.0147pt x 312.41719pt>
+<./figs/default_nov_2013_privacy.png, id=759, 740.0147pt x 312.41719pt>
 File: ./figs/default_nov_2013_privacy.png Graphic file (type png)
 
 <use ./figs/default_nov_2013_privacy.png>
 Package pdftex.def Info: ./figs/default_nov_2013_privacy.png used on input line
- 141.
+ 135.
 (pdftex.def)             Requested size: 364.0pt x 153.6721pt.
 
-<./figs/default_nov_2013_timelineandtagging.png, id=778, 741.52031pt x 317.6868
+<./figs/default_nov_2013_timelineandtagging.png, id=760, 741.52031pt x 317.6868
 7pt>
 File: ./figs/default_nov_2013_timelineandtagging.png Graphic file (type png)
  <use ./figs/default_nov_2013_timelineandtagging.png>
 Package pdftex.def Info: ./figs/default_nov_2013_timelineandtagging.png used on
- input line 148.
+ input line 142.
 (pdftex.def)             Requested size: 364.0pt x 155.94907pt.
 
-<./figs/default_nov_2013_apps.png, id=779, 761.84625pt x 543.53062pt>
+<./figs/default_nov_2013_apps.png, id=761, 761.84625pt x 543.53062pt>
 File: ./figs/default_nov_2013_apps.png Graphic file (type png)
 
 <use ./figs/default_nov_2013_apps.png>
-Package pdftex.def Info: ./figs/default_nov_2013_apps.png used on input line 15
-5.
+Package pdftex.def Info: ./figs/default_nov_2013_apps.png used on input line 14
+9.
 (pdftex.def)             Requested size: 364.0pt x 259.68915pt.
+<<<<<<< HEAD
  [28 <C:/Users/Esther/Project/Project_report/figs/default_nov_2013_security.png
 >] [29 <C:/Users/Esther/Project/Project_report/figs/default_nov_2013_privacy.pn
 g> <C:/Users/Esther/Project/Project_report/figs/default_nov_2013_timelineandtag
 ging.png>]
 <./figs/new_post.png, id=796, 398.99063pt x 250.68657pt>
+=======
+
+Underfull \vbox (badness 5878) has occurred while \output is active []
+
+ [28 <C:/Users/Ida Malene/Project/Project_report/figs/default_nov_2013_security
+.png>]
+[29 <C:/Users/Ida Malene/Project/Project_report/figs/default_nov_2013_privacy.p
+ng> <C:/Users/Ida Malene/Project/Project_report/figs/default_nov_2013_timelinea
+ndtagging.png>] <./figs/new_post.png, id=778, 398.99063pt x 250.68657pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/new_post.png Graphic file (type png)
 
 <use ./figs/new_post.png>
-Package pdftex.def Info: ./figs/new_post.png used on input line 172.
+Package pdftex.def Info: ./figs/new_post.png used on input line 166.
 (pdftex.def)             Requested size: 291.20111pt x 182.96906pt.
 
-<./figs/teensSharePost.png, id=797, 395.97937pt x 197.23688pt>
+<./figs/teensSharePost.png, id=779, 395.97937pt x 197.23688pt>
 File: ./figs/teensSharePost.png Graphic file (type png)
 
 <use ./figs/teensSharePost.png>
-Package pdftex.def Info: ./figs/teensSharePost.png used on input line 179.
+Package pdftex.def Info: ./figs/teensSharePost.png used on input line 173.
 (pdftex.def)             Requested size: 291.20111pt x 145.05011pt.
 
-<./figs/sharePost.png, id=798, 393.72093pt x 161.10187pt>
+<./figs/sharePost.png, id=780, 393.72093pt x 161.10187pt>
 File: ./figs/sharePost.png Graphic file (type png)
 
 <use ./figs/sharePost.png>
-Package pdftex.def Info: ./figs/sharePost.png used on input line 186.
+Package pdftex.def Info: ./figs/sharePost.png used on input line 180.
 (pdftex.def)             Requested size: 291.20111pt x 119.15205pt.
  [30 <C:/Users/Esther/Project/Project_report/figs/default_nov_2013_apps.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2030,52 +2078,62 @@ r/Project/Project_report/figs/teensSharePost.png>] [32 <C:/Users/Esther/Project
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [33]
-<./figs/tripadvisorpc.png, id=847, 767.86874pt x 678.28406pt>
+<./figs/tripadvisorpc.png, id=829, 767.86874pt x 678.28406pt>
 File: ./figs/tripadvisorpc.png Graphic file (type png)
 
 <use ./figs/tripadvisorpc.png>
-Package pdftex.def Info: ./figs/tripadvisorpc.png used on input line 221.
+Package pdftex.def Info: ./figs/tripadvisorpc.png used on input line 215.
 (pdftex.def)             Requested size: 364.0pt x 321.53624pt.
+<<<<<<< HEAD
  [34 <C:/Users/Esther/Project/Project_report/figs/tripadvisorpc.png>] <./figs/p
 ermissions.jpg, id=858, 498.36188pt x 481.8pt>
+=======
+ [34 <C:/Users/Ida Malene/Project/Project_report/figs/tripadvisorpc.png>]
+<./figs/permissions.jpg, id=840, 498.36188pt x 481.8pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/permissions.jpg Graphic file (type jpg)
 
 <use ./figs/permissions.jpg>
-Package pdftex.def Info: ./figs/permissions.jpg used on input line 233.
+Package pdftex.def Info: ./figs/permissions.jpg used on input line 227.
 (pdftex.def)             Requested size: 291.20111pt x 281.53206pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+<<<<<<< HEAD
  [35 <C:/Users/Esther/Project/Project_report/figs/permissions.jpg>]
 <./figs/tripa1mobil.png, id=867, 360.59718pt x 570.63188pt>
+=======
+ [35 <C:/Users/Ida Malene/Project/Project_report/figs/permissions.jpg>]
+<./figs/tripa1mobil.png, id=849, 360.59718pt x 570.63188pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/tripa1mobil.png Graphic file (type png)
 
 <use ./figs/tripa1mobil.png>
-Package pdftex.def Info: ./figs/tripa1mobil.png used on input line 244.
+Package pdftex.def Info: ./figs/tripa1mobil.png used on input line 238.
 (pdftex.def)             Requested size: 109.20111pt x 172.8017pt.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 245.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 239.
 
-<./figs/tripa2mobil.png, id=868, 359.09157pt x 572.1375pt>
+<./figs/tripa2mobil.png, id=850, 359.09157pt x 572.1375pt>
 File: ./figs/tripa2mobil.png Graphic file (type png)
 
 <use ./figs/tripa2mobil.png>
-Package pdftex.def Info: ./figs/tripa2mobil.png used on input line 251.
+Package pdftex.def Info: ./figs/tripa2mobil.png used on input line 245.
 (pdftex.def)             Requested size: 109.20111pt x 173.99097pt.
 
-<./figs/tripa3mobil.png, id=869, 358.33875pt x 570.63188pt>
+<./figs/tripa3mobil.png, id=851, 358.33875pt x 570.63188pt>
 File: ./figs/tripa3mobil.png Graphic file (type png)
 
 <use ./figs/tripa3mobil.png>
-Package pdftex.def Info: ./figs/tripa3mobil.png used on input line 258.
+Package pdftex.def Info: ./figs/tripa3mobil.png used on input line 252.
 (pdftex.def)             Requested size: 109.20111pt x 173.89009pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 259--259
+Underfull \hbox (badness 10000) in paragraph at lines 253--253
 []\T1/ptm/m/n/9 (+20) (c) |\T1/ptm/b/n/9 Face-book's re-quest
  []
 
 
-Underfull \hbox (badness 1584) in paragraph at lines 259--259
+Underfull \hbox (badness 1584) in paragraph at lines 253--253
 \T1/ptm/b/n/9 for per-mis-sions on mo-bile
  []
 
@@ -2085,21 +2143,21 @@ ct_report/figs/tripa3mobil.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [37]
-Overfull \hbox (9.41373pt too wide) in paragraph at lines 314--327
+Overfull \hbox (9.41373pt too wide) in paragraph at lines 308--321
 [][] 
  []
 
-<./figs/nearby.png, id=898, 234.1247pt x 299.61937pt>
+<./figs/nearby.png, id=880, 234.1247pt x 299.61937pt>
 File: ./figs/nearby.png Graphic file (type png)
  <use ./figs/nearby.png>
-Package pdftex.def Info: ./figs/nearby.png used on input line 334.
+Package pdftex.def Info: ./figs/nearby.png used on input line 328.
 (pdftex.def)             Requested size: 109.20111pt x 139.75131pt.
 
-[38] <./figs/places.png, id=905, 451.6875pt x 937.25156pt>
+[38] <./figs/places.png, id=887, 451.6875pt x 937.25156pt>
 File: ./figs/places.png Graphic file (type png)
 
 <use ./figs/places.png>
-Package pdftex.def Info: ./figs/places.png used on input line 343.
+Package pdftex.def Info: ./figs/places.png used on input line 337.
 (pdftex.def)             Requested size: 109.20111pt x 226.58961pt.
 
 Underfull \vbox (badness 6978) has occurred while \output is active []
@@ -2107,22 +2165,39 @@ Underfull \vbox (badness 6978) has occurred while \output is active []
  [39 <C:/Users/Esther/Project/Project_report/figs/nearby.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+<<<<<<< HEAD
  [40 <C:/Users/Esther/Project/Project_report/figs/places.png>]
 <./figs/activity_log.png, id=926, 788.9475pt x 368.87813pt>
+=======
+ [40 <C:/Users/Ida Malene/Project/Project_report/figs/places.png>]
+<./figs/activity_log.png, id=908, 788.9475pt x 368.87813pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/activity_log.png Graphic file (type png)
 
 <use ./figs/activity_log.png>
-Package pdftex.def Info: ./figs/activity_log.png used on input line 361.
+Package pdftex.def Info: ./figs/activity_log.png used on input line 355.
 (pdftex.def)             Requested size: 364.0pt x 170.19257pt.
+<<<<<<< HEAD
  [41 <C:/Users/Esther/Project/Project_report/figs/activity_log.png>] [42] [43])
  [44]
 (C:\Users\Esther\Project\Project_report\mechanicalturk.tex [45
+=======
+ [41 <C:/Users/Ida Malene/Project/Project_report/figs/activity_log.png>] [42] [
+43]) [44]
+("C:\Users\Ida Malene\Project\Project_report\mechanicalturk.tex"
+Underfull \vbox (badness 1642) has occurred while \output is active []
+
+ [45
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 
 
 
 
 ]
-<./figs/firstpagesurvey.png, id=985, 640.64343pt x 314.67563pt>
+Underfull \vbox (badness 1442) has occurred while \output is active []
+
+ [46]
+<./figs/firstpagesurvey.png, id=973, 640.64343pt x 314.67563pt>
 File: ./figs/firstpagesurvey.png Graphic file (type png)
 
 <use ./figs/firstpagesurvey.png>
@@ -2133,8 +2208,13 @@ Overfull \hbox (11.79999pt too wide) in paragraph at lines 26--27
  [][] 
  []
 
+<<<<<<< HEAD
 [46] [47 <C:/Users/Esther/Project/Project_report/figs/firstpagesurvey.png>]
 <./figs/page12.png, id=998, 540.51938pt x 563.10374pt>
+=======
+[47 <C:/Users/Ida Malene/Project/Project_report/figs/firstpagesurvey.png>]
+<./figs/page12.png, id=981, 540.51938pt x 563.10374pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/page12.png Graphic file (type png)
  <use ./figs/page12.png>
 Package pdftex.def Info: ./figs/page12.png used on input line 43.
@@ -2144,11 +2224,15 @@ Overfull \hbox (11.79999pt too wide) in paragraph at lines 43--44
  [][] 
  []
 
+<<<<<<< HEAD
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [48 <C:/Users/Esther/Project/Project_report/figs/page12.png>]
 <./figs/page14.png, id=1005, 584.1825pt x 481.8pt>
+=======
+<./figs/page14.png, id=983, 584.1825pt x 481.8pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/page14.png Graphic file (type png)
  <use ./figs/page14.png>
 Package pdftex.def Info: ./figs/page14.png used on input line 59.
@@ -2158,10 +2242,9 @@ Overfull \hbox (11.79999pt too wide) in paragraph at lines 59--60
  [][] 
  []
 
-<./figs/page15.png, id=1006, 582.67688pt x 623.32875pt>
+<./figs/page15.png, id=984, 582.67688pt x 623.32875pt>
 File: ./figs/page15.png Graphic file (type png)
-
-<use ./figs/page15.png>
+ <use ./figs/page15.png>
 Package pdftex.def Info: ./figs/page15.png used on input line 67.
 (pdftex.def)             Requested size: 364.0pt x 389.39879pt.
 
@@ -2169,13 +2252,22 @@ Overfull \hbox (11.79999pt too wide) in paragraph at lines 67--68
  [][] 
  []
 
+[48]
+Underfull \vbox (badness 3240) has occurred while \output is active []
 
+<<<<<<< HEAD
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [49]
 [50 <C:/Users/Esther/Project/Project_report/figs/page14.png>] [51 <C:/Users/Est
 her/Project/Project_report/figs/page15.png>]
 <./figs/amtedit.png, id=1029, 649.67719pt x 640.64343pt>
+=======
+ [49 <C:/Users/Ida Malene/Project/Project_report/figs/page12.png>] [50 <C:/User
+s/Ida Malene/Project/Project_report/figs/page14.png>] [51 <C:/Users/Ida Malene/
+Project/Project_report/figs/page15.png>]
+<./figs/amtedit.png, id=1012, 649.67719pt x 640.64343pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/amtedit.png Graphic file (type png)
 
 <use ./figs/amtedit.png>
@@ -2186,7 +2278,7 @@ Overfull \hbox (11.79999pt too wide) in paragraph at lines 89--90
  [][] 
  []
 
-<./figs/amtlayout.png, id=1030, 1308.38812pt x 618.05907pt>
+<./figs/amtlayout.png, id=1013, 1308.38812pt x 618.05907pt>
 File: ./figs/amtlayout.png Graphic file (type png)
 
 <use ./figs/amtlayout.png>
@@ -2197,18 +2289,18 @@ Overfull \hbox (11.79999pt too wide) in paragraph at lines 97--98
  [][] 
  []
 
-<./figs/hitout.png, id=1032, 1430.34375pt x 837.88031pt>
-File: ./figs/hitout.png Graphic file (type png)
+<./figs/hitisout.png, id=1015, 1059.20718pt x 399.74344pt>
+File: ./figs/hitisout.png Graphic file (type png)
 
-<use ./figs/hitout.png>
-Package pdftex.def Info: ./figs/hitout.png used on input line 107.
-(pdftex.def)             Requested size: 364.0pt x 213.22835pt.
+<use ./figs/hitisout.png>
+Package pdftex.def Info: ./figs/hitisout.png used on input line 107.
+(pdftex.def)             Requested size: 364.0pt x 137.37486pt.
 
 Overfull \hbox (11.79999pt too wide) in paragraph at lines 107--108
  [][] 
  []
 
-<./figs/answersamt.png, id=1034, 531.48563pt x 258.21469pt>
+<./figs/answersamt.png, id=1017, 531.48563pt x 258.21469pt>
 File: ./figs/answersamt.png Graphic file (type png)
 
 <use ./figs/answersamt.png>
@@ -2219,7 +2311,7 @@ Overfull \hbox (11.79999pt too wide) in paragraph at lines 118--119
  [][] 
  []
 
-<./figs/answersfacebook.png, id=1035, 539.76656pt x 255.20343pt>
+<./figs/answersfacebook.png, id=1018, 539.76656pt x 255.20343pt>
 File: ./figs/answersfacebook.png Graphic file (type png)
 
 <use ./figs/answersfacebook.png>
@@ -2234,12 +2326,25 @@ Overfull \hbox (11.79999pt too wide) in paragraph at lines 126--127
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [52]
+<<<<<<< HEAD
 [53 <C:/Users/Esther/Project/Project_report/figs/amtedit.png>]) [54 <C:/Users/E
 sther/Project/Project_report/figs/amtlayout.png>] [55 <C:/Users/Esther/Project/
 Project_report/figs/hitout.png> <C:/Users/Esther/Project/Project_report/figs/an
 swersamt.png>] [56 <C:/Users/Esther/Project/Project_report/figs/answersfacebook
 .png>] (C:\Users\Esther\Project\Project_report\surveyresults.tex
 <./figs/land.png, id=1065, 810.02625pt x 633.11531pt>
+=======
+[53 <C:/Users/Ida Malene/Project/Project_report/figs/amtedit.png>] [54 <C:/User
+s/Ida Malene/Project/Project_report/figs/amtlayout.png> <C:/Users/Ida Malene/Pr
+oject/Project_report/figs/hitisout.png>]) [55 <C:/Users/Ida Malene/Project/Proj
+ect_report/figs/answersamt.png> <C:/Users/Ida Malene/Project/Project_report/fig
+s/answersfacebook.png>] [56
+
+
+]
+("C:\Users\Ida Malene\Project\Project_report\surveyresults.tex"
+<./figs/land.png, id=1049, 810.02625pt x 633.11531pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/land.png Graphic file (type png)
  <use ./figs/land.png>
 Package pdftex.def Info: ./figs/land.png used on input line 19.
@@ -2251,9 +2356,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [57
 
 
-
-
-] <./figs/gender.png, id=1072, 987.69pt x 645.16031pt>
+] <./figs/gender.png, id=1056, 987.69pt x 645.16031pt>
 File: ./figs/gender.png Graphic file (type png)
 
 <use ./figs/gender.png>
@@ -2263,39 +2366,50 @@ Package pdftex.def Info: ./figs/gender.png used on input line 31.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+<<<<<<< HEAD
 [58 <C:/Users/Esther/Project/Project_report/figs/land.png>] [59 <C:/Users/Esthe
 r/Project/Project_report/figs/gender.png>]
+=======
+
+Underfull \vbox (badness 1603) has occurred while \output is active []
+
+ [58 <C:/Users/Ida Malene/Project/Project_report/figs/land.png>] [59 <C:/Users/
+Ida Malene/Project/Project_report/figs/gender.png>]
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 LaTeX Font Info:    Try loading font information for TS1+ptm on input line 55.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ts1ptm.fd"
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 ) [60]
-<./figs/nevercheckedtable.png, id=1092, 622.57594pt x 347.04657pt>
+<./figs/nevercheckedtable.png, id=1076, 622.57594pt x 347.04657pt>
 File: ./figs/nevercheckedtable.png Graphic file (type png)
 
 <use ./figs/nevercheckedtable.png>
 Package pdftex.def Info: ./figs/nevercheckedtable.png used on input line 77.
 (pdftex.def)             Requested size: 364.0pt x 202.90756pt.
+<<<<<<< HEAD
  [61 <C:/Users/Esther/Project/Project_report/figs/nevercheckedtable.png>]
 <./figs/q26-29AppAwareness.png, id=1105, 387.69844pt x 676.77844pt>
 File: ./figs/q26-29AppAwareness.png Graphic file (type png)
+=======
+ [61 <C:/Users/Ida Malene/Project/Project_report/figs/nevercheckedtable.png>]
+<./figs/q26-29AppAwareness2.png, id=1089, 453.19313pt x 733.23938pt>
+File: ./figs/q26-29AppAwareness2.png Graphic file (type png)
 
-<use ./figs/q26-29AppAwareness.png>
-Package pdftex.def Info: ./figs/q26-29AppAwareness.png used on input line 107.
-(pdftex.def)             Requested size: 182.0pt x 317.70383pt.
+<use ./figs/q26-29AppAwareness2.png>
+Package pdftex.def Info: ./figs/q26-29AppAwareness2.png used on input line 107.
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 
-<./figs/q26-29OnceAWeek.png, id=1106, 372.64218pt x 655.69969pt>
+(pdftex.def)             Requested size: 182.0pt x 294.46533pt.
+
+<./figs/q26-29OnceAWeek.png, id=1090, 372.64218pt x 655.69969pt>
 File: ./figs/q26-29OnceAWeek.png Graphic file (type png)
 
 <use ./figs/q26-29OnceAWeek.png>
 Package pdftex.def Info: ./figs/q26-29OnceAWeek.png used on input line 115.
-(pdftex.def)             Requested size: 182.0pt x 320.24512pt.
+(pdftex.def)             Requested size: 167.44244pt x 294.6219pt.
 
-Overfull \hbox (3.80005pt too wide) in paragraph at lines 106--120
- [][]  [] 
- []
-
-<./figs/checkonceaweekormoretable.png, id=1107, 618.81187pt x 351.56343pt>
+<./figs/checkonceaweekormoretable.png, id=1091, 618.81187pt x 351.56343pt>
 File: ./figs/checkonceaweekormoretable.png Graphic file (type png)
 
 <use ./figs/checkonceaweekormoretable.png>
@@ -2306,6 +2420,7 @@ e 130.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+<<<<<<< HEAD
 [62] [63 <C:/Users/Esther/Project/Project_report/figs/q26-29AppAwareness.png> <
 C:/Users/Esther/Project/Project_report/figs/q26-29OnceAWeek.png>] [64 <C:/Users
 /Esther/Project/Project_report/figs/checkonceaweekormoretable.png>] [65]
@@ -2313,117 +2428,140 @@ Underfull \vbox (badness 5924) has occurred while \output is active []
 
  [66]
 Underfull \hbox (badness 8113) in paragraph at lines 245--246
+=======
+[62] [63 <C:/Users/Ida Malene/Project/Project_report/figs/q26-29AppAwareness2.p
+ng> <C:/Users/Ida Malene/Project/Project_report/figs/q26-29OnceAWeek.png>]
+[64 <C:/Users/Ida Malene/Project/Project_report/figs/checkonceaweekormoretable.
+png>] [65] [66]
+Underfull \hbox (badness 8113) in paragraph at lines 244--245
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 []|\T1/ptm/m/it/10 (+20) "Getting ac-cess through games and
  []
 
 
-Overfull \hbox (2.63303pt too wide) in alignment at lines 214--254
+Overfull \hbox (2.63303pt too wide) in alignment at lines 213--253
  [] [] 
  []
 
 
-Overfull \hbox (2.63303pt too wide) in alignment at lines 254--257
+Overfull \hbox (2.63303pt too wide) in alignment at lines 253--256
  [] [] 
  []
 
-[67] [68]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [69]
-<./figs/appsyouuse.png, id=1165, 652.4375pt x 570.13pt>
+[67] [68] <./figs/appsyouuse.png, id=1146, 652.4375pt x 570.13pt>
 File: ./figs/appsyouuse.png Graphic file (type png)
 
 <use ./figs/appsyouuse.png>
-Package pdftex.def Info: ./figs/appsyouuse.png used on input line 268.
+Package pdftex.def Info: ./figs/appsyouuse.png used on input line 267.
 (pdftex.def)             Requested size: 291.20111pt x 254.46826pt.
 
-<./figs/appsaccessbasicinfo.png, id=1167, 652.4375pt x 409.53pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figs/appsaccessbasicinfo.png, id=1148, 652.4375pt x 409.53pt>
 File: ./figs/appsaccessbasicinfo.png Graphic file (type png)
 
 <use ./figs/appsaccessbasicinfo.png>
-Package pdftex.def Info: ./figs/appsaccessbasicinfo.png used on input line 280.
+Package pdftex.def Info: ./figs/appsaccessbasicinfo.png used on input line 279.
 
 (pdftex.def)             Requested size: 291.20111pt x 182.78705pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/appspostonyourbehalf.png, id=1168, 652.4375pt x 409.53pt>
+<./figs/appspostonyourbehalf.png, id=1149, 652.4375pt x 409.53pt>
 File: ./figs/appspostonyourbehalf.png Graphic file (type png)
 
 <use ./figs/appspostonyourbehalf.png>
-Package pdftex.def Info: ./figs/appspostonyourbehalf.png used on input line 288
+Package pdftex.def Info: ./figs/appspostonyourbehalf.png used on input line 287
 .
 (pdftex.def)             Requested size: 291.20111pt x 182.78705pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/appsaccesstofriendsinfo.png, id=1169, 652.4375pt x 409.53pt>
+<./figs/appsaccesstofriendsinfo.png, id=1150, 652.4375pt x 409.53pt>
 File: ./figs/appsaccesstofriendsinfo.png Graphic file (type png)
 
 <use ./figs/appsaccesstofriendsinfo.png>
 Package pdftex.def Info: ./figs/appsaccesstofriendsinfo.png used on input line 
-296.
+295.
 (pdftex.def)             Requested size: 291.20111pt x 182.78705pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/appsaccessrelationalinfo.png, id=1170, 652.4375pt x 409.53pt>
+<./figs/appsaccessrelationalinfo.png, id=1151, 652.4375pt x 409.53pt>
 File: ./figs/appsaccessrelationalinfo.png Graphic file (type png)
 
 <use ./figs/appsaccessrelationalinfo.png>
 Package pdftex.def Info: ./figs/appsaccessrelationalinfo.png used on input line
- 304.
+ 303.
 (pdftex.def)             Requested size: 291.20111pt x 182.78705pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+<<<<<<< HEAD
 [70 <C:/Users/Esther/Project/Project_report/figs/appsyouuse.png>] [71 <C:/Users
 /Esther/Project/Project_report/figs/appsaccessbasicinfo.png> <C:/Users/Esther/P
 roject/Project_report/figs/appspostonyourbehalf.png>] [72 <C:/Users/Esther/Proj
 ect/Project_report/figs/appsaccesstofriendsinfo.png> <C:/Users/Esther/Project/P
 roject_report/figs/appsaccessrelationalinfo.png>]
 <./figs/appsothersuse.png, id=1195, 652.4375pt x 503.8825pt>
+=======
+[69] <./figs/appsothersuse.png, id=1162, 652.4375pt x 503.8825pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/appsothersuse.png Graphic file (type png)
 
 <use ./figs/appsothersuse.png>
-Package pdftex.def Info: ./figs/appsothersuse.png used on input line 317.
+Package pdftex.def Info: ./figs/appsothersuse.png used on input line 316.
 (pdftex.def)             Requested size: 291.20111pt x 224.89977pt.
 
-<./figs/awareness(manyappsandfewapps).png, id=1197, 405.76593pt x 197.23688pt>
+<./figs/awareness(manyappsandfewapps).png, id=1164, 405.76593pt x 197.23688pt>
 File: ./figs/awareness(manyappsandfewapps).png Graphic file (type png)
 
 <use ./figs/awareness(manyappsandfewapps).png>
 Package pdftex.def Info: ./figs/awareness(manyappsandfewapps).png used on input
- line 330.
+ line 329.
 (pdftex.def)             Requested size: 291.20111pt x 141.55296pt.
 
-<./figs/appsothersusemanyfew2.png, id=1198, 403.5075pt x 587.19376pt>
+<./figs/appsothersusemanyfew2.png, id=1165, 403.5075pt x 587.19376pt>
 File: ./figs/appsothersusemanyfew2.png Graphic file (type png)
 
 <use ./figs/appsothersusemanyfew2.png>
 Package pdftex.def Info: ./figs/appsothersusemanyfew2.png used on input line 33
-8.
+7.
 (pdftex.def)             Requested size: 254.79889pt x 370.79417pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[73 <C:/Users/Esther/Project/Project_report/figs/appsothersuse.png>] [74 <C:/Us
-ers/Esther/Project/Project_report/figs/awareness(manyappsandfewapps).png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
+<<<<<<< HEAD
  [75 <C:/Users/Esther/Project/Project_report/figs/appsothersusemanyfew2.png>]) 
 [76]
 (C:\Users\Esther\Project\Project_report\conclusion.tex
+=======
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [70 <C:/Users/Ida Malene/Project/Project_report/figs/appsyouuse.png>] [71 <C:/
+Users/Ida Malene/Project/Project_report/figs/appsaccessbasicinfo.png> <C:/Users
+/Ida Malene/Project/Project_report/figs/appspostonyourbehalf.png>] [72 <C:/User
+s/Ida Malene/Project/Project_report/figs/appsaccesstofriendsinfo.png> <C:/Users
+/Ida Malene/Project/Project_report/figs/appsaccessrelationalinfo.png>] [73 <C:/
+Users/Ida Malene/Project/Project_report/figs/appsothersuse.png>] [74 <C:/Users/
+Ida Malene/Project/Project_report/figs/awareness(manyappsandfewapps).png>]) [75
+ <C:/Users/Ida Malene/Project/Project_report/figs/appsothersusemanyfew2.png>] [
+76
+
+
+]
+("C:\Users\Ida Malene\Project\Project_report\conclusion.tex"
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [77
-
-
 
 
 ]
@@ -2433,7 +2571,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [79])
+<<<<<<< HEAD
 [80] (C:\Users\Esther\Project\Project_report\main.bbl
+=======
+[80] ("C:\Users\Ida Malene\Project\Project_report\main.bbl"
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 bibitemlist
 
 Underfull \hbox (badness 2591) in paragraph at lines 25--28
@@ -2541,11 +2683,15 @@ $\T1/ptm/m/n/10 (+20) mark-[]zuckerbergs-[]letter-[]to-[]investors-[]on-[]faceb
 ooks-[]social-[]mission / in / 2528910$[][],
  []
 
+<<<<<<< HEAD
 ) [85] (C:\Users\Esther\Project\Project_report\appendixA.tex [86
+=======
+) [85] ("C:\Users\Ida Malene\Project\Project_report\appendixA.tex" [86
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 
 
 ]
-<thesurvey.pdf, id=1356, 597.55246pt x 845.07718pt>
+<thesurvey.pdf, id=1342, 597.55246pt x 845.07718pt>
 File: thesurvey.pdf Graphic file (type pdf)
  <use thesurvey.pdf>
 Package pdftex.def Info: thesurvey.pdf used on input line 4.
@@ -2590,7 +2736,7 @@ File: thesurvey.pdf Graphic file (type pdf)
 Package pdftex.def Info: thesurvey.pdf used on input line 4.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [87]
-<thesurvey.pdf, id=1371, page=1, 597.55246pt x 845.07718pt>
+<thesurvey.pdf, id=1357, page=1, 597.55246pt x 845.07718pt>
 File: thesurvey.pdf Graphic file (type pdf)
 
 <use thesurvey.pdf, page 1>
@@ -2614,8 +2760,13 @@ File: thesurvey.pdf Graphic file (type pdf)
 <use thesurvey.pdf, page 1>
 Package pdftex.def Info: thesurvey.pdf, page1 used on input line 4.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [88 <C:/Users/Esther/Project/Project_report/thesurvey.pdf>] <thesurvey.pdf, id
 =1380, page=2, 597.55246pt x 845.07718pt>
+=======
+ [88 <C:/Users/Ida Malene/Project/Project_report/thesurvey.pdf>] <thesurvey.pdf
+, id=1366, page=2, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: thesurvey.pdf Graphic file (type pdf)
 
 <use thesurvey.pdf, page 2>
@@ -2630,8 +2781,13 @@ File: thesurvey.pdf Graphic file (type pdf)
 <use thesurvey.pdf, page 2>
 Package pdftex.def Info: thesurvey.pdf, page2 used on input line 4.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [89 <C:/Users/Esther/Project/Project_report/thesurvey.pdf>] <thesurvey.pdf, id
 =1389, page=3, 597.55246pt x 845.07718pt>
+=======
+ [89 <C:/Users/Ida Malene/Project/Project_report/thesurvey.pdf>] <thesurvey.pdf
+, id=1375, page=3, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: thesurvey.pdf Graphic file (type pdf)
 
 <use thesurvey.pdf, page 3>
@@ -2646,8 +2802,13 @@ File: thesurvey.pdf Graphic file (type pdf)
 <use thesurvey.pdf, page 3>
 Package pdftex.def Info: thesurvey.pdf, page3 used on input line 4.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [90 <C:/Users/Esther/Project/Project_report/thesurvey.pdf>] <thesurvey.pdf, id
 =1396, page=4, 597.55246pt x 845.07718pt>
+=======
+ [90 <C:/Users/Ida Malene/Project/Project_report/thesurvey.pdf>] <thesurvey.pdf
+, id=1382, page=4, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: thesurvey.pdf Graphic file (type pdf)
 
 <use thesurvey.pdf, page 4>
@@ -2662,8 +2823,13 @@ File: thesurvey.pdf Graphic file (type pdf)
 <use thesurvey.pdf, page 4>
 Package pdftex.def Info: thesurvey.pdf, page4 used on input line 4.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [91 <C:/Users/Esther/Project/Project_report/thesurvey.pdf>] <thesurvey.pdf, id
 =1406, page=5, 597.55246pt x 845.07718pt>
+=======
+ [91 <C:/Users/Ida Malene/Project/Project_report/thesurvey.pdf>] <thesurvey.pdf
+, id=1392, page=5, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: thesurvey.pdf Graphic file (type pdf)
 
 <use thesurvey.pdf, page 5>
@@ -2678,8 +2844,13 @@ File: thesurvey.pdf Graphic file (type pdf)
 <use thesurvey.pdf, page 5>
 Package pdftex.def Info: thesurvey.pdf, page5 used on input line 4.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [92 <C:/Users/Esther/Project/Project_report/thesurvey.pdf>] <thesurvey.pdf, id
 =1415, page=6, 597.55246pt x 845.07718pt>
+=======
+ [92 <C:/Users/Ida Malene/Project/Project_report/thesurvey.pdf>] <thesurvey.pdf
+, id=1401, page=6, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: thesurvey.pdf Graphic file (type pdf)
 
 <use thesurvey.pdf, page 6>
@@ -2694,8 +2865,13 @@ File: thesurvey.pdf Graphic file (type pdf)
 <use thesurvey.pdf, page 6>
 Package pdftex.def Info: thesurvey.pdf, page6 used on input line 4.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [93 <C:/Users/Esther/Project/Project_report/thesurvey.pdf>] <thesurvey.pdf, id
 =1423, page=7, 597.55246pt x 845.07718pt>
+=======
+ [93 <C:/Users/Ida Malene/Project/Project_report/thesurvey.pdf>] <thesurvey.pdf
+, id=1409, page=7, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: thesurvey.pdf Graphic file (type pdf)
 
 <use thesurvey.pdf, page 7>
@@ -2710,8 +2886,13 @@ File: thesurvey.pdf Graphic file (type pdf)
 <use thesurvey.pdf, page 7>
 Package pdftex.def Info: thesurvey.pdf, page7 used on input line 4.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [94 <C:/Users/Esther/Project/Project_report/thesurvey.pdf>] <thesurvey.pdf, id
 =1430, page=9, 597.55246pt x 845.07718pt>
+=======
+ [94 <C:/Users/Ida Malene/Project/Project_report/thesurvey.pdf>] <thesurvey.pdf
+, id=1416, page=9, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: thesurvey.pdf Graphic file (type pdf)
 
 <use thesurvey.pdf, page 9>
@@ -2726,8 +2907,13 @@ File: thesurvey.pdf Graphic file (type pdf)
 <use thesurvey.pdf, page 9>
 Package pdftex.def Info: thesurvey.pdf, page9 used on input line 4.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [95 <C:/Users/Esther/Project/Project_report/thesurvey.pdf>] <thesurvey.pdf, id
 =1439, page=10, 597.55246pt x 845.07718pt>
+=======
+ [95 <C:/Users/Ida Malene/Project/Project_report/thesurvey.pdf>] <thesurvey.pdf
+, id=1425, page=10, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: thesurvey.pdf Graphic file (type pdf)
 
 <use thesurvey.pdf, page 10>
@@ -2742,6 +2928,7 @@ File: thesurvey.pdf Graphic file (type pdf)
 <use thesurvey.pdf, page 10>
 Package pdftex.def Info: thesurvey.pdf, page10 used on input line 4.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [96 <C:/Users/Esther/Project/Project_report/thesurvey.pdf>]) (C:\Users\Esther\
 Project\Project_report\appendixB.tex
 
@@ -2749,6 +2936,15 @@ pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal1-2.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5>
  allowed
 <./figs/sporsmal1-2.pdf, id=1450, 614.295pt x 794.97pt>
+=======
+ [96 <C:/Users/Ida Malene/Project/Project_report/thesurvey.pdf>]) ("C:\Users\Id
+a Malene\Project\Project_report\appendixB.tex"
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal1-2.pdf): PDF inclusion: found PDF version <1.7>, but at most version <
+1.5> allowed
+<./figs/sporsmal1-2.pdf, id=1436, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal1-2.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal1-2.pdf>
@@ -2774,19 +2970,32 @@ Package pdftex.def Info: ./figs/sporsmal1-2.pdf used on input line 5.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
 
+<<<<<<< HEAD
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal1-2.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5>
  allowed
+=======
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal1-2.pdf): PDF inclusion: found PDF version <1.7>, but at most version <
+1.5> allowed
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 [97
 
 
 
 ]
 
+<<<<<<< HEAD
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal1-2.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5>
  allowed
 <./figs/sporsmal1-2.pdf, id=1458, page=1, 614.295pt x 794.97pt>
+=======
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal1-2.pdf): PDF inclusion: found PDF version <1.7>, but at most version <
+1.5> allowed
+<./figs/sporsmal1-2.pdf, id=1444, page=1, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal1-2.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal1-2.pdf, page 1>
@@ -2810,12 +3019,21 @@ File: ./figs/sporsmal1-2.pdf Graphic file (type pdf)
 <use ./figs/sporsmal1-2.pdf, page 1>
 Package pdftex.def Info: ./figs/sporsmal1-2.pdf, page1 used on input line 5.
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [98 <C:/Users/Esther/Project/Project_report/figs/sporsmal1-2.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal1-2.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5>
  allowed
 <./figs/sporsmal1-2.pdf, id=1484, page=2, 614.295pt x 794.97pt>
+=======
+ [98 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal1-2.pdf>]
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal1-2.pdf): PDF inclusion: found PDF version <1.7>, but at most version <
+1.5> allowed
+<./figs/sporsmal1-2.pdf, id=1470, page=2, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal1-2.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal1-2.pdf, page 2>
@@ -2830,8 +3048,13 @@ File: ./figs/sporsmal1-2.pdf Graphic file (type pdf)
 <use ./figs/sporsmal1-2.pdf, page 2>
 Package pdftex.def Info: ./figs/sporsmal1-2.pdf, page2 used on input line 5.
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [99 <C:/Users/Esther/Project/Project_report/figs/sporsmal1-2.pdf>]
 <./figs/sporsmal3.pdf, id=1489, 597.55246pt x 845.07718pt>
+=======
+ [99 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal1-2.pdf>]
+<./figs/sporsmal3.pdf, id=1475, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal3.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal3.pdf>
@@ -2856,7 +3079,7 @@ File: ./figs/sporsmal3.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal3.pdf used on input line 6.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
-<./figs/sporsmal3.pdf, id=1495, page=1, 597.55246pt x 845.07718pt>
+<./figs/sporsmal3.pdf, id=1481, page=1, 597.55246pt x 845.07718pt>
 File: ./figs/sporsmal3.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal3.pdf, page 1>
@@ -2880,8 +3103,13 @@ File: ./figs/sporsmal3.pdf Graphic file (type pdf)
 <use ./figs/sporsmal3.pdf, page 1>
 Package pdftex.def Info: ./figs/sporsmal3.pdf, page1 used on input line 6.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [100 <C:/Users/Esther/Project/Project_report/figs/sporsmal3.pdf>]
 <./figs/sporsmal3.pdf, id=1510, page=2, 597.55246pt x 845.07718pt>
+=======
+ [100 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal3.pdf>]
+<./figs/sporsmal3.pdf, id=1496, page=2, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal3.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal3.pdf, page 2>
@@ -2896,8 +3124,13 @@ File: ./figs/sporsmal3.pdf Graphic file (type pdf)
 <use ./figs/sporsmal3.pdf, page 2>
 Package pdftex.def Info: ./figs/sporsmal3.pdf, page2 used on input line 6.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [101 <C:/Users/Esther/Project/Project_report/figs/sporsmal3.pdf>]
 <./figs/sporsmal3.pdf, id=1517, page=3, 597.55246pt x 845.07718pt>
+=======
+ [101 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal3.pdf>]
+<./figs/sporsmal3.pdf, id=1503, page=3, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal3.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal3.pdf, page 3>
@@ -2912,8 +3145,13 @@ File: ./figs/sporsmal3.pdf Graphic file (type pdf)
 <use ./figs/sporsmal3.pdf, page 3>
 Package pdftex.def Info: ./figs/sporsmal3.pdf, page3 used on input line 6.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [102 <C:/Users/Esther/Project/Project_report/figs/sporsmal3.pdf>]
 <./figs/sporsmal3.pdf, id=1523, page=4, 597.55246pt x 845.07718pt>
+=======
+ [102 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal3.pdf>]
+<./figs/sporsmal3.pdf, id=1509, page=4, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal3.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal3.pdf, page 4>
@@ -2928,12 +3166,21 @@ File: ./figs/sporsmal3.pdf Graphic file (type pdf)
 <use ./figs/sporsmal3.pdf, page 4>
 Package pdftex.def Info: ./figs/sporsmal3.pdf, page4 used on input line 6.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [103 <C:/Users/Esther/Project/Project_report/figs/sporsmal3.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal4-15.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5
 > allowed
 <./figs/sporsmal4-15.pdf, id=1529, 614.295pt x 794.97pt>
+=======
+ [103 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal3.pdf>]
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal4-15.pdf): PDF inclusion: found PDF version <1.7>, but at most version 
+<1.5> allowed
+<./figs/sporsmal4-15.pdf, id=1515, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal4-15.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal4-15.pdf>
@@ -3054,10 +3301,17 @@ smal4-15.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5
 > allowed
 
 
+<<<<<<< HEAD
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal4-15.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5
 > allowed
 <./figs/sporsmal4-15.pdf, id=1543, page=1, 614.295pt x 794.97pt>
+=======
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal4-15.pdf): PDF inclusion: found PDF version <1.7>, but at most version 
+<1.5> allowed
+<./figs/sporsmal4-15.pdf, id=1529, page=1, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal4-15.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal4-15.pdf, page 1>
@@ -3081,12 +3335,21 @@ File: ./figs/sporsmal4-15.pdf Graphic file (type pdf)
 <use ./figs/sporsmal4-15.pdf, page 1>
 Package pdftex.def Info: ./figs/sporsmal4-15.pdf, page1 used on input line 7.
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [104 <C:/Users/Esther/Project/Project_report/figs/sporsmal4-15.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal4-15.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5
 > allowed
 <./figs/sporsmal4-15.pdf, id=1563, page=2, 614.295pt x 794.97pt>
+=======
+ [104 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal4-15.pdf>]
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal4-15.pdf): PDF inclusion: found PDF version <1.7>, but at most version 
+<1.5> allowed
+<./figs/sporsmal4-15.pdf, id=1549, page=2, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal4-15.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal4-15.pdf, page 2>
@@ -3101,12 +3364,21 @@ File: ./figs/sporsmal4-15.pdf Graphic file (type pdf)
 <use ./figs/sporsmal4-15.pdf, page 2>
 Package pdftex.def Info: ./figs/sporsmal4-15.pdf, page2 used on input line 7.
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [105 <C:/Users/Esther/Project/Project_report/figs/sporsmal4-15.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal4-15.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5
 > allowed
 <./figs/sporsmal4-15.pdf, id=1568, page=3, 614.295pt x 794.97pt>
+=======
+ [105 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal4-15.pdf>]
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal4-15.pdf): PDF inclusion: found PDF version <1.7>, but at most version 
+<1.5> allowed
+<./figs/sporsmal4-15.pdf, id=1554, page=3, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal4-15.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal4-15.pdf, page 3>
@@ -3121,12 +3393,21 @@ File: ./figs/sporsmal4-15.pdf Graphic file (type pdf)
 <use ./figs/sporsmal4-15.pdf, page 3>
 Package pdftex.def Info: ./figs/sporsmal4-15.pdf, page3 used on input line 7.
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [106 <C:/Users/Esther/Project/Project_report/figs/sporsmal4-15.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal4-15.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5
 > allowed
 <./figs/sporsmal4-15.pdf, id=1573, page=4, 614.295pt x 794.97pt>
+=======
+ [106 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal4-15.pdf>]
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal4-15.pdf): PDF inclusion: found PDF version <1.7>, but at most version 
+<1.5> allowed
+<./figs/sporsmal4-15.pdf, id=1559, page=4, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal4-15.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal4-15.pdf, page 4>
@@ -3141,12 +3422,21 @@ File: ./figs/sporsmal4-15.pdf Graphic file (type pdf)
 <use ./figs/sporsmal4-15.pdf, page 4>
 Package pdftex.def Info: ./figs/sporsmal4-15.pdf, page4 used on input line 7.
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [107 <C:/Users/Esther/Project/Project_report/figs/sporsmal4-15.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal4-15.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5
 > allowed
 <./figs/sporsmal4-15.pdf, id=1579, page=5, 614.295pt x 794.97pt>
+=======
+ [107 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal4-15.pdf>]
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal4-15.pdf): PDF inclusion: found PDF version <1.7>, but at most version 
+<1.5> allowed
+<./figs/sporsmal4-15.pdf, id=1565, page=5, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal4-15.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal4-15.pdf, page 5>
@@ -3161,12 +3451,21 @@ File: ./figs/sporsmal4-15.pdf Graphic file (type pdf)
 <use ./figs/sporsmal4-15.pdf, page 5>
 Package pdftex.def Info: ./figs/sporsmal4-15.pdf, page5 used on input line 7.
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [108 <C:/Users/Esther/Project/Project_report/figs/sporsmal4-15.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal4-15.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5
 > allowed
 <./figs/sporsmal4-15.pdf, id=1584, page=6, 614.295pt x 794.97pt>
+=======
+ [108 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal4-15.pdf>]
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal4-15.pdf): PDF inclusion: found PDF version <1.7>, but at most version 
+<1.5> allowed
+<./figs/sporsmal4-15.pdf, id=1570, page=6, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal4-15.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal4-15.pdf, page 6>
@@ -3181,12 +3480,21 @@ File: ./figs/sporsmal4-15.pdf Graphic file (type pdf)
 <use ./figs/sporsmal4-15.pdf, page 6>
 Package pdftex.def Info: ./figs/sporsmal4-15.pdf, page6 used on input line 7.
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [109 <C:/Users/Esther/Project/Project_report/figs/sporsmal4-15.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal4-15.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5
 > allowed
 <./figs/sporsmal4-15.pdf, id=1589, page=7, 614.295pt x 794.97pt>
+=======
+ [109 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal4-15.pdf>]
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal4-15.pdf): PDF inclusion: found PDF version <1.7>, but at most version 
+<1.5> allowed
+<./figs/sporsmal4-15.pdf, id=1575, page=7, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal4-15.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal4-15.pdf, page 7>
@@ -3201,12 +3509,21 @@ File: ./figs/sporsmal4-15.pdf Graphic file (type pdf)
 <use ./figs/sporsmal4-15.pdf, page 7>
 Package pdftex.def Info: ./figs/sporsmal4-15.pdf, page7 used on input line 7.
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [110 <C:/Users/Esther/Project/Project_report/figs/sporsmal4-15.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal4-15.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5
 > allowed
 <./figs/sporsmal4-15.pdf, id=1594, page=8, 614.295pt x 794.97pt>
+=======
+ [110 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal4-15.pdf>]
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal4-15.pdf): PDF inclusion: found PDF version <1.7>, but at most version 
+<1.5> allowed
+<./figs/sporsmal4-15.pdf, id=1580, page=8, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal4-15.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal4-15.pdf, page 8>
@@ -3221,12 +3538,21 @@ File: ./figs/sporsmal4-15.pdf Graphic file (type pdf)
 <use ./figs/sporsmal4-15.pdf, page 8>
 Package pdftex.def Info: ./figs/sporsmal4-15.pdf, page8 used on input line 7.
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [111 <C:/Users/Esther/Project/Project_report/figs/sporsmal4-15.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal4-15.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5
 > allowed
 <./figs/sporsmal4-15.pdf, id=1599, page=9, 614.295pt x 794.97pt>
+=======
+ [111 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal4-15.pdf>]
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal4-15.pdf): PDF inclusion: found PDF version <1.7>, but at most version 
+<1.5> allowed
+<./figs/sporsmal4-15.pdf, id=1585, page=9, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal4-15.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal4-15.pdf, page 9>
@@ -3241,12 +3567,21 @@ File: ./figs/sporsmal4-15.pdf Graphic file (type pdf)
 <use ./figs/sporsmal4-15.pdf, page 9>
 Package pdftex.def Info: ./figs/sporsmal4-15.pdf, page9 used on input line 7.
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [112 <C:/Users/Esther/Project/Project_report/figs/sporsmal4-15.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal4-15.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5
 > allowed
 <./figs/sporsmal4-15.pdf, id=1604, page=10, 614.295pt x 794.97pt>
+=======
+ [112 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal4-15.pdf>]
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal4-15.pdf): PDF inclusion: found PDF version <1.7>, but at most version 
+<1.5> allowed
+<./figs/sporsmal4-15.pdf, id=1590, page=10, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal4-15.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal4-15.pdf, page 10>
@@ -3261,12 +3596,21 @@ File: ./figs/sporsmal4-15.pdf Graphic file (type pdf)
 <use ./figs/sporsmal4-15.pdf, page 10>
 Package pdftex.def Info: ./figs/sporsmal4-15.pdf, page10 used on input line 7.
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [113 <C:/Users/Esther/Project/Project_report/figs/sporsmal4-15.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal4-15.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5
 > allowed
 <./figs/sporsmal4-15.pdf, id=1610, page=11, 614.295pt x 794.97pt>
+=======
+ [113 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal4-15.pdf>]
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal4-15.pdf): PDF inclusion: found PDF version <1.7>, but at most version 
+<1.5> allowed
+<./figs/sporsmal4-15.pdf, id=1596, page=11, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal4-15.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal4-15.pdf, page 11>
@@ -3281,12 +3625,21 @@ File: ./figs/sporsmal4-15.pdf Graphic file (type pdf)
 <use ./figs/sporsmal4-15.pdf, page 11>
 Package pdftex.def Info: ./figs/sporsmal4-15.pdf, page11 used on input line 7.
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [114 <C:/Users/Esther/Project/Project_report/figs/sporsmal4-15.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal4-15.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5
 > allowed
 <./figs/sporsmal4-15.pdf, id=1615, page=12, 614.295pt x 794.97pt>
+=======
+ [114 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal4-15.pdf>]
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal4-15.pdf): PDF inclusion: found PDF version <1.7>, but at most version 
+<1.5> allowed
+<./figs/sporsmal4-15.pdf, id=1601, page=12, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal4-15.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal4-15.pdf, page 12>
@@ -3301,8 +3654,13 @@ File: ./figs/sporsmal4-15.pdf Graphic file (type pdf)
 <use ./figs/sporsmal4-15.pdf, page 12>
 Package pdftex.def Info: ./figs/sporsmal4-15.pdf, page12 used on input line 7.
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [115 <C:/Users/Esther/Project/Project_report/figs/sporsmal4-15.pdf>]
 <./figs/sporsmal16.pdf, id=1620, 597.55246pt x 845.07718pt>
+=======
+ [115 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal4-15.pdf>]
+<./figs/sporsmal16.pdf, id=1606, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal16.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal16.pdf>
@@ -3313,7 +3671,7 @@ File: ./figs/sporsmal16.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal16.pdf used on input line 8.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
-<./figs/sporsmal16.pdf, id=1623, page=1, 597.55246pt x 845.07718pt>
+<./figs/sporsmal16.pdf, id=1609, page=1, 597.55246pt x 845.07718pt>
 File: ./figs/sporsmal16.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal16.pdf, page 1>
@@ -3337,12 +3695,21 @@ File: ./figs/sporsmal16.pdf Graphic file (type pdf)
 <use ./figs/sporsmal16.pdf, page 1>
 Package pdftex.def Info: ./figs/sporsmal16.pdf, page1 used on input line 8.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [116 <C:/Users/Esther/Project/Project_report/figs/sporsmal16.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal17.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> 
 allowed
 <./figs/sporsmal17.pdf, id=1639, 614.295pt x 794.97pt>
+=======
+ [116 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal16.pdf>]
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal17.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1
+.5> allowed
+<./figs/sporsmal17.pdf, id=1625, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal17.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal17.pdf>
@@ -3364,10 +3731,17 @@ smal17.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5>
 allowed
 
 
+<<<<<<< HEAD
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal17.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> 
 allowed
 <./figs/sporsmal17.pdf, id=1642, page=1, 614.295pt x 794.97pt>
+=======
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal17.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1
+.5> allowed
+<./figs/sporsmal17.pdf, id=1628, page=1, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal17.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal17.pdf, page 1>
@@ -3391,8 +3765,13 @@ File: ./figs/sporsmal17.pdf Graphic file (type pdf)
 <use ./figs/sporsmal17.pdf, page 1>
 Package pdftex.def Info: ./figs/sporsmal17.pdf, page1 used on input line 9.
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [117 <C:/Users/Esther/Project/Project_report/figs/sporsmal17.pdf>]
 <./figs/sporsmal18.pdf, id=1662, 597.55246pt x 845.07718pt>
+=======
+ [117 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal17.pdf>]
+<./figs/sporsmal18.pdf, id=1648, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal18.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal18.pdf>
@@ -3412,7 +3791,7 @@ File: ./figs/sporsmal18.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal18.pdf used on input line 10.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
-<./figs/sporsmal18.pdf, id=1667, page=1, 597.55246pt x 845.07718pt>
+<./figs/sporsmal18.pdf, id=1653, page=1, 597.55246pt x 845.07718pt>
 File: ./figs/sporsmal18.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal18.pdf, page 1>
@@ -3436,8 +3815,13 @@ File: ./figs/sporsmal18.pdf Graphic file (type pdf)
 <use ./figs/sporsmal18.pdf, page 1>
 Package pdftex.def Info: ./figs/sporsmal18.pdf, page1 used on input line 10.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [118 <C:/Users/Esther/Project/Project_report/figs/sporsmal18.pdf>]
 <./figs/sporsmal18.pdf, id=1678, page=2, 597.55246pt x 845.07718pt>
+=======
+ [118 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal18.pdf>]
+<./figs/sporsmal18.pdf, id=1664, page=2, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal18.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal18.pdf, page 2>
@@ -3452,8 +3836,13 @@ File: ./figs/sporsmal18.pdf Graphic file (type pdf)
 <use ./figs/sporsmal18.pdf, page 2>
 Package pdftex.def Info: ./figs/sporsmal18.pdf, page2 used on input line 10.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [119 <C:/Users/Esther/Project/Project_report/figs/sporsmal18.pdf>]
 <./figs/sporsmal18.pdf, id=1685, page=3, 597.55246pt x 845.07718pt>
+=======
+ [119 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal18.pdf>]
+<./figs/sporsmal18.pdf, id=1671, page=3, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal18.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal18.pdf, page 3>
@@ -3468,12 +3857,21 @@ File: ./figs/sporsmal18.pdf Graphic file (type pdf)
 <use ./figs/sporsmal18.pdf, page 3>
 Package pdftex.def Info: ./figs/sporsmal18.pdf, page3 used on input line 10.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [120 <C:/Users/Esther/Project/Project_report/figs/sporsmal18.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal19-21.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.
 5> allowed
 <./figs/sporsmal19-21.pdf, id=1695, 614.295pt x 794.97pt>
+=======
+ [120 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal18.pdf>]
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal19-21.pdf): PDF inclusion: found PDF version <1.7>, but at most version
+ <1.5> allowed
+<./figs/sporsmal19-21.pdf, id=1681, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal19-21.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal19-21.pdf>
@@ -3513,10 +3911,17 @@ smal19-21.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.
 5> allowed
 
 
+<<<<<<< HEAD
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal19-21.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.
 5> allowed
 <./figs/sporsmal19-21.pdf, id=1700, page=1, 614.295pt x 794.97pt>
+=======
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal19-21.pdf): PDF inclusion: found PDF version <1.7>, but at most version
+ <1.5> allowed
+<./figs/sporsmal19-21.pdf, id=1686, page=1, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal19-21.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal19-21.pdf, page 1>
@@ -3545,12 +3950,21 @@ File: ./figs/sporsmal19-21.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal19-21.pdf, page1 used on input line 11.
 
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [121 <C:/Users/Esther/Project/Project_report/figs/sporsmal19-21.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal19-21.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.
 5> allowed
 <./figs/sporsmal19-21.pdf, id=1720, page=2, 614.295pt x 794.97pt>
+=======
+ [121 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal19-21.pdf>]
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal19-21.pdf): PDF inclusion: found PDF version <1.7>, but at most version
+ <1.5> allowed
+<./figs/sporsmal19-21.pdf, id=1706, page=2, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal19-21.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal19-21.pdf, page 2>
@@ -3568,12 +3982,21 @@ File: ./figs/sporsmal19-21.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal19-21.pdf, page2 used on input line 11.
 
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [122 <C:/Users/Esther/Project/Project_report/figs/sporsmal19-21.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal19-21.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.
 5> allowed
 <./figs/sporsmal19-21.pdf, id=1725, page=3, 614.295pt x 794.97pt>
+=======
+ [122 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal19-21.pdf>]
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal19-21.pdf): PDF inclusion: found PDF version <1.7>, but at most version
+ <1.5> allowed
+<./figs/sporsmal19-21.pdf, id=1711, page=3, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal19-21.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal19-21.pdf, page 3>
@@ -3591,8 +4014,13 @@ File: ./figs/sporsmal19-21.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal19-21.pdf, page3 used on input line 11.
 
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [123 <C:/Users/Esther/Project/Project_report/figs/sporsmal19-21.pdf>]
 <./figs/sporsmal21elaboration.pdf, id=1736, 597.55246pt x 845.07718pt>
+=======
+ [123 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal19-21.pdf>]
+<./figs/sporsmal21elaboration.pdf, id=1722, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal21elaboration.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal21elaboration.pdf>
@@ -3655,7 +4083,7 @@ Package pdftex.def Info: ./figs/sporsmal21elaboration.pdf used on input line 12
 .
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
-<./figs/sporsmal21elaboration.pdf, id=1748, page=1, 597.55246pt x 845.07718pt>
+<./figs/sporsmal21elaboration.pdf, id=1734, page=1, 597.55246pt x 845.07718pt>
 File: ./figs/sporsmal21elaboration.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal21elaboration.pdf, page 1>
@@ -3686,8 +4114,14 @@ File: ./figs/sporsmal21elaboration.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal21elaboration.pdf, page1 used on input 
 line 12.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [124 <C:/Users/Esther/Project/Project_report/figs/sporsmal21elaboration.pdf>]
 <./figs/sporsmal21elaboration.pdf, id=1758, page=2, 597.55246pt x 845.07718pt>
+=======
+ [124 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal21elaboration.pd
+f>]
+<./figs/sporsmal21elaboration.pdf, id=1744, page=2, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal21elaboration.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal21elaboration.pdf, page 2>
@@ -3706,8 +4140,14 @@ File: ./figs/sporsmal21elaboration.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal21elaboration.pdf, page2 used on input 
 line 12.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [125 <C:/Users/Esther/Project/Project_report/figs/sporsmal21elaboration.pdf>]
 <./figs/sporsmal21elaboration.pdf, id=1765, page=3, 597.55246pt x 845.07718pt>
+=======
+ [125 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal21elaboration.pd
+f>]
+<./figs/sporsmal21elaboration.pdf, id=1751, page=3, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal21elaboration.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal21elaboration.pdf, page 3>
@@ -3726,8 +4166,14 @@ File: ./figs/sporsmal21elaboration.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal21elaboration.pdf, page3 used on input 
 line 12.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [126 <C:/Users/Esther/Project/Project_report/figs/sporsmal21elaboration.pdf>]
 <./figs/sporsmal21elaboration.pdf, id=1771, page=4, 597.55246pt x 845.07718pt>
+=======
+ [126 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal21elaboration.pd
+f>]
+<./figs/sporsmal21elaboration.pdf, id=1757, page=4, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal21elaboration.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal21elaboration.pdf, page 4>
@@ -3746,8 +4192,14 @@ File: ./figs/sporsmal21elaboration.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal21elaboration.pdf, page4 used on input 
 line 12.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [127 <C:/Users/Esther/Project/Project_report/figs/sporsmal21elaboration.pdf>]
 <./figs/sporsmal21elaboration.pdf, id=1777, page=5, 597.55246pt x 845.07718pt>
+=======
+ [127 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal21elaboration.pd
+f>]
+<./figs/sporsmal21elaboration.pdf, id=1763, page=5, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal21elaboration.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal21elaboration.pdf, page 5>
@@ -3766,8 +4218,14 @@ File: ./figs/sporsmal21elaboration.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal21elaboration.pdf, page5 used on input 
 line 12.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [128 <C:/Users/Esther/Project/Project_report/figs/sporsmal21elaboration.pdf>]
 <./figs/sporsmal21elaboration.pdf, id=1783, page=6, 597.55246pt x 845.07718pt>
+=======
+ [128 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal21elaboration.pd
+f>]
+<./figs/sporsmal21elaboration.pdf, id=1769, page=6, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal21elaboration.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal21elaboration.pdf, page 6>
@@ -3786,8 +4244,14 @@ File: ./figs/sporsmal21elaboration.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal21elaboration.pdf, page6 used on input 
 line 12.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [129 <C:/Users/Esther/Project/Project_report/figs/sporsmal21elaboration.pdf>]
 <./figs/sporsmal21elaboration.pdf, id=1789, page=7, 597.55246pt x 845.07718pt>
+=======
+ [129 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal21elaboration.pd
+f>]
+<./figs/sporsmal21elaboration.pdf, id=1775, page=7, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal21elaboration.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal21elaboration.pdf, page 7>
@@ -3806,8 +4270,14 @@ File: ./figs/sporsmal21elaboration.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal21elaboration.pdf, page7 used on input 
 line 12.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [130 <C:/Users/Esther/Project/Project_report/figs/sporsmal21elaboration.pdf>]
 <./figs/sporsmal21elaboration.pdf, id=1795, page=8, 597.55246pt x 845.07718pt>
+=======
+ [130 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal21elaboration.pd
+f>]
+<./figs/sporsmal21elaboration.pdf, id=1781, page=8, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal21elaboration.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal21elaboration.pdf, page 8>
@@ -3826,8 +4296,14 @@ File: ./figs/sporsmal21elaboration.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal21elaboration.pdf, page8 used on input 
 line 12.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [131 <C:/Users/Esther/Project/Project_report/figs/sporsmal21elaboration.pdf>]
 <./figs/sporsmal21elaboration.pdf, id=1802, page=9, 597.55246pt x 845.07718pt>
+=======
+ [131 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal21elaboration.pd
+f>]
+<./figs/sporsmal21elaboration.pdf, id=1788, page=9, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal21elaboration.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal21elaboration.pdf, page 9>
@@ -3846,8 +4322,14 @@ File: ./figs/sporsmal21elaboration.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal21elaboration.pdf, page9 used on input 
 line 12.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [132 <C:/Users/Esther/Project/Project_report/figs/sporsmal21elaboration.pdf>]
 <./figs/sporsmal21elaboration.pdf, id=1808, page=10, 597.55246pt x 845.07718pt>
+=======
+ [132 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal21elaboration.pd
+f>]
+<./figs/sporsmal21elaboration.pdf, id=1794, page=10, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal21elaboration.pdf Graphic file (type pdf)
 <use ./figs/sporsmal21elaboration.pdf, page 10>
 Package pdftex.def Info: ./figs/sporsmal21elaboration.pdf, page10 used on input
@@ -3865,12 +4347,22 @@ File: ./figs/sporsmal21elaboration.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal21elaboration.pdf, page10 used on input
  line 12.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [133 <C:/Users/Esther/Project/Project_report/figs/sporsmal21elaboration.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal22.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> 
 allowed
 <./figs/sporsmal22.pdf, id=1818, 614.295pt x 794.97pt>
+=======
+ [133 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal21elaboration.pd
+f>]
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal22.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1
+.5> allowed
+<./figs/sporsmal22.pdf, id=1804, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal22.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal22.pdf>
@@ -3892,10 +4384,17 @@ smal22.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5>
 allowed
 
 
+<<<<<<< HEAD
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal22.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> 
 allowed
 <./figs/sporsmal22.pdf, id=1821, page=1, 614.295pt x 794.97pt>
+=======
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal22.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1
+.5> allowed
+<./figs/sporsmal22.pdf, id=1807, page=1, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal22.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal22.pdf, page 1>
@@ -3919,8 +4418,13 @@ File: ./figs/sporsmal22.pdf Graphic file (type pdf)
 <use ./figs/sporsmal22.pdf, page 1>
 Package pdftex.def Info: ./figs/sporsmal22.pdf, page1 used on input line 13.
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [134 <C:/Users/Esther/Project/Project_report/figs/sporsmal22.pdf>]
 <./figs/sporsmal22elabortaion.pdf, id=1847, 597.55246pt x 845.07718pt>
+=======
+ [134 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal22.pdf>]
+<./figs/sporsmal22elabortaion.pdf, id=1833, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal22elabortaion.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal22elabortaion.pdf>
@@ -3983,7 +4487,7 @@ Package pdftex.def Info: ./figs/sporsmal22elabortaion.pdf used on input line 14
 .
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
-<./figs/sporsmal22elabortaion.pdf, id=1859, page=1, 597.55246pt x 845.07718pt>
+<./figs/sporsmal22elabortaion.pdf, id=1845, page=1, 597.55246pt x 845.07718pt>
 File: ./figs/sporsmal22elabortaion.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal22elabortaion.pdf, page 1>
@@ -4014,8 +4518,14 @@ File: ./figs/sporsmal22elabortaion.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal22elabortaion.pdf, page1 used on input 
 line 14.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [135 <C:/Users/Esther/Project/Project_report/figs/sporsmal22elabortaion.pdf>]
 <./figs/sporsmal22elabortaion.pdf, id=1869, page=2, 597.55246pt x 845.07718pt>
+=======
+ [135 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal22elabortaion.pd
+f>]
+<./figs/sporsmal22elabortaion.pdf, id=1855, page=2, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal22elabortaion.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal22elabortaion.pdf, page 2>
@@ -4034,8 +4544,14 @@ File: ./figs/sporsmal22elabortaion.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal22elabortaion.pdf, page2 used on input 
 line 14.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [136 <C:/Users/Esther/Project/Project_report/figs/sporsmal22elabortaion.pdf>]
 <./figs/sporsmal22elabortaion.pdf, id=1875, page=3, 597.55246pt x 845.07718pt>
+=======
+ [136 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal22elabortaion.pd
+f>]
+<./figs/sporsmal22elabortaion.pdf, id=1861, page=3, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal22elabortaion.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal22elabortaion.pdf, page 3>
@@ -4054,8 +4570,14 @@ File: ./figs/sporsmal22elabortaion.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal22elabortaion.pdf, page3 used on input 
 line 14.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [137 <C:/Users/Esther/Project/Project_report/figs/sporsmal22elabortaion.pdf>]
 <./figs/sporsmal22elabortaion.pdf, id=1882, page=4, 597.55246pt x 845.07718pt>
+=======
+ [137 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal22elabortaion.pd
+f>]
+<./figs/sporsmal22elabortaion.pdf, id=1868, page=4, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal22elabortaion.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal22elabortaion.pdf, page 4>
@@ -4074,8 +4596,14 @@ File: ./figs/sporsmal22elabortaion.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal22elabortaion.pdf, page4 used on input 
 line 14.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [138 <C:/Users/Esther/Project/Project_report/figs/sporsmal22elabortaion.pdf>]
 <./figs/sporsmal22elabortaion.pdf, id=1888, page=5, 597.55246pt x 845.07718pt>
+=======
+ [138 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal22elabortaion.pd
+f>]
+<./figs/sporsmal22elabortaion.pdf, id=1874, page=5, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal22elabortaion.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal22elabortaion.pdf, page 5>
@@ -4094,8 +4622,14 @@ File: ./figs/sporsmal22elabortaion.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal22elabortaion.pdf, page5 used on input 
 line 14.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [139 <C:/Users/Esther/Project/Project_report/figs/sporsmal22elabortaion.pdf>]
 <./figs/sporsmal22elabortaion.pdf, id=1894, page=6, 597.55246pt x 845.07718pt>
+=======
+ [139 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal22elabortaion.pd
+f>]
+<./figs/sporsmal22elabortaion.pdf, id=1880, page=6, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal22elabortaion.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal22elabortaion.pdf, page 6>
@@ -4114,8 +4648,14 @@ File: ./figs/sporsmal22elabortaion.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal22elabortaion.pdf, page6 used on input 
 line 14.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [140 <C:/Users/Esther/Project/Project_report/figs/sporsmal22elabortaion.pdf>]
 <./figs/sporsmal22elabortaion.pdf, id=1900, page=7, 597.55246pt x 845.07718pt>
+=======
+ [140 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal22elabortaion.pd
+f>]
+<./figs/sporsmal22elabortaion.pdf, id=1886, page=7, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal22elabortaion.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal22elabortaion.pdf, page 7>
@@ -4134,8 +4674,14 @@ File: ./figs/sporsmal22elabortaion.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal22elabortaion.pdf, page7 used on input 
 line 14.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [141 <C:/Users/Esther/Project/Project_report/figs/sporsmal22elabortaion.pdf>]
 <./figs/sporsmal22elabortaion.pdf, id=1906, page=8, 597.55246pt x 845.07718pt>
+=======
+ [141 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal22elabortaion.pd
+f>]
+<./figs/sporsmal22elabortaion.pdf, id=1892, page=8, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal22elabortaion.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal22elabortaion.pdf, page 8>
@@ -4154,8 +4700,14 @@ File: ./figs/sporsmal22elabortaion.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal22elabortaion.pdf, page8 used on input 
 line 14.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [142 <C:/Users/Esther/Project/Project_report/figs/sporsmal22elabortaion.pdf>]
 <./figs/sporsmal22elabortaion.pdf, id=1912, page=9, 597.55246pt x 845.07718pt>
+=======
+ [142 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal22elabortaion.pd
+f>]
+<./figs/sporsmal22elabortaion.pdf, id=1898, page=9, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal22elabortaion.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal22elabortaion.pdf, page 9>
@@ -4174,8 +4726,14 @@ File: ./figs/sporsmal22elabortaion.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal22elabortaion.pdf, page9 used on input 
 line 14.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [143 <C:/Users/Esther/Project/Project_report/figs/sporsmal22elabortaion.pdf>]
 <./figs/sporsmal22elabortaion.pdf, id=1919, page=10, 597.55246pt x 845.07718pt>
+=======
+ [143 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal22elabortaion.pd
+f>]
+<./figs/sporsmal22elabortaion.pdf, id=1905, page=10, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal22elabortaion.pdf Graphic file (type pdf)
 <use ./figs/sporsmal22elabortaion.pdf, page 10>
 Package pdftex.def Info: ./figs/sporsmal22elabortaion.pdf, page10 used on input
@@ -4193,8 +4751,14 @@ File: ./figs/sporsmal22elabortaion.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal22elabortaion.pdf, page10 used on input
  line 14.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [144 <C:/Users/Esther/Project/Project_report/figs/sporsmal22elabortaion.pdf>]
 <./figs/sporsmal23.pdf, id=1929, 597.55246pt x 845.07718pt>
+=======
+ [144 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal22elabortaion.pd
+f>]
+<./figs/sporsmal23.pdf, id=1915, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal23.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal23.pdf>
@@ -4259,7 +4823,7 @@ File: ./figs/sporsmal23.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal23.pdf used on input line 15.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
-<./figs/sporsmal23.pdf, id=1944, page=1, 597.55246pt x 845.07718pt>
+<./figs/sporsmal23.pdf, id=1930, page=1, 597.55246pt x 845.07718pt>
 File: ./figs/sporsmal23.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal23.pdf, page 1>
@@ -4283,8 +4847,13 @@ File: ./figs/sporsmal23.pdf Graphic file (type pdf)
 <use ./figs/sporsmal23.pdf, page 1>
 Package pdftex.def Info: ./figs/sporsmal23.pdf, page1 used on input line 15.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [145 <C:/Users/Esther/Project/Project_report/figs/sporsmal23.pdf>]
 <./figs/sporsmal23.pdf, id=1960, page=2, 597.55246pt x 845.07718pt>
+=======
+ [145 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal23.pdf>]
+<./figs/sporsmal23.pdf, id=1946, page=2, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal23.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal23.pdf, page 2>
@@ -4299,8 +4868,13 @@ File: ./figs/sporsmal23.pdf Graphic file (type pdf)
 <use ./figs/sporsmal23.pdf, page 2>
 Package pdftex.def Info: ./figs/sporsmal23.pdf, page2 used on input line 15.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [146 <C:/Users/Esther/Project/Project_report/figs/sporsmal23.pdf>]
 <./figs/sporsmal23.pdf, id=1966, page=3, 597.55246pt x 845.07718pt>
+=======
+ [146 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal23.pdf>]
+<./figs/sporsmal23.pdf, id=1952, page=3, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal23.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal23.pdf, page 3>
@@ -4315,8 +4889,13 @@ File: ./figs/sporsmal23.pdf Graphic file (type pdf)
 <use ./figs/sporsmal23.pdf, page 3>
 Package pdftex.def Info: ./figs/sporsmal23.pdf, page3 used on input line 15.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [147 <C:/Users/Esther/Project/Project_report/figs/sporsmal23.pdf>]
 <./figs/sporsmal23.pdf, id=1972, page=4, 597.55246pt x 845.07718pt>
+=======
+ [147 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal23.pdf>]
+<./figs/sporsmal23.pdf, id=1958, page=4, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal23.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal23.pdf, page 4>
@@ -4331,8 +4910,13 @@ File: ./figs/sporsmal23.pdf Graphic file (type pdf)
 <use ./figs/sporsmal23.pdf, page 4>
 Package pdftex.def Info: ./figs/sporsmal23.pdf, page4 used on input line 15.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [148 <C:/Users/Esther/Project/Project_report/figs/sporsmal23.pdf>]
 <./figs/sporsmal23.pdf, id=1978, page=5, 597.55246pt x 845.07718pt>
+=======
+ [148 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal23.pdf>]
+<./figs/sporsmal23.pdf, id=1964, page=5, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal23.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal23.pdf, page 5>
@@ -4347,8 +4931,13 @@ File: ./figs/sporsmal23.pdf Graphic file (type pdf)
 <use ./figs/sporsmal23.pdf, page 5>
 Package pdftex.def Info: ./figs/sporsmal23.pdf, page5 used on input line 15.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [149 <C:/Users/Esther/Project/Project_report/figs/sporsmal23.pdf>]
 <./figs/sporsmal23.pdf, id=1985, page=6, 597.55246pt x 845.07718pt>
+=======
+ [149 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal23.pdf>]
+<./figs/sporsmal23.pdf, id=1971, page=6, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal23.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal23.pdf, page 6>
@@ -4363,8 +4952,13 @@ File: ./figs/sporsmal23.pdf Graphic file (type pdf)
 <use ./figs/sporsmal23.pdf, page 6>
 Package pdftex.def Info: ./figs/sporsmal23.pdf, page6 used on input line 15.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [150 <C:/Users/Esther/Project/Project_report/figs/sporsmal23.pdf>]
 <./figs/sporsmal23.pdf, id=1991, page=7, 597.55246pt x 845.07718pt>
+=======
+ [150 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal23.pdf>]
+<./figs/sporsmal23.pdf, id=1977, page=7, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal23.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal23.pdf, page 7>
@@ -4379,8 +4973,13 @@ File: ./figs/sporsmal23.pdf Graphic file (type pdf)
 <use ./figs/sporsmal23.pdf, page 7>
 Package pdftex.def Info: ./figs/sporsmal23.pdf, page7 used on input line 15.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [151 <C:/Users/Esther/Project/Project_report/figs/sporsmal23.pdf>]
 <./figs/sporsmal23.pdf, id=1997, page=8, 597.55246pt x 845.07718pt>
+=======
+ [151 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal23.pdf>]
+<./figs/sporsmal23.pdf, id=1983, page=8, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal23.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal23.pdf, page 8>
@@ -4395,8 +4994,13 @@ File: ./figs/sporsmal23.pdf Graphic file (type pdf)
 <use ./figs/sporsmal23.pdf, page 8>
 Package pdftex.def Info: ./figs/sporsmal23.pdf, page8 used on input line 15.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [152 <C:/Users/Esther/Project/Project_report/figs/sporsmal23.pdf>]
 <./figs/sporsmal23.pdf, id=2003, page=9, 597.55246pt x 845.07718pt>
+=======
+ [152 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal23.pdf>]
+<./figs/sporsmal23.pdf, id=1989, page=9, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal23.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal23.pdf, page 9>
@@ -4411,8 +5015,13 @@ File: ./figs/sporsmal23.pdf Graphic file (type pdf)
 <use ./figs/sporsmal23.pdf, page 9>
 Package pdftex.def Info: ./figs/sporsmal23.pdf, page9 used on input line 15.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [153 <C:/Users/Esther/Project/Project_report/figs/sporsmal23.pdf>]
 <./figs/sporsmal23.pdf, id=2009, page=10, 597.55246pt x 845.07718pt>
+=======
+ [153 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal23.pdf>]
+<./figs/sporsmal23.pdf, id=1995, page=10, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal23.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal23.pdf, page 10>
@@ -4427,8 +5036,13 @@ File: ./figs/sporsmal23.pdf Graphic file (type pdf)
 <use ./figs/sporsmal23.pdf, page 10>
 Package pdftex.def Info: ./figs/sporsmal23.pdf, page10 used on input line 15.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [154 <C:/Users/Esther/Project/Project_report/figs/sporsmal23.pdf>]
 <./figs/sporsmal23.pdf, id=2015, page=11, 597.55246pt x 845.07718pt>
+=======
+ [154 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal23.pdf>]
+<./figs/sporsmal23.pdf, id=2001, page=11, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal23.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal23.pdf, page 11>
@@ -4443,8 +5057,13 @@ File: ./figs/sporsmal23.pdf Graphic file (type pdf)
 <use ./figs/sporsmal23.pdf, page 11>
 Package pdftex.def Info: ./figs/sporsmal23.pdf, page11 used on input line 15.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [155 <C:/Users/Esther/Project/Project_report/figs/sporsmal23.pdf>]
 <./figs/sporsmal23.pdf, id=2023, page=12, 597.55246pt x 845.07718pt>
+=======
+ [155 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal23.pdf>]
+<./figs/sporsmal23.pdf, id=2009, page=12, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal23.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal23.pdf, page 12>
@@ -4459,8 +5078,13 @@ File: ./figs/sporsmal23.pdf Graphic file (type pdf)
 <use ./figs/sporsmal23.pdf, page 12>
 Package pdftex.def Info: ./figs/sporsmal23.pdf, page12 used on input line 15.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [156 <C:/Users/Esther/Project/Project_report/figs/sporsmal23.pdf>]
 <./figs/sporsmal23.pdf, id=2029, page=13, 597.55246pt x 845.07718pt>
+=======
+ [156 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal23.pdf>]
+<./figs/sporsmal23.pdf, id=2015, page=13, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal23.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal23.pdf, page 13>
@@ -4475,8 +5099,13 @@ File: ./figs/sporsmal23.pdf Graphic file (type pdf)
 <use ./figs/sporsmal23.pdf, page 13>
 Package pdftex.def Info: ./figs/sporsmal23.pdf, page13 used on input line 15.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [157 <C:/Users/Esther/Project/Project_report/figs/sporsmal23.pdf>]
 <./figs/sporsmal24.pdf, id=2035, 597.55246pt x 845.07718pt>
+=======
+ [157 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal23.pdf>]
+<./figs/sporsmal24.pdf, id=2021, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal24.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal24.pdf>
@@ -4501,7 +5130,7 @@ File: ./figs/sporsmal24.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal24.pdf used on input line 16.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
-<./figs/sporsmal24.pdf, id=2041, page=1, 597.55246pt x 845.07718pt>
+<./figs/sporsmal24.pdf, id=2027, page=1, 597.55246pt x 845.07718pt>
 File: ./figs/sporsmal24.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal24.pdf, page 1>
@@ -4525,8 +5154,13 @@ File: ./figs/sporsmal24.pdf Graphic file (type pdf)
 <use ./figs/sporsmal24.pdf, page 1>
 Package pdftex.def Info: ./figs/sporsmal24.pdf, page1 used on input line 16.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [158 <C:/Users/Esther/Project/Project_report/figs/sporsmal24.pdf>]
 <./figs/sporsmal24.pdf, id=2052, page=2, 597.55246pt x 845.07718pt>
+=======
+ [158 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal24.pdf>]
+<./figs/sporsmal24.pdf, id=2038, page=2, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal24.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal24.pdf, page 2>
@@ -4541,8 +5175,13 @@ File: ./figs/sporsmal24.pdf Graphic file (type pdf)
 <use ./figs/sporsmal24.pdf, page 2>
 Package pdftex.def Info: ./figs/sporsmal24.pdf, page2 used on input line 16.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [159 <C:/Users/Esther/Project/Project_report/figs/sporsmal24.pdf>]
 <./figs/sporsmal24.pdf, id=2058, page=3, 597.55246pt x 845.07718pt>
+=======
+ [159 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal24.pdf>]
+<./figs/sporsmal24.pdf, id=2044, page=3, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal24.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal24.pdf, page 3>
@@ -4557,8 +5196,13 @@ File: ./figs/sporsmal24.pdf Graphic file (type pdf)
 <use ./figs/sporsmal24.pdf, page 3>
 Package pdftex.def Info: ./figs/sporsmal24.pdf, page3 used on input line 16.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [160 <C:/Users/Esther/Project/Project_report/figs/sporsmal24.pdf>]
 <./figs/sporsmal24.pdf, id=2064, page=4, 597.55246pt x 845.07718pt>
+=======
+ [160 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal24.pdf>]
+<./figs/sporsmal24.pdf, id=2050, page=4, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal24.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal24.pdf, page 4>
@@ -4573,12 +5217,21 @@ File: ./figs/sporsmal24.pdf Graphic file (type pdf)
 <use ./figs/sporsmal24.pdf, page 4>
 Package pdftex.def Info: ./figs/sporsmal24.pdf, page4 used on input line 16.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [161 <C:/Users/Esther/Project/Project_report/figs/sporsmal24.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal25-30.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.
 5> allowed
 <./figs/sporsmal25-30.pdf, id=2075, 614.295pt x 794.97pt>
+=======
+ [161 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal24.pdf>]
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal25-30.pdf): PDF inclusion: found PDF version <1.7>, but at most version
+ <1.5> allowed
+<./figs/sporsmal25-30.pdf, id=2061, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal25-30.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal25-30.pdf>
@@ -4645,10 +5298,17 @@ smal25-30.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.
 5> allowed
 
 
+<<<<<<< HEAD
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal25-30.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.
 5> allowed
 <./figs/sporsmal25-30.pdf, id=2083, page=1, 614.295pt x 794.97pt>
+=======
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal25-30.pdf): PDF inclusion: found PDF version <1.7>, but at most version
+ <1.5> allowed
+<./figs/sporsmal25-30.pdf, id=2069, page=1, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal25-30.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal25-30.pdf, page 1>
@@ -4677,12 +5337,21 @@ File: ./figs/sporsmal25-30.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal25-30.pdf, page1 used on input line 17.
 
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [162 <C:/Users/Esther/Project/Project_report/figs/sporsmal25-30.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal25-30.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.
 5> allowed
 <./figs/sporsmal25-30.pdf, id=2109, page=2, 614.295pt x 794.97pt>
+=======
+ [162 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal25-30.pdf>]
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal25-30.pdf): PDF inclusion: found PDF version <1.7>, but at most version
+ <1.5> allowed
+<./figs/sporsmal25-30.pdf, id=2095, page=2, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal25-30.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal25-30.pdf, page 2>
@@ -4700,12 +5369,21 @@ File: ./figs/sporsmal25-30.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal25-30.pdf, page2 used on input line 17.
 
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [163 <C:/Users/Esther/Project/Project_report/figs/sporsmal25-30.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal25-30.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.
 5> allowed
 <./figs/sporsmal25-30.pdf, id=2114, page=3, 614.295pt x 794.97pt>
+=======
+ [163 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal25-30.pdf>]
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal25-30.pdf): PDF inclusion: found PDF version <1.7>, but at most version
+ <1.5> allowed
+<./figs/sporsmal25-30.pdf, id=2100, page=3, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal25-30.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal25-30.pdf, page 3>
@@ -4723,12 +5401,21 @@ File: ./figs/sporsmal25-30.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal25-30.pdf, page3 used on input line 17.
 
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [164 <C:/Users/Esther/Project/Project_report/figs/sporsmal25-30.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal25-30.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.
 5> allowed
 <./figs/sporsmal25-30.pdf, id=2119, page=4, 614.295pt x 794.97pt>
+=======
+ [164 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal25-30.pdf>]
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal25-30.pdf): PDF inclusion: found PDF version <1.7>, but at most version
+ <1.5> allowed
+<./figs/sporsmal25-30.pdf, id=2105, page=4, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal25-30.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal25-30.pdf, page 4>
@@ -4746,12 +5433,21 @@ File: ./figs/sporsmal25-30.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal25-30.pdf, page4 used on input line 17.
 
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [165 <C:/Users/Esther/Project/Project_report/figs/sporsmal25-30.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal25-30.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.
 5> allowed
 <./figs/sporsmal25-30.pdf, id=2124, page=5, 614.295pt x 794.97pt>
+=======
+ [165 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal25-30.pdf>]
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal25-30.pdf): PDF inclusion: found PDF version <1.7>, but at most version
+ <1.5> allowed
+<./figs/sporsmal25-30.pdf, id=2110, page=5, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal25-30.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal25-30.pdf, page 5>
@@ -4769,12 +5465,21 @@ File: ./figs/sporsmal25-30.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal25-30.pdf, page5 used on input line 17.
 
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [166 <C:/Users/Esther/Project/Project_report/figs/sporsmal25-30.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal25-30.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.
 5> allowed
 <./figs/sporsmal25-30.pdf, id=2129, page=6, 614.295pt x 794.97pt>
+=======
+ [166 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal25-30.pdf>]
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal25-30.pdf): PDF inclusion: found PDF version <1.7>, but at most version
+ <1.5> allowed
+<./figs/sporsmal25-30.pdf, id=2115, page=6, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal25-30.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal25-30.pdf, page 6>
@@ -4792,8 +5497,13 @@ File: ./figs/sporsmal25-30.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal25-30.pdf, page6 used on input line 17.
 
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [167 <C:/Users/Esther/Project/Project_report/figs/sporsmal25-30.pdf>]
 <./figs/sporsmal31.pdf, id=2135, 597.55246pt x 845.07718pt>
+=======
+ [167 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal25-30.pdf>]
+<./figs/sporsmal31.pdf, id=2121, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal31.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal31.pdf>
@@ -4831,7 +5541,7 @@ File: ./figs/sporsmal31.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal31.pdf used on input line 18.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
-<./figs/sporsmal31.pdf, id=2144, page=1, 597.55246pt x 845.07718pt>
+<./figs/sporsmal31.pdf, id=2130, page=1, 597.55246pt x 845.07718pt>
 File: ./figs/sporsmal31.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal31.pdf, page 1>
@@ -4855,8 +5565,13 @@ File: ./figs/sporsmal31.pdf Graphic file (type pdf)
 <use ./figs/sporsmal31.pdf, page 1>
 Package pdftex.def Info: ./figs/sporsmal31.pdf, page1 used on input line 18.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [168 <C:/Users/Esther/Project/Project_report/figs/sporsmal31.pdf>]
 <./figs/sporsmal31.pdf, id=2159, page=2, 597.55246pt x 845.07718pt>
+=======
+ [168 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal31.pdf>]
+<./figs/sporsmal31.pdf, id=2145, page=2, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal31.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal31.pdf, page 2>
@@ -4871,8 +5586,13 @@ File: ./figs/sporsmal31.pdf Graphic file (type pdf)
 <use ./figs/sporsmal31.pdf, page 2>
 Package pdftex.def Info: ./figs/sporsmal31.pdf, page2 used on input line 18.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [169 <C:/Users/Esther/Project/Project_report/figs/sporsmal31.pdf>]
 <./figs/sporsmal31.pdf, id=2165, page=3, 597.55246pt x 845.07718pt>
+=======
+ [169 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal31.pdf>]
+<./figs/sporsmal31.pdf, id=2151, page=3, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal31.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal31.pdf, page 3>
@@ -4887,8 +5607,13 @@ File: ./figs/sporsmal31.pdf Graphic file (type pdf)
 <use ./figs/sporsmal31.pdf, page 3>
 Package pdftex.def Info: ./figs/sporsmal31.pdf, page3 used on input line 18.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [170 <C:/Users/Esther/Project/Project_report/figs/sporsmal31.pdf>]
 <./figs/sporsmal31.pdf, id=2171, page=4, 597.55246pt x 845.07718pt>
+=======
+ [170 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal31.pdf>]
+<./figs/sporsmal31.pdf, id=2157, page=4, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal31.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal31.pdf, page 4>
@@ -4903,8 +5628,13 @@ File: ./figs/sporsmal31.pdf Graphic file (type pdf)
 <use ./figs/sporsmal31.pdf, page 4>
 Package pdftex.def Info: ./figs/sporsmal31.pdf, page4 used on input line 18.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [171 <C:/Users/Esther/Project/Project_report/figs/sporsmal31.pdf>]
 <./figs/sporsmal31.pdf, id=2177, page=5, 597.55246pt x 845.07718pt>
+=======
+ [171 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal31.pdf>]
+<./figs/sporsmal31.pdf, id=2163, page=5, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal31.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal31.pdf, page 5>
@@ -4919,8 +5649,13 @@ File: ./figs/sporsmal31.pdf Graphic file (type pdf)
 <use ./figs/sporsmal31.pdf, page 5>
 Package pdftex.def Info: ./figs/sporsmal31.pdf, page5 used on input line 18.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [172 <C:/Users/Esther/Project/Project_report/figs/sporsmal31.pdf>]
 <./figs/sporsmal31.pdf, id=2183, page=6, 597.55246pt x 845.07718pt>
+=======
+ [172 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal31.pdf>]
+<./figs/sporsmal31.pdf, id=2169, page=6, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal31.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal31.pdf, page 6>
@@ -4935,8 +5670,13 @@ File: ./figs/sporsmal31.pdf Graphic file (type pdf)
 <use ./figs/sporsmal31.pdf, page 6>
 Package pdftex.def Info: ./figs/sporsmal31.pdf, page6 used on input line 18.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [173 <C:/Users/Esther/Project/Project_report/figs/sporsmal31.pdf>]
 <./figs/sporsmal31.pdf, id=2190, page=7, 597.55246pt x 845.07718pt>
+=======
+ [173 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal31.pdf>]
+<./figs/sporsmal31.pdf, id=2176, page=7, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal31.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal31.pdf, page 7>
@@ -4951,12 +5691,21 @@ File: ./figs/sporsmal31.pdf Graphic file (type pdf)
 <use ./figs/sporsmal31.pdf, page 7>
 Package pdftex.def Info: ./figs/sporsmal31.pdf, page7 used on input line 18.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [174 <C:/Users/Esther/Project/Project_report/figs/sporsmal31.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal32-35.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.
 5> allowed
 <./figs/sporsmal32-35.pdf, id=2196, 614.295pt x 794.97pt>
+=======
+ [174 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal31.pdf>]
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal32-35.pdf): PDF inclusion: found PDF version <1.7>, but at most version
+ <1.5> allowed
+<./figs/sporsmal32-35.pdf, id=2182, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal32-35.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal32-35.pdf>
@@ -5005,10 +5754,17 @@ smal32-35.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.
 5> allowed
 
 
+<<<<<<< HEAD
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal32-35.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.
 5> allowed
 <./figs/sporsmal32-35.pdf, id=2202, page=1, 614.295pt x 794.97pt>
+=======
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal32-35.pdf): PDF inclusion: found PDF version <1.7>, but at most version
+ <1.5> allowed
+<./figs/sporsmal32-35.pdf, id=2188, page=1, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal32-35.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal32-35.pdf, page 1>
@@ -5037,12 +5793,21 @@ File: ./figs/sporsmal32-35.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal32-35.pdf, page1 used on input line 19.
 
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [175 <C:/Users/Esther/Project/Project_report/figs/sporsmal32-35.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal32-35.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.
 5> allowed
 <./figs/sporsmal32-35.pdf, id=2222, page=2, 614.295pt x 794.97pt>
+=======
+ [175 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal32-35.pdf>]
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal32-35.pdf): PDF inclusion: found PDF version <1.7>, but at most version
+ <1.5> allowed
+<./figs/sporsmal32-35.pdf, id=2208, page=2, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal32-35.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal32-35.pdf, page 2>
@@ -5060,12 +5825,21 @@ File: ./figs/sporsmal32-35.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal32-35.pdf, page2 used on input line 19.
 
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [176 <C:/Users/Esther/Project/Project_report/figs/sporsmal32-35.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal32-35.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.
 5> allowed
 <./figs/sporsmal32-35.pdf, id=2227, page=3, 614.295pt x 794.97pt>
+=======
+ [176 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal32-35.pdf>]
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal32-35.pdf): PDF inclusion: found PDF version <1.7>, but at most version
+ <1.5> allowed
+<./figs/sporsmal32-35.pdf, id=2213, page=3, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal32-35.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal32-35.pdf, page 3>
@@ -5083,12 +5857,21 @@ File: ./figs/sporsmal32-35.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal32-35.pdf, page3 used on input line 19.
 
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [177 <C:/Users/Esther/Project/Project_report/figs/sporsmal32-35.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal32-35.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.
 5> allowed
 <./figs/sporsmal32-35.pdf, id=2232, page=4, 614.295pt x 794.97pt>
+=======
+ [177 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal32-35.pdf>]
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal32-35.pdf): PDF inclusion: found PDF version <1.7>, but at most version
+ <1.5> allowed
+<./figs/sporsmal32-35.pdf, id=2218, page=4, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal32-35.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal32-35.pdf, page 4>
@@ -5106,8 +5889,13 @@ File: ./figs/sporsmal32-35.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal32-35.pdf, page4 used on input line 19.
 
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [178 <C:/Users/Esther/Project/Project_report/figs/sporsmal32-35.pdf>]
 <./figs/sporsmal36.pdf, id=2237, 597.55246pt x 845.07718pt>
+=======
+ [178 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal32-35.pdf>]
+<./figs/sporsmal36.pdf, id=2223, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal36.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal36.pdf>
@@ -5136,7 +5924,7 @@ File: ./figs/sporsmal36.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal36.pdf used on input line 20.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
-<./figs/sporsmal36.pdf, id=2244, page=1, 597.55246pt x 845.07718pt>
+<./figs/sporsmal36.pdf, id=2230, page=1, 597.55246pt x 845.07718pt>
 File: ./figs/sporsmal36.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal36.pdf, page 1>
@@ -5160,8 +5948,13 @@ File: ./figs/sporsmal36.pdf Graphic file (type pdf)
 <use ./figs/sporsmal36.pdf, page 1>
 Package pdftex.def Info: ./figs/sporsmal36.pdf, page1 used on input line 20.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [179 <C:/Users/Esther/Project/Project_report/figs/sporsmal36.pdf>]
 <./figs/sporsmal36.pdf, id=2262, page=2, 597.55246pt x 845.07718pt>
+=======
+ [179 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal36.pdf>]
+<./figs/sporsmal36.pdf, id=2248, page=2, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal36.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal36.pdf, page 2>
@@ -5176,8 +5969,13 @@ File: ./figs/sporsmal36.pdf Graphic file (type pdf)
 <use ./figs/sporsmal36.pdf, page 2>
 Package pdftex.def Info: ./figs/sporsmal36.pdf, page2 used on input line 20.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [180 <C:/Users/Esther/Project/Project_report/figs/sporsmal36.pdf>]
 <./figs/sporsmal36.pdf, id=2268, page=3, 597.55246pt x 845.07718pt>
+=======
+ [180 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal36.pdf>]
+<./figs/sporsmal36.pdf, id=2254, page=3, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal36.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal36.pdf, page 3>
@@ -5192,8 +5990,13 @@ File: ./figs/sporsmal36.pdf Graphic file (type pdf)
 <use ./figs/sporsmal36.pdf, page 3>
 Package pdftex.def Info: ./figs/sporsmal36.pdf, page3 used on input line 20.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [181 <C:/Users/Esther/Project/Project_report/figs/sporsmal36.pdf>]
 <./figs/sporsmal36.pdf, id=2274, page=4, 597.55246pt x 845.07718pt>
+=======
+ [181 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal36.pdf>]
+<./figs/sporsmal36.pdf, id=2260, page=4, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal36.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal36.pdf, page 4>
@@ -5208,8 +6011,13 @@ File: ./figs/sporsmal36.pdf Graphic file (type pdf)
 <use ./figs/sporsmal36.pdf, page 4>
 Package pdftex.def Info: ./figs/sporsmal36.pdf, page4 used on input line 20.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [182 <C:/Users/Esther/Project/Project_report/figs/sporsmal36.pdf>]
 <./figs/sporsmal36.pdf, id=2280, page=5, 597.55246pt x 845.07718pt>
+=======
+ [182 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal36.pdf>]
+<./figs/sporsmal36.pdf, id=2266, page=5, 597.55246pt x 845.07718pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal36.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal36.pdf, page 5>
@@ -5224,12 +6032,21 @@ File: ./figs/sporsmal36.pdf Graphic file (type pdf)
 <use ./figs/sporsmal36.pdf, page 5>
 Package pdftex.def Info: ./figs/sporsmal36.pdf, page5 used on input line 20.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+<<<<<<< HEAD
  [183 <C:/Users/Esther/Project/Project_report/figs/sporsmal36.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal37part1.pdf): PDF inclusion: found PDF version <1.7>, but at most version <
 1.5> allowed
 <./figs/sporsmal37part1.pdf, id=2286, 614.295pt x 794.97pt>
+=======
+ [183 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal36.pdf>]
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal37part1.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<./figs/sporsmal37part1.pdf, id=2272, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal37part1.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal37part1.pdf>
@@ -5260,10 +6077,17 @@ smal37part1.pdf): PDF inclusion: found PDF version <1.7>, but at most version <
 1.5> allowed
 
 
+<<<<<<< HEAD
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal37part1.pdf): PDF inclusion: found PDF version <1.7>, but at most version <
 1.5> allowed
 <./figs/sporsmal37part1.pdf, id=2290, page=1, 614.295pt x 794.97pt>
+=======
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal37part1.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<./figs/sporsmal37part1.pdf, id=2276, page=1, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal37part1.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal37part1.pdf, page 1>
@@ -5294,12 +6118,21 @@ File: ./figs/sporsmal37part1.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal37part1.pdf, page1 used on input line 2
 1.
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [184 <C:/Users/Esther/Project/Project_report/figs/sporsmal37part1.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal37part1.pdf): PDF inclusion: found PDF version <1.7>, but at most version <
 1.5> allowed
 <./figs/sporsmal37part1.pdf, id=2310, page=2, 614.295pt x 794.97pt>
+=======
+ [184 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal37part1.pdf>]
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal37part1.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<./figs/sporsmal37part1.pdf, id=2296, page=2, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal37part1.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal37part1.pdf, page 2>
@@ -5318,12 +6151,21 @@ File: ./figs/sporsmal37part1.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal37part1.pdf, page2 used on input line 2
 1.
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [185 <C:/Users/Esther/Project/Project_report/figs/sporsmal37part1.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal37part2-41.pdf): PDF inclusion: found PDF version <1.7>, but at most versio
 n <1.5> allowed
 <./figs/sporsmal37part2-41.pdf, id=2322, 614.295pt x 794.97pt>
+=======
+ [185 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal37part1.pdf>]
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal37part2-41.pdf): PDF inclusion: found PDF version <1.7>, but at most ve
+rsion <1.5> allowed
+<./figs/sporsmal37part2-41.pdf, id=2308, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal37part2-41.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal37part2-41.pdf>
@@ -5444,10 +6286,17 @@ smal37part2-41.pdf): PDF inclusion: found PDF version <1.7>, but at most versio
 n <1.5> allowed
 
 
+<<<<<<< HEAD
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal37part2-41.pdf): PDF inclusion: found PDF version <1.7>, but at most versio
 n <1.5> allowed
 <./figs/sporsmal37part2-41.pdf, id=2336, page=1, 614.295pt x 794.97pt>
+=======
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal37part2-41.pdf): PDF inclusion: found PDF version <1.7>, but at most ve
+rsion <1.5> allowed
+<./figs/sporsmal37part2-41.pdf, id=2322, page=1, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal37part2-41.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal37part2-41.pdf, page 1>
@@ -5478,12 +6327,22 @@ File: ./figs/sporsmal37part2-41.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal37part2-41.pdf, page1 used on input lin
 e 22.
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [186 <C:/Users/Esther/Project/Project_report/figs/sporsmal37part2-41.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal37part2-41.pdf): PDF inclusion: found PDF version <1.7>, but at most versio
 n <1.5> allowed
 <./figs/sporsmal37part2-41.pdf, id=2356, page=2, 614.295pt x 794.97pt>
+=======
+ [186 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal37part2-41.pdf>]
+
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal37part2-41.pdf): PDF inclusion: found PDF version <1.7>, but at most ve
+rsion <1.5> allowed
+<./figs/sporsmal37part2-41.pdf, id=2342, page=2, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal37part2-41.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal37part2-41.pdf, page 2>
@@ -5502,12 +6361,22 @@ File: ./figs/sporsmal37part2-41.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal37part2-41.pdf, page2 used on input lin
 e 22.
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [187 <C:/Users/Esther/Project/Project_report/figs/sporsmal37part2-41.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal37part2-41.pdf): PDF inclusion: found PDF version <1.7>, but at most versio
 n <1.5> allowed
 <./figs/sporsmal37part2-41.pdf, id=2361, page=3, 614.295pt x 794.97pt>
+=======
+ [187 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal37part2-41.pdf>]
+
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal37part2-41.pdf): PDF inclusion: found PDF version <1.7>, but at most ve
+rsion <1.5> allowed
+<./figs/sporsmal37part2-41.pdf, id=2347, page=3, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal37part2-41.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal37part2-41.pdf, page 3>
@@ -5526,12 +6395,22 @@ File: ./figs/sporsmal37part2-41.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal37part2-41.pdf, page3 used on input lin
 e 22.
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [188 <C:/Users/Esther/Project/Project_report/figs/sporsmal37part2-41.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal37part2-41.pdf): PDF inclusion: found PDF version <1.7>, but at most versio
 n <1.5> allowed
 <./figs/sporsmal37part2-41.pdf, id=2366, page=4, 614.295pt x 794.97pt>
+=======
+ [188 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal37part2-41.pdf>]
+
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal37part2-41.pdf): PDF inclusion: found PDF version <1.7>, but at most ve
+rsion <1.5> allowed
+<./figs/sporsmal37part2-41.pdf, id=2352, page=4, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal37part2-41.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal37part2-41.pdf, page 4>
@@ -5550,12 +6429,22 @@ File: ./figs/sporsmal37part2-41.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal37part2-41.pdf, page4 used on input lin
 e 22.
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [189 <C:/Users/Esther/Project/Project_report/figs/sporsmal37part2-41.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal37part2-41.pdf): PDF inclusion: found PDF version <1.7>, but at most versio
 n <1.5> allowed
 <./figs/sporsmal37part2-41.pdf, id=2371, page=5, 614.295pt x 794.97pt>
+=======
+ [189 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal37part2-41.pdf>]
+
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal37part2-41.pdf): PDF inclusion: found PDF version <1.7>, but at most ve
+rsion <1.5> allowed
+<./figs/sporsmal37part2-41.pdf, id=2357, page=5, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal37part2-41.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal37part2-41.pdf, page 5>
@@ -5574,12 +6463,22 @@ File: ./figs/sporsmal37part2-41.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal37part2-41.pdf, page5 used on input lin
 e 22.
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [190 <C:/Users/Esther/Project/Project_report/figs/sporsmal37part2-41.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal37part2-41.pdf): PDF inclusion: found PDF version <1.7>, but at most versio
 n <1.5> allowed
 <./figs/sporsmal37part2-41.pdf, id=2376, page=6, 614.295pt x 794.97pt>
+=======
+ [190 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal37part2-41.pdf>]
+
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal37part2-41.pdf): PDF inclusion: found PDF version <1.7>, but at most ve
+rsion <1.5> allowed
+<./figs/sporsmal37part2-41.pdf, id=2362, page=6, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal37part2-41.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal37part2-41.pdf, page 6>
@@ -5598,12 +6497,22 @@ File: ./figs/sporsmal37part2-41.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal37part2-41.pdf, page6 used on input lin
 e 22.
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [191 <C:/Users/Esther/Project/Project_report/figs/sporsmal37part2-41.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal37part2-41.pdf): PDF inclusion: found PDF version <1.7>, but at most versio
 n <1.5> allowed
 <./figs/sporsmal37part2-41.pdf, id=2382, page=7, 614.295pt x 794.97pt>
+=======
+ [191 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal37part2-41.pdf>]
+
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal37part2-41.pdf): PDF inclusion: found PDF version <1.7>, but at most ve
+rsion <1.5> allowed
+<./figs/sporsmal37part2-41.pdf, id=2368, page=7, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal37part2-41.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal37part2-41.pdf, page 7>
@@ -5622,12 +6531,22 @@ File: ./figs/sporsmal37part2-41.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal37part2-41.pdf, page7 used on input lin
 e 22.
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [192 <C:/Users/Esther/Project/Project_report/figs/sporsmal37part2-41.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal37part2-41.pdf): PDF inclusion: found PDF version <1.7>, but at most versio
 n <1.5> allowed
 <./figs/sporsmal37part2-41.pdf, id=2387, page=8, 614.295pt x 794.97pt>
+=======
+ [192 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal37part2-41.pdf>]
+
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal37part2-41.pdf): PDF inclusion: found PDF version <1.7>, but at most ve
+rsion <1.5> allowed
+<./figs/sporsmal37part2-41.pdf, id=2373, page=8, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal37part2-41.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal37part2-41.pdf, page 8>
@@ -5646,12 +6565,22 @@ File: ./figs/sporsmal37part2-41.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal37part2-41.pdf, page8 used on input lin
 e 22.
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [193 <C:/Users/Esther/Project/Project_report/figs/sporsmal37part2-41.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal37part2-41.pdf): PDF inclusion: found PDF version <1.7>, but at most versio
 n <1.5> allowed
 <./figs/sporsmal37part2-41.pdf, id=2392, page=9, 614.295pt x 794.97pt>
+=======
+ [193 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal37part2-41.pdf>]
+
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal37part2-41.pdf): PDF inclusion: found PDF version <1.7>, but at most ve
+rsion <1.5> allowed
+<./figs/sporsmal37part2-41.pdf, id=2378, page=9, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal37part2-41.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal37part2-41.pdf, page 9>
@@ -5670,12 +6599,22 @@ File: ./figs/sporsmal37part2-41.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal37part2-41.pdf, page9 used on input lin
 e 22.
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [194 <C:/Users/Esther/Project/Project_report/figs/sporsmal37part2-41.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal37part2-41.pdf): PDF inclusion: found PDF version <1.7>, but at most versio
 n <1.5> allowed
 <./figs/sporsmal37part2-41.pdf, id=2397, page=10, 614.295pt x 794.97pt>
+=======
+ [194 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal37part2-41.pdf>]
+
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal37part2-41.pdf): PDF inclusion: found PDF version <1.7>, but at most ve
+rsion <1.5> allowed
+<./figs/sporsmal37part2-41.pdf, id=2383, page=10, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal37part2-41.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal37part2-41.pdf, page 10>
@@ -5694,12 +6633,22 @@ File: ./figs/sporsmal37part2-41.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal37part2-41.pdf, page10 used on input li
 ne 22.
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [195 <C:/Users/Esther/Project/Project_report/figs/sporsmal37part2-41.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal37part2-41.pdf): PDF inclusion: found PDF version <1.7>, but at most versio
 n <1.5> allowed
 <./figs/sporsmal37part2-41.pdf, id=2402, page=11, 614.295pt x 794.97pt>
+=======
+ [195 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal37part2-41.pdf>]
+
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal37part2-41.pdf): PDF inclusion: found PDF version <1.7>, but at most ve
+rsion <1.5> allowed
+<./figs/sporsmal37part2-41.pdf, id=2388, page=11, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal37part2-41.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal37part2-41.pdf, page 11>
@@ -5718,12 +6667,22 @@ File: ./figs/sporsmal37part2-41.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal37part2-41.pdf, page11 used on input li
 ne 22.
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [196 <C:/Users/Esther/Project/Project_report/figs/sporsmal37part2-41.pdf>]
 
 pdfTeX warning: pdflatex (file C:/Users/Esther/Project/Project_report/figs/spor
 smal37part2-41.pdf): PDF inclusion: found PDF version <1.7>, but at most versio
 n <1.5> allowed
 <./figs/sporsmal37part2-41.pdf, id=2407, page=12, 614.295pt x 794.97pt>
+=======
+ [196 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal37part2-41.pdf>]
+
+
+pdfTeX warning: pdflatex (file C:/Users/Ida Malene/Project/Project_report/figs/
+sporsmal37part2-41.pdf): PDF inclusion: found PDF version <1.7>, but at most ve
+rsion <1.5> allowed
+<./figs/sporsmal37part2-41.pdf, id=2393, page=12, 614.295pt x 794.97pt>
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 File: ./figs/sporsmal37part2-41.pdf Graphic file (type pdf)
 
 <use ./figs/sporsmal37part2-41.pdf, page 12>
@@ -5742,7 +6701,12 @@ File: ./figs/sporsmal37part2-41.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./figs/sporsmal37part2-41.pdf, page12 used on input li
 ne 22.
 (pdftex.def)             Requested size: 501.00687pt x 648.36185pt.
+<<<<<<< HEAD
  [197 <C:/Users/Esther/Project/Project_report/figs/sporsmal37part2-41.pdf>])
+=======
+ [197 <C:/Users/Ida Malene/Project/Project_report/figs/sporsmal37part2-41.pdf>]
+)
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 
 Package glossaries Warning: No \printglossary or \printglossaries found.
 This document will not have a glossary.
@@ -5766,6 +6730,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 117.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 117.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 117.
 Package rerunfilecheck Info: File `main.out' has not changed.
+<<<<<<< HEAD
 (rerunfilecheck)             Checksum: 4266CE2173A1853FDD3AAD2AF2BCB8A0;4837.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 117.
  ) 
@@ -5785,8 +6750,29 @@ nts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
 mes/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.
 pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
 Output written on main.pdf (211 pages, 5967809 bytes).
+=======
+(rerunfilecheck)             Checksum: 5BCC491D83E54252A6A42F78F0E69CC0;4505.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 117.
+ ) 
+Here is how much of TeX's memory you used:
+ 24522 strings out of 493921
+ 371419 string characters out of 3147267
+ 621337 words of memory out of 3000000
+ 26491 multiletter control sequences out of 15000+200000
+ 95452 words of font info for 242 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 58i,18n,92p,2862b,760s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/M
+iKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/u
+hvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/urw/times/utmri8a.pfb>
+Output written on main.pdf (211 pages, 6014331 bytes).
+>>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
 PDF statistics:
- 2535 PDF objects out of 2984 (max. 8388607)
+ 2521 PDF objects out of 2984 (max. 8388607)
  448 named destinations out of 1000 (max. 500000)
- 26633 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 26601 words of extra memory for PDF output out of 29859 (max. 10000000)
 
