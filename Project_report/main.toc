@@ -49,9 +49,9 @@
 \contentsline {subsection}{\numberline {3.1.1}Facebook Settings}{18}{subsection.3.1.1}
 \contentsline {subsubsection}{The settings that exists}{18}{section*.31}
 \contentsline {section}{\numberline {3.2}Default Settings on Facebook}{20}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Development of Default Settings}{21}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.1}Development of Default Settings}{20}{subsection.3.2.1}
 \contentsline {subsection}{\numberline {3.2.2}Default Settings 2013}{28}{subsection.3.2.2}
-\contentsline {paragraph}{Default settings does not preserve privacy}{30}{section*.36}
+\contentsline {subsubsection}{Default settings does not preserve privacy}{30}{section*.36}
 \contentsline {subsection}{\numberline {3.2.3}Default Settings for Teens}{30}{subsection.3.2.3}
 \contentsline {section}{\numberline {3.3}Facebook Features - Impact on Privacy}{32}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}News Feed}{32}{subsection.3.3.1}
@@ -59,15 +59,15 @@
 \contentsline {subsection}{\numberline {3.3.2}Facebook Platform - Apps}{32}{subsection.3.3.2}
 \contentsline {paragraph}{Application permissions.}{33}{section*.41}
 \contentsline {paragraph}{Apps privacy control.}{33}{section*.42}
-\contentsline {subsubsection}{Installing an Application}{34}{section*.43}
+\contentsline {subsubsection}{Installing an Application}{33}{section*.43}
 \contentsline {paragraph}{Installing on a PC.}{34}{section*.45}
-\contentsline {paragraph}{Installing on a mobile phone.}{36}{section*.47}
+\contentsline {paragraph}{Installing on a mobile phone.}{35}{section*.47}
 \contentsline {subsection}{\numberline {3.3.3}Beacon}{36}{subsection.3.3.3}
 \contentsline {paragraph}{}{36}{section*.49}
 \contentsline {subsection}{\numberline {3.3.4}Facebook Connect - "Log in with Facebook"}{38}{subsection.3.3.4}
-\contentsline {subsection}{\numberline {3.3.5}Places}{39}{subsection.3.3.5}
+\contentsline {subsection}{\numberline {3.3.5}Places}{38}{subsection.3.3.5}
 \contentsline {subsection}{\numberline {3.3.6}Timeline}{40}{subsection.3.3.6}
-\contentsline {paragraph}{Privacy concerns regarding Facebook timeline}{41}{section*.53}
+\contentsline {subsubsection}{Privacy concerns regarding Facebook timeline}{40}{section*.53}
 \contentsline {paragraph}{}{41}{section*.55}
 \contentsline {subsection}{\numberline {3.3.7}Graph Search}{42}{subsection.3.3.7}
 \contentsline {subsection}{\numberline {3.3.8}Facebook Removes Search Privacy Setting}{43}{subsection.3.3.8}
@@ -76,19 +76,19 @@
 \contentsline {paragraph}{}{43}{section*.57}
 \contentsline {paragraph}{}{44}{section*.58}
 \contentsline {chapter}{\chapternumberline {4}Construction of the Survey}{45}{chapter.4}
-\contentsline {paragraph}{Constructing the Survey.}{45}{section*.59}
+\contentsline {subsubsection}{Constructing the Survey.}{45}{section*.59}
 \contentsline {paragraph}{}{45}{section*.60}
 \contentsline {section}{\numberline {4.1}Design}{46}{section.4.1}
-\contentsline {paragraph}{Features we used in SurveyMonkey.}{46}{section*.61}
+\contentsline {subsubsection}{Features we used in SurveyMonkey.}{46}{section*.61}
 \contentsline {section}{\numberline {4.2}Survey Structure}{47}{section.4.2}
 \contentsline {subsection}{\numberline {4.2.1}Facebook Usage}{47}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Facebook Privacy: Settings}{47}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.2}Facebook Privacy: Settings}{48}{subsection.4.2.2}
 \contentsline {subsection}{\numberline {4.2.3}Facebook Privacy: Personal Experience}{48}{subsection.4.2.3}
 \contentsline {subsection}{\numberline {4.2.4}Facebook Privacy: Apps}{48}{subsection.4.2.4}
 \contentsline {subsection}{\numberline {4.2.5}Facebook Security: Settings}{50}{subsection.4.2.5}
 \contentsline {subsection}{\numberline {4.2.6}Demographics}{50}{subsection.4.2.6}
-\contentsline {section}{\numberline {4.3}Distributing the Survey}{51}{section.4.3}
-\contentsline {section}{\numberline {4.4}Feedback on the Survey}{53}{section.4.4}
+\contentsline {section}{\numberline {4.3}Distributing the Survey}{52}{section.4.3}
+\contentsline {section}{\numberline {4.4}Feedback on the Survey}{54}{section.4.4}
 \contentsline {chapter}{\chapternumberline {5}Survey Results}{57}{chapter.5}
 \contentsline {paragraph}{}{57}{section*.71}
 \contentsline {section}{\numberline {5.1}Demographics}{57}{section.5.1}
@@ -101,7 +101,7 @@
 \contentsline {subsubsection}{App Awareness}{62}{section*.78}
 \contentsline {subsection}{\numberline {5.3.2}Checks Facebook Privacy/Security Settings "Once a month" or "Once a week or more"}{62}{subsection.5.3.2}
 \contentsline {subsubsection}{App Awareness}{63}{section*.81}
-\contentsline {subsection}{\numberline {5.3.3}Correlation with Hypothesis 1}{64}{subsection.5.3.3}
+\contentsline {subsection}{\numberline {5.3.3}In accordance with Hypothesis 1}{64}{subsection.5.3.3}
 \contentsline {subsubsection}{Activity Level}{64}{section*.82}
 \contentsline {subsubsection}{More Secure Settings for Those Who Check Their Settings More Often?}{65}{section*.83}
 \contentsline {subsubsection}{Considered Changing Settings}{65}{section*.84}
@@ -117,18 +117,13 @@
 \contentsline {subsection}{\numberline {5.5.3}Awareness of the Setting "Apps others use"}{70}{subsection.5.5.3}
 \contentsline {paragraph}{}{70}{section*.96}
 \contentsline {subsection}{\numberline {5.5.4}Many vs. Few Apps}{71}{subsection.5.5.4}
-\contentsline {subsection}{\numberline {5.5.5}Correlation with Hypothesis 2}{73}{subsection.5.5.5}
+\contentsline {subsection}{\numberline {5.5.5}In accordance with with Hypothesis 2}{73}{subsection.5.5.5}
 \contentsline {subsubsection}{Does the Ones With Many Apps Have Less Knowledge About the App Permission Requests?}{73}{section*.99}
 \contentsline {subsubsection}{Awareness of the Setting "Apps others use"}{74}{section*.100}
 \contentsline {subsubsection}{Comparison to Previous Work}{74}{section*.101}
 \contentsline {chapter}{\chapternumberline {6}Conclusion}{77}{chapter.6}
-<<<<<<< HEAD
-\contentsline {section}{\numberline {6.1}Future Work}{80}{section.6.1}
-\contentsline {chapter}{References}{81}{section*.100}
-=======
 \contentsline {subsubsection}{Future Work}{80}{section*.102}
 \contentsline {chapter}{References}{81}{section*.104}
->>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
  \vspace {1em} \noindent \bfseries Appendices\par \vspace {-.5em} 
 \contentsline {appendix}{\chapternumberline {A}The survey}{87}{appendix.A}
 \contentsline {appendix}{\chapternumberline {B}Survey results}{97}{appendix.B}
