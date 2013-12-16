@@ -122,13 +122,8 @@
 \contentsline {subsubsection}{Awareness of the Setting "Apps others use"}{74}{section*.100}
 \contentsline {subsubsection}{Comparison to Previous Work}{74}{section*.101}
 \contentsline {chapter}{\chapternumberline {6}Conclusion}{77}{chapter.6}
-<<<<<<< HEAD
-\contentsline {section}{\numberline {6.1}Future Work}{80}{section.6.1}
-\contentsline {chapter}{References}{81}{section*.100}
-=======
 \contentsline {subsubsection}{Future Work}{80}{section*.102}
 \contentsline {chapter}{References}{81}{section*.104}
->>>>>>> cdd185457e4625f8ba8a989ff178af7bb4f93304
  \vspace {1em} \noindent \bfseries Appendices\par \vspace {-.5em} 
 \contentsline {appendix}{\chapternumberline {A}The survey}{87}{appendix.A}
 \contentsline {appendix}{\chapternumberline {B}Survey results}{97}{appendix.B}
